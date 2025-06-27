@@ -1,0 +1,88 @@
+baseURL = 'https://books.ifcalm.org/'       # 网站基础 URL（用于部署时的绝对路径）
+languageCode = 'zh-cn'                     # 网站默认语言
+defaultContentLanguage = "zh"              # 默认语言标识
+defaultContentLanguageInSubdir = false     # 不使用 /zh/ 前缀
+title = '先秦诸子'                    # 网站标题
+theme = 'paperMod'                         # 主题名称（需放在 themes/ 目录下）
+enableRobotsTXT = true                     # 生成 robots.txt 供搜索引擎识别
+
+[params]
+  env = "production"
+  description = "个人博客"      # 网站描述（用于 SEO）
+  author = "ifcalm"
+  DateFormat = "2006-01-02"
+  ShowReadingTime = false      # 显示文章阅读时间
+  ShowToc = true               # 显示目录（文章右侧或顶部）
+  TocOpen = true               # 默认展开目录
+  ShowShareButtons = false     # 显示社交分享按钮
+  ShowWordCount = false        # 显示字数统计
+  ShowPostNavLinks = true      # 显示上一篇 / 下一篇链接
+  ShowBreadCrumbs = true       # 显示面包屑导航
+  ShowCodeCopyButtons = true
+  defaultTheme = "light"       # 可选值：light, dark, auto, 默认主题
+  disableScrollToTop = false
+
+[taxonomies]                # 分类系统（标签、分类）
+  tag = "tags"
+  category = "categories"
+
+[pagination]
+  pagerSize = 10            # 每页文章数量
+
+
+[params.homeInfoParams]
+  Title = "朋友们，欢迎访问我的博客～"
+  Content = "乱哄哄，你方唱罢我登场，反认他乡是故乡。甚荒唐！"
+
+[params.profileMode]
+  enabled = true             # 启用 profileMode 作为首页样式, 与 homeInfoParams 二选一模式
+  title = "我应该做一件好事，接着在做"
+  subtitle = "不要浪费时间，因为时间过的很快。我已经想不起来第一次闯红灯的时间了，有了第一次，就会有第二次、第三次..."
+
+  # 主图像（通常为浅色模式头像）
+  imageUrl = "/images/2025-avatar.jpg"
+  imageAlt = "我的头像"
+  imageTitle = "头像"
+
+  # 自定义按钮（跳转文章、归档等）
+  buttons = [
+    { name = "博文", url = "/posts/" },
+    { name = "归档", url = "/archives/" },
+    { name = "关于我", url = "/about/" }
+  ]
+
+
+[params.assets]                                 # 静态资源设置
+  favicon = "/favicon/favicon-lss-rounded.ico"  # 网站图标路径
+
+[menu]  # 顶部导航栏菜单配置
+
+  [[menu.main]]
+    identifier = "home"    # 唯一标识符，用于子菜单 parent 引用
+    name = "首页"          # 菜单显示名称
+    url = "/"             # 跳转链接
+    weight = 1            # 排序权重（越小越靠前）
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "博文"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 79
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 89
+
+  [[menu.main]]
+    identifier = "about"
+    name = "关于我"
+    url = "/about/"
+    weight = 99
