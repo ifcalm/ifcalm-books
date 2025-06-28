@@ -2,13 +2,13 @@ baseURL = 'https://books.ifcalm.org/'       # 网站基础 URL（用于部署时
 languageCode = 'zh-cn'                     # 网站默认语言
 defaultContentLanguage = "zh"              # 默认语言标识
 defaultContentLanguageInSubdir = false     # 不使用 /zh/ 前缀
-title = '先秦诸子'                    # 网站标题
+title = '诸子百家'                    # 网站标题
 theme = 'paperMod'                         # 主题名称（需放在 themes/ 目录下）
 enableRobotsTXT = true                     # 生成 robots.txt 供搜索引擎识别
 
 [params]
   env = "production"
-  description = "个人博客"      # 网站描述（用于 SEO）
+  description = "诸子百家"      # 网站描述（用于 SEO）
   author = "ifcalm"
   DateFormat = "2006-01-02"
   ShowReadingTime = false      # 显示文章阅读时间
@@ -36,7 +36,7 @@ enableRobotsTXT = true                     # 生成 robots.txt 供搜索引擎�
 
 [params.profileMode]
   enabled = true             # 启用 profileMode 作为首页样式, 与 homeInfoParams 二选一模式
-  title = "我应该做一件好事，接着在做"
+  title = "人生天地之间，若白驹之过隙，忽然而已"
   subtitle = "不要浪费时间，因为时间过的很快。我已经想不起来第一次闯红灯的时间了，有了第一次，就会有第二次、第三次..."
 
   # 主图像（通常为浅色模式头像）
