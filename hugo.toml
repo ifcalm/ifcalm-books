@@ -31,13 +31,13 @@ enableRobotsTXT = true                     # 生成 robots.txt 供搜索引擎�
 
 
 [params.homeInfoParams]
-  Title = "朋友们，欢迎访问我的博客～"
-  Content = "乱哄哄，你方唱罢我登场，反认他乡是故乡。甚荒唐！"
+  Title = "人生若白驹过隙，忽然而已"
+  Content = "泉涸，鱼相与处于陆，相呴以湿，相濡以沫，不如相忘于江湖。"
 
 [params.profileMode]
   enabled = true             # 启用 profileMode 作为首页样式, 与 homeInfoParams 二选一模式
   title = "人生若白驹过隙，忽然而已"
-  subtitle = "以道观之，物无贵贱；以物观之，自贵而相贱。罪莫大于可欲，祸莫大于不知足。"
+  subtitle = "泉涸，鱼相与处于陆，相呴以湿，相濡以沫，不如相忘于江湖。"
 
   # 主图像（通常为浅色模式头像）
   imageUrl = "/images/avatar.png"
