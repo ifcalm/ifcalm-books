@@ -37,7 +37,7 @@ enableRobotsTXT = true                     # 生成 robots.txt 供搜索引擎�
 [params.profileMode]
   enabled = true             # 启用 profileMode 作为首页样式, 与 homeInfoParams 二选一模式
   title = "人生天地之间，若白驹之过隙，忽然而已"
-  subtitle = "不要浪费时间，因为时间过的很快。我已经想不起来第一次闯红灯的时间了，有了第一次，就会有第二次、第三次..."
+  subtitle = "以道观之，物无贵贱；以物观之，自贵而相贱。罪莫大于可欲，祸莫大于不知足。"
 
   # 主图像（通常为浅色模式头像）
   imageUrl = "/images/2025-avatar.jpg"
@@ -53,7 +53,7 @@ enableRobotsTXT = true                     # 生成 robots.txt 供搜索引擎�
 
 
 [params.assets]                                 # 静态资源设置
-  favicon = "/favicon/favicon-lss-rounded.ico"  # 网站图标路径
+  favicon = "/favicon/favicon.ico"  # 网站图标路径
 
 [menu]  # 顶部导航栏菜单配置
 
