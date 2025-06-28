@@ -40,7 +40,7 @@ enableRobotsTXT = true                     # 生成 robots.txt 供搜索引擎�
   subtitle = "以道观之，物无贵贱；以物观之，自贵而相贱。罪莫大于可欲，祸莫大于不知足。"
 
   # 主图像（通常为浅色模式头像）
-  imageUrl = "/images/books-avatar.png"
+  imageUrl = "/images/avatar.png"
   imageAlt = "我的头像"
   imageTitle = "头像"
 
