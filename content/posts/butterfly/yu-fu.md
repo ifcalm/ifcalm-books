@@ -1,5 +1,5 @@
 ---
-title: "庄子-渔夫(31)"
+title: "庄子-渔夫 (31)"
 date: 2024-10-19
 tags: ["庄子"]
 draft: false

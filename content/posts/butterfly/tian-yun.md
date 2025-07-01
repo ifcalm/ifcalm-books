@@ -1,5 +1,5 @@
 ---
-title: "庄子-天运(14)"
+title: "庄子-天运 (14)"
 date: 2023-06-01
 tags: ["庄子"]
 draft: false

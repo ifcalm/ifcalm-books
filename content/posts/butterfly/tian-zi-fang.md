@@ -1,5 +1,5 @@
 ---
-title: "庄子-田子方(21)"
+title: "庄子-田子方 (21)"
 date: 2024-03-05
 tags: ["庄子"]
 draft: false

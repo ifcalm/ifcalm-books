@@ -1,5 +1,5 @@
 ---
-title: "庄子-养生主(03)"
+title: "庄子-养生主 (03)"
 date: 2021-01-09
 tags: ["庄子"]
 draft: false

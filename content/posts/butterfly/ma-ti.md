@@ -1,5 +1,5 @@
 ---
-title: "庄子-马蹄(09)"
+title: "庄子-马蹄 (09)"
 date: 2022-07-26
 tags: ["庄子"]
 draft: false

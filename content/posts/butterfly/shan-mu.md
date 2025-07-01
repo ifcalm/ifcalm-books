@@ -1,5 +1,5 @@
 ---
-title: "庄子-山木(20)"
+title: "庄子-山木 (20)"
 date: 2024-02-05
 tags: ["庄子"]
 draft: false

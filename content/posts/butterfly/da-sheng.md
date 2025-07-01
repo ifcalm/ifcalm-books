@@ -1,5 +1,5 @@
 ---
-title: "庄子-达生(19)"
+title: "庄子-达生 (19)"
 date: 2024-01-13
 tags: ["庄子"]
 draft: false

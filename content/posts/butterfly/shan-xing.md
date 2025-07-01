@@ -1,5 +1,5 @@
 ---
-title: "庄子-缮性(16)"
+title: "庄子-缮性 (16)"
 date: 2023-07-12
 tags: ["庄子"]
 draft: false

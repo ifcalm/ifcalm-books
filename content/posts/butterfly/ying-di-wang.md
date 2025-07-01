@@ -1,5 +1,5 @@
 ---
-title: "庄子-应帝王(07)"
+title: "庄子-应帝王 (07)"
 date: 2022-01-01
 tags: ["庄子"]
 draft: false

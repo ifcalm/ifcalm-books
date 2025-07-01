@@ -1,5 +1,5 @@
 ---
-title: "庄子-人世间(04)"
+title: "庄子-人世间 (04)"
 date: 2021-09-26
 tags: ["庄子"]
 draft: false

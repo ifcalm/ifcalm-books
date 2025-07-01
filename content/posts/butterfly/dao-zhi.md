@@ -1,5 +1,5 @@
 ---
-title: "庄子-盗跖(29)"
+title: "庄子-盗跖 (29)"
 date: 2024-09-07
 tags: ["庄子"]
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "庄子-徐无鬼(24)"
+title: "庄子-徐无鬼 (24)"
 date: 2024-05-01
 tags: ["庄子"]
 draft: false

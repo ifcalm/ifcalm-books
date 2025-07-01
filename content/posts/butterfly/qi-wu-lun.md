@@ -1,5 +1,5 @@
 ---
-title: "庄子-齐物论(02)"
+title: "庄子-齐物论 (02)"
 date: 2021-01-03
 tags: ["庄子"]
 draft: false

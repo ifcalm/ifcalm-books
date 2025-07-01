@@ -1,5 +1,5 @@
 ---
-title: "庄子-大宗师(06)"
+title: "庄子-大宗师 (06)"
 date: 2021-12-13
 tags: ["庄子"]
 draft: false

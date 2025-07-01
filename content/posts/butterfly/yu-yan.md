@@ -1,5 +1,5 @@
 ---
-title: "庄子-寓言(27)"
+title: "庄子-寓言 (27)"
 date: 2024-08-17
 tags: ["庄子"]
 draft: false

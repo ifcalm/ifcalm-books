@@ -1,5 +1,5 @@
 ---
-title: "庄子-刻意(15)"
+title: "庄子-刻意 (15)"
 date: 2023-06-09
 tags: ["庄子"]
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "庄子-天下(33)"
+title: "庄子-天下 (33)"
 date: 2025-02-27
 tags: ["庄子"]
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "庄子-列御寇(32)"
+title: "庄子-列御寇 (32)"
 date: 2025-01-13
 tags: ["庄子"]
 draft: false

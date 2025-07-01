@@ -1,5 +1,5 @@
 ---
-title: "庄子-说剑(30)"
+title: "庄子-说剑 (30)"
 date: 2024-09-21
 tags: ["庄子"]
 draft: false

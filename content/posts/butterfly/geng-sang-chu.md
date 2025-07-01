@@ -1,5 +1,5 @@
 ---
-title: "庄子-庚桑楚(23)"
+title: "庄子-庚桑楚 (23)"
 date: 2024-04-27
 tags: ["庄子"]
 draft: false
