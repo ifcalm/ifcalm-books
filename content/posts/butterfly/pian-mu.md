@@ -1,5 +1,5 @@
 ---
-title: "庄子-骈拇
+title: "庄子-骈拇"
 date: 2022-04-03
 tags: ["庄子"]
 draft: false
