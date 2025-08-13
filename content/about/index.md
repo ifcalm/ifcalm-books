@@ -2,6 +2,10 @@
 title: "关于我"
 date: 2025-06-07
 layout: "page"  # 使用 PaperMod 提供的干净页面布局
+draft: false
+showToc: false
+tocOpen: false
+ShowShareButtons: false
 ---
 
 ### 从竹简到云端——《诸子百家》数字典藏馆
