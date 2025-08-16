@@ -1,0 +1,11 @@
+---
+title: "孟子-告子"
+date: 2025-08-16
+tags: ["儒家", "孟子"]
+draft: false
+summary: "诗 三百，一言以蔽之，曰 思无邪"
+showToc: true
+tocOpen: false
+ShowShareButtons: false
+---
+
