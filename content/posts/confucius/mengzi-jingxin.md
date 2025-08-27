@@ -1,5 +1,5 @@
 ---
-title: "孟子-尽心"
+title: "孟子-尽心篇"
 date: 2025-08-21
 tags: ["儒家", "孟子"]
 draft: false

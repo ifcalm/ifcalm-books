@@ -1,5 +1,5 @@
 ---
-title: "孟子-告子"
+title: "孟子-告子篇"
 date: 2025-08-18
 tags: ["儒家", "孟子"]
 draft: false
