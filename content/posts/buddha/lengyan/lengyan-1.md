@@ -3,7 +3,7 @@ title: "楞严经 (卷一)"
 date: 2026-02-15
 tags: ["楞严经"]
 draft: false
-summary: "上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑之，不笑不足以为道。"
+summary: "今日乃知虽有多闻，若不修行，与不闻等。如人说食，终不能饱。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
