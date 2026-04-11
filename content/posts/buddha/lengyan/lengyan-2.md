@@ -3,7 +3,7 @@ title: "楞严经 (卷二)"
 date: 2026-02-16
 tags: ["楞严经"]
 draft: false
-summary: "我此无常，变坏之身虽未曾灭，我观现前，念念迁谢，新新不住。如火成灰，渐渐销殒，殒亡不息。决知此身，当从灭尽。"
+summary: "我观现前，念念迁谢，新新不住。如火成灰，渐渐销殒，殒亡不息。决知此身，当从灭尽。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
