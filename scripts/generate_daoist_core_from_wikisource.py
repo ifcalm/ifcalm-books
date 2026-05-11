@@ -217,6 +217,10 @@ def cantongqi_body() -> str:
 
 def wuzhen_body() -> str:
     raw = fetch_raw("悟真篇")
+    # The Wikisource page includes an appended "丹房寶鑑之圖" block before the
+    # actual verse corpus. Keep Zhang Boduan's preface and main poems, but drop
+    # the diagram, vessel descriptions, and fire-timing verses from that block.
+    raw = re.sub(r"\n===丹房寶鑑之圖===.*?\n==七言四韻==", "\n==七言四韻==", raw, flags=re.S)
     body = clean_wikitext(raw)
     body = re.sub(r"^\s*悟真篇注\s*$", "", body, flags=re.M)
     body = re.sub(r"^\s*}\s*", "", body)
