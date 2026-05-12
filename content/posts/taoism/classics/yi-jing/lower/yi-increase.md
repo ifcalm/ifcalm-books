@@ -2,8 +2,6 @@
 title: "易经-益卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/yi-increase/"
 draft: false
 summary: "震下巽上"
 showToc: false

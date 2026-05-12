@@ -3,8 +3,6 @@ title: "黄庭外景经"
 date: 2026-05-11
 weight: 2
 tags: ["道家", "黄庭经"]
-aliases:
-  - "/posts/taoism/huangting-jing/wai-jing/"
 draft: false
 summary: "上有黄庭下关元，后有幽阙前命门。"
 showToc: true

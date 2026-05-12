@@ -2,8 +2,6 @@
 title: "易经-艮卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/gen/"
 draft: false
 summary: "艮下艮上"
 showToc: false

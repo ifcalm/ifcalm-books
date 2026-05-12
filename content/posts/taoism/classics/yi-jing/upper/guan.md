@@ -2,8 +2,6 @@
 title: "易经-觀卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/upper/guan/"
 draft: false
 summary: "alt=䷓ 坤下巽上"
 showToc: false

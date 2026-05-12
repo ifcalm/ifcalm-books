@@ -3,8 +3,6 @@ title: "黄帝阴符经"
 date: 2026-05-11
 weight: 31
 tags: ["道家"]
-aliases:
-  - "/posts/taoism/huangdi-yinfu-jing/"
 draft: false
 summary: "觀天之道，執天之行，盡矣。"
 showToc: true

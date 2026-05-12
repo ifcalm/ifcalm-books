@@ -2,8 +2,6 @@
 title: "易经-剝卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/upper/bo/"
 draft: false
 summary: "坤下艮上"
 showToc: false

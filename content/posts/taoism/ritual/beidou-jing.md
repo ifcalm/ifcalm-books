@@ -3,8 +3,6 @@ title: "太上玄灵北斗本命延生真经"
 date: 2026-05-12
 weight: 44
 tags: ["道家"]
-aliases:
-  - "/posts/taoism/beidou-jing/"
 draft: false
 summary: "人身难得，中土难生。"
 showToc: true

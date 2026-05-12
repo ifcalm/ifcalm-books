@@ -2,8 +2,6 @@
 title: "易经-豐卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/feng/"
 draft: false
 summary: "離下震上"
 showToc: false

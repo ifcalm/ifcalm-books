@@ -2,8 +2,6 @@
 title: "易经-夬卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/guai/"
 draft: false
 summary: "乾下兌上"
 showToc: false

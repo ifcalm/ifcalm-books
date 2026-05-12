@@ -3,8 +3,6 @@ title: "列子-力命篇"
 date: 2025-09-13
 weight: 6
 tags: ["道家", "列子"]
-aliases:
-  - "/posts/taoism/liezi/liming/"
 draft: false
 summary: "信命者，亡寿夭；信理者，亡是非；信心者，亡逆顺；信性者，亡安危。"
 showToc: false

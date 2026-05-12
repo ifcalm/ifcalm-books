@@ -2,8 +2,6 @@
 title: "易经-大壯卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/dazhuang/"
 draft: false
 summary: "乾下震上"
 showToc: false

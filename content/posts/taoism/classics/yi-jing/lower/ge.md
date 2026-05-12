@@ -2,8 +2,6 @@
 title: "易经-革卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/ge/"
 draft: false
 summary: "離下兌上"
 showToc: false

@@ -3,8 +3,6 @@ title: "列子-黄帝篇"
 date: 2025-09-13
 weight: 2
 tags: ["道家", "列子"]
-aliases:
-  - "/posts/taoism/liezi/huangdi/"
 draft: false
 summary: "死生惊惧，不入乎其胸，是故遌物而不慑。"
 showToc: false

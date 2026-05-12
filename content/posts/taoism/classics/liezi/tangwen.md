@@ -3,8 +3,6 @@ title: "列子-汤问篇"
 date: 2025-09-13
 weight: 5
 tags: ["道家", "列子"]
-aliases:
-  - "/posts/taoism/liezi/tangwen/"
 draft: false
 summary: "子子孙孙，无穷匮也；而山不加增，何苦而不平？"
 showToc: false

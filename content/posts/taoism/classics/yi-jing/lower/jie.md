@@ -2,8 +2,6 @@
 title: "易经-節卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/jie/"
 draft: false
 summary: "兌下坎上"
 showToc: false

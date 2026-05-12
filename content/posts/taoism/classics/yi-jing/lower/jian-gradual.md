@@ -2,8 +2,6 @@
 title: "易经-漸卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/jian-gradual/"
 draft: false
 summary: "艮下巽上"
 showToc: false

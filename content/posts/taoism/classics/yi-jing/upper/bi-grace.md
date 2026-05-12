@@ -2,8 +2,6 @@
 title: "易经-賁卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/upper/bi-grace/"
 draft: false
 summary: "離下艮上"
 showToc: false

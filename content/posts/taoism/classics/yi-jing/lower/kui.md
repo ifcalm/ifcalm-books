@@ -2,8 +2,6 @@
 title: "易经-睽卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/kui/"
 draft: false
 summary: "兌下離上"
 showToc: false

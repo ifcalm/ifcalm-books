@@ -2,8 +2,6 @@
 title: "易经-旅卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/lv-travel/"
 draft: false
 summary: "艮下離上"
 showToc: false

@@ -2,8 +2,6 @@
 title: "易经-无妄卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/upper/wuwang/"
 draft: false
 summary: "震下乾上"
 showToc: false
