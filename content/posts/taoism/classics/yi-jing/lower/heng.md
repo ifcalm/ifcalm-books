@@ -2,8 +2,6 @@
 title: "易经-恆卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/heng/"
 draft: false
 summary: "巽下震上"
 showToc: false

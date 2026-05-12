@@ -2,8 +2,6 @@
 title: "易经-訟卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/upper/song/"
 draft: false
 summary: "坎下乾上"
 showToc: false

@@ -3,8 +3,6 @@ title: "太上老君外日用妙经"
 date: 2026-05-12
 weight: 42
 tags: ["道家"]
-aliases:
-  - "/posts/taoism/wai-riyong-jing/"
 draft: false
 summary: "敬天地，重日月。"
 showToc: true

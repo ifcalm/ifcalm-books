@@ -3,8 +3,6 @@ title: "玉皇心印经"
 date: 2026-05-11
 weight: 33
 tags: ["道家"]
-aliases:
-  - "/posts/taoism/yuhuang-xinyin-jing/"
 draft: false
 summary: "上药三品，神与气精。"
 showToc: true

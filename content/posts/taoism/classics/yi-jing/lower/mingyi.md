@@ -2,8 +2,6 @@
 title: "易经-明夷卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/mingyi/"
 draft: false
 summary: "離下坤上"
 showToc: false

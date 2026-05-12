@@ -3,8 +3,6 @@ title: "西升经"
 date: 2026-05-12
 weight: 39
 tags: ["道家"]
-aliases:
-  - "/posts/taoism/xi-sheng-jing/"
 draft: false
 summary: "老君西升，开道竺乾。"
 showToc: true

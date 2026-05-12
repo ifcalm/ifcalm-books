@@ -3,8 +3,6 @@ title: "太上老君内日用妙经"
 date: 2026-05-12
 weight: 41
 tags: ["道家"]
-aliases:
-  - "/posts/taoism/nei-riyong-jing/"
 draft: false
 summary: "夫日用者，饮食则定，禁口独坐。"
 showToc: true

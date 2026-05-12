@@ -2,8 +2,6 @@
 title: "易经-頤卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/upper/yi-nourishment/"
 draft: false
 summary: "震下艮上"
 showToc: false

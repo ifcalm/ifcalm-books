@@ -2,8 +2,6 @@
 title: "易经-解卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/xie/"
 draft: false
 summary: "坎下震上"
 showToc: false

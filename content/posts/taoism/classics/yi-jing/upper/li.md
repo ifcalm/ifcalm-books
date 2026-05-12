@@ -2,8 +2,6 @@
 title: "易经-離卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/upper/li/"
 draft: false
 summary: "離下離上"
 showToc: false

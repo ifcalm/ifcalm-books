@@ -2,8 +2,6 @@
 title: "易经-屯卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/upper/tun/"
 draft: false
 summary: "震下坎上"
 showToc: false

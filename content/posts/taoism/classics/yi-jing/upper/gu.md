@@ -2,8 +2,6 @@
 title: "易经-蠱卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/upper/gu/"
 draft: false
 summary: "alt=䷑ 巽下艮上"
 showToc: false

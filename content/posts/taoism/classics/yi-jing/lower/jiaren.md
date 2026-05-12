@@ -2,8 +2,6 @@
 title: "易经-家人卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/jiaren/"
 draft: false
 summary: "離下巽上"
 showToc: false

@@ -3,8 +3,6 @@ title: "太上老君说常清静经"
 date: 2026-05-11
 weight: 32
 tags: ["道家"]
-aliases:
-  - "/posts/taoism/qingjing-jing/"
 draft: false
 summary: "人能常清静，天地悉皆归。"
 showToc: true

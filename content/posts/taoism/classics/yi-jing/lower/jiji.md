@@ -2,8 +2,6 @@
 title: "易经-既濟卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/jiji/"
 draft: false
 summary: "離下坎上"
 showToc: false

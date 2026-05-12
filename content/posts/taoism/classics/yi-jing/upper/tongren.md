@@ -2,8 +2,6 @@
 title: "易经-同人卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/upper/tongren/"
 draft: false
 summary: "alt=䷌ 離下乾上"
 showToc: false

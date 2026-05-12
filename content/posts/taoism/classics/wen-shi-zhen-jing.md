@@ -3,8 +3,6 @@ title: "文始真经"
 date: 2026-05-11
 weight: 36
 tags: ["道家"]
-aliases:
-  - "/posts/taoism/wen-shi-zhen-jing/"
 draft: false
 summary: "非有道不可言，不可言即道。"
 showToc: true

@@ -2,8 +2,6 @@
 title: "易经-困卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/kun-exhaustion/"
 draft: false
 summary: "alt=䷮ 坎下兌上"
 showToc: false

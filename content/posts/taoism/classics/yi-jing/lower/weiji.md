@@ -2,8 +2,6 @@
 title: "易经-未濟卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/weiji/"
 draft: false
 summary: "坎下離上"
 showToc: false

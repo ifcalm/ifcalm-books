@@ -3,8 +3,6 @@ title: "黄庭内景经"
 date: 2026-05-11
 weight: 1
 tags: ["道家", "黄庭经"]
-aliases:
-  - "/posts/taoism/huangting-jing/nei-jing/"
 draft: false
 summary: "上清紫霞虚皇前，太上大道玉晨君。"
 showToc: true

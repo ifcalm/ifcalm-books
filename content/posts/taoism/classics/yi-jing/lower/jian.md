@@ -2,8 +2,6 @@
 title: "易经-蹇卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/jian/"
 draft: false
 summary: "艮下坎上"
 showToc: false

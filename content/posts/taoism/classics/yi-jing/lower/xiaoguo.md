@@ -2,8 +2,6 @@
 title: "易经-小過卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/lower/xiaoguo/"
 draft: false
 summary: "艮下震上"
 showToc: false

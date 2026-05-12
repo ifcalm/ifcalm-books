@@ -3,8 +3,6 @@ title: "黄庭内外景经"
 date: 2026-05-11
 weight: 30
 tags: ["道家", "黄庭经"]
-aliases:
-  - "/posts/taoism/huangting-jing/"
 draft: false
 summary: "道教上清派重要经典，收《黄庭内景经》《黄庭外景经》。"
 showToc: false

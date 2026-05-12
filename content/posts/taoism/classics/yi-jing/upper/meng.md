@@ -2,8 +2,6 @@
 title: "易经-蒙卦"
 date: 2026-05-04
 tags: ["易经"]
-aliases:
-  - "/posts/taoism/yi-jing/upper/meng/"
 draft: false
 summary: "坎下艮上"
 showToc: false
