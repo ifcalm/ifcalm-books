@@ -121,7 +121,7 @@ def convert_headings(text: str) -> str:
 
 
 def baopuzi_17_symbols() -> dict[str, str]:
-    base = "https://img.kanripo.org/daoist/ztdz/hfl/0870"
+    base = "/images/taoism/baopuzi-neipian/dengshe"
 
     def image_block(label: str, pages: list[int]) -> str:
         return "\n\n".join(
@@ -147,7 +147,7 @@ def add_baopuzi_17_images(body: str) -> str:
     body = body.replace(
         "（圖片，五張符文）",
         "\n\n".join(
-            f"![禁山符（涵芬楼版第 {page} 页）](https://img.kanripo.org/daoist/ztdz/hfl/0870/0870-{page}.png)"
+            f"![禁山符（涵芬楼版第 {page} 页）](/images/taoism/baopuzi-neipian/dengshe/0870-{page}.png)"
             for page in [126, 127, 128]
         ),
         1,
@@ -156,7 +156,7 @@ def add_baopuzi_17_images(body: str) -> str:
 
 
 def image_block_last_two() -> str:
-    base = "https://img.kanripo.org/daoist/ztdz/hfl/0870"
+    base = "/images/taoism/baopuzi-neipian/dengshe"
     return "\n\n".join(
         f"![陈安世入山辟虎狼符（涵芬楼版第 {page} 页）]({base}/0870-{page}.png)"
         for page in [118, 119]
