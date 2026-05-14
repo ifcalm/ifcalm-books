@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import re
+import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -41,8 +42,17 @@ BAOPUZI_INNER = [
 
 def request(url: str) -> bytes:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=30) as response:
-        return response.read()
+    last_error: Exception | None = None
+    for attempt in range(1, 5):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as response:
+                return response.read()
+        except Exception as error:
+            last_error = error
+            if attempt == 4:
+                break
+            time.sleep(2 * attempt)
+    raise RuntimeError(f"failed to fetch {url}") from last_error
 
 
 def fetch_raw(title: str) -> str:

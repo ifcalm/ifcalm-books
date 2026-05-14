@@ -17,6 +17,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 IMMORTALS_DIR = ROOT / "content" / "posts" / "taoism" / "immortals"
 SHENXIAN_DIR = IMMORTALS_DIR / "shenxian-zhuan"
+XUXIAN_DIR = IMMORTALS_DIR / "xuxian-zhuan"
 YONGCHENG_DIR = IMMORTALS_DIR / "yongcheng-jixian-lu"
 USER_AGENT = "ifcalm-books text collector; contact: https://books.ifcalm.org/"
 
@@ -165,6 +166,104 @@ YONGCHENG_EXPECTED_HEADINGS = {
     "10": ["驪山姥", "楊正見", "董上仙", "謝自然", "戚玄符", "王氏女", "周爰友", "太玄玉女", "薛女真", "玉姜", "江妃二女"],
 }
 
+XUXIAN_EXPECTED_HEADINGS = {
+    "上": [
+        "玄真子",
+        "藍釆和",
+        "朱孺子",
+        "宜君王老",
+        "侯道華",
+        "馬自然",
+        "鄔通微",
+        "許磧",
+        "金可記",
+        "宋玄白",
+        "賀自真",
+        "賣藥翁",
+        "鄧去奢",
+        "謝自然",
+        "裴玄靜",
+        "戚逍遙",
+    ],
+    "中": [
+        "孫思邈",
+        "張果",
+        "許宣平",
+        "劉商",
+        "劉譜",
+        "羅萬象",
+        "李玨",
+        "王可交",
+        "李昇",
+        "葉千韶",
+        "徐釣者",
+        "錢朗",
+    ],
+    "下": ["司馬承禎", "曹德休", "閭丘方遠", "聶師道", "殷文祥", "譚峭", "杜昇", "羊愔"],
+}
+
+DONGXIAN_EXPECTED_HEADINGS = [
+    "元君",
+    "九元子",
+    "長桑公子",
+    "龔仲陽",
+    "上黃先生",
+    "蒲先生",
+    "茅蒙",
+    "常生子",
+    "長存子",
+    "蔡瓊",
+    "張穆子",
+    "童子先生",
+    "九源丈人",
+    "穀希子",
+    "王仲高",
+    "陽生",
+    "西門君惠",
+    "玄都先生",
+    "黃列子",
+    "公孫卿",
+    "蔡長孺",
+    "延明子高",
+    "崔野子",
+    "靈子真",
+    "宛丘先生",
+    "馬榮",
+    "任敦",
+    "敬玄子",
+    "帛舉",
+    "徐道季",
+    "趙叔期",
+    "毛伯道",
+    "莊伯微",
+    "劉道偉",
+    "匡俗",
+    "盧耽",
+    "範豺",
+    "傅先生",
+    "石坦",
+    "鄭思遠",
+    "郭志生",
+    "介琰",
+    "徐福",
+    "車子侯",
+    "蘇耽",
+    "張巨君",
+    "馮伯達",
+    "韓越",
+    "郭璞",
+    "戴孟",
+    "郭文舉",
+    "姚光",
+    "徐彎",
+    "丁令威",
+    "王嘉",
+    "寇謙之",
+    "董幼",
+    "劉丱",
+    "王質",
+]
+
 
 def request_json(url: str) -> dict:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -254,6 +353,7 @@ def clean_wikitext(text: str) -> str:
     text = text.replace("{{SKchar|2641}}", "寄")
     text = text.replace("{{SKchar|3946}}", "錫")
     text = re.sub(r"\{\{[^{}]+\}\}", "", text)
+    text = text.replace("__TOC__", "")
     text = re.sub(r"</?onlyinclude>", "", text)
     text = re.sub(r"</?poem>", "", text)
     text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
@@ -262,6 +362,8 @@ def clean_wikitext(text: str) -> str:
     text = re.sub(r"\[\[([^|\]]+)\]\]", r"\1", text)
     text = re.sub(r"-\{([^{}]+)\}-", r"\1", text)
     text = re.sub(r"'''?", "", text)
+    text = re.sub(r"#\d+", "", text)
+    text = re.sub(r"^續仙傳卷[上中下]竟$", "", text, flags=re.M)
     text = re.sub(r"<[^>]+>", "", text)
     text = text.replace("&nbsp;", " ")
     return normalize_blank_lines(text)
@@ -287,6 +389,15 @@ def headings(text: str) -> list[str]:
     return [
         match.group(2).strip()
         for match in re.finditer(r"^(={2,4})\s*(.*?)\s*\1$", text, flags=re.M)
+        if match.group(2).strip()
+    ]
+
+
+def section_headings(text: str, marks: str) -> list[str]:
+    pattern = rf"^({re.escape(marks)})\s*(.*?)\s*\1$"
+    return [
+        match.group(2).strip()
+        for match in re.finditer(pattern, text, flags=re.M)
         if match.group(2).strip()
     ]
 
@@ -405,6 +516,53 @@ def write_shenxian(raw_pages: dict[str, str]) -> None:
         )
 
 
+def write_xuxian_index() -> None:
+    write_page(
+        XUXIAN_DIR / "_index.md",
+        "续仙传",
+        "唐沈汾撰，三卷，续记神仙传记。",
+        25,
+        "《续仙传》唐沈汾撰，按上、中、下三卷分篇收录。",
+        tags=["道家", "仙传", "续仙传"],
+        show_toc=False,
+    )
+
+
+def xuxian_volume_body(raw: str, volume: str) -> str:
+    next_volume = {"上": "中", "中": "下", "下": None}[volume]
+    start = f"==續仙傳卷{volume}=="
+    if next_volume:
+        end = f"==續仙傳卷{next_volume}=="
+        match = re.search(rf"{re.escape(start)}(.*?){re.escape(end)}", raw, flags=re.S)
+    else:
+        match = re.search(rf"{re.escape(start)}(.*)", raw, flags=re.S)
+    if not match:
+        raise RuntimeError(f"could not extract 續仙傳卷{volume}")
+    body = match.group(1).split(f"續仙傳卷{volume}竟", 1)[0]
+    body = re.sub(r"\n\s*宜君王老\s*\n\s*王老", "\n===宜君王老===\n王老", body)
+    body = clean_wikitext(body)
+    body = re.sub(r"^===\s*(.*?)\s*===$", r"==\1==", body, flags=re.M)
+    return convert_headings(body)
+
+
+def write_xuxian(raw: str) -> None:
+    write_xuxian_index()
+    for index, volume in enumerate(["上", "中", "下"], 1):
+        body = xuxian_volume_body(raw, volume)
+        local_headings = re.findall(r"^###\s+(.+)$", body, flags=re.M)
+        expected = XUXIAN_EXPECTED_HEADINGS[volume]
+        if local_headings != expected:
+            raise RuntimeError(f"unexpected 續仙傳卷{volume} headings: {local_headings}")
+        write_page(
+            XUXIAN_DIR / f"{index:02d}.md",
+            f"续仙传 卷{volume}",
+            f"续仙传卷{volume}。",
+            index,
+            body,
+            tags=["道家", "仙传", "续仙传"],
+        )
+
+
 def write_yongcheng_index() -> None:
     write_page(
         YONGCHENG_DIR / "_index.md",
@@ -447,15 +605,36 @@ def write_yongcheng(raw_pages: dict[str, str]) -> None:
         )
 
 
+def write_dongxian(raw: str) -> None:
+    raw_headings = headings(raw)
+    if raw_headings != DONGXIAN_EXPECTED_HEADINGS:
+        raise RuntimeError(f"unexpected 洞仙傳 headings: {raw_headings}")
+    body = clean_wikitext(raw)
+    body = body.replace("○洞仙傳", "").strip()
+    body = convert_headings(body)
+    write_page(
+        IMMORTALS_DIR / "dongxian-zhuan.md",
+        "洞仙传",
+        "《洞仙传》佚文，今据《云笈七签》卷一百一十所载收录。",
+        40,
+        body,
+        tags=["道家", "仙传", "洞仙传"],
+    )
+
+
 def main() -> None:
     titles = ["列仙傳", "神仙傳"] + [
         f"神仙傳/卷{numeral}" for numeral in SHENXIAN_VOLUME_NUMERALS
-    ] + ["墉城集仙錄序"] + [f"墉城集仙錄/卷{index:02d}" for index in range(1, 11)]
+    ] + ["續仙傳", "雲笈七籤/110", "墉城集仙錄序"] + [
+        f"墉城集仙錄/卷{index:02d}" for index in range(1, 11)
+    ]
     pages = fetch_wikisource_pages(titles)
     write_category_index()
     write_liexian(pages["列仙傳"])
     write_shenxian(pages)
+    write_xuxian(pages["續仙傳"])
     write_yongcheng(pages)
+    write_dongxian(pages["雲笈七籤/110"])
 
 
 if __name__ == "__main__":

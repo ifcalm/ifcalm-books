@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "updated": "2026-05-14",
+  "description": "Daoist canon collection manifest for batch generation and validation.",
+  "collections": [
+    {
+      "id": "liexian-zhuan",
+      "title": "列仙传",
+      "traditional_title": "列仙傳",
+      "category": "immortals",
+      "daozang_class": "洞神部谱录类",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/taoism/immortals/liexian-zhuan.md",
+      "generator": "scripts/generate_taoism_immortals_texts.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/列仙傳",
+        "cross_checks": [
+          "https://ctext.org/lie-xian-zhuan/zh",
+          "https://www.gutenberg.org/ebooks/25414"
+        ]
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 71,
+        "missing_chars": 0
+      },
+      "notes": "70 biographies plus 贊."
+    },
+    {
+      "id": "shenxian-zhuan",
+      "title": "神仙传",
+      "traditional_title": "神仙傳",
+      "category": "immortals",
+      "daozang_class": "洞神部谱录类",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/taoism/immortals/shenxian-zhuan",
+      "generator": "scripts/generate_taoism_immortals_texts.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/神仙傳",
+        "cross_checks": [
+          "https://github.com/kanripo/KR5c0317"
+        ]
+      },
+      "expected": {
+        "content_files": 11,
+        "section_headings": 85,
+        "missing_chars": 0
+      },
+      "notes": "序 plus ten juan; 84 biographies."
+    },
+    {
+      "id": "yongcheng-jixian-lu",
+      "title": "墉城集仙录",
+      "traditional_title": "墉城集仙錄",
+      "category": "immortals",
+      "daozang_class": "洞神部谱录类",
+      "status": "collected",
+      "quality": "C",
+      "target": "content/posts/taoism/immortals/yongcheng-jixian-lu",
+      "generator": "scripts/generate_taoism_immortals_texts.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/墉城集仙錄",
+        "cross_checks": [
+          "https://github.com/kanripo/KR5c0180"
+        ]
+      },
+      "expected": {
+        "content_files": 11,
+        "section_headings": 84,
+        "missing_chars": 82
+      },
+      "notes": "序 plus ten juan. Wikisource private-use missing characters are preserved as □."
+    },
+    {
+      "id": "baopuzi-neipian",
+      "title": "抱朴子内篇",
+      "traditional_title": "抱朴子內篇",
+      "category": "alchemy",
+      "daozang_class": "太清部",
+      "status": "collected",
+      "quality": "C",
+      "target": "content/posts/taoism/alchemy/baopuzi-neipian",
+      "generator": "scripts/generate_taoism_alchemy_texts.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/抱朴子",
+        "cross_checks": []
+      },
+      "expected": {
+        "content_files": 20,
+        "section_headings": null,
+        "missing_chars": 0,
+        "private_use_chars": 2
+      },
+      "notes": "Includes R2-hosted images for 卷十七 登涉. Two historical private-use characters remain for later collation."
+    },
+    {
+      "id": "dongxian-zhuan",
+      "title": "洞仙传",
+      "traditional_title": "洞仙傳",
+      "category": "immortals",
+      "daozang_class": "洞神部谱录类",
+      "status": "collected",
+      "quality": "C",
+      "target": "content/posts/taoism/immortals/dongxian-zhuan.md",
+      "generator": "scripts/generate_taoism_immortals_texts.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/雲笈七籤/110",
+        "cross_checks": [
+          "https://github.com/kanripo/KR5d0055"
+        ]
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 59,
+        "missing_chars": 0
+      },
+      "notes": "Original work is lost; collected from the surviving 洞仙傳 section in 雲笈七籤卷一百一十."
+    },
+    {
+      "id": "xuxian-zhuan",
+      "title": "续仙传",
+      "traditional_title": "續仙傳",
+      "category": "immortals",
+      "daozang_class": "洞神部谱录类",
+      "status": "collected",
+      "quality": "C",
+      "target": "content/posts/taoism/immortals/xuxian-zhuan",
+      "generator": "scripts/generate_taoism_immortals_texts.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/續仙傳",
+        "cross_checks": [
+          "https://zh.wikisource.org/wiki/續仙傳_(四庫全書本)/全覽"
+        ]
+      },
+      "expected": {
+        "content_files": 3,
+        "section_headings": 36,
+        "missing_chars": 0
+      },
+      "notes": "Three juan. The Wikisource punctuated base is 25% text quality; one missing heading, 宜君王老, is restored from the Siku table of contents."
+    },
+    {
+      "id": "jixian-zhuan",
+      "title": "集仙传",
+      "traditional_title": "集仙傳",
+      "category": "immortals",
+      "daozang_class": "洞神部谱录类",
+      "status": "planned",
+      "quality": "uncollected",
+      "target": "content/posts/taoism/immortals/jixian-zhuan",
+      "generator": null,
+      "source": {
+        "primary": null,
+        "primary_url": null,
+        "cross_checks": []
+      },
+      "expected": {
+        "content_files": null,
+        "section_headings": null,
+        "missing_chars": null
+      },
+      "notes": "Needs a stable full-text source before collection."
+    }
+  ]
+}
