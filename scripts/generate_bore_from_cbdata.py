@@ -11,7 +11,7 @@ from pathlib import Path
 
 
 API_URL = "https://cbdata.dila.edu.tw/stable/juans?work=T0220&juan={juan}&work_info=1&toc=1"
-OUT_ROOT = Path(__file__).resolve().parents[1] / "content/posts/buddha/bore"
+OUT_ROOT = Path(__file__).resolve().parents[1] / "content/posts/buddha/bore/da-bore"
 
 
 class CbetaJuanParser(HTMLParser):
@@ -21,6 +21,7 @@ class CbetaJuanParser(HTMLParser):
         self.current = None
         self.capture_depth = 0
         self.skip_stack = []
+        self.div_stack = []
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
@@ -30,6 +31,22 @@ class CbetaJuanParser(HTMLParser):
         self.skip_stack.append(skip)
         if skip:
             return
+
+        if tag == "div":
+            div_kind = None
+            if "lg" in classes:
+                div_kind = "lg"
+            elif "lg-row" in classes:
+                div_kind = "lg-row"
+            self.div_stack.append(div_kind)
+
+            if div_kind == "lg":
+                if self.current is not None:
+                    self._finish_block()
+                self.current = {"type": "verse", "level": None, "parts": []}
+            elif div_kind == "lg-row" and self.current is not None and self.current["type"] == "verse":
+                if self.current["parts"]:
+                    self.current["parts"].append("\n")
 
         if tag == "p":
             if self.current is not None:
@@ -52,6 +69,10 @@ class CbetaJuanParser(HTMLParser):
             return
         if tag == "span" and self.capture_depth:
             self.capture_depth -= 1
+        if tag == "div":
+            div_kind = self.div_stack.pop() if self.div_stack else None
+            if div_kind == "lg" and self.current is not None and self.current["type"] == "verse":
+                self._finish_block()
         if tag == "p" and self.current is not None:
             self._finish_block()
 
@@ -63,7 +84,11 @@ class CbetaJuanParser(HTMLParser):
 
     def _finish_block(self):
         text = "".join(self.current["parts"])
-        text = re.sub(r"\s+", "", text)
+        if self.current["type"] == "verse":
+            lines = [re.sub(r"\s+", "", line) for line in text.splitlines()]
+            text = "\n".join(line for line in lines if line)
+        else:
+            text = re.sub(r"\s+", "", text)
         if text:
             self.blocks.append((self.current["type"], self.current["level"], text))
         self.current = None
@@ -168,6 +193,8 @@ def render_markdown(juan, blocks):
             except ValueError:
                 heading_level = 2
             lines.append("#" * heading_level + " " + text)
+        elif block_type == "verse":
+            lines.append("  \n".join(text.splitlines()))
         else:
             lines.append(text)
         lines.append("")
