@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-05-14",
+  "updated": "2026-05-15",
   "description": "Daoist canon collection manifest for batch generation and validation.",
   "collections": [
     {
@@ -146,6 +146,180 @@
         "missing_chars": 0
       },
       "notes": "Three juan. The Wikisource punctuated base is 25% text quality; one missing heading, 宜君王老, is restored from the Siku table of contents."
+    },
+    {
+      "id": "huashu",
+      "title": "化书",
+      "traditional_title": "化書",
+      "category": "classics",
+      "daozang_class": "太玄部",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/taoism/classics/huashu",
+      "generator": "scripts/generate_taoism_recommended_texts.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/化書",
+        "cross_checks": [
+          "https://ctext.org/wiki.pl?if=gb&res=676201",
+          "https://zh.wikisource.org/wiki/化書_(四庫全書本)"
+        ]
+      },
+      "expected": {
+        "content_files": 6,
+        "section_headings": 110,
+        "missing_chars": 0
+      },
+      "notes": "Six juan. Collected as a standalone classics section."
+    },
+    {
+      "id": "zhengao",
+      "title": "真诰",
+      "traditional_title": "真誥",
+      "category": "shangqing",
+      "daozang_class": "太玄部",
+      "status": "collected",
+      "quality": "C",
+      "target": "content/posts/taoism/shangqing/zhengao",
+      "generator": "scripts/generate_taoism_recommended_texts.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/真誥",
+        "cross_checks": [
+          "https://ctext.org/wiki.pl?if=en&res=211645",
+          "https://zh.wikisource.org/wiki/真誥_(四庫全書本)"
+        ]
+      },
+      "expected": {
+        "content_files": 21,
+        "section_headings": 20,
+        "missing_chars": 25,
+        "private_use_chars": 26
+      },
+      "notes": "Preface plus twenty juan. The rendered base preserves historical lacunae and private-use glyphs from its source transcription."
+    },
+    {
+      "id": "dengzhen-yinjue",
+      "title": "登真隐诀",
+      "traditional_title": "登真隱訣",
+      "category": "shangqing",
+      "daozang_class": "洞神部玉诀类",
+      "status": "collected",
+      "quality": "C",
+      "target": "content/posts/taoism/shangqing/dengzhen-yinjue",
+      "generator": "scripts/generate_taoism_recommended_texts.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/登真隱訣",
+        "cross_checks": [
+          "https://ctext.org/wiki.pl?if=en&res=732347"
+        ]
+      },
+      "expected": {
+        "content_files": 3,
+        "section_headings": 3,
+        "missing_chars": 0
+      },
+      "notes": "Collected as the extant three-juan 正统道藏 recension."
+    },
+    {
+      "id": "zhoushi-mingtongji",
+      "title": "周氏冥通记",
+      "traditional_title": "周氏冥通記",
+      "category": "shangqing",
+      "daozang_class": "太玄部",
+      "status": "collected",
+      "quality": "C",
+      "target": "content/posts/taoism/shangqing/zhoushi-mingtongji",
+      "generator": "scripts/generate_taoism_recommended_texts.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/周氏冥通記",
+        "cross_checks": [
+          "https://ctext.org/wiki.pl?if=en&res=149071"
+        ]
+      },
+      "expected": {
+        "content_files": 4,
+        "section_headings": 5,
+        "missing_chars": 3
+      },
+      "notes": "Four juan; lacuna marks are preserved from the source transcription."
+    },
+    {
+      "id": "longhu-jing",
+      "title": "龙虎经",
+      "traditional_title": "龍虎經",
+      "category": "alchemy",
+      "daozang_class": "太玄部",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/taoism/alchemy/longhu-jing.md",
+      "generator": "scripts/generate_taoism_recommended_texts.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/古文龍虎經註疏",
+        "cross_checks": [
+          "https://ctext.org/wiki.pl?if=gb&res=7155972",
+          "https://zh.wikisource.org/wiki/古文龍虎經注䟽_(四庫全書本)/全覽"
+        ]
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 5,
+        "missing_chars": 0
+      },
+      "notes": "Collected under the received full title 古文龙虎经注疏."
+    },
+    {
+      "id": "taishang-sanguan-baojing",
+      "title": "三官经",
+      "traditional_title": "太上三官寶經",
+      "category": "ritual",
+      "daozang_class": "仪轨类",
+      "status": "collected",
+      "quality": "C",
+      "target": "content/posts/taoism/ritual/taishang-sanguan-baojing.md",
+      "generator": "scripts/generate_taoism_recommended_texts.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/太上三官寶經",
+        "cross_checks": [
+          "https://ctext.org/wiki.pl?chapter=389004&if=en"
+        ]
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 16,
+        "missing_chars": 0
+      },
+      "notes": "Collected as the current liturgical compilation headed 太上三官宝经."
+    },
+    {
+      "id": "yushu-baojing",
+      "title": "玉枢经",
+      "traditional_title": "玉樞寶經",
+      "category": "ritual",
+      "daozang_class": "洞真部本文类",
+      "status": "collected",
+      "quality": "C",
+      "target": "content/posts/taoism/ritual/yushu-baojing.md",
+      "generator": "scripts/generate_taoism_recommended_texts.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/九天應元雷聲普化天尊玉樞寶經",
+        "cross_checks": [
+          "https://ctext.org/wiki.pl?if=gb&res=166191",
+          "https://zh.wikisource.org/wiki/九天應元雷聲普化天尊玉樞寶經集註"
+        ]
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 0,
+        "missing_chars": 0,
+        "private_use_chars": 1
+      },
+      "notes": "Collected under the common short title 玉枢宝经; one source private-use glyph is preserved pending later collation."
     },
     {
       "id": "jixian-zhuan",
