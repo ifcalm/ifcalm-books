@@ -11,7 +11,7 @@ from pathlib import Path
 
 
 API_URL = "https://cbdata.dila.edu.tw/stable/juans?work=T0220&juan={juan}&work_info=1&toc=1"
-OUT_ROOT = Path(__file__).resolve().parents[1] / "content/posts/buddha/bore/da-bore"
+OUT_ROOT = Path(__file__).resolve().parents[1] / "content/posts/buddha/jingzang/bore/da-bore"
 
 
 class CbetaJuanParser(HTMLParser):
