@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate core Huayan supplementary texts from CBETA's stable juan endpoint."""
+"""Generate curated Huayan supplementary texts from CBETA's stable juan endpoint."""
 
 from __future__ import annotations
 
@@ -24,11 +24,23 @@ GROUPS = {
         "intro": "收录华严净行相关别译经典。",
         "weight": 40,
     },
+    "shizhu": {
+        "title": "十住系",
+        "summary": "华严十住相关别译经典。",
+        "intro": "收录华严十住相关别译经典。",
+        "weight": 45,
+    },
     "shidi": {
         "title": "十地系",
         "summary": "华严十地相关别译经典。",
         "intro": "收录华严十地相关别译经典。",
         "weight": 50,
+    },
+    "pinbie": {
+        "title": "单行别译",
+        "summary": "华严重要品类的单行本与别译经典。",
+        "intro": "收录华严重要品类的单行本与别译经典。",
+        "weight": 55,
     },
     "rufajie": {
         "title": "入法界系",
@@ -36,15 +48,39 @@ GROUPS = {
         "intro": "收录华严入法界相关别译经典。",
         "weight": 60,
     },
+    "fotu": {
+        "title": "佛土功德系",
+        "summary": "华严佛土功德相关经典。",
+        "intro": "收录华严佛土功德相关经典。",
+        "weight": 65,
+    },
     "xingyuan": {
         "title": "行愿系",
         "summary": "华严普贤行愿相关经典。",
         "intro": "收录华严普贤行愿相关经典。",
         "weight": 70,
     },
+    "puxian": {
+        "title": "普贤系",
+        "summary": "华严普贤相关单行经典。",
+        "intro": "收录华严普贤相关单行经典。",
+        "weight": 75,
+    },
 }
 
 COLLECTIONS = {
+    "fo-shuo-dou-sha-jing": {
+        "work": "T0280",
+        "display_title": "佛说兜沙经",
+        "tag": "佛说兜沙经",
+        "slug": "fo-shuo-dou-sha-jing",
+        "group": "pinbie",
+        "total_juan": 1,
+        "weight": 10,
+        "summary": "佛说兜沙经一卷。",
+        "removable_titles": {"佛說兜沙經一卷"},
+        "removable_bylines": {"後漢月氏三藏支婁迦讖譯"},
+    },
     "fo-shuo-pu-sa-ben-ye-jing": {
         "work": "T0281",
         "display_title": "佛说菩萨本业经",
@@ -68,6 +104,30 @@ COLLECTIONS = {
         "summary": "诸菩萨求佛本业经一卷。",
         "removable_titles": {"諸菩薩求佛本業經一卷"},
         "removable_bylines": {"西晉優婆塞聶道真譯"},
+    },
+    "pu-sa-shi-zhu-xing-dao-pin": {
+        "work": "T0283",
+        "display_title": "菩萨十住行道品",
+        "tag": "菩萨十住行道品",
+        "slug": "pu-sa-shi-zhu-xing-dao-pin",
+        "group": "shizhu",
+        "total_juan": 1,
+        "weight": 10,
+        "summary": "菩萨十住行道品一卷。",
+        "removable_titles": {"菩薩十住行道品一卷"},
+        "removable_bylines": {"西晉三藏竺法護譯"},
+    },
+    "fo-shuo-pu-sa-shi-zhu-jing": {
+        "work": "T0284",
+        "display_title": "佛说菩萨十住经",
+        "tag": "佛说菩萨十住经",
+        "slug": "fo-shuo-pu-sa-shi-zhu-jing",
+        "group": "shizhu",
+        "total_juan": 1,
+        "weight": 20,
+        "summary": "佛说菩萨十住经一卷。",
+        "removable_titles": {"佛說菩薩十住經一卷"},
+        "removable_bylines": {"東晉三藏祇多蜜譯"},
     },
     "jian-bei-yi-qie-zhi-de-jing": {
         "work": "T0285",
@@ -112,6 +172,73 @@ COLLECTIONS = {
             "大唐國僧法界從中印度持此梵本請于闐三藏沙門尸羅達摩於北庭龍興寺譯",
             "大唐于闐三藏沙門尸羅達摩於北庭龍興寺譯",
         },
+    },
+    "deng-mu-pu-sa-suo-wen-san-mei-jing": {
+        "work": "T0288",
+        "display_title": "等目菩萨所问三昧经",
+        "tag": "等目菩萨所问三昧经",
+        "slug": "deng-mu-pu-sa-suo-wen-san-mei-jing",
+        "group": "pinbie",
+        "total_juan": 3,
+        "weight": 20,
+        "summary": "等目菩萨所问三昧经三卷。",
+        "removable_title_patterns": [
+            r"^(?:佛說)?等目菩薩(?:所問三昧)?經卷(?:上|中|下)(?:一名普賢菩薩定意)?$",
+        ],
+        "removable_bylines": {
+            "西晉月氏國三藏竺法護譯",
+            "西晉月支三藏竺法護譯",
+        },
+    },
+    "xian-wu-bian-fo-tu-gong-de-jing": {
+        "work": "T0289",
+        "display_title": "显无边佛土功德经",
+        "tag": "显无边佛土功德经",
+        "slug": "xian-wu-bian-fo-tu-gong-de-jing",
+        "group": "fotu",
+        "total_juan": 1,
+        "weight": 10,
+        "summary": "显无边佛土功德经一卷。",
+        "removable_titles": {"顯無邊佛土功德經"},
+        "removable_bylines": {"大唐三藏法師玄奘譯"},
+    },
+    "fo-shuo-jiao-liang-yi-qie-fo-cha-gong-de-jing": {
+        "work": "T0290",
+        "display_title": "佛说较量一切佛刹功德经",
+        "tag": "佛说较量一切佛刹功德经",
+        "slug": "fo-shuo-jiao-liang-yi-qie-fo-cha-gong-de-jing",
+        "group": "fotu",
+        "total_juan": 1,
+        "weight": 20,
+        "summary": "佛说较量一切佛刹功德经一卷。",
+        "removable_titles": {"佛說較量一切佛剎功德經"},
+        "removable_bylines": {
+            "西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉詔譯"
+        },
+    },
+    "fo-shuo-ru-lai-xing-xian-jing": {
+        "work": "T0291",
+        "display_title": "佛说如来兴显经",
+        "tag": "佛说如来兴显经",
+        "slug": "fo-shuo-ru-lai-xing-xian-jing",
+        "group": "pinbie",
+        "total_juan": 4,
+        "weight": 30,
+        "summary": "佛说如来兴显经四卷。",
+        "removable_title_patterns": [r"^佛說如來興顯經卷第[零一二三四五六七八九十百]+$"],
+        "removable_bylines": {"西晉月氏三藏竺法護譯"},
+    },
+    "du-shi-pin-jing": {
+        "work": "T0292",
+        "display_title": "度世品经",
+        "tag": "度世品经",
+        "slug": "du-shi-pin-jing",
+        "group": "pinbie",
+        "total_juan": 6,
+        "weight": 40,
+        "summary": "度世品经六卷。",
+        "removable_title_patterns": [r"^度世品經卷第[零一二三四五六七八九十百]+$"],
+        "removable_bylines": {"西晉月氏三藏竺法護譯"},
     },
     "fo-shuo-luo-mo-qie-jing": {
         "work": "T0294",
@@ -162,6 +289,18 @@ COLLECTIONS = {
         "removable_bylines": {
             "開府儀同三司特進試鴻臚卿肅國公食邑三千戶賜紫贈司空諡大鑑正號大廣智大興善寺三藏沙門不空奉詔譯"
         },
+    },
+    "da-fang-guang-pu-xian-suo-shuo-jing": {
+        "work": "T0298",
+        "display_title": "大方广普贤所说经",
+        "tag": "大方广普贤所说经",
+        "slug": "da-fang-guang-pu-xian-suo-shuo-jing",
+        "group": "puxian",
+        "total_juan": 1,
+        "weight": 10,
+        "summary": "大方广普贤所说经一卷。",
+        "removable_titles": {"大方廣普賢所說經一卷"},
+        "removable_bylines": {"唐于闐三藏實叉難陀譯"},
     },
 }
 
