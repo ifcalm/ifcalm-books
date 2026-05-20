@@ -1,0 +1,286 @@
+{
+  "schema_version": 1,
+  "updated": "2026-05-20",
+  "description": "Jingbu (Confucian classics) manifest for 十三经.",
+  "collections": [
+    {
+      "id": "zhou-yi",
+      "title": "周易",
+      "traditional_title": "周易",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/confucius/zhou-yi",
+      "generator": "scripts/generate_jingbu.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/周易"
+      },
+      "expected": {
+        "content_files": 73,
+        "section_headings": 67,
+        "missing_chars": 0
+      },
+      "notes": "73 sub-pages (64 gua + 十翼). API discovery with prefix 周易/."
+    },
+    {
+      "id": "shang-shu",
+      "title": "尚书",
+      "traditional_title": "尚書",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/confucius/shang-shu",
+      "generator": "scripts/generate_jingbu.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/尚書"
+      },
+      "expected": {
+        "content_files": 80,
+        "section_headings": 36,
+        "missing_chars": 23
+      },
+      "notes": "81 sub-pages by chapter. API discovery with prefix 尚書/."
+    },
+    {
+      "id": "shi-jing",
+      "title": "诗经",
+      "traditional_title": "詩經",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/confucius/shi-jing",
+      "generator": "scripts/generate_jingbu.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/詩經"
+      },
+      "expected": {
+        "content_files": 301,
+        "section_headings": 40,
+        "missing_chars": 0
+      },
+      "notes": "301 sub-pages (individual poems). API discovery with prefix 詩經/."
+    },
+    {
+      "id": "zhou-li",
+      "title": "周礼",
+      "traditional_title": "周禮",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/confucius/zhou-li",
+      "generator": "scripts/generate_jingbu.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/周禮"
+      },
+      "expected": {
+        "content_files": 6,
+        "section_headings": 245,
+        "missing_chars": 0
+      },
+      "notes": "6 sub-pages (六官). API discovery with prefix 周禮/."
+    },
+    {
+      "id": "yi-li",
+      "title": "仪礼",
+      "traditional_title": "儀禮",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/confucius/yi-li",
+      "generator": "scripts/generate_jingbu.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/儀禮"
+      },
+      "expected": {
+        "content_files": 17,
+        "section_headings": 0,
+        "missing_chars": 0
+      },
+      "notes": "17 sub-pages. API discovery with prefix 儀禮/."
+    },
+    {
+      "id": "li-ji",
+      "title": "礼记",
+      "traditional_title": "禮記",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/confucius/li-ji",
+      "generator": "scripts/generate_jingbu.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/禮記"
+      },
+      "expected": {
+        "content_files": 53,
+        "section_headings": 12,
+        "missing_chars": 39,
+        "private_use_chars": 2
+      },
+      "notes": "53 sub-pages (49 chapters + extras). API discovery with prefix 禮記/."
+    },
+    {
+      "id": "chun-qiu-zuo-zhuan",
+      "title": "春秋左传",
+      "traditional_title": "春秋左氏傳",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/confucius/chun-qiu-zuo-zhuan",
+      "generator": "scripts/generate_jingbu.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/春秋左氏傳"
+      },
+      "expected": {
+        "content_files": 17,
+        "section_headings": 270,
+        "missing_chars": 0,
+        "private_use_chars": 7
+      },
+      "notes": "17 sub-pages by Duke. API discovery with prefix 春秋左氏傳/."
+    },
+    {
+      "id": "chun-qiu-gong-yang",
+      "title": "春秋公羊传",
+      "traditional_title": "春秋公羊傳",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/confucius/chun-qiu-gong-yang",
+      "generator": "scripts/generate_jingbu.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/春秋公羊傳"
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 0,
+        "missing_chars": 0
+      },
+      "notes": "Single page with inline content. Extract from wiki page."
+    },
+    {
+      "id": "chun-qiu-gu-liang",
+      "title": "春秋谷梁传",
+      "traditional_title": "春秋穀梁傳",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/confucius/chun-qiu-gu-liang",
+      "generator": "scripts/generate_jingbu.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/春秋穀梁傳"
+      },
+      "expected": {
+        "content_files": 12,
+        "section_headings": 242,
+        "missing_chars": 0
+      },
+      "notes": "12 sub-pages by Duke. API discovery with prefix 春秋穀梁傳/."
+    },
+    {
+      "id": "xiao-jing",
+      "title": "孝经",
+      "traditional_title": "孝經",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/confucius/xiao-jing",
+      "generator": "scripts/generate_jingbu.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/今文孝經"
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 18,
+        "missing_chars": 0
+      },
+      "notes": "Single page (今文孝經). Short text, 18 chapters."
+    },
+    {
+      "id": "er-ya",
+      "title": "尔雅",
+      "traditional_title": "爾雅",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/confucius/er-ya",
+      "generator": "scripts/generate_jingbu.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/爾雅"
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 19,
+        "missing_chars": 0
+      },
+      "notes": "Single page (~23k chars) with inline == sections. 19 chapters."
+    },
+    {
+      "id": "lun-yu",
+      "title": "论语",
+      "traditional_title": "論語",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/confucius/lun-yu",
+      "generator": null,
+      "source": {
+        "primary": "manual"
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 20,
+        "missing_chars": 0
+      },
+      "notes": "Already collected. Migrated from flat file."
+    },
+    {
+      "id": "mengzi",
+      "title": "孟子",
+      "traditional_title": "孟子",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/confucius/mengzi",
+      "generator": null,
+      "source": {
+        "primary": "manual"
+      },
+      "expected": {
+        "content_files": 7,
+        "section_headings": 0,
+        "missing_chars": 0
+      },
+      "notes": "7 chapters. Already collected. Migrated from flat files."
+    },
+    {
+      "id": "da-xue",
+      "title": "大学",
+      "traditional_title": "大學",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/confucius/da-xue",
+      "generator": null,
+      "source": {
+        "primary": "manual"
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 6,
+        "missing_chars": 0
+      },
+      "notes": "Already collected. Migrated from flat file."
+    }
+  ]
+}
