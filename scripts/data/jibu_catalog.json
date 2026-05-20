@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "updated": "2026-05-20",
+  "description": "Jibu (literature collections) manifest for batch generation and validation.",
+  "collections": [
+    {
+      "id": "chu-ci",
+      "title": "楚辞",
+      "traditional_title": "楚辭",
+      "category": "chuci",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/literature/chuci/chu-ci",
+      "generator": "scripts/generate_literature.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/楚辭",
+        "cross_checks": ["https://ctext.org/chu-ci"]
+      },
+      "expected": {
+        "content_files": 17,
+        "section_headings": 18,
+        "missing_chars": 0
+      },
+      "notes": "17 chapters as individual pages. Hardcoded chapter list."
+    },
+    {
+      "id": "wenxin-diaolong",
+      "title": "文心雕龙",
+      "traditional_title": "文心雕龍",
+      "category": "shiwenping",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/literature/shiwenping/wenxin-diaolong",
+      "generator": "scripts/generate_literature.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/文心雕龍",
+        "cross_checks": []
+      },
+      "expected": {
+        "content_files": 51,
+        "section_headings": 42,
+        "missing_chars": 0
+      },
+      "notes": "51 chapters (50 + 序), each on sub-page under 文心雕龍/. API discovery."
+    },
+    {
+      "id": "shi-pin",
+      "title": "诗品",
+      "traditional_title": "詩品",
+      "category": "shiwenping",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/literature/shiwenping/shi-pin",
+      "generator": "scripts/generate_literature.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/詩品",
+        "cross_checks": []
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 60,
+        "missing_chars": 1
+      },
+      "notes": "Single output file combining preface + 3 juan (卷上, 卷中, 卷下)."
+    },
+    {
+      "id": "renjian-cihua",
+      "title": "人间词话",
+      "traditional_title": "人間詞話",
+      "category": "shiwenping",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/literature/shiwenping/ren-jian-ci-hua",
+      "generator": "scripts/generate_literature.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/人間詞話",
+        "cross_checks": []
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 3,
+        "missing_chars": 0
+      },
+      "notes": "Single page with inline sections (卷上, 卷下, 附録). Simplest text."
+    },
+    {
+      "id": "wen-xuan",
+      "title": "文选",
+      "traditional_title": "昭明文選",
+      "category": "zongji",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/literature/zongji/wen-xuan",
+      "generator": "scripts/generate_literature.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/昭明文選",
+        "cross_checks": []
+      },
+      "expected": {
+        "content_files": 60,
+        "section_headings": 251,
+        "missing_chars": 30,
+        "private_use_chars": 1
+      },
+      "notes": "60 of 61 volumes found on Wikisource. Grouped in 30-volume chunks."
+    },
+    {
+      "id": "guwen-guanzhi",
+      "title": "古文观止",
+      "traditional_title": "古文觀止",
+      "category": "zongji",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/literature/zongji/gu-wen-guan-zhi",
+      "generator": "scripts/generate_literature.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/古文觀止",
+        "cross_checks": []
+      },
+      "expected": {
+        "content_files": 12,
+        "section_headings": 163,
+        "missing_chars": 0
+      },
+      "notes": "12 volumes. API discovery."
+    },
+    {
+      "id": "yu-tai-xin-yong",
+      "title": "玉台新咏",
+      "traditional_title": "玉臺新詠",
+      "category": "zongji",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/literature/zongji/yu-tai-xin-yong",
+      "generator": "scripts/generate_literature.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/玉臺新詠",
+        "cross_checks": []
+      },
+      "expected": {
+        "content_files": 10,
+        "section_headings": 21,
+        "missing_chars": 0
+      },
+      "notes": "10 volumes. Vol 1-2 mainly link lists, vols 3-10 have poem content."
+    },
+    {
+      "id": "yue-fu-shi-ji",
+      "title": "乐府诗集",
+      "traditional_title": "樂府詩集",
+      "category": "zongji",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/literature/zongji/yue-fu-shi-ji",
+      "generator": "scripts/generate_literature.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/樂府詩集",
+        "cross_checks": []
+      },
+      "expected": {
+        "content_files": 100,
+        "section_headings": 279,
+        "missing_chars": 25,
+        "private_use_chars": 6
+      },
+      "notes": "100 volumes. Grouped in 30-volume chunks. Some missing chars (□) and PUA chars in ancient lyrics."
+    },
+    {
+      "id": "hua-jian-ji",
+      "title": "花间集",
+      "traditional_title": "花間集",
+      "category": "ciqu",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/literature/ciqu/hua-jian-ji",
+      "generator": "scripts/generate_literature.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/花間集",
+        "cross_checks": []
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 211,
+        "missing_chars": 0
+      },
+      "notes": "Single page organized by 词牌 headings. No clear volume demarcation in wikitext."
+    },
+    {
+      "id": "sui-yuan-shi-hua",
+      "title": "随园诗话",
+      "traditional_title": "隨園詩話",
+      "category": "shiwenping",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/literature/shiwenping/sui-yuan-shi-hua",
+      "generator": "scripts/generate_literature.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/隨園詩話",
+        "cross_checks": []
+      },
+      "expected": {
+        "content_files": 16,
+        "section_headings": 1369,
+        "missing_chars": 0
+      },
+      "notes": "16 volumes. API discovery."
+    },
+    {
+      "id": "du-fu",
+      "title": "杜工部集",
+      "traditional_title": "杜工部集",
+      "category": "bieji",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/literature/bieji/du-fu",
+      "generator": "scripts/regenerate_bieji.py",
+      "source": {
+        "primary": "chinese-poetry",
+        "primary_url": "https://github.com/chinese-poetry/chinese-poetry",
+        "cross_checks": ["https://ctext.org/wiki.pl?if=gb&res=963081"]
+      },
+      "expected": {
+        "content_files": 30,
+        "section_headings": 1480,
+        "missing_chars": 0,
+        "private_use_chars": 1
+      },
+      "notes": "杜甫诗集 30卷 1480首。来源于 chinese-poetry 全唐诗，有标点。"
+    },
+    {
+      "id": "li-bai",
+      "title": "李太白文集",
+      "traditional_title": "李太白文集",
+      "category": "bieji",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/literature/bieji/li-bai",
+      "generator": "scripts/regenerate_bieji.py",
+      "source": {
+        "primary": "chinese-poetry",
+        "primary_url": "https://github.com/chinese-poetry/chinese-poetry",
+        "cross_checks": ["https://ctext.org/library.pl?if=gb&res=87673"]
+      },
+      "expected": {
+        "content_files": 30,
+        "section_headings": 1080,
+        "missing_chars": 2
+      },
+      "notes": "李白诗集 30卷 1080首。来源于 chinese-poetry 全唐诗，有标点。"
+    }
+  ]
+}

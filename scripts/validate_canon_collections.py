@@ -42,7 +42,7 @@ def load_catalog(path: Path) -> dict:
 def markdown_files(target: Path) -> list[Path]:
     if target.is_file():
         return [target]
-    return sorted(path for path in target.glob("*.md") if path.name != "_index.md")
+    return sorted(path for path in target.rglob("*.md") if path.name != "_index.md")
 
 
 def count_headings(files: list[Path]) -> int:
