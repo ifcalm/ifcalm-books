@@ -193,6 +193,101 @@
         "missing_chars": 0
       },
       "notes": "12 sub-pages by volume. API discovery with prefix 文子/."
+    },
+    {
+      "id": "wuzi",
+      "title": "吴子",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/wuzi",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/吳子"
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 6,
+        "missing_chars": 0
+      },
+      "notes": "Single page with inline sections. 6 chapters."
+    },
+    {
+      "id": "sima-fa",
+      "title": "司马法",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/sima-fa",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/司馬法"
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 5,
+        "missing_chars": 0
+      },
+      "notes": "Single page with inline sections. 5 chapters."
+    },
+    {
+      "id": "liu-tao",
+      "title": "六韬",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/liu-tao",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/六韜"
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 6,
+        "missing_chars": 0
+      },
+      "notes": "Single page with inline sections. 60 chapters."
+    },
+    {
+      "id": "san-lue",
+      "title": "三略",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/san-lue",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/三略"
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 3,
+        "missing_chars": 0
+      },
+      "notes": "Single page with inline sections. 3 sections."
+    },
+    {
+      "id": "weiliaozi",
+      "title": "尉缭子",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/weiliaozi",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/尉繚子"
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 25,
+        "missing_chars": 0
+      },
+      "notes": "24 sub-pages by chapter. API discovery with prefix 尉繚子/."
     }
   ]
 }

@@ -30,6 +30,11 @@ TEXTS: dict[str, dict] = {
     "huainanzi":     {"slug": "huainanzi", "title": "淮南子", "wiki_title": "淮南子", "type": "subpages", "wiki_prefix": "淮南子/", "summary": "淮南子二十一卷，汉刘安编，杂家代表作。", "tags": ["淮南子", "杂家", "诸子"]},
     "gongsun-longzi":{"slug": "gongsun-longzi", "title": "公孙龙子", "wiki_title": "公孫龍子", "type": "subpages", "wiki_prefix": "公孫龍子/", "summary": "公孙龙子六篇，战国公孙龙撰，名家经典。", "tags": ["公孙龙子", "名家", "诸子"]},
     "wenzi":         {"slug": "wenzi", "title": "文子", "wiki_title": "文子", "type": "subpages", "wiki_prefix": "文子/", "summary": "文子十二卷，传为战国文子撰，道家经典。", "tags": ["文子", "道家", "诸子"]},
+    "wuzi":          {"slug": "wuzi", "title": "吴子", "wiki_title": "吳子", "type": "single", "summary": "吴子六篇，战国吴起撰，兵家武经七书之一。", "tags": ["吴子", "兵家", "诸子"]},
+    "sima-fa":       {"slug": "sima-fa", "title": "司马法", "wiki_title": "司馬法", "type": "single", "summary": "司马法五篇，传为司马穰苴撰，兵家武经七书之一。", "tags": ["司马法", "兵家", "诸子"]},
+    "liu-tao":       {"slug": "liu-tao", "title": "六韬", "wiki_title": "六韜", "type": "single", "summary": "六韬六卷，传为姜太公撰，兵家武经七书之一。", "tags": ["六韬", "兵家", "诸子"]},
+    "san-lue":       {"slug": "san-lue", "title": "三略", "wiki_title": "三略", "type": "single", "summary": "三略三卷，传为黄石公撰，兵家武经七书之一。", "tags": ["三略", "兵家", "诸子"]},
+    "weiliaozi":     {"slug": "weiliaozi", "title": "尉缭子", "wiki_title": "尉繚子", "type": "subpages", "wiki_prefix": "尉繚子/", "summary": "尉缭子二十四篇，战国尉缭撰，兵家武经七书之一。", "tags": ["尉缭子", "兵家", "诸子"]},
 }
 
 
