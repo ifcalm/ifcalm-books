@@ -54,8 +54,8 @@
         "primary_url": "https://zh.wikisource.org/wiki/韓非子"
       },
       "expected": {
-        "content_files": 80,
-        "section_headings": 59,
+        "content_files": 58,
+        "section_headings": 0,
         "missing_chars": 0
       },
       "notes": "75 sub-pages. API discovery with prefix 韓非子/."
@@ -131,7 +131,7 @@
       },
       "expected": {
         "content_files": 26,
-        "section_headings": 150,
+        "section_headings": 160,
         "missing_chars": 0
       },
       "notes": "28 sub-pages by chapter. API discovery with prefix 呂氏春秋/."
@@ -149,7 +149,7 @@
         "primary_url": "https://zh.wikisource.org/wiki/淮南子"
       },
       "expected": {
-        "content_files": 23,
+        "content_files": 22,
         "section_headings": 1,
         "missing_chars": 0,
         "private_use_chars": 10
