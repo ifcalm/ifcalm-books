@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "updated": "2026-05-20",
+  "description": "诸子百家 manifest for batch generation and validation.",
+  "collections": [
+    {
+      "id": "xunzi",
+      "title": "荀子",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/xunzi",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/荀子"
+      },
+      "expected": {
+        "content_files": 33,
+        "section_headings": 0,
+        "missing_chars": 0
+      },
+      "notes": "33 sub-pages. API discovery with prefix 荀子/."
+    },
+    {
+      "id": "mozi",
+      "title": "墨子",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/zhuzi/mozi",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/墨子"
+      },
+      "expected": {
+        "content_files": 54,
+        "section_headings": 54,
+        "missing_chars": 10
+      },
+      "notes": "54 sub-pages. API discovery with prefix 墨子/."
+    },
+    {
+      "id": "hanfeizi",
+      "title": "韩非子",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/hanfeizi",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/韓非子"
+      },
+      "expected": {
+        "content_files": 80,
+        "section_headings": 59,
+        "missing_chars": 0
+      },
+      "notes": "75 sub-pages. API discovery with prefix 韓非子/."
+    },
+    {
+      "id": "sunzi-bingfa",
+      "title": "孙子兵法",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/sunzi-bingfa",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/孫子兵法"
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 14,
+        "missing_chars": 0
+      },
+      "notes": "Single page with inline == headings (14 chapters)."
+    },
+    {
+      "id": "shangjun-shu",
+      "title": "商君书",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/shangjun-shu",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/商君書"
+      },
+      "expected": {
+        "content_files": 5,
+        "section_headings": 25,
+        "missing_chars": 0
+      },
+      "notes": "5 sub-pages by volume. API discovery with prefix 商君書/."
+    },
+    {
+      "id": "guiguzi",
+      "title": "鬼谷子",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/guiguzi",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/鬼谷子"
+      },
+      "expected": {
+        "content_files": 7,
+        "section_headings": 18,
+        "missing_chars": 0
+      },
+      "notes": "8 sub-pages. API discovery with prefix 鬼谷子/."
+    },
+    {
+      "id": "lvshi-chunqiu",
+      "title": "吕氏春秋",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/lvshi-chunqiu",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/呂氏春秋"
+      },
+      "expected": {
+        "content_files": 26,
+        "section_headings": 150,
+        "missing_chars": 0
+      },
+      "notes": "28 sub-pages by chapter. API discovery with prefix 呂氏春秋/."
+    },
+    {
+      "id": "huainanzi",
+      "title": "淮南子",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/zhuzi/huainanzi",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/淮南子"
+      },
+      "expected": {
+        "content_files": 23,
+        "section_headings": 1,
+        "missing_chars": 0,
+        "private_use_chars": 10
+      },
+      "notes": "22 sub-pages. API discovery with prefix 淮南子/."
+    },
+    {
+      "id": "gongsun-longzi",
+      "title": "公孙龙子",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/gongsun-longzi",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/公孫龍子"
+      },
+      "expected": {
+        "content_files": 7,
+        "section_headings": 0,
+        "missing_chars": 0
+      },
+      "notes": "7 sub-pages. API discovery with prefix 公孫龍子/."
+    },
+    {
+      "id": "wenzi",
+      "title": "文子",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/wenzi",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/文子"
+      },
+      "expected": {
+        "content_files": 12,
+        "section_headings": 0,
+        "missing_chars": 0
+      },
+      "notes": "12 sub-pages by volume. API discovery with prefix 文子/."
+    }
+  ]
+}
