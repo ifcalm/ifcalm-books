@@ -4,3 +4,4 @@ resources/
 hugo_stats.json
 .hugo_build.lock
 .gitmodules
+scripts/__pycache__/
