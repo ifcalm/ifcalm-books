@@ -288,6 +288,44 @@
         "missing_chars": 0
       },
       "notes": "24 sub-pages by chapter. API discovery with prefix 尉繚子/."
+    },
+    {
+      "id": "shishuo-xinyu",
+      "title": "世说新语",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/shishuo-xinyu",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/世說新語"
+      },
+      "expected": {
+        "content_files": 37,
+        "section_headings": 2,
+        "missing_chars": 0
+      },
+      "notes": "38 sub-pages minus 全览. API discovery with prefix 世說新語/."
+    },
+    {
+      "id": "huangdi-neijing-suwen",
+      "title": "黄帝内经·素问",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/huangdi-neijing-suwen",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/黃帝內經"
+      },
+      "expected": {
+        "content_files": 24,
+        "section_headings": 81,
+        "missing_chars": 0
+      },
+      "notes": "24 volumes of 素问 only. API discovery with prefix 黃帝內經/素問."
     }
   ]
 }

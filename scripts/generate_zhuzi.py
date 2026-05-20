@@ -35,6 +35,8 @@ TEXTS: dict[str, dict] = {
     "liu-tao":       {"slug": "liu-tao", "title": "六韬", "wiki_title": "六韜", "type": "single", "summary": "六韬六卷，传为姜太公撰，兵家武经七书之一。", "tags": ["六韬", "兵家", "诸子"]},
     "san-lue":       {"slug": "san-lue", "title": "三略", "wiki_title": "三略", "type": "single", "summary": "三略三卷，传为黄石公撰，兵家武经七书之一。", "tags": ["三略", "兵家", "诸子"]},
     "weiliaozi":     {"slug": "weiliaozi", "title": "尉缭子", "wiki_title": "尉繚子", "type": "subpages", "wiki_prefix": "尉繚子/", "summary": "尉缭子二十四篇，战国尉缭撰，兵家武经七书之一。", "tags": ["尉缭子", "兵家", "诸子"]},
+    "shishuo-xinyu": {"slug": "shishuo-xinyu", "title": "世说新语", "wiki_title": "世說新語", "type": "subpages", "wiki_prefix": "世說新語/", "summary": "世说新语三十六篇，南朝宋刘义庆编，志人小说集大成之作。", "tags": ["世说新语", "小说家", "诸子"]},
+    "huangdi-neijing-suwen": {"slug": "huangdi-neijing-suwen", "title": "黄帝内经·素问", "wiki_title": "黃帝內經", "type": "subpages", "wiki_prefix": "黃帝內經/素問", "summary": "黄帝内经素问二十四卷，医家经典，中医理论奠基之作。", "tags": ["黄帝内经", "素问", "医家", "诸子"]},
 }
 
 
@@ -127,6 +129,7 @@ def generate_subpages(text_id: str, dry_run: bool = False) -> tuple[int, int]:
     print(f"\n{'='*60}")
     print(f"Generating {info['title']} ({info['wiki_title']}) -> {out_dir.relative_to(ROOT)}")
     pages = discover_subpages(prefix)
+    pages = [p for p in pages if not p.endswith("/全覽")]
     print(f"  Found {len(pages)} sub-pages")
     if not dry_run:
         write_index(out_dir, info["title"], info["summary"], 10, info["tags"])
