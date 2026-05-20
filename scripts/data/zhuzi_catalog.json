@@ -326,6 +326,25 @@
         "missing_chars": 0
       },
       "notes": "24 volumes of 素问 only. API discovery with prefix 黃帝內經/素問."
+    },
+    {
+      "id": "shanhai-jing",
+      "title": "山海经",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/shanhai-jing",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/山海經"
+      },
+      "expected": {
+        "content_files": 19,
+        "section_headings": 45,
+        "missing_chars": 0
+      },
+      "notes": "19 sub-pages covering 山经/海经/大荒经 + 郭璞序."
     }
   ]
 }
