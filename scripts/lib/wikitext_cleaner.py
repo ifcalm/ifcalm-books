@@ -92,7 +92,7 @@ def clean_wikitext(text: str) -> str:
         level = min(len(marks) + 1, 6)
         return "#" * level + " " + title
 
-    text = re.sub(r'^(={2,6})\s*(.+?)\s*\1$', convert_heading, text, flags=re.M)
+    text = re.sub(r'^(={2,6})\s*(.+?)\s*\1\s*$', convert_heading, text, flags=re.M)
 
     # ── Phase 8: Inline markup & whitespace ──
     text = re.sub(r"'''?", '', text)  # bold/italic

@@ -37,6 +37,9 @@ TEXTS: dict[str, dict] = {
     "weiliaozi":     {"slug": "weiliaozi", "title": "尉缭子", "wiki_title": "尉繚子", "type": "subpages", "wiki_prefix": "尉繚子/", "summary": "尉缭子二十四篇，战国尉缭撰，兵家武经七书之一。", "tags": ["尉缭子", "兵家", "诸子"]},
     "shishuo-xinyu": {"slug": "shishuo-xinyu", "title": "世说新语", "wiki_title": "世說新語", "type": "subpages", "wiki_prefix": "世說新語/", "summary": "世说新语三十六篇，南朝宋刘义庆编，志人小说集大成之作。", "tags": ["世说新语", "小说家", "诸子"]},
     "huangdi-neijing-suwen": {"slug": "huangdi-neijing-suwen", "title": "黄帝内经·素问", "wiki_title": "黃帝內經", "type": "subpages", "wiki_prefix": "黃帝內經/素問", "summary": "黄帝内经素问二十四卷，医家经典，中医理论奠基之作。", "tags": ["黄帝内经", "素问", "医家", "诸子"]},
+    "huangdi-neijing-lingshu": {"slug": "huangdi-neijing-lingshu", "title": "黄帝内经·灵枢", "wiki_title": "黃帝內經", "type": "subpages", "wiki_prefix": "黃帝內經/靈樞", "summary": "黄帝内经灵枢十二卷，医家经典，针灸经络理论奠基之作。", "tags": ["黄帝内经", "灵枢", "医家", "诸子"]},
+    "shanghan-lun": {"slug": "shanghan-lun", "title": "伤寒论", "wiki_title": "傷寒論", "type": "single", "summary": "伤寒论十卷，汉张仲景撰，辨证论治之祖，中医临床奠基之作。", "tags": ["伤寒论", "张仲景", "医家", "诸子"]},
+    "jingui-yaolue": {"slug": "jingui-yaolue", "title": "金匮要略", "wiki_title": "金匱要略", "type": "single", "summary": "金匮要略三卷，汉张仲景撰，杂病证治之祖，方书之典范。", "tags": ["金匮要略", "张仲景", "医家", "诸子"]},
     "shanhai-jing":  {"slug": "shanhai-jing", "title": "山海经", "wiki_title": "山海經", "type": "subpages", "wiki_prefix": "山海經/", "summary": "山海经十八卷，先秦奇书，中国神话地理之源头。", "tags": ["山海经", "地理", "神话", "诸子"]},
 }
 
