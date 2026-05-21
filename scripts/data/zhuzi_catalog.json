@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-05-20",
+  "updated": "2026-05-21",
   "description": "诸子百家 manifest for batch generation and validation.",
   "collections": [
     {
@@ -32,14 +32,17 @@
       "generator": "scripts/generate_zhuzi.py",
       "source": {
         "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/墨子"
+        "primary_url": "https://zh.wikisource.org/wiki/墨子",
+        "cross_checks": [
+          "https://ctext.org/mozi/zh"
+        ]
       },
       "expected": {
-        "content_files": 54,
-        "section_headings": 54,
+        "content_files": 53,
+        "section_headings": 1,
         "missing_chars": 10
       },
-      "notes": "54 sub-pages. API discovery with prefix 墨子/."
+      "notes": "53 extant sub-pages in canonical order. Wikisource 全覽 aggregation page is filtered out."
     },
     {
       "id": "hanfeizi",
@@ -51,14 +54,17 @@
       "generator": "scripts/generate_zhuzi.py",
       "source": {
         "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/韓非子"
+        "primary_url": "https://zh.wikisource.org/wiki/韓非子",
+        "cross_checks": [
+          "https://ctext.org/hanfeizi/zh"
+        ]
       },
       "expected": {
-        "content_files": 58,
+        "content_files": 55,
         "section_headings": 0,
         "missing_chars": 0
       },
-      "notes": "75 sub-pages. API discovery with prefix 韓非子/."
+      "notes": "55 canonical chapters. Numeric wrapper pages, duplicated variants, umbrella pages, and 韓非子全文 are filtered out."
     },
     {
       "id": "sunzi-bingfa",
@@ -280,14 +286,17 @@
       "generator": "scripts/generate_zhuzi.py",
       "source": {
         "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/尉繚子"
+        "primary_url": "https://zh.wikisource.org/wiki/尉繚子/全覽",
+        "cross_checks": [
+          "https://ctext.org/wei-liao-zi/zh"
+        ]
       },
       "expected": {
         "content_files": 1,
         "section_headings": 25,
         "missing_chars": 0
       },
-      "notes": "24 sub-pages by chapter. API discovery with prefix 尉繚子/."
+      "notes": "Wikisource currently exposes the complete text as a 全覽 page; generated as one page with 24 chapters plus 注释 heading."
     },
     {
       "id": "shishuo-xinyu",
@@ -318,7 +327,10 @@
       "generator": "scripts/generate_zhuzi.py",
       "source": {
         "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/黃帝內經"
+        "primary_url": "https://zh.wikisource.org/wiki/黃帝內經",
+        "cross_checks": [
+          "https://ctext.org/huangdi-neijing/zh"
+        ]
       },
       "expected": {
         "content_files": 24,
@@ -326,6 +338,66 @@
         "missing_chars": 0
       },
       "notes": "24 volumes of 素问 only. API discovery with prefix 黃帝內經/素問."
+    },
+    {
+      "id": "huangdi-neijing-lingshu",
+      "title": "黄帝内经·灵枢",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/huangdi-neijing-lingshu",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/黃帝內經",
+        "cross_checks": [
+          "https://ctext.org/huangdi-neijing/zh"
+        ]
+      },
+      "expected": {
+        "content_files": 12,
+        "section_headings": 82,
+        "missing_chars": 0
+      },
+      "notes": "12 volumes of 灵枢 only. API discovery with prefix 黃帝內經/靈樞."
+    },
+    {
+      "id": "shanghan-lun",
+      "title": "伤寒论",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/shanghan-lun",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/傷寒論"
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 12,
+        "missing_chars": 0
+      },
+      "notes": "Single page with inline sections."
+    },
+    {
+      "id": "jingui-yaolue",
+      "title": "金匮要略",
+      "category": "zhuzi",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/zhuzi/jingui-yaolue",
+      "generator": "scripts/generate_zhuzi.py",
+      "source": {
+        "primary": "Wikisource",
+        "primary_url": "https://zh.wikisource.org/wiki/金匱要略"
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 25,
+        "missing_chars": 0
+      },
+      "notes": "Single page with inline sections."
     },
     {
       "id": "shanhai-jing",
