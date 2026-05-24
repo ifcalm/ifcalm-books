@@ -1,14 +1,17 @@
 ---
-title: "汉书 卷22"
-date: 2026-05-19
+title: "汉书 卷22 卷二十二 禮樂志"
+date: 2026-05-24
 weight: 22
 tags: ["汉书", "东汉", "班固"]
 categories: ["史部"]
 draft: false
-summary: "汉书卷22。汉书一百卷，汉班固撰。..."
+summary: "汉书卷22。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
 六經之道同歸，而禮樂之用為急。治身者斯須忘禮，則暴嫚入之矣；為國者一朝失禮，則荒亂及之矣。人函天地陰陽之氣，有喜怒哀樂之情。天稟其性而不能節也，聖人能為之節而不能絕也，故象天地而制禮樂，所以通神明，立人倫，正情性，節萬事者也。

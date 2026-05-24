@@ -1,18 +1,20 @@
 ---
-title: "明史 卷29"
-date: 2026-05-19
+title: "明史 卷29 卷二十九 志第五 五行二"
+date: 2026-05-24
 weight: 29
-tags: ["明史", "清", "张廷玉"]
+tags: ["明史", "清", "张廷玉等"]
 categories: ["史部"]
 draft: false
-summary: "明史卷29。明史三百三十二卷，清张廷玉等撰。..."
+summary: "明史卷29。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-}}
-志第五 五行二（火 木）
+志第五 五行二〈（火 木）〉
 
 《洪範》曰：「火曰炎上。」火不炎上，則失其性矣。前史多以恆燠、草異、火、木、羽蟲之孽、羊禍、火災、火異、赤眚赤祥皆屬之火，今從之。
 

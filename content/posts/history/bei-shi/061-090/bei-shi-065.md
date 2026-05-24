@@ -1,16 +1,20 @@
 ---
-title: "北史 卷65"
-date: 2026-05-19
+title: "北史 卷65 卷六十五 列傳第五十三: 達奚武 若干惠 怡峰 劉亮 王德 赫連達 韓果 蔡祐 常善 辛威 厙狄昌 梁椿 梁臺 田弘"
+date: 2026-05-24
 weight: 65
 tags: ["北史", "唐", "李延寿"]
 categories: ["史部"]
 draft: false
-summary: "北史卷65。北史一百卷，唐李延寿撰。..."
+summary: "北史卷65。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
+達奚武 若干惠 怡峰 劉亮 王德 赫連達 韓果 蔡祐 常善 辛威 厙狄昌 梁椿 梁臺 田弘
 列傳第五十三
 
 達奚武若干惠怡峰劉亮王德赫連達韓果蔡祐常善辛威厙狄昌梁椿梁台田弘子仁恭孫德懋

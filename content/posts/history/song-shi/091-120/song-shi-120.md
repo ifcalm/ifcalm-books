@@ -1,22 +1,20 @@
 ---
-title: "宋史 卷120"
-date: 2026-05-19
+title: "宋史 卷120 卷一百二十 志第七十三 禮二十三"
+date: 2026-05-24
 weight: 120
-tags: ["宋史", "元", "脱脱"]
+tags: ["宋史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "宋史卷120。宋史四百九十六卷，元脱脱等撰。..."
+summary: "宋史卷120。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-| noauthor = 元 脫脫 等
-| previous = ← 卷一百一十九
-| next     = 卷一百二十一 →
-| notes    = 群臣上表儀宰臣赴上儀朝省集議班位臣僚上馬之制臣僚呵引之制
-}}
-
+群臣上表儀宰臣赴上儀朝省集議班位臣僚上馬之制臣僚呵引之制
 群臣上表儀。《通禮》：守宮設次於朝堂，文東武西，相對為首設中書令位於群臣之北。禮曹掾舉表案入，引中書令出，就南面立。禮部郎中取表授中書令，令即受表入奏。
 
 其禮：凡正、至不受朝，及邦國大慶瑞、上尊號請舉行大禮，宰相率文武群臣暨諸軍將校、蕃夷酋長、道釋、耆老等詣東上閣門拜表，知表官跪授表於宰臣，宰臣跪授於閣門使，乃由通進司奏禦。凡有答詔，亦拜受於閣門，獲可，奏者奉表稱賀。其正、至，樞密使率內班拜表長春殿門外，亦閣門使受之。

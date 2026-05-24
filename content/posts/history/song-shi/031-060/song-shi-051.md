@@ -1,15 +1,20 @@
 ---
-title: "宋史 卷51"
-date: 2026-05-19
+title: "宋史 卷51 卷五十一 志第四 天文四"
+date: 2026-05-24
 weight: 51
-tags: ["宋史", "元", "脱脱"]
+tags: ["宋史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "宋史卷51。宋史四百九十六卷，元脱脱等撰。..."
+summary: "宋史卷51。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
+
+二十八舍下
 
 西方
 

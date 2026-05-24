@@ -1,18 +1,20 @@
 ---
-title: "辽史 卷105"
-date: 2026-05-19
+title: "辽史 卷105 卷一百〇五 列傳第三十五: 能吏"
+date: 2026-05-24
 weight: 105
-tags: ["辽史", "元", "脱脱"]
+tags: ["辽史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "辽史卷105。辽史一百一十六卷，元脱脱等撰。..."
+summary: "辽史卷105。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-◎能吏
-○大公鼎蕭文馬人望耶律鐸魯斡楊遵勖王棠
+能吏 ○大公鼎蕭文馬人望耶律鐸魯斡楊遵勖王棠
 
 漢以璽書賜二千石，唐疏刺史、縣令於屏，以示獎率，故二史有《循吏》、《良吏》之傳。遼自太祖創業，太宗撫有燕、薊，任賢使能之道，亦略備矣。然惟朝廷參置國官，吏州縣者多遵唐制。歷世既久，選舉益嚴。時又分遣重臣巡行境內，察賢否而進退之。是以治民、理財、決獄、弭盜，各有其人。考其德政，雖未足以與諸循、良之列，抑亦可謂能吏矣。作《能吏傳》。
 

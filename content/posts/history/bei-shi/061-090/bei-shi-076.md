@@ -1,16 +1,20 @@
 ---
-title: "北史 卷76"
-date: 2026-05-19
+title: "北史 卷76 卷七十六 列傳第六十四: 段文振 來護兒 樊子蓋 周羅睺 周法尚 衞玄 劉權 李景 薛世雄"
+date: 2026-05-24
 weight: 76
 tags: ["北史", "唐", "李延寿"]
 categories: ["史部"]
 draft: false
-summary: "北史卷76。北史一百卷，唐李延寿撰。..."
+summary: "北史卷76。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
+段文振 來護兒 樊子蓋 周羅睺 周法尚 衞玄 劉權 李景 薛世雄
 列傳第六十四
 
 段文振來護兒樊子蓋周羅碶周法尚衛玄劉權李景薛世雄

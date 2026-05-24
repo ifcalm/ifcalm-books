@@ -1,16 +1,20 @@
 ---
-title: "明史 卷79"
-date: 2026-05-19
+title: "明史 卷79 卷七十九 志第五十五 食貨三"
+date: 2026-05-24
 weight: 79
-tags: ["明史", "清", "张廷玉"]
+tags: ["明史", "清", "张廷玉等"]
 categories: ["史部"]
 draft: false
-summary: "明史卷79。明史三百三十二卷，清张廷玉等撰。..."
+summary: "明史卷79。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
+漕運倉庫
 歷代以來，漕粟所都，給官府廩食，各視道里遠近以為準。太祖都金陵，四方貢賦，由江以達京師，道近而易。自成祖遷燕，道里遼遠，法凡三變。初支運，次兌運、支運相參，至支運悉變為長運而制定。
 
 洪武元年北伐，命浙江、江西及蘇州等九府，運糧三百萬石於汴梁。已而大將軍徐達令忻、崞、代、堅、臺五州運糧大同。中書省符下山東行省，募水工發萊州洋海倉餉永平衛。其後海運餉北平、遼東為定制。其西北邊則浚開封漕河餉陝西，自陝西轉餉寧夏、河州。其西南令川、貴納米中鹽，以省遠運。於時各路皆就近輸，得利便矣。

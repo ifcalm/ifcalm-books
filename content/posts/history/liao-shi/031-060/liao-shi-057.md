@@ -1,17 +1,20 @@
 ---
-title: "辽史 卷57"
-date: 2026-05-19
+title: "辽史 卷57 卷五十七 志第二十六: 儀衞志三"
+date: 2026-05-24
 weight: 57
-tags: ["辽史", "元", "脱脱"]
+tags: ["辽史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "辽史卷57。辽史一百一十六卷，元脱脱等撰。..."
+summary: "辽史卷57。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-◎儀衛誌三（符印）
+儀衛誌三〈（符印）〉
 
 遙輦氏之世，受印於回鶻。至耶瀾可汗請印於唐，武宗始賜「奉國契丹印」。太祖神冊元年，梁幽州刺史來歸，詔賜印綬。是時，太祖受位遙輦十年矣。會同九年，太宗伐晉，末帝表上傳國寶一、金印三，天子符瑞於是歸遼。
 

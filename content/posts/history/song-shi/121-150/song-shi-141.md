@@ -1,18 +1,20 @@
 ---
-title: "宋史 卷141"
-date: 2026-05-19
+title: "宋史 卷141 卷一百四十一 志第九十四 樂十六"
+date: 2026-05-24
 weight: 141
-tags: ["宋史", "元", "脱脱"]
+tags: ["宋史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "宋史卷141。宋史四百九十六卷，元脱脱等撰。..."
+summary: "宋史卷141。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-}}
-◎樂十六（鼓吹下）○高宗郊祀大禮五首《導引》
+樂十六〈（鼓吹下）〉○高宗郊祀大禮五首《導引》
 
 聖皇巡狩，清蹕駐三吳，十世嗣瑤圖。邊塵不動幹戈戢，文德溥天敷。灰飛緹室氣潛噓，郊見紫壇初。歸來赦令樓前下，喜氣溢寰區。《六州》
 

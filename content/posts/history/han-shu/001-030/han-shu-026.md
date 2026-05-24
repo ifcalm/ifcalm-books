@@ -1,14 +1,17 @@
 ---
-title: "汉书 卷26"
-date: 2026-05-19
+title: "汉书 卷26 卷二十六 天文志"
+date: 2026-05-24
 weight: 26
 tags: ["汉书", "东汉", "班固"]
 categories: ["史部"]
 draft: false
-summary: "汉书卷26。汉书一百卷，汉班固撰。..."
+summary: "汉书卷26。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
 凡天文在圖籍昭昭可知者，經星常宿中外官凡百一十八名，積數七百八十三星，皆有州國官宮物類之象。其伏見蚤晚，邪正存亡，虛實闊骥，及五星所行，合散犯守，陵歷鬥食，彗孛飛流，日月薄食，暈適背穴，抱珥鸶蜺，迅雷風祅，怪雲變氣：此皆陰陽之精，其本在地，而上發于天者也。政失於此，則變見於彼，猶景之象形，鄉之應聲。是以明君睹之而寤，飭身正事，思其咎謝，則禍除而福至，自然之符也。

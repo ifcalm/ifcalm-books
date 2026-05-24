@@ -1,16 +1,20 @@
 ---
-title: "北史 卷70"
-date: 2026-05-19
+title: "北史 卷70 卷七十 列傳第五十八: 韓襃 趙肅 張軌 李彥 郭彥 梁昕 皇甫璠 辛慶之 王子直 杜杲 呂思禮 徐招 檀翥 孟信 宗懍 劉璠 柳遐"
+date: 2026-05-24
 weight: 70
 tags: ["北史", "唐", "李延寿"]
 categories: ["史部"]
 draft: false
-summary: "北史卷70。北史一百卷，唐李延寿撰。..."
+summary: "北史卷70。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
+韓襃 趙肅 張軌 李彥 郭彥 梁昕 皇甫璠 辛慶之 王子直 杜杲 呂思禮 徐招 檀翥 孟信 宗懍 劉璠 柳遐
 列傳第五十八
 
 韓褒趙肅子軌張軌李彥郭彥梁昕皇甫璠子誕辛慶之族子昂王子直杜杲呂思禮徐招檀翥孟信宗懍劉璠子祥兄子行本柳遐子莊

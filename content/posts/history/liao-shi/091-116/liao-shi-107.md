@@ -1,17 +1,20 @@
 ---
-title: "辽史 卷107"
-date: 2026-05-19
+title: "辽史 卷107 卷一百〇七 列傳第三十七: 列女"
+date: 2026-05-24
 weight: 107
-tags: ["辽史", "元", "脱脱"]
+tags: ["辽史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "辽史卷107。辽史一百一十六卷，元脱脱等撰。..."
+summary: "辽史卷107。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-◎列女
+列女
 
 ○邢簡妻陳氏耶律氏常哥耶律奴妻蕭氏耶律朮者妻蕭氏耶律中妻蕭氏
 

@@ -1,14 +1,17 @@
 ---
-title: "明史 卷69"
-date: 2026-05-19
+title: "明史 卷69 卷六十九 志第四十五 選舉一"
+date: 2026-05-24
 weight: 69
-tags: ["明史", "清", "张廷玉"]
+tags: ["明史", "清", "张廷玉等"]
 categories: ["史部"]
 draft: false
-summary: "明史卷69。明史三百三十二卷，清张廷玉等撰。..."
+summary: "明史卷69。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
 選舉之法，大略有四：曰學校，曰科目，曰薦舉，曰銓選。學校以教育之，科目以登進之，薦舉以旁招之，銓選以佈列之，天下人才盡於是矣。明制，科目為盛，卿相皆由此出，學校則儲才以應科目者也。其徑由學校通籍者，亦科目之亞也，外此則雜流矣。然進士、舉貢、雜流三途並用，雖有畸重，無偏廢也。薦舉盛於國初，後因專用科目而罷。銓選則入官之始，舍此蔑由焉。是四者釐然具載其本末，而二百七十年間取士得失之故可睹已。

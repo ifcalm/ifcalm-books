@@ -1,16 +1,20 @@
 ---
-title: "北史 卷74"
-date: 2026-05-19
+title: "北史 卷74 卷七十四 列傳第六十二: 劉昉 柳裘 皇甫績 郭衍 張衡 楊汪 裴蘊 袁充 李雄"
+date: 2026-05-24
 weight: 74
 tags: ["北史", "唐", "李延寿"]
 categories: ["史部"]
 draft: false
-summary: "北史卷74。北史一百卷，唐李延寿撰。..."
+summary: "北史卷74。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
+劉昉 柳裘 皇甫績 郭衍 張衡 楊汪 裴蘊 袁充 李雄
 列傳第六十二
 
 劉昉柳裘皇甫績郭衍張衡楊汪裴蘊袁充李雄

@@ -1,16 +1,20 @@
 ---
-title: "宋史 卷77"
-date: 2026-05-19
+title: "宋史 卷77 卷七十七 志第三十 律曆十"
+date: 2026-05-24
 weight: 77
-tags: ["宋史", "元", "脱脱"]
+tags: ["宋史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "宋史卷77。宋史四百九十六卷，元脱脱等撰。..."
+summary: "宋史卷77。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
+觀天曆
 元祐《觀天曆》
 
 演紀上元甲子，距元祐七年壬申，歲積五百九十四萬四千八百八算。上考往古，每年減一；下驗將來，每年加二。

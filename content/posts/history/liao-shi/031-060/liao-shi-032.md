@@ -1,18 +1,20 @@
 ---
-title: "辽史 卷32"
-date: 2026-05-19
+title: "辽史 卷32 卷三十二 志第二: 營衞志中"
+date: 2026-05-24
 weight: 32
-tags: ["辽史", "元", "脱脱"]
+tags: ["辽史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "辽史卷32。辽史一百一十六卷，元脱脱等撰。..."
+summary: "辽史卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-◎營衛誌中
-○行營
+營衛誌中 ○行營
 
 《周官》土圭之法：日東，景夕多風；日北，景長多寒。天地之間，風氣異宜，人生其間，各適其便。王者因三才而節制之。長城以南，多雨多暑，其人耕稼以食，桑麻以衣，宮室以居，城郭以治。大漠之間，多寒多風，畜牧畋漁以食，皮毛以衣，轉徙隨時，車馬為家。此天時地利所以限南北也。遼國盡有大漠，浸包長城之境，因宜為治。秋冬違寒，春夏避暑，隨水草就畋漁，歲以為常。四時各有行在之所，謂之「捺缽」。
 

@@ -1,15 +1,20 @@
 ---
-title: "史记 卷116"
-date: 2026-05-19
+title: "史记 卷116 《西南夷列傳》 Treatise on the Southwestern Yi people"
+date: 2026-05-24
 weight: 116
 tags: ["史记", "西汉", "司马迁"]
 categories: ["史部"]
 draft: false
-summary: "史记卷116：西南夷列傳第五十六。"
+summary: "史记卷116。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
+
+《西南夷列傳》 Treatise on the Southwestern Yi people
 
 西南夷君長以什數，夜郎最大；其西靡莫之屬以什數，滇最大；自滇以北君長以什數，邛都最大：此皆魋結，耕田，有邑聚。其外西自同師以東，北至楪榆，名為巂、昆明，皆編發，隨畜遷徙，毋常處，毋君長，地方可數千里。自冄以東北，君長以什數，徙、筰都最大；自筰以東北，君長以什數，冄駹最大。其俗或士箸，或移徙，在蜀之西。自冄駹以東北，君長以什數，白馬最大，皆氐類也。此皆巴蜀西南外蠻夷也。
 
@@ -32,5 +37,3 @@ ShowShareButtons: false
 西南夷君長以百數，獨夜郎、滇受王印。滇小邑，最寵焉。
 
 太史公曰：楚之先豈有天祿哉？在周為文王師，封楚。及周之衰，地稱五千里。秦滅諸候，唯楚苗裔尚有滇王。漢誅西南夷，國多滅矣，唯滇復為寵王。然南夷之端，見枸醬番禺，大夏杖、邛竹。西夷后揃，剽分二方，卒為七郡。
-
-【索隱述贊】西南外徼，莊蹻首通。漢因大夏，乃命唐蒙。勞洸、靡莫，異俗殊風。夜郎最大，邛、筰稱雄。及置郡縣，萬代推功。

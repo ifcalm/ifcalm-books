@@ -1,18 +1,20 @@
 ---
-title: "辽史 卷36"
-date: 2026-05-19
+title: "辽史 卷36 卷三十六 志第六: 兵衞志下"
+date: 2026-05-24
 weight: 36
-tags: ["辽史", "元", "脱脱"]
+tags: ["辽史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "辽史卷36。辽史一百一十六卷，元脱脱等撰。..."
+summary: "辽史卷36。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-◎兵衛誌下
-○五京鄉丁
+兵衛誌下 ○五京鄉丁
 
 遼建五京：臨潢，契丹故壤；遼陽，漢之遼東，為渤海故國；中京，漢遼西地，自唐以來契丹有之。三京丁籍可紀者二十二萬六千一百，蕃漢轉戶為多。析津、大同、故漢地，籍丁八十萬六千七百。契丹本戶多隸宮帳、部族，其餘蕃漢戶丁分隸者，皆不與焉。
 

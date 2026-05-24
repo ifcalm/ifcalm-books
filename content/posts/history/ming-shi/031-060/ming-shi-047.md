@@ -1,18 +1,20 @@
 ---
-title: "明史 卷47"
-date: 2026-05-19
+title: "明史 卷47 卷四十七 志第二十三 禮一"
+date: 2026-05-24
 weight: 47
-tags: ["明史", "清", "张廷玉"]
+tags: ["明史", "清", "张廷玉等"]
 categories: ["史部"]
 draft: false
-summary: "明史卷47。明史三百三十二卷，清张廷玉等撰。..."
+summary: "明史卷47。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-}}
-志第二十三 禮一（吉禮一）
+志第二十三 禮一〈（吉禮一）〉
 
 《周官》、《儀禮》尚已，然書缺簡脫，因革莫詳。自漢史作《禮志》，後皆因之，一代之制，始的然可考。歐陽氏云：「三代以下，治出於二，而禮樂爲虛名。」要其用之郊廟朝廷，下至閭里州黨者，未嘗無可觀也。惟能修明講貫，以實意行乎其間，則格上下、感鬼神，教化之成即在是矣。安見後世之禮，必不可上追三代哉。
 

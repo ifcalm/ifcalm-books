@@ -1,17 +1,20 @@
 ---
-title: "明史 卷56"
-date: 2026-05-19
+title: "明史 卷56 卷五十六 志第三十二 禮十"
+date: 2026-05-24
 weight: 56
-tags: ["明史", "清", "张廷玉"]
+tags: ["明史", "清", "张廷玉等"]
 categories: ["史部"]
 draft: false
-summary: "明史卷56。明史三百三十二卷，清张廷玉等撰。..."
+summary: "明史卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-志第三十二 禮十（嘉禮四 賓禮）
+志第三十二 禮十〈（嘉禮四 賓禮）〉
 
 巡狩 東宮監國 皇長孫監國 頒詔儀 迎接詔赦儀 進書儀 進表箋儀鄉飲酒禮 蕃王朝貢禮 遣使之蕃國儀 蕃國遣使進表儀 品官相見禮 庶人相見禮
 

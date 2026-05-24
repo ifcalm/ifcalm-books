@@ -1,19 +1,20 @@
 ---
-title: "辽史 卷103"
-date: 2026-05-19
+title: "辽史 卷103 卷一百〇三 列傳第三十三: 文學上"
+date: 2026-05-24
 weight: 103
-tags: ["辽史", "元", "脱脱"]
+tags: ["辽史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "辽史卷103。辽史一百一十六卷，元脱脱等撰。..."
+summary: "辽史卷103。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-◎文學上
-
-○蕭韓家奴李澣
+文學上 ○蕭韓家奴李澣
 
 遼起松漠，太祖以兵經略方內，禮文之事固所未遑。及太宗入汴，取晉圖書、禮器而北，然後制度漸以修舉。至景、聖間，則科目聿興，士有由下僚擢升侍從，骎驍崇儒之美。但其風氣剛勁，三面鄰敵，歲時以蒐浯為務，而典章文物，視古猶闕。然二百年之業，非數君子為之綜理，則後世惡所考述哉？作《文學傳》。
 

@@ -1,17 +1,20 @@
 ---
-title: "辽史 卷55"
-date: 2026-05-19
+title: "辽史 卷55 卷五十五 志第二十四: 儀衞志一"
+date: 2026-05-24
 weight: 55
-tags: ["辽史", "元", "脱脱"]
+tags: ["辽史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "辽史卷55。辽史一百一十六卷，元脱脱等撰。..."
+summary: "辽史卷55。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-◎儀衛誌一
+儀衛誌一
 
 遼太祖奮自朔方，太宗繼誌述事，以成其業。於是舉渤海，立敬瑭，破重貴，盡致周、秦、兩漢、隋、唐文物之遺餘而居有之。路車法物以隆等威，金符玉璽以布號令。是以傳至九主二百餘年，豈獨以兵革之利，士馬之強哉！文謂之儀，武謂之衛，足以成一代之規模矣。考遼所有輿服、符璽、儀仗，作《儀衛志》。
 

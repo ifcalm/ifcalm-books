@@ -1,17 +1,20 @@
 ---
-title: "辽史 卷22"
-date: 2026-05-19
+title: "辽史 卷22 卷二十二 本紀第二十二: 道宗二"
+date: 2026-05-24
 weight: 22
-tags: ["辽史", "元", "脱脱"]
+tags: ["辽史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "辽史卷22。辽史一百一十六卷，元脱脱等撰。..."
+summary: "辽史卷22。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-### 道宗 二
+道宗二
 
 八年春正月癸丑，如鴨子河。二月，駐蹕納葛濼。三月戊申朔，楚王蕭革致仕，進封鄭國王。夏五月，吾獨婉惕隱屯禿葛等乞歲貢馬、駝，許之。六月丙子朔，駐蹕拖古烈。辛丑，以右夷離畢奚馬六為奚六部大王。是月，禦清涼殿放進士王鼎等九十三人。秋七月甲子，射熊於外室剌。冬十月甲戌朔，駐蹕獨盧金。十二月庚辰，以知北院樞密使事蕭圖古辭為北院樞密使。癸未，幸西京。戊子，以皇太后行再生禮，曲赦西京囚。
 

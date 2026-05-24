@@ -1,17 +1,20 @@
 ---
-title: "新唐书 卷218"
-date: 2026-05-19
+title: "新唐书 卷218 卷二百一十八 列傳第一百四十三 沙陀"
+date: 2026-05-24
 weight: 218
-tags: ["新唐书", "北宋", "欧阳修"]
+tags: ["新唐书", "北宋", "欧阳修、宋祁"]
 categories: ["史部"]
 draft: false
-summary: "新唐书卷218。新唐书二百二十五卷，宋欧阳修、宋祁等撰。..."
+summary: "新唐书卷218。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-◎沙陀
+沙陀
 
 沙陀，西突厥別部處月種也。始，突厥東西部分治烏孫故地，與處月、處蜜雜居。貞觀七年，太宗以鼓纛立利邲咄陸可汗，而族人步真觖望，謀並其弟彌射乃自立。彌射懼，率處月等入朝。而步真勢窮，亦歸國。其留者，咄陸以射匱特勒劫越之子賀魯統之。
 

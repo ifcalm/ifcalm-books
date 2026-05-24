@@ -1,15 +1,20 @@
 ---
-title: "宋史 卷50"
-date: 2026-05-19
+title: "宋史 卷50 卷五十 志第三 天文三"
+date: 2026-05-24
 weight: 50
-tags: ["宋史", "元", "脱脱"]
+tags: ["宋史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "宋史卷50。宋史四百九十六卷，元脱脱等撰。..."
+summary: "宋史卷50。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
+
+二十八舍上
 
 東方
 

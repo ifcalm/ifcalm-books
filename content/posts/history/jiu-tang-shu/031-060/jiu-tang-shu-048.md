@@ -1,17 +1,19 @@
 ---
-title: "旧唐书 卷48"
-date: 2026-05-19
+title: "旧唐书 卷48 卷四十八 志第二十八: 食貨上"
+date: 2026-05-24
 weight: 48
-tags: ["旧唐书", "后晋", "刘昫"]
+tags: ["旧唐书", "后晋", "刘昫等"]
 categories: ["史部"]
 draft: false
-summary: "旧唐书卷48。旧唐书二百卷，后晋刘昫等撰。..."
+summary: "旧唐书卷48。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-}}
 志第二十八食貨上
 
 先王之制，度地以居人，均其沃瘠，差其貢賦，蓋斂之必以道也。量入而為出，節用而愛人，度財省費，蓋用之必有度也，是故既庶且富，而教化行焉。周有井田之制，秦有阡陌之法，二世發閭左而海內崩離，漢武稅舟車而國用以竭。自古有國有家，興亡盛衰，未嘗不由此也。隋文帝因周氏平齊之後，府庫充實，庶事節儉，未嘗虛費。開皇之初，議者以比漢代文、景，有粟陳貫朽之積。煬帝即位，大縱奢靡，加以東西行幸，輿駕不息，征討四夷，兵車屢動。西失律于沙徼，東喪師於遼、碣，數年之間，公私罄竭，財力既殫，國遂亡矣。

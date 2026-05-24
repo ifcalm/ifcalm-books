@@ -1,16 +1,20 @@
 ---
-title: "宋史 卷96"
-date: 2026-05-19
+title: "宋史 卷96 卷九十六 志第四十九 河渠六"
+date: 2026-05-24
 weight: 96
-tags: ["宋史", "元", "脱脱"]
+tags: ["宋史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "宋史卷96。宋史四百九十六卷，元脱脱等撰。..."
+summary: "宋史卷96。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
+東南諸水上
 開寶間，議征江南。詔用京西轉運使李符之策，發和州丁夫及鄉兵凡數萬人，鑿橫江渠于曆陽，令符督其役。渠成，以通漕運，而軍用無闕。
 
 八年，知瓊州李易上言：「州南五里有度靈塘，開修渠堰，溉水田三百余頃，居民賴之。」

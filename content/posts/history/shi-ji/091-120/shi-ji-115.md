@@ -1,15 +1,20 @@
 ---
-title: "史记 卷115"
-date: 2026-05-19
+title: "史记 卷115 《朝鮮列傳》 Treatise on Korea"
+date: 2026-05-24
 weight: 115
 tags: ["史记", "西汉", "司马迁"]
 categories: ["史部"]
 draft: false
-summary: "史记卷115：朝鮮列傳第五十五。"
+summary: "史记卷115。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
+
+《朝鮮列傳》 Treatise on Korea
 
 朝鮮王滿者，故燕人也。自始全燕時嘗略屬真番、朝鮮，為置吏，筑鄣塞。秦滅燕，屬遼東外徼。漢興，為其遠難守，復修遼東故塞，至浿水為界，屬燕。燕王盧綰反，入匈奴，滿亡命，聚黨千餘人，魋結蠻夷服而東走出塞，渡浿水，居秦故空地上下鄣，稍役屬真番、朝鮮蠻夷及故燕、齊亡命者王之，都王險。
 
@@ -30,5 +35,3 @@ ShowShareButtons: false
 左將軍徵至，坐爭功相嫉，乖計，棄市。樓船將軍亦坐兵至洌口，當待左將軍，擅先縱，失亡多，當誅，贖為庶人。
 
 太史公曰：右渠負固，國以絕祀。涉何誣功，為兵發首。樓船將狹，及難離咎。悔失番禺，乃反見疑。荀彘爭勞，與遂皆誅。兩軍俱辱，將率莫侯矣。
-
-Category:朝鮮

@@ -1,28 +1,23 @@
 ---
-title: "新唐书 卷62"
-date: 2026-05-19
+title: "新唐书 卷62 卷六十二 表第二 宰相中"
+date: 2026-05-24
 weight: 62
-tags: ["新唐书", "北宋", "欧阳修"]
+tags: ["新唐书", "北宋", "欧阳修、宋祁"]
 categories: ["史部"]
 draft: false
-summary: "新唐书卷62。新唐书二百二十五卷，宋欧阳修、宋祁等撰。..."
+summary: "新唐书卷62。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-{| align="center" border="2" cellspacing="1" cellpadding="0"
-|+ 表第二 宰相中
-|-----
-! bgcolor="#EFEFEF" WIDTH="40"  | 西元
-! bgcolor="#EFEFEF" WIDTH="100" |
-! bgcolor="#EFEFEF" WIDTH="700" | 宰相
-! bgcolor="#EFEFEF" WIDTH="40"  | 三師
-! bgcolor="#EFEFEF" WIDTH="300" | 三公
-|-----
-| ALIGN="center" | 713
-| ALIGN="center" HEIGHT="70" |開元元年癸丑
-| ALIGN="left" VALIGN="top"  |
+表第二 宰相中
+西元	　	宰相	三師	三公
+713	開元元年
+〈癸丑〉
 正月乙亥，吏部尚書蕭至忠為中書令。
 
 六月丙辰，兵部尚書郭元振同中書門下三品。
@@ -50,15 +45,13 @@ ShowShareButtons: false
 癸丑，幽求罷為太子少師，說貶為相州刺史。
 
 甲寅，黃門侍郎盧懷慎同紫微黃門平章事。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 八月壬寅，宋王成器為太尉，申王撝為司徒，邠王守禮為司空。
 
 九月丙寅，宋王憲罷為開府儀同三司。
-|-----
-| ALIGN="center" | 714
-| ALIGN="center" HEIGHT="70" |二年甲寅
-| ALIGN="left" VALIGN="top"  |
+
+714	二年
+〈甲寅〉
 正月己卯，懷慎檢校黃門監。
 
 甲申，和戎、大武諸軍節度使薛訥同紫微黃門三品。
@@ -66,19 +59,13 @@ ShowShareButtons: false
 五月辛亥，知古罷守工部尚書。
 
 七月，訥除名。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 715
-| ALIGN="center" HEIGHT="70" |三年乙卯
-| ALIGN="left" VALIGN="top"  |
+
+715	三年
+〈乙卯〉
 正月癸卯，懷慎檢校吏部尚書兼黃門監。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 716
-| ALIGN="center" HEIGHT="70" |四年丙辰
-| ALIGN="left" VALIGN="top"  |
+
+716	四年
+〈丙辰〉
 正月丙申，懷慎檢校吏部尚書。
 
 十一月己卯，懷慎去官養疾。
@@ -86,52 +73,27 @@ ShowShareButtons: false
 丙申，尚書左丞源乾曜為黃門侍郎、同紫微黃門平章事。
 
 閏十二月己亥，元之、幽求罷為開府儀同三司，乾曜罷為京兆尹。刑部尚書宋璟為吏部尚書兼黃門監，紫微侍郎蘇頲同紫微黃門平章事。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 717
-| ALIGN="center" HEIGHT="70" |五年丁巳
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 718
-| ALIGN="center" HEIGHT="70" |六年戊午
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 719
-| ALIGN="center" HEIGHT="70" |七年己未
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 720
-| ALIGN="center" HEIGHT="70" |八年庚申
-| ALIGN="left" VALIGN="top"  |
+
+717	五年
+〈丁巳〉
+718	六年
+〈戊午〉
+719	七年
+〈己未〉
+720	八年
+〈庚申〉
 正月辛巳，頲罷為禮部尚書，璟罷為開府儀同三司。京兆尹源乾曜為黃門侍郎、同中書門下平章事，并州大都督府長史張嘉貞守中書侍郎、同中書門下平章事。
 
 五月丁卯，乾曜為侍中，嘉貞為中書令。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 721
-| ALIGN="center" HEIGHT="70" |九年辛酉
-| ALIGN="left" VALIGN="top"  |
+
+721	九年
+〈辛酉〉
 九月癸亥，天兵軍節度使張說守兵部尚書、同中書門下三品。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 722
-| ALIGN="center" HEIGHT="70" |十年壬戌
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 723
-| ALIGN="center" HEIGHT="70" |十一年癸亥
-| ALIGN="left" VALIGN="top"  |
+
+722	十年
+〈壬戌〉
+723	十一年
+〈癸亥〉
 二月己酉，嘉貞貶豳州刺史。
 
 癸亥，說兼中書令。
@@ -141,131 +103,87 @@ ShowShareButtons: false
 五月己丑，晙持節朔方節度使，兼知河北、河東、隴右、河西兵馬使，六月巡邊。
 
 十二月庚申，晙貶蘄州刺史。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 724
-| ALIGN="center" HEIGHT="70" |十二年甲子
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
+724	十二年
+〈甲子〉
 十一月辛巳，申王撝薨。
-|-----
-| ALIGN="center" | 725
-| ALIGN="center" HEIGHT="70" |十三年乙丑
-| ALIGN="left" VALIGN="top"  |
+
+725	十三年
+〈乙丑〉
 十一月壬辰，說為尚書右丞相兼中書令，乾曜為尚書左丞相兼侍中。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 726
-| ALIGN="center" HEIGHT="70" |十四年丙寅
-| ALIGN="left" VALIGN="top"  |
+
+726	十四年
+〈丙寅〉
 四月丁巳，戶部侍郎李元紘為中書侍郎、同中書門下平章事。
 
 四月庚申，說罷為尚書右丞相。
 
 九月己丑，磧西節度使杜暹檢校黃門侍郎、同中書門下平章事。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 727
-| ALIGN="center" HEIGHT="70" |十五年丁卯
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 728
-| ALIGN="center" HEIGHT="70" |十六年戊辰
-| ALIGN="left" VALIGN="top"  |
+
+727	十五年
+〈丁卯〉
+728	十六年
+〈戊辰〉
 十一月癸巳，河西節度使蕭嵩守兵部尚書、同中書門下平章事。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 729
-| ALIGN="center" HEIGHT="70" |十七年己巳
-| ALIGN="left" VALIGN="top"  |
+
+729	十七年
+〈己巳〉
 六月甲戌，元紘罷為曹州刺史，乾曜罷為左丞相，暹罷為荊州大都督府長史，嵩為中書令；兵部侍郎裴光庭為中書侍郎，戶部侍郎宇文融為黃門侍郎，並同中書門下平章事。
 
 八月己卯，光庭兼御史大夫。
 
 九月壬子，融貶汝州刺史。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 730
-| ALIGN="center" HEIGHT="70" |十八年庚午
-| ALIGN="left" VALIGN="top"  |
+
+730	十八年
+〈庚午〉
 正月辛卯，光庭為侍中。四月乙丑，兼吏部尚書。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 731
-| ALIGN="center" HEIGHT="70" |十九年辛未
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 732
-| ALIGN="center" HEIGHT="70" |二十年壬申
-| ALIGN="left" VALIGN="top"  |
+
+731	十九年
+〈辛未〉
+732	二十年
+〈壬申〉
 十二月壬申，嵩為兵部尚書。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 六月丁丑，忠王浚為司徒。
-|-----
-| ALIGN="center" | 733
-| ALIGN="center" HEIGHT="70" |二十一年癸酉
-| ALIGN="left" VALIGN="top"  |
+
+733	二十一年
+〈癸酉〉
 三月乙巳，光庭薨。
 
 甲寅，尚書右丞韓休為黃門侍郎、同中書門下平章事。
 
 十二月丁巳，嵩罷為右丞相，休罷為檢校工部尚書。京兆尹裴耀卿守黃門侍郎、同中書門下平章事，前檢校中書侍郎起復張九齡為中書侍郎、同中書門下平章事。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 四月丁巳，宋王憲為太尉，薛王業為司徒。
-|-----
-| ALIGN="center" | 734
-| ALIGN="center" HEIGHT="70" |二十二年甲戌
-| ALIGN="left" VALIGN="top"  |
+
+734	二十二年
+〈甲戌〉
 五月戊子，耀卿為侍中，九齡為中書令，黃門侍郎李林甫為禮部尚書、同中書門下三品。
 
 七月甲申，九齡為河南開稻田使。
 
 八月，耀卿為江淮以南回造使。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 七月己巳，薛王業薨。
-|-----
-| ALIGN="center" | 735
-| ALIGN="center" HEIGHT="70" |二十三年乙亥
-| ALIGN="left" VALIGN="top"  |
+
+735	二十三年
+〈乙亥〉
 十一月壬寅，林甫為戶部尚書。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 736
-| ALIGN="center" HEIGHT="70" |二十四年丙子
-| ALIGN="left" VALIGN="top"  |
+
+736	二十四年
+〈丙子〉
 七月庚子，林甫為兵部尚書。
 
 十一月壬寅，耀卿罷為左丞相，九齡罷為右丞相。林甫兼中書令，朔方節度使牛仙客守工部尚書、同中書門下三品。
 
 十二月丙寅，仙客知門下省事。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 十二月戊申，慶王琮為司徒。
-|-----
-| ALIGN="center" | 737
-| ALIGN="center" HEIGHT="70" |二十五年丁丑
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 738
-| ALIGN="center" HEIGHT="70" |二十六年戊寅
-| ALIGN="left" VALIGN="top"  |
+
+737	二十五年
+〈丁丑〉
+738	二十六年
+〈戊寅〉
 正月乙亥，仙客守侍中。
 
 正月壬辰，林甫持節遙領隴右節度副大使，知節度事。
@@ -273,139 +191,81 @@ ShowShareButtons: false
 二月乙卯，仙客遙領河東節度使。
 
 五月乙酉，林甫遙領河西節度副大使，知節度事，仍判涼州事。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 六月庚子，忠王浚為皇太子。
-|-----
-| ALIGN="center" | 739
-| ALIGN="center" HEIGHT="70" |二十七年己卯
-| ALIGN="left" VALIGN="top"  |
+
+739	二十七年
+〈己卯〉
 四月己丑，林甫為吏部尚書，仙客為兵部尚書兼侍中。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 740
-| ALIGN="center" HEIGHT="70" |二十八年庚辰
-| ALIGN="left" VALIGN="top"  |
+
+740	二十八年
+〈庚辰〉
 十一月，仙客罷節度使。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 741
-| ALIGN="center" HEIGHT="70" |二十九年辛巳
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
+741	二十九年
+〈辛巳〉
 十一月庚戌，邠王守禮薨。
 
 辛未，宋王憲薨。
-|-----
-| ALIGN="center" | 742
-| ALIGN="center" HEIGHT="70" |天寶元年壬午
-| ALIGN="left" VALIGN="top"  |
+
+742	天寶元年
+〈壬午〉
 七月辛丑，仙客薨。
 
 八月丁丑，刑部侍郎李適之為左相。
 
 壬辰，林甫為尚書左僕射，適之兼兵部尚書。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 743
-| ALIGN="center" HEIGHT="70" |二年癸未
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 744
-| ALIGN="center" HEIGHT="70" |三載甲申
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 745
-| ALIGN="center" HEIGHT="70" |四載乙酉
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 746
-| ALIGN="center" HEIGHT="70" |五載丙戌
-| ALIGN="left" VALIGN="top"  |
+
+743	二年
+〈癸未〉
+744	三載
+〈甲申〉
+745	四載
+〈乙酉〉
+746	五載
+〈丙戌〉
 四月庚寅，適之罷為太子少保。
 
 丁酉，門下侍郎陳希烈同中書門下平章事。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 747
-| ALIGN="center" HEIGHT="70" |六載丁亥
-| ALIGN="left" VALIGN="top"  |
+
+747	六載
+〈丁亥〉
 三月甲辰，希烈為左相兼兵部尚書。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 748
-| ALIGN="center" HEIGHT="70" |七載戊子
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 749
-| ALIGN="center" HEIGHT="70" |八載己丑
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 750
-| ALIGN="center" HEIGHT="70" |九載庚寅
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 751
-| ALIGN="center" HEIGHT="70" |十載辛卯
-| ALIGN="left" VALIGN="top"  |
+
+748	七載
+〈戊子〉
+749	八載
+〈己丑〉
+750	九載
+〈庚寅〉
+751	十載
+〈辛卯〉
 正月丁酉，林甫遙領單於、安北副大都護，充朔方節度等使。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 752
-| ALIGN="center" HEIGHT="70" |十一載壬辰
-| ALIGN="left" VALIGN="top"  |
+
+752	十一載
+〈壬辰〉
 四月丙戌，林甫罷都護。
 
 十一月乙卯，林甫死。
 
 庚申，御史大夫判度支事、劍南節度使楊國忠為右相兼文部尚書。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 五月戊申，慶王琮薨。
-|-----
-| ALIGN="center" | 753
-| ALIGN="center" HEIGHT="70" |十二載癸巳
-| ALIGN="left" VALIGN="top"  |
+
+753	十二載
+〈癸巳〉
 十二月戊子，希烈為祕書省圖書使。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 754
-| ALIGN="center" HEIGHT="70" |十三載甲午
-| ALIGN="left" VALIGN="top"  |
+
+754	十三載
+〈甲午〉
 八月丙戌，希烈罷為太子太師。文部侍郎韋見素為武部尚書、同中書門下平章事，知門下省事。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 二月丁丑，楊國忠為司空。
-|-----
-| ALIGN="center" | 755
-| ALIGN="center" HEIGHT="70" |十四載乙未
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 756
-| ALIGN="center" HEIGHT="70" |至德元載丙申
-| ALIGN="left" VALIGN="top"  |
+
+755	十四載
+〈乙未〉
+756	至德元載
+〈丙申〉
 六月丙午，劍南節度使崔圓為中書侍郎、同中書門下平章事。
 
 七月甲子，憲部侍郎房琯為文部尚書，河西行軍司馬裴冕為中書侍郎，並同中書門下平章事。
@@ -417,13 +277,11 @@ ShowShareButtons: false
 十一月甲寅，憲部尚書李麟同中書門下平章事。
 
 戊午，渙為江南宣慰使。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 六月丙申，國忠死。
-|-----
-| ALIGN="center" | 757
-| ALIGN="center" HEIGHT="70" |二載丁酉
-| ALIGN="left" VALIGN="top"  |
+
+757	二載
+〈丁酉〉
 正月甲寅，圓自蜀來。
 
 三月辛酉，見素罷為左僕射，冕罷為右僕射。憲部尚書致仕苗晉卿為左相。
@@ -435,31 +293,27 @@ ShowShareButtons: false
 十二月甲寅，晉卿為中書侍郎、同中書門下平章事。
 
 戊午，圓為中書令，麟同中書門下三品，晉卿行侍中。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 四月戊寅，朔方節度使、同平章事郭子儀為司空。
 
 五月甲子，子儀罷司空。
 
 十二月戊午，河東節度使、同平章事李光弼守司空，子儀為司徒，廣平郡王俶為太尉，進封楚王。
-|-----
-| ALIGN="center" | 758
-| ALIGN="center" HEIGHT="70" |乾元元年戊戌
-| ALIGN="left" VALIGN="top"  |
+
+758	乾元元年
+〈戊戌〉
 五月戊子，鎬罷為荊州大都督府長史。
 
 乙未，圓罷為太子少師，麟罷為太子少傅。太常少卿王嶼為中書侍郎、同中書門下平章事。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 三月甲戌，楚王俶封成王。
 
 五月庚寅，俶為皇太子。
 
 八月丙辰，光弼為侍中，子儀兼中書令。
-|-----
-| ALIGN="center" | 759
-| ALIGN="center" HEIGHT="70" |二年己亥
-| ALIGN="left" VALIGN="top"  |
+
+759	二年
+〈己亥〉
 三月甲午，兵部侍郎呂諲同中書門下平章事，判度支。
 
 乙未，晉卿罷為太子太傅，嶼罷為刑部尚書。御史大夫、京兆尹李峴為吏部尚書，中書舍人李揆為中書侍郎，戶部侍郎第五琦，並同中書門下平章事。
@@ -471,46 +325,37 @@ ShowShareButtons: false
 十一月庚午，琦貶忠州刺史。
 
 十二月甲午，諲充勾當度支使；丙午，為黃門侍郎。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 760
-| ALIGN="center" HEIGHT="70" |上元元年庚子
-| ALIGN="left" VALIGN="top"  |
+
+760	上元元年
+〈庚子〉
 五月丙午，晉卿為侍中。
 
 壬子，諲罷為太子賓客。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 正月辛巳，光弼加太尉兼中書令。
 
 閏四月丁卯，河東節度副大使王思禮為司空。
-|-----
-| ALIGN="center" | 761
-| ALIGN="center" HEIGHT="70" |二年辛丑
-| ALIGN="left" VALIGN="top"  |
+
+761	二年
+〈辛丑〉
 二月癸未，揆貶袁州長史。河中節度使蕭華為中書侍郎、同中書門下平章事。
 
 四月己未，吏部侍郎裴遵慶為黃門侍郎、同中書門下平章事。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 三月戊戌，光弼罷太尉，復兼侍中。
 
 五月庚子，光弼復為太尉。思禮薨。
-|-----
-| ALIGN="center" | 762
-| ALIGN="center" HEIGHT="70" |寶應元年壬寅
-| ALIGN="left" VALIGN="top"  |
+
+762	寶應元年
+〈壬寅〉
 建辰月戊申，華罷為禮部尚書。戶部侍郎元載同中書門下平章事。
 
 五月丙寅，載行中書侍郎，勾當轉運租庸支度使。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 正月壬午，李輔國為司空；十月壬戌，死。
-|-----
-| ALIGN="center" | 763
-| ALIGN="center" HEIGHT="70" |廣德元年癸卯
-| ALIGN="left" VALIGN="top"  |
+
+763	廣德元年
+〈癸卯〉
 正月癸未，京兆尹劉晏為吏部尚書、同中書門下平章事。
 
 七月壬子，雍王適兼中書令。
@@ -518,13 +363,11 @@ ShowShareButtons: false
 十月壬辰，載判元帥行軍司馬。
 
 十二月乙未，晉卿罷為太子太保。檢校禮部尚書李峴為黃門侍郎、同中書門下平章事。遵慶罷為太子少傅。
-| ALIGN="left"   |
-| ALIGN="left" VALIGN="top"  |
+
 六月癸未，澤潞節度使李抱玉為司空兼兵部尚書。
-|-----
-| ALIGN="center" | 764
-| ALIGN="center" HEIGHT="70" |二年甲辰
-| ALIGN="left" VALIGN="top"  |
+
+764	二年
+〈甲辰〉
 正月乙卯，雍王適為皇太子。
 
 癸亥，峴罷為太子詹事，晏罷為太子賓客。右散騎常侍王縉為黃門侍郎，太常卿杜鴻漸為兵部侍郎，並同中書門下平章事。
@@ -534,51 +377,41 @@ ShowShareButtons: false
 八月丙寅，縉為侍中，持節都統河南、淮南、淮西、山南東道行營節度事。
 
 壬申，縉罷侍中；甲午，兼東都留守。
-| ALIGN="left" VALIGN="top"  |
+
 四月壬午，朔方行營節度使、尚書左僕射、同平章事兼太保僕固懷恩為太保。
-| ALIGN="left" VALIGN="top"  |
+
 七月乙酉，光弼薨。
 
 九月辛亥，子儀為太尉，抱玉為司徒。甲寅，子儀讓，罷之。
 
 十二月乙丑，子儀為尚書令。辛未，子儀讓，罷之。
-|-----
-| ALIGN="center" | 765
-| ALIGN="center" HEIGHT="70" |永泰元年乙巳
-| ALIGN="left" VALIGN="top"  |
+
+765	永泰元年
+〈乙巳〉
 八月庚辰，縉為河南副元帥。
-| ALIGN="left" VALIGN="top"  |
+
 九月丁酉，懷恩死。
-| ALIGN="left" VALIGN="top"  |
+
 三月丙午，抱玉讓司徒。
-|-----
-| ALIGN="center" | 766
-| ALIGN="center" HEIGHT="70" |大曆元年丙午
-| ALIGN="left" VALIGN="top"  |
+
+766	大曆元年
+〈丙午〉
 二月壬子，鴻漸為黃門侍郎、同中書門下平章事，兼成都尹，持節山南西道、劍南東川西川、邛南、西山等道副元帥，仍充劍南西川節度副大使。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 767
-| ALIGN="center" HEIGHT="70" |二年丁未
-| ALIGN="left" VALIGN="top"  |
+
+767	二年
+〈丁未〉
 六月丙戌，鴻漸自劍南追至。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 768
-| ALIGN="center" HEIGHT="70" |三年戊申
-| ALIGN="left" VALIGN="top"  |
+
+768	三年
+〈戊申〉
 閏六月庚午，縉兼幽州盧龍節度使；八月庚午，兼河東節度使。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
+
 閏六月己酉，子儀為司徒。
 
 庚午，魏博節度使田承嗣為司空，兼檢校尚書左僕射。
-|-----
-| ALIGN="center" | 769
-| ALIGN="center" HEIGHT="70" |四年己酉
-| ALIGN="left" VALIGN="top"  |
+
+769	四年
+〈己酉〉
 二月乙卯，鴻漸讓山、劍副元帥。
 
 六月戊申，縉罷副元帥、都統行營節度事。
@@ -590,73 +423,37 @@ ShowShareButtons: false
 丙子，尚書左僕射裴冕為同中書門下平章事。
 
 十二月戊戌，冕薨。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 770
-| ALIGN="center" HEIGHT="70" |五年庚午
-| ALIGN="left" VALIGN="top"  |
+
+770	五年
+〈庚午〉
 四月庚申，縉至自太原。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 771
-| ALIGN="center" HEIGHT="70" |六年辛亥
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 772
-| ALIGN="center" HEIGHT="70" |七年壬子
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 773
-| ALIGN="center" HEIGHT="70" |八年癸丑
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
+
+771	六年
+〈辛亥〉
+772	七年
+〈壬子〉
+773	八年
+〈癸丑〉
 二月戊申，承嗣為太尉。
-|-----
-| ALIGN="center" | 774
-| ALIGN="center" HEIGHT="70" |九年甲寅
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 775
-| ALIGN="center" HEIGHT="70" |十年乙卯
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 776
-| ALIGN="center" HEIGHT="70" |十一年丙辰
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 777
-| ALIGN="center" HEIGHT="70" |十二年丁巳
-| ALIGN="left" VALIGN="top"  |
+
+774	九年
+〈甲寅〉
+775	十年
+〈乙卯〉
+776	十一年
+〈丙辰〉
+777	十二年
+〈丁巳〉
 三月辛巳，載誅，縉貶括州刺史。
 
 四月壬午，太常卿楊綰為中書侍郎，禮部侍郎常袞為門下侍郎，並同中書門下平章事。
 
 七月己巳，綰薨。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 778
-| ALIGN="center" HEIGHT="70" |十三年戊午
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 779
-| ALIGN="center" HEIGHT="70" |十四年己未
-| ALIGN="left" VALIGN="top"  |
+
+778	十三年
+〈戊午〉
+779	十四年
+〈己未〉
 三月丁未，前淮西節度使、檢校司空、同平章事李忠臣本官同平章事。
 
 閏五月甲戌，袞貶河南少尹。河南少尹崔祐甫為門下侍郎、同中書門下平章事。
@@ -664,29 +461,23 @@ ShowShareButtons: false
 八月甲辰，懷州刺史喬琳為御史大夫，道州司馬楊炎為門下侍郎，並同中書門下平章事。
 
 十一月壬午，琳罷為工部尚書。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
+
 二月癸未，承嗣死。
 
 閏五月甲申，子儀加尚父，兼太尉、中書令。
 
 六月己亥，平盧淄青節度使、檢校司空、同平章事李正己為司徒，成德軍節度使、檢校司空、同平章事李寶臣為司空。
-|-----
-| ALIGN="center" | 780
-| ALIGN="center" HEIGHT="70" |建中元年庚辰
-| ALIGN="left" VALIGN="top"  |
+
+780	建中元年
+〈庚辰〉
 六月甲午，祐甫薨。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 781
-| ALIGN="center" HEIGHT="70" |二年辛酉
-| ALIGN="left" VALIGN="top"  |
+
+781	二年
+〈辛酉〉
 二月乙巳，炎為中書侍郎，御史大夫盧杞為門下侍郎、同中書門下平章事。
 
 七月庚申，永平軍節度使張鎰為中書侍郎、平章事。炎罷為左僕射。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
+
 正月戊辰，寶臣死。
 
 六月辛丑，子儀薨。
@@ -696,30 +487,23 @@ ShowShareButtons: false
 壬午，幽州隴右兼四鎮北庭行軍涇原節度使、檢校司空兼中書令朱泚為太尉。
 
 八月辛卯，正己死。
-|-----
-| ALIGN="center" | 782
-| ALIGN="center" HEIGHT="70" |三年壬戌
-| ALIGN="left" VALIGN="top"  |
+
+782	三年
+〈壬戌〉
 四月戊寅，鎰罷為鳳翔節度使。
 
 十月丙辰，吏部侍郎關播為中書侍郎、同中書門下平章事。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 783
-| ALIGN="center" HEIGHT="70" |四年癸亥
-| ALIGN="left" VALIGN="top"  |
+
+783	四年
+〈癸亥〉
 十月丁巳，戶部尚書蕭復為吏部尚書，吏部郎中劉從一為刑部侍郎，京兆府戶曹參軍、翰林學士姜公輔為諫議大夫，並同中書門下平章事。
 
 十一月癸巳，朔方節度使李懷光為中書令、朔方邠寧同華陝虢河中晉絳慈隰行營兵馬副元帥。
 
 十二月壬戌，杞貶新州司馬。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 784
-| ALIGN="center" HEIGHT="70" |興元元年甲子
-| ALIGN="left" VALIGN="top"  |
+
+784	興元元年
+〈甲子〉
 正月癸酉，播罷為刑部尚書。
 
 丙戌，吏部侍郎盧翰為兵部侍郎、同中書門下平章事。戊子，復為山南東西、荊湖、淮南、江西、鄂岳、浙江東西、福建、嶺南宣慰安撫使。
@@ -741,17 +525,15 @@ ShowShareButtons: false
 十月辛丑，檢校司徒李勉本官同中書門下平章事。十一月乙丑，復罷為左庶子。
 
 十二月己卯，勉加太清宮使，翰加太微宮使，從一集賢殿大學士。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
+
 二月甲子，李懷光為太尉，不拜。
 
 六月己酉，京畿、渭北、商華兵馬副元帥李晟為司徒、中書令。
 
 八月癸卯，晟為鳳翔隴右諸軍、涇原四鎮北庭行營兵馬元帥。
-|-----
-| ALIGN="center" | 785
-| ALIGN="center" HEIGHT="70" |貞元元年乙丑
-| ALIGN="left" VALIGN="top"  |
+
+785	貞元元年
+〈乙丑〉
 四月丙戌，瑊為河中招撫使。
 
 六月辛卯，西川節度使、同平章事張延賞為中書侍郎、同中書門下平章事。
@@ -759,13 +541,11 @@ ShowShareButtons: false
 八月己卯，河東節度使、檢校司徒、同平章事馬燧兼侍中。延賞罷為左僕射。
 
 九月辛亥，從一罷為戶部尚書。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
+
 八月甲戌，懷光伏誅。
-|-----
-| ALIGN="center" | 786
-| ALIGN="center" HEIGHT="70" |二年丙寅
-| ALIGN="left" VALIGN="top"  |
+
+786	二年
+〈丙寅〉
 正月壬寅，翰罷為太子賓客。吏部侍郎劉滋為左散騎常侍，給事中崔造，中書舍人齊映，並同中書門下平章事。
 
 癸丑，映判兵部，勉判刑部，滋判吏部、禮部，造判戶部、工部。
@@ -773,12 +553,9 @@ ShowShareButtons: false
 十二月丁巳，燧為綏銀麟勝招討使。
 
 庚申，造罷為右庶子。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 787
-| ALIGN="center" HEIGHT="70" |三年丁卯
-| ALIGN="left" VALIGN="top"  |
+
+787	三年
+〈丁卯〉
 正月壬寅，尚書左僕射張延賞同中書門下平章事。
 
 壬子，滋罷守左散騎常侍，映貶夔州刺史。兵部侍郎柳渾同中書門下平章事。
@@ -790,136 +567,87 @@ ShowShareButtons: false
 七月壬申，延賞薨。
 
 八月己丑，渾罷為散騎常侍。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
+
 三月丁未，晟為太尉。
 
 六月丙戌，馬燧為司徒兼侍中。
-|-----
-| ALIGN="center" | 788
-| ALIGN="center" HEIGHT="70" |四年戊辰
-| ALIGN="left" VALIGN="top"  |
+
+788	四年
+〈戊辰〉
 七月庚戌，瑊為邠寧慶副元帥。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 789
-| ALIGN="center" HEIGHT="70" |五年己巳
-| ALIGN="left" VALIGN="top"  |
+
+789	五年
+〈己巳〉
 二月庚子，御史大夫竇參為中書侍郎，大理卿董晉為門下侍郎，並同中書門下平章事。
 
 三月甲辰，泌薨。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 790
-| ALIGN="center" HEIGHT="70" |六年庚午
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 791
-| ALIGN="center" HEIGHT="70" |七年辛未
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 792
-| ALIGN="center" HEIGHT="70" |八年壬申
-| ALIGN="left" VALIGN="top"  |
+
+790	六年
+〈庚午〉
+791	七年
+〈辛未〉
+792	八年
+〈壬申〉
 三月丁丑，參兼吏部尚書，知選事。
 
 四月乙未，參貶郴州別駕。尚書左丞趙憬、兵部侍郎陸贄並中書侍郎、同中書門下平章事。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 793
-| ALIGN="center" HEIGHT="70" |九年癸酉
-| ALIGN="left" VALIGN="top"  |
+
+793	九年
+〈癸酉〉
 五月甲辰，憬為門下侍郎，義成軍節度使賈耽為尚書右僕射，尚書右丞盧邁，並同中書門下平章事。
 
 五月丙午，晉罷為禮部尚書。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
+
 正月己亥，抱真讓司徒，為檢校左僕射。
 
 六月壬寅，抱真卒。
 
 八月庚戌，晟薨。
-|-----
-| ALIGN="center" | 794
-| ALIGN="center" HEIGHT="70" |十年甲戌
-| ALIGN="left" VALIGN="top"  |
+
+794	十年
+〈甲戌〉
 十二月壬戌，贄罷為太子賓客。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 795
-| ALIGN="center" HEIGHT="70" |十一年乙亥
-| ALIGN="left" VALIGN="top"  |
+
+795	十一年
+〈乙亥〉
 正月乙亥，邁為中書侍郎。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
+
 八月辛亥，燧薨。
-|-----
-| ALIGN="center" | 796
-| ALIGN="center" HEIGHT="70" |十二年丙子
-| ALIGN="left" VALIGN="top"  |
+
+796	十二年
+〈丙子〉
 二月乙丑，瑊兼中書令。
 
 八月丙戌，憬薨。
 
 十月甲戌，右諫議大夫崔損、給事中趙宗儒並同中書門下平章事。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 797
-| ALIGN="center" HEIGHT="70" |十三年丁丑
-| ALIGN="left" VALIGN="top"  |
+
+797	十三年
+〈丁丑〉
 九月己丑，邁罷為太子賓客。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 798
-| ALIGN="center" HEIGHT="70" |十四年戊寅
-| ALIGN="left" VALIGN="top"  |
+
+798	十四年
+〈戊寅〉
 四月丁丑，損為脩八陵使。
 
 七月壬申，宗儒罷為太子右庶子。工部侍郎鄭餘慶為中書侍郎、同中書門下平章事。損為門下侍郎。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 799
-| ALIGN="center" HEIGHT="70" |十五年己卯
-| ALIGN="left" VALIGN="top"  |
+
+799	十五年
+〈己卯〉
 十二月辛未，瑊薨。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 800
-| ALIGN="center" HEIGHT="70" |十六年庚辰
-| ALIGN="left" VALIGN="top"  |
+
+800	十六年
+〈庚辰〉
 九月庚戌，餘慶貶郴州司馬。
 
 庚申，太常卿齊抗為中書侍郎、同中書門下平章事。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 801
-| ALIGN="center" HEIGHT="70" |十七年辛巳
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 802
-| ALIGN="center" HEIGHT="70" |十八年壬午
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 803
-| ALIGN="center" HEIGHT="70" |十九年癸未
-| ALIGN="left" VALIGN="top"  |
+
+801	十七年
+〈辛巳〉
+802	十八年
+〈壬午〉
+803	十九年
+〈癸未〉
 三月壬子，淮南節度使、檢校尚書左僕射、同平章事杜佑檢校司空、同中書門下平章事。
 
 七月己未，抗罷為太子賓客。
@@ -927,18 +655,11 @@ ShowShareButtons: false
 閏十一月丁巳，損薨。
 
 十二月庚申，太常卿高郢為中書侍郎，吏部侍郎鄭珣瑜為門下侍郎，並同中書門下平章事。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 804
-| ALIGN="center" HEIGHT="70" |二十年甲申
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 805
-| ALIGN="center" HEIGHT="70" |永貞元年乙酉
-| ALIGN="left" VALIGN="top"  |
+
+804	二十年
+〈甲申〉
+805	永貞元年
+〈乙酉〉
 二月辛亥，吏部侍郎韋執誼為尚書右丞、同中書門下平章事。
 
 三月丙戌，佑檢校司徒。
@@ -958,87 +679,63 @@ ShowShareButtons: false
 十一月壬申，執誼貶崖州司馬。
 
 十二月壬戌，中書舍人鄭絪為中書侍郎、同中書門下平章事。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 806
-| ALIGN="center" HEIGHT="70" |元和元年丙戌
-| ALIGN="left" VALIGN="top"  |
+
+806	元和元年
+〈丙戌〉
 十一月庚戌，餘慶罷為河南尹。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
+
 四月丁未，佑為司徒。
-|-----
-| ALIGN="center" | 807
-| ALIGN="center" HEIGHT="70" |二年丁亥
-| ALIGN="left" VALIGN="top"  |
+
+807	二年
+〈丁亥〉
 正月乙巳，黃裳罷為檢校司空、同平章事、河中節度使。
 
 己酉，御史中丞武元衡為門下侍郎，中書舍人李吉甫為中書侍郎，並同中書門下平章事。
 
 八月辛酉，元衡兼判戶部；十月丁卯，檢校吏部尚書兼門下侍郎、同平章事、西川節度使。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 808
-| ALIGN="center" HEIGHT="70" |三年戊子
-| ALIGN="left" VALIGN="top"  |
+
+808	三年
+〈戊子〉
 九月庚寅，山南東道節度使、檢校尚書左僕射于頔守司空、同中書門下平章事。
 
 丙申，戶部侍郎裴垍守中書侍郎、同中書門下平章事，絪為門下侍郎。
 
 戊戌，吉甫檢校兵部尚書兼中書侍郎、同平章事、淮南節度使。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
+
 九月庚寅，頔守司空。
-|-----
-| ALIGN="center" | 809
-| ALIGN="center" HEIGHT="70" |四年己丑
-| ALIGN="left" VALIGN="top"  |
+
+809	四年
+〈己丑〉
 二月丁卯，絪罷為太子賓客。給事中李藩為門下侍郎、同中書門下平章事。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 810
-| ALIGN="center" HEIGHT="70" |五年庚寅
-| ALIGN="left" VALIGN="top"  |
+
+810	五年
+〈庚寅〉
 九月丙寅，太常卿權德輿為禮部尚書、同中書門下平章事。
 
-十一月庚申，罷為兵部尚書。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 811
-| ALIGN="center" HEIGHT="70" |六年辛卯
-| ALIGN="left" VALIGN="top"  |
+十一月庚申，�罷為兵部尚書。
+
+811	六年
+〈辛卯〉
 正月庚申，李吉甫為中書侍郎、同中書門下平章事。
 
 二月壬申，藩罷為太子詹事。
 
 十一月己丑，戶部侍郎李絳為中書侍郎、同中書門下平章事。
-| ALIGN="left" |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 812
-| ALIGN="center" HEIGHT="70" |七年壬辰
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" VALIGN="top"  |
+
+812	七年
+〈壬辰〉
 六月癸巳，佑為太保致仕。
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 813
-| ALIGN="center" HEIGHT="70" |八年癸巳
-| ALIGN="left" VALIGN="top"  |
+
+813	八年
+〈癸巳〉
 正月辛未，德輿罷為禮部尚書。
 
 三月甲子，武元衡為門下侍郎、平章事；己巳，至自西川。
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" VALIGN="top"  |
+
 二月丁酉，頔貶恩王傅。
-|-----
-| ALIGN="center" | 814
-| ALIGN="center" HEIGHT="70" |九年甲午
-| ALIGN="left" VALIGN="top"  |
+
+814	九年
+〈甲午〉
 二月癸卯，絳罷為禮部尚書。
 
 六月壬寅，河中節度使張弘靖為刑部尚書、同中書門下平章事。
@@ -1048,22 +745,17 @@ ShowShareButtons: false
 十二月庚戌，弘靖守中書侍郎。
 
 戊辰，尚書右丞韋貫之同中書門下平章事。
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 815
-| ALIGN="center" HEIGHT="70" |十年乙未
-| ALIGN="left" VALIGN="top"  |
+
+815	十年
+〈乙未〉
 六月癸卯，元衡為盜殺。
 
 乙丑，御史中丞裴度為中書侍郎、同中書門下平章事。
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" VALIGN="top"  |
+
 正月乙酉，宣武軍節度使韓弘守司徒。
-|-----
-| ALIGN="center" | 816
-| ALIGN="center" HEIGHT="70" |十一年丙申
-| ALIGN="left" VALIGN="top"  |
+
+816	十一年
+〈丙申〉
 正月己巳，弘靖罷檢校吏部尚書、河東節度使。
 
 二月乙巳，中書舍人李逢吉為門下侍郎、同中書門下平章事，貫之為中書侍郎。
@@ -1071,12 +763,9 @@ ShowShareButtons: false
 八月壬寅，貫之罷為吏部侍郎。
 
 十二月丁未，翰林學士、工部侍郎王涯為中書侍郎、同中書門下平章事。
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 817
-| ALIGN="center" HEIGHT="70" |十二年丁酉
-| ALIGN="left" VALIGN="top"  |
+
+817	十二年
+〈丁酉〉
 七月丙辰，度守門下侍郎、同平章事、彰義節度、淮西宣慰處置使，戶部侍郎崔群為中書侍郎、同中書門下平章事。
 
 九月丁未，逢吉罷為劍南東川節度使。
@@ -1084,12 +773,9 @@ ShowShareButtons: false
 十月甲戌，淮南節度使、檢校尚書右僕射李鄘為門下侍郎、同中書門下平章事。
 
 十二月戊寅，鄘至。
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 818
-| ALIGN="center" HEIGHT="70" |十三年戊戌
-| ALIGN="left" VALIGN="top"  |
+
+818	十三年
+〈戊戌〉
 三月戊戌，鄘罷為戶部尚書。御史大夫李夷簡為門下侍郎、同中書門下平章事。
 
 七月辛丑，夷簡檢校左僕射、同平章事、淮南節度使。
@@ -1097,12 +783,9 @@ ShowShareButtons: false
 八月壬子，涯罷為兵部侍郎。
 
 九月甲辰，戶部侍郎、判度支皇甫鎛，工部侍郎、諸道鹽鐵轉運使程異，並同中書門下平章事，判使各如故。
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 819
-| ALIGN="center" HEIGHT="70" |十四年己亥
-| ALIGN="left" VALIGN="top"  |
+
+819	十四年
+〈己亥〉
 四月辛未，異薨。
 
 丙子，度檢校左僕射，兼門下侍郎、同平章事、河東節度使。
@@ -1112,12 +795,9 @@ ShowShareButtons: false
 八月己酉，宣武節度使、守司徒兼侍中，同平章事韓弘兼中書令。
 
 十二月己卯，群罷為湖南觀察使。
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" VALIGN="top"  |
-|-----
-| ALIGN="center" | 820
-| ALIGN="center" HEIGHT="70" |十五年庚子
-| ALIGN="left" VALIGN="top"  |
+
+820	十五年
+〈庚子〉
 正月壬午，鎛罷度支。
 
 閏月丁未，鎛貶崖州司戶參軍。
@@ -1127,8 +807,7 @@ ShowShareButtons: false
 七月丁卯，楚罷為宣歙觀察使。
 
 八月戊戌，俛為門下侍郎，御史中丞崔植守中書侍郎、同中書門下平章事。
-| ALIGN="left" VALIGN="top"  |
-| ALIGN="left" VALIGN="top"  |
+
 九月戊午，檢校左僕射、河東節度使裴度守司空。
 
-|}
+本北宋作品在全世界都属于公有领域，因为作者逝世已经遠遠超过100年。

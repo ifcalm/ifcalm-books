@@ -1,17 +1,22 @@
 ---
-title: "后汉书 卷98"
-date: 2026-05-19
+title: "后汉书 卷98 第八 祭祀中 北郊 明堂 辟雍 靈臺 迎氣 增祀 六宗 老子"
+date: 2026-05-24
 weight: 98
 tags: ["后汉书", "南朝宋", "范晔"]
 categories: ["史部"]
 draft: false
-summary: "后汉书卷98。后汉书一百二十卷，南朝宋范晔撰。..."
+summary: "后汉书卷98。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-}}
+志第八　　祭祀中
+
+北郊　明堂　辟雍　灵臺　迎气　增祀　六宗　老子
 
 是年初营北郊，明堂、辟雍、灵台未用事。迁吕太后于园。上簿太后尊号曰高皇后，当配地，郊高庙。语在《光武纪》。
 

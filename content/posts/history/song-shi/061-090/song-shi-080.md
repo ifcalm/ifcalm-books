@@ -1,16 +1,20 @@
 ---
-title: "宋史 卷80"
-date: 2026-05-19
+title: "宋史 卷80 卷八十 志第三十三 律曆十三"
+date: 2026-05-24
 weight: 80
-tags: ["宋史", "元", "脱脱"]
+tags: ["宋史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "宋史卷80。宋史四百九十六卷，元脱脱等撰。..."
+summary: "宋史卷80。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
+紀元曆
 步交會
 
 交終分：一十九萬八千三百七十七、秒八百八十。

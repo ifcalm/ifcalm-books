@@ -1,18 +1,20 @@
 ---
-title: "辽史 卷110"
-date: 2026-05-19
+title: "辽史 卷110 卷一百一十 列傳第四十: 姦臣上"
+date: 2026-05-24
 weight: 110
-tags: ["辽史", "元", "脱脱"]
+tags: ["辽史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "辽史卷110。辽史一百一十六卷，元脱脱等撰。..."
+summary: "辽史卷110。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-◎奸臣上
-○耶律乙辛張孝傑耶律燕哥蕭十三
+奸臣上 ○耶律乙辛張孝傑耶律燕哥蕭十三
 
 《春秋》褒貶，善惡並書，示勸懲也。故遷、固傳佞幸、酷吏，歐陽修則並奸臣錄之，將俾為君者知所鑒，為臣者知所戒。此天地聖賢之心，國家安危之機，治亂之原也。遼自耶律乙辛而下，奸臣十人，其敗國皆足以為戒，故列於《傳》。
 

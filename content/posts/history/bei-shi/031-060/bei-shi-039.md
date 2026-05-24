@@ -1,16 +1,20 @@
 ---
-title: "北史 卷39"
-date: 2026-05-19
+title: "北史 卷39 卷三十九 列傳第二十七: 薛安都 劉休賓 房法壽 畢眾敬 羊祉"
+date: 2026-05-24
 weight: 39
 tags: ["北史", "唐", "李延寿"]
 categories: ["史部"]
 draft: false
-summary: "北史卷39。北史一百卷，唐李延寿撰。..."
+summary: "北史卷39。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
+薛安都 劉休賓 房法壽 畢眾敬 羊祉
 列傳第二十七
 
 薛安都劉休賓房法壽曾孫豹玄孫彥謙族子景伯畢眾敬曾孫義雲羊祉子深孫肅弟子敦烈

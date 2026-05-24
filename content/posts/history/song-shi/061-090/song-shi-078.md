@@ -1,16 +1,20 @@
 ---
-title: "宋史 卷78"
-date: 2026-05-19
+title: "宋史 卷78 卷七十八 志第三十一 律曆十一"
+date: 2026-05-24
 weight: 78
-tags: ["宋史", "元", "脱脱"]
+tags: ["宋史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "宋史卷78。宋史四百九十六卷，元脱脱等撰。..."
+summary: "宋史卷78。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
+觀天曆
 步交會
 
 交終分：三十二萬七千三百六十一、秒九千九百四十四。
