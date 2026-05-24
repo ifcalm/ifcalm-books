@@ -2,8 +2,7 @@
 title: "宋史 卷6"
 date: 2026-05-24
 weight: 6
-tags: ["宋史", "元", "脱脱等"]
-categories: ["史部"]
+tags: ["宋史"]
 draft: false
 summary: "宋史卷6。"
 showToc: false

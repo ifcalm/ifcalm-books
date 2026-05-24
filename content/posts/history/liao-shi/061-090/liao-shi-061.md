@@ -2,8 +2,7 @@
 title: "辽史 卷61"
 date: 2026-05-24
 weight: 61
-tags: ["辽史", "元", "脱脱等"]
-categories: ["史部"]
+tags: ["辽史"]
 draft: false
 summary: "辽史卷61。"
 showToc: false

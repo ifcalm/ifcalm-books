@@ -2,8 +2,7 @@
 title: "辽史 卷42"
 date: 2026-05-24
 weight: 42
-tags: ["辽史", "元", "脱脱等"]
-categories: ["史部"]
+tags: ["辽史"]
 draft: false
 summary: "辽史卷42。"
 showToc: false

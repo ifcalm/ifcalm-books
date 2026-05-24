@@ -2,8 +2,7 @@
 title: "后汉书 卷19"
 date: 2026-05-24
 weight: 19
-tags: ["后汉书", "南朝宋", "范晔"]
-categories: ["史部"]
+tags: ["后汉书"]
 draft: false
 summary: "后汉书卷19。"
 showToc: false

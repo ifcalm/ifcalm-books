@@ -2,8 +2,7 @@
 title: "晋书 卷57"
 date: 2026-05-24
 weight: 57
-tags: ["晋书", "唐", "房玄龄等"]
-categories: ["史部"]
+tags: ["晋书"]
 draft: false
 summary: "晋书卷57。"
 showToc: false

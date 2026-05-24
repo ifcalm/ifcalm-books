@@ -2,8 +2,7 @@
 title: "新五代史 卷2"
 date: 2026-05-24
 weight: 2
-tags: ["新五代史", "北宋", "欧阳修"]
-categories: ["史部"]
+tags: ["新五代史"]
 draft: false
 summary: "新五代史卷2。"
 showToc: false

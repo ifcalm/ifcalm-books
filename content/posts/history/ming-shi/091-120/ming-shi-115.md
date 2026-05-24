@@ -2,8 +2,7 @@
 title: "明史 卷115"
 date: 2026-05-24
 weight: 115
-tags: ["明史", "清", "张廷玉等"]
-categories: ["史部"]
+tags: ["明史"]
 draft: false
 summary: "明史卷115。"
 showToc: false

@@ -2,8 +2,7 @@
 title: "史记 卷54"
 date: 2026-05-24
 weight: 54
-tags: ["史记", "西汉", "司马迁"]
-categories: ["史部"]
+tags: ["史记"]
 draft: false
 summary: "史记卷54。"
 showToc: false

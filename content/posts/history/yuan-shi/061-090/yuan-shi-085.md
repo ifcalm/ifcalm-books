@@ -2,8 +2,7 @@
 title: "元史 卷85"
 date: 2026-05-24
 weight: 85
-tags: ["元史", "明", "宋濂等"]
-categories: ["史部"]
+tags: ["元史"]
 draft: false
 summary: "元史卷85。"
 showToc: false

@@ -2,8 +2,7 @@
 title: "元史 卷166"
 date: 2026-05-24
 weight: 166
-tags: ["元史", "明", "宋濂等"]
-categories: ["史部"]
+tags: ["元史"]
 draft: false
 summary: "元史卷166。"
 showToc: false

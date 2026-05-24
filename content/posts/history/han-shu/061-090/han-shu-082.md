@@ -2,8 +2,7 @@
 title: "汉书 卷82"
 date: 2026-05-24
 weight: 82
-tags: ["汉书", "东汉", "班固"]
-categories: ["史部"]
+tags: ["汉书"]
 draft: false
 summary: "汉书卷82。"
 showToc: false

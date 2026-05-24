@@ -2,8 +2,7 @@
 title: "梁书 卷39"
 date: 2026-05-24
 weight: 39
-tags: ["梁书", "唐", "姚思廉"]
-categories: ["史部"]
+tags: ["梁书"]
 draft: false
 summary: "梁书卷39。"
 showToc: false

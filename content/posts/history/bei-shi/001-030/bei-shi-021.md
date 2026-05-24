@@ -2,8 +2,7 @@
 title: "北史 卷21"
 date: 2026-05-24
 weight: 21
-tags: ["北史", "唐", "李延寿"]
-categories: ["史部"]
+tags: ["北史"]
 draft: false
 summary: "北史卷21。"
 showToc: false

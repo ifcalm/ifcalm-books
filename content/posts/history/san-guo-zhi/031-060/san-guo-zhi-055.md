@@ -2,8 +2,7 @@
 title: "三国志 卷55"
 date: 2026-05-24
 weight: 55
-tags: ["三国志", "西晋", "陈寿"]
-categories: ["史部"]
+tags: ["三国志"]
 draft: false
 summary: "三国志卷55。"
 showToc: false

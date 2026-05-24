@@ -2,8 +2,7 @@
 title: "南史 卷32"
 date: 2026-05-24
 weight: 32
-tags: ["南史", "唐", "李延寿"]
-categories: ["史部"]
+tags: ["南史"]
 draft: false
 summary: "南史卷32。"
 showToc: false

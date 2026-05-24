@@ -2,8 +2,7 @@
 title: "宋书 卷65"
 date: 2026-05-24
 weight: 65
-tags: ["宋书", "南朝梁", "沈约"]
-categories: ["史部"]
+tags: ["宋书"]
 draft: false
 summary: "宋书卷65。"
 showToc: false

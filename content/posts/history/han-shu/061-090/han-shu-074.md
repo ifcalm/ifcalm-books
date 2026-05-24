@@ -2,8 +2,7 @@
 title: "汉书 卷74"
 date: 2026-05-24
 weight: 74
-tags: ["汉书", "东汉", "班固"]
-categories: ["史部"]
+tags: ["汉书"]
 draft: false
 summary: "汉书卷74。"
 showToc: false

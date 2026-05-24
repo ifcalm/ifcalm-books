@@ -2,8 +2,7 @@
 title: "旧五代史 卷2"
 date: 2026-05-24
 weight: 2
-tags: ["旧五代史", "北宋", "薛居正等"]
-categories: ["史部"]
+tags: ["旧五代史"]
 draft: false
 summary: "旧五代史卷2。"
 showToc: false

@@ -2,8 +2,7 @@
 title: "明史 卷226"
 date: 2026-05-24
 weight: 226
-tags: ["明史", "清", "张廷玉等"]
-categories: ["史部"]
+tags: ["明史"]
 draft: false
 summary: "明史卷226。"
 showToc: false

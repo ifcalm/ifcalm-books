@@ -291,16 +291,13 @@ def write_frontmatter(
     weight: int,
     tags: list[str],
     body: str = "",
-    categories: list[str] | None = None,
 ) -> None:
-    categories = categories or ["史部"]
     lines = [
         "---",
         f"title: {yaml_string(title)}",
         f"date: {DATE}",
         f"weight: {weight}",
         f"tags: {yaml_list(tags)}",
-        f"categories: {yaml_list(categories)}",
         "draft: false",
         f"summary: {yaml_string(summary)}",
         "showToc: false",
@@ -319,7 +316,7 @@ def ensure_indexes() -> None:
         "二十四史",
         "二十四史，中国古代各朝撰写的二十四部史书的总称。",
         5,
-        ["二十四史", "史部"],
+        ["二十四史"],
     )
     for idx, hist in enumerate(HISTORIES, start=1):
         hist_dir = OUT_BASE / hist["slug"]
@@ -328,7 +325,7 @@ def ensure_indexes() -> None:
             hist["title"],
             hist["summary"],
             idx * 10,
-            [hist["title"], hist["dynasty"]],
+            [hist["title"]],
         )
         for group_idx, start in enumerate(range(1, hist["volumes"] + 1, 30), start=1):
             end = min(start + 29, hist["volumes"])
@@ -596,7 +593,7 @@ def generate_history(source_dir: Path, hist: dict, use_wikisource_fallback: bool
             title,
             f"{hist['title']}卷{vol}。",
             vol,
-            [hist["title"], hist["dynasty"], hist["author"]],
+            [hist["title"]],
             body=body,
         )
         written += 1

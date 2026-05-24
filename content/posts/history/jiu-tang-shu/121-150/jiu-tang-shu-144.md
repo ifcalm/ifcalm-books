@@ -2,8 +2,7 @@
 title: "旧唐书 卷144"
 date: 2026-05-24
 weight: 144
-tags: ["旧唐书", "后晋", "刘昫等"]
-categories: ["史部"]
+tags: ["旧唐书"]
 draft: false
 summary: "旧唐书卷144。"
 showToc: false

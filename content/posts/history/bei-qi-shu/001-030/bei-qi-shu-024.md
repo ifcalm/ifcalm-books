@@ -2,8 +2,7 @@
 title: "北齐书 卷24"
 date: 2026-05-24
 weight: 24
-tags: ["北齐书", "唐", "李百药"]
-categories: ["史部"]
+tags: ["北齐书"]
 draft: false
 summary: "北齐书卷24。"
 showToc: false

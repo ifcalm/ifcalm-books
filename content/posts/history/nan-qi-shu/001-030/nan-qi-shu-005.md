@@ -2,8 +2,7 @@
 title: "南齐书 卷5"
 date: 2026-05-24
 weight: 5
-tags: ["南齐书", "南朝梁", "萧子显"]
-categories: ["史部"]
+tags: ["南齐书"]
 draft: false
 summary: "南齐书卷5。"
 showToc: false

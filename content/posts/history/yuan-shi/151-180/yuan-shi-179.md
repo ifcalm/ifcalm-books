@@ -2,8 +2,7 @@
 title: "元史 卷179"
 date: 2026-05-24
 weight: 179
-tags: ["元史", "明", "宋濂等"]
-categories: ["史部"]
+tags: ["元史"]
 draft: false
 summary: "元史卷179。"
 showToc: false

@@ -2,8 +2,7 @@
 title: "新五代史 卷37"
 date: 2026-05-24
 weight: 37
-tags: ["新五代史", "北宋", "欧阳修"]
-categories: ["史部"]
+tags: ["新五代史"]
 draft: false
 summary: "新五代史卷37。"
 showToc: false

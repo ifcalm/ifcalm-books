@@ -2,8 +2,7 @@
 title: "梁书 卷27"
 date: 2026-05-24
 weight: 27
-tags: ["梁书", "唐", "姚思廉"]
-categories: ["史部"]
+tags: ["梁书"]
 draft: false
 summary: "梁书卷27。"
 showToc: false

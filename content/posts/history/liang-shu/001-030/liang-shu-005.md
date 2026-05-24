@@ -2,8 +2,7 @@
 title: "梁书 卷5"
 date: 2026-05-24
 weight: 5
-tags: ["梁书", "唐", "姚思廉"]
-categories: ["史部"]
+tags: ["梁书"]
 draft: false
 summary: "梁书卷5。"
 showToc: false

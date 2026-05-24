@@ -2,8 +2,7 @@
 title: "宋书 卷72"
 date: 2026-05-24
 weight: 72
-tags: ["宋书", "南朝梁", "沈约"]
-categories: ["史部"]
+tags: ["宋书"]
 draft: false
 summary: "宋书卷72。"
 showToc: false

@@ -2,8 +2,7 @@
 title: "魏书 卷4"
 date: 2026-05-24
 weight: 4
-tags: ["魏书", "北齐", "魏收"]
-categories: ["史部"]
+tags: ["魏书"]
 draft: false
 summary: "魏书卷4。"
 showToc: false

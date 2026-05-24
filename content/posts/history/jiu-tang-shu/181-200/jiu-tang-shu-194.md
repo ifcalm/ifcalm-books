@@ -2,8 +2,7 @@
 title: "旧唐书 卷194"
 date: 2026-05-24
 weight: 194
-tags: ["旧唐书", "后晋", "刘昫等"]
-categories: ["史部"]
+tags: ["旧唐书"]
 draft: false
 summary: "旧唐书卷194。"
 showToc: false

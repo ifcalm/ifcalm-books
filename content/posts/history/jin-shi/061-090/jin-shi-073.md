@@ -2,8 +2,7 @@
 title: "金史 卷73"
 date: 2026-05-24
 weight: 73
-tags: ["金史", "元", "脱脱等"]
-categories: ["史部"]
+tags: ["金史"]
 draft: false
 summary: "金史卷73。"
 showToc: false

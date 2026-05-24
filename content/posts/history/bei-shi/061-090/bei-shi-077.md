@@ -2,8 +2,7 @@
 title: "北史 卷77"
 date: 2026-05-24
 weight: 77
-tags: ["北史", "唐", "李延寿"]
-categories: ["史部"]
+tags: ["北史"]
 draft: false
 summary: "北史卷77。"
 showToc: false

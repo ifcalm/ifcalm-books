@@ -2,8 +2,7 @@
 title: "周书 卷13"
 date: 2026-05-24
 weight: 13
-tags: ["周书", "唐", "令狐德棻等"]
-categories: ["史部"]
+tags: ["周书"]
 draft: false
 summary: "周书卷13。"
 showToc: false

@@ -2,8 +2,7 @@
 title: "新五代史 卷69"
 date: 2026-05-24
 weight: 69
-tags: ["新五代史", "北宋", "欧阳修"]
-categories: ["史部"]
+tags: ["新五代史"]
 draft: false
 summary: "新五代史卷69。"
 showToc: false

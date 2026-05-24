@@ -2,8 +2,7 @@
 title: "史记 卷107"
 date: 2026-05-24
 weight: 107
-tags: ["史记", "西汉", "司马迁"]
-categories: ["史部"]
+tags: ["史记"]
 draft: false
 summary: "史记卷107。"
 showToc: false

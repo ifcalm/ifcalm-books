@@ -2,8 +2,7 @@
 title: "旧五代史 卷137"
 date: 2026-05-24
 weight: 137
-tags: ["旧五代史", "北宋", "薛居正等"]
-categories: ["史部"]
+tags: ["旧五代史"]
 draft: false
 summary: "旧五代史卷137。"
 showToc: false

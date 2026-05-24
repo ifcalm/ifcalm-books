@@ -2,8 +2,7 @@
 title: "汉书 卷67"
 date: 2026-05-24
 weight: 67
-tags: ["汉书", "东汉", "班固"]
-categories: ["史部"]
+tags: ["汉书"]
 draft: false
 summary: "汉书卷67。"
 showToc: false

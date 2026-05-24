@@ -2,8 +2,7 @@
 title: "史记 卷97"
 date: 2026-05-24
 weight: 97
-tags: ["史记", "西汉", "司马迁"]
-categories: ["史部"]
+tags: ["史记"]
 draft: false
 summary: "史记卷97。"
 showToc: false

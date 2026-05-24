@@ -2,8 +2,7 @@
 title: "南史 卷53"
 date: 2026-05-24
 weight: 53
-tags: ["南史", "唐", "李延寿"]
-categories: ["史部"]
+tags: ["南史"]
 draft: false
 summary: "南史卷53。"
 showToc: false

@@ -2,8 +2,7 @@
 title: "汉书 卷100"
 date: 2026-05-24
 weight: 100
-tags: ["汉书", "东汉", "班固"]
-categories: ["史部"]
+tags: ["汉书"]
 draft: false
 summary: "汉书卷100。"
 showToc: false

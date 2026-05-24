@@ -2,8 +2,7 @@
 title: "魏书 卷75"
 date: 2026-05-24
 weight: 75
-tags: ["魏书", "北齐", "魏收"]
-categories: ["史部"]
+tags: ["魏书"]
 draft: false
 summary: "魏书卷75。"
 showToc: false

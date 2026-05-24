@@ -2,8 +2,7 @@
 title: "史记 卷67"
 date: 2026-05-24
 weight: 67
-tags: ["史记", "西汉", "司马迁"]
-categories: ["史部"]
+tags: ["史记"]
 draft: false
 summary: "史记卷67。"
 showToc: false

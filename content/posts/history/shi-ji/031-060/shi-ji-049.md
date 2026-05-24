@@ -2,8 +2,7 @@
 title: "史记 卷49"
 date: 2026-05-24
 weight: 49
-tags: ["史记", "西汉", "司马迁"]
-categories: ["史部"]
+tags: ["史记"]
 draft: false
 summary: "史记卷49。"
 showToc: false

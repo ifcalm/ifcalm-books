@@ -2,8 +2,7 @@
 title: "宋书 卷9"
 date: 2026-05-24
 weight: 9
-tags: ["宋书", "南朝梁", "沈约"]
-categories: ["史部"]
+tags: ["宋书"]
 draft: false
 summary: "宋书卷9。"
 showToc: false

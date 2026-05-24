@@ -2,8 +2,7 @@
 title: "汉书 卷8"
 date: 2026-05-24
 weight: 8
-tags: ["汉书", "东汉", "班固"]
-categories: ["史部"]
+tags: ["汉书"]
 draft: false
 summary: "汉书卷8。"
 showToc: false

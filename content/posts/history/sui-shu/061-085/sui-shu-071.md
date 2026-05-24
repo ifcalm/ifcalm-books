@@ -2,8 +2,7 @@
 title: "隋书 卷71"
 date: 2026-05-24
 weight: 71
-tags: ["隋书", "唐", "魏徵等"]
-categories: ["史部"]
+tags: ["隋书"]
 draft: false
 summary: "隋书卷71。"
 showToc: false

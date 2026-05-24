@@ -2,8 +2,7 @@
 title: "旧唐书 卷17"
 date: 2026-05-24
 weight: 17
-tags: ["旧唐书", "后晋", "刘昫等"]
-categories: ["史部"]
+tags: ["旧唐书"]
 draft: false
 summary: "旧唐书卷17。"
 showToc: false

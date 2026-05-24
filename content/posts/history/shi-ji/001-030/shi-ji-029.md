@@ -2,8 +2,7 @@
 title: "史记 卷29"
 date: 2026-05-24
 weight: 29
-tags: ["史记", "西汉", "司马迁"]
-categories: ["史部"]
+tags: ["史记"]
 draft: false
 summary: "史记卷29。"
 showToc: false

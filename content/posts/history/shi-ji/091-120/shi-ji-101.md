@@ -2,8 +2,7 @@
 title: "史记 卷101"
 date: 2026-05-24
 weight: 101
-tags: ["史记", "西汉", "司马迁"]
-categories: ["史部"]
+tags: ["史记"]
 draft: false
 summary: "史记卷101。"
 showToc: false

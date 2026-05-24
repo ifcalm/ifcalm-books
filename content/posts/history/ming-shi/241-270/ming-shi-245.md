@@ -2,8 +2,7 @@
 title: "明史 卷245"
 date: 2026-05-24
 weight: 245
-tags: ["明史", "清", "张廷玉等"]
-categories: ["史部"]
+tags: ["明史"]
 draft: false
 summary: "明史卷245。"
 showToc: false

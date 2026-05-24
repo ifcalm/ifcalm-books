@@ -2,8 +2,7 @@
 title: "隋书 卷23"
 date: 2026-05-24
 weight: 23
-tags: ["隋书", "唐", "魏徵等"]
-categories: ["史部"]
+tags: ["隋书"]
 draft: false
 summary: "隋书卷23。"
 showToc: false

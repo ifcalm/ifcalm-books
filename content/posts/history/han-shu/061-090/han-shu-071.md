@@ -2,8 +2,7 @@
 title: "汉书 卷71"
 date: 2026-05-24
 weight: 71
-tags: ["汉书", "东汉", "班固"]
-categories: ["史部"]
+tags: ["汉书"]
 draft: false
 summary: "汉书卷71。"
 showToc: false

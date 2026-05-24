@@ -2,8 +2,7 @@
 title: "宋史 卷281"
 date: 2026-05-24
 weight: 281
-tags: ["宋史", "元", "脱脱等"]
-categories: ["史部"]
+tags: ["宋史"]
 draft: false
 summary: "宋史卷281。"
 showToc: false

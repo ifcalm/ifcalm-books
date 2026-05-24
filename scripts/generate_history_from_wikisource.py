@@ -185,10 +185,8 @@ def write_frontmatter(
     summary: str,
     weight: int,
     tags: list[str],
-    categories: list[str] | None = None,
     body: str = "",
 ) -> None:
-    categories = categories or ["史部"]
     content = "\n".join(
         [
             "---",
@@ -196,7 +194,6 @@ def write_frontmatter(
             f"date: {DATE}",
             f"weight: {weight}",
             f"tags: {yaml_list(tags)}",
-            f"categories: {yaml_list(categories)}",
             "draft: false",
             f"summary: {yaml_string(summary)}",
             "showToc: false",
@@ -218,18 +215,17 @@ def ensure_indexes() -> None:
         "二十四史",
         "二十四史，中国古代各朝撰写的二十四部史书的总称。",
         5,
-        ["二十四史", "史部"],
+        ["二十四史"],
     )
 
     for idx, hist in enumerate(HISTORIES, start=1):
         hist_dir = OUT_BASE / hist["slug"]
-        tags = [hist["title"], hist["dynasty"]]
         write_frontmatter(
             hist_dir / "_index.md",
             hist["title"],
             hist["summary"],
             idx * 10,
-            tags,
+            [hist["title"]],
         )
 
         for group_idx, start in enumerate(range(1, hist["volumes"] + 1, 30), start=1):
@@ -561,7 +557,7 @@ def generate_volume(hist: dict, vol: int, titles: list[str], force: bool, delay:
 
     title = f"{hist['title']} 卷{vol}"
     summary = f"{hist['title']}卷{vol}。{hist['summary']}"
-    tags = [hist["title"], hist["dynasty"], hist["author"]]
+    tags = [hist["title"]]
     write_frontmatter(out_file, title, summary, vol, tags, body=body)
     return True, f"{len(body)} chars from {len(parts)} page(s)"
 

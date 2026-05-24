@@ -2,8 +2,7 @@
 title: "南史 卷51"
 date: 2026-05-24
 weight: 51
-tags: ["南史", "唐", "李延寿"]
-categories: ["史部"]
+tags: ["南史"]
 draft: false
 summary: "南史卷51。"
 showToc: false

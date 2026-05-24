@@ -2,8 +2,7 @@
 title: "元史 卷142"
 date: 2026-05-24
 weight: 142
-tags: ["元史", "明", "宋濂等"]
-categories: ["史部"]
+tags: ["元史"]
 draft: false
 summary: "元史卷142。"
 showToc: false

@@ -2,8 +2,7 @@
 title: "晋书 卷116"
 date: 2026-05-24
 weight: 116
-tags: ["晋书", "唐", "房玄龄等"]
-categories: ["史部"]
+tags: ["晋书"]
 draft: false
 summary: "晋书卷116。"
 showToc: false

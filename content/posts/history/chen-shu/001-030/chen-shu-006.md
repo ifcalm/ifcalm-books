@@ -2,8 +2,7 @@
 title: "陈书 卷6"
 date: 2026-05-24
 weight: 6
-tags: ["陈书", "唐", "姚思廉"]
-categories: ["史部"]
+tags: ["陈书"]
 draft: false
 summary: "陈书卷6。"
 showToc: false

@@ -2,8 +2,7 @@
 title: "北齐书 卷9"
 date: 2026-05-24
 weight: 9
-tags: ["北齐书", "唐", "李百药"]
-categories: ["史部"]
+tags: ["北齐书"]
 draft: false
 summary: "北齐书卷9。"
 showToc: false

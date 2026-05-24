@@ -2,8 +2,7 @@
 title: "魏书 卷74"
 date: 2026-05-24
 weight: 74
-tags: ["魏书", "北齐", "魏收"]
-categories: ["史部"]
+tags: ["魏书"]
 draft: false
 summary: "魏书卷74。"
 showToc: false

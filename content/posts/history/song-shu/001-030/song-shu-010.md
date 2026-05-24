@@ -2,8 +2,7 @@
 title: "宋书 卷10"
 date: 2026-05-24
 weight: 10
-tags: ["宋书", "南朝梁", "沈约"]
-categories: ["史部"]
+tags: ["宋书"]
 draft: false
 summary: "宋书卷10。"
 showToc: false

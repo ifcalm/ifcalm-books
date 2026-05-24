@@ -2,8 +2,7 @@
 title: "旧五代史 卷32"
 date: 2026-05-24
 weight: 32
-tags: ["旧五代史", "北宋", "薛居正等"]
-categories: ["史部"]
+tags: ["旧五代史"]
 draft: false
 summary: "旧五代史卷32。"
 showToc: false

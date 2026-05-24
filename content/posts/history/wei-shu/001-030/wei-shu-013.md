@@ -2,8 +2,7 @@
 title: "魏书 卷13"
 date: 2026-05-24
 weight: 13
-tags: ["魏书", "北齐", "魏收"]
-categories: ["史部"]
+tags: ["魏书"]
 draft: false
 summary: "魏书卷13。"
 showToc: false

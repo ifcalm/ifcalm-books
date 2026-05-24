@@ -2,8 +2,7 @@
 title: "旧五代史 卷88"
 date: 2026-05-24
 weight: 88
-tags: ["旧五代史", "北宋", "薛居正等"]
-categories: ["史部"]
+tags: ["旧五代史"]
 draft: false
 summary: "旧五代史卷88。"
 showToc: false

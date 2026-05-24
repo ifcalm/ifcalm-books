@@ -2,8 +2,7 @@
 title: "明史 卷277"
 date: 2026-05-24
 weight: 277
-tags: ["明史", "清", "张廷玉等"]
-categories: ["史部"]
+tags: ["明史"]
 draft: false
 summary: "明史卷277。"
 showToc: false

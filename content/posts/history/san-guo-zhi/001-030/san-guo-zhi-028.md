@@ -2,8 +2,7 @@
 title: "三国志 卷28"
 date: 2026-05-24
 weight: 28
-tags: ["三国志", "西晋", "陈寿"]
-categories: ["史部"]
+tags: ["三国志"]
 draft: false
 summary: "三国志卷28。"
 showToc: false

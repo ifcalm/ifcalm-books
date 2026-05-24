@@ -2,8 +2,7 @@
 title: "明史 卷66"
 date: 2026-05-24
 weight: 66
-tags: ["明史", "清", "张廷玉等"]
-categories: ["史部"]
+tags: ["明史"]
 draft: false
 summary: "明史卷66。"
 showToc: false

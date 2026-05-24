@@ -2,8 +2,7 @@
 title: "旧五代史 卷8"
 date: 2026-05-24
 weight: 8
-tags: ["旧五代史", "北宋", "薛居正等"]
-categories: ["史部"]
+tags: ["旧五代史"]
 draft: false
 summary: "旧五代史卷8。"
 showToc: false

@@ -2,8 +2,7 @@
 title: "汉书 卷80"
 date: 2026-05-24
 weight: 80
-tags: ["汉书", "东汉", "班固"]
-categories: ["史部"]
+tags: ["汉书"]
 draft: false
 summary: "汉书卷80。"
 showToc: false

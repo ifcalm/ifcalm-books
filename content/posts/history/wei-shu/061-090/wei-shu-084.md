@@ -2,8 +2,7 @@
 title: "魏书 卷84"
 date: 2026-05-24
 weight: 84
-tags: ["魏书", "北齐", "魏收"]
-categories: ["史部"]
+tags: ["魏书"]
 draft: false
 summary: "魏书卷84。"
 showToc: false

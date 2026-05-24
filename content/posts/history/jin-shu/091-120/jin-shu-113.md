@@ -2,8 +2,7 @@
 title: "晋书 卷113"
 date: 2026-05-24
 weight: 113
-tags: ["晋书", "唐", "房玄龄等"]
-categories: ["史部"]
+tags: ["晋书"]
 draft: false
 summary: "晋书卷113。"
 showToc: false

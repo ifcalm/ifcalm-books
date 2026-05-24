@@ -2,8 +2,7 @@
 title: "元史 卷148"
 date: 2026-05-24
 weight: 148
-tags: ["元史", "明", "宋濂等"]
-categories: ["史部"]
+tags: ["元史"]
 draft: false
 summary: "元史卷148。"
 showToc: false

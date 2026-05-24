@@ -2,8 +2,7 @@
 title: "南史 卷73"
 date: 2026-05-24
 weight: 73
-tags: ["南史", "唐", "李延寿"]
-categories: ["史部"]
+tags: ["南史"]
 draft: false
 summary: "南史卷73。"
 showToc: false

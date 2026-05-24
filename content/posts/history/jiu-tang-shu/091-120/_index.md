@@ -3,7 +3,6 @@ title: "旧唐书 卷91-120"
 date: 2026-05-24
 weight: 4
 tags: ["旧唐书"]
-categories: ["史部"]
 draft: false
 summary: "旧唐书卷91至卷120。"
 showToc: false

@@ -2,8 +2,7 @@
 title: "史记 卷69"
 date: 2026-05-24
 weight: 69
-tags: ["史记", "西汉", "司马迁"]
-categories: ["史部"]
+tags: ["史记"]
 draft: false
 summary: "史记卷69。"
 showToc: false

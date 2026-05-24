@@ -2,8 +2,7 @@
 title: "元史 卷54"
 date: 2026-05-24
 weight: 54
-tags: ["元史", "明", "宋濂等"]
-categories: ["史部"]
+tags: ["元史"]
 draft: false
 summary: "元史卷54。"
 showToc: false

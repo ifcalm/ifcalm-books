@@ -2,8 +2,7 @@
 title: "新唐书 卷128"
 date: 2026-05-24
 weight: 128
-tags: ["新唐书", "北宋", "欧阳修、宋祁"]
-categories: ["史部"]
+tags: ["新唐书"]
 draft: false
 summary: "新唐书卷128。"
 showToc: false

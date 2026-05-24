@@ -2,8 +2,7 @@
 title: "后汉书 卷62"
 date: 2026-05-24
 weight: 62
-tags: ["后汉书", "南朝宋", "范晔"]
-categories: ["史部"]
+tags: ["后汉书"]
 draft: false
 summary: "后汉书卷62。"
 showToc: false

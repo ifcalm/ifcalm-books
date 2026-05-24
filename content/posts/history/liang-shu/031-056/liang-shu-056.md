@@ -2,8 +2,7 @@
 title: "梁书 卷56"
 date: 2026-05-24
 weight: 56
-tags: ["梁书", "唐", "姚思廉"]
-categories: ["史部"]
+tags: ["梁书"]
 draft: false
 summary: "梁书卷56。"
 showToc: false

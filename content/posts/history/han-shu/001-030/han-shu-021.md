@@ -2,8 +2,7 @@
 title: "汉书 卷21"
 date: 2026-05-24
 weight: 21
-tags: ["汉书", "东汉", "班固"]
-categories: ["史部"]
+tags: ["汉书"]
 draft: false
 summary: "汉书卷21。"
 showToc: false

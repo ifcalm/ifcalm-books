@@ -2,8 +2,7 @@
 title: "宋史 卷73"
 date: 2026-05-24
 weight: 73
-tags: ["宋史", "元", "脱脱等"]
-categories: ["史部"]
+tags: ["宋史"]
 draft: false
 summary: "宋史卷73。"
 showToc: false

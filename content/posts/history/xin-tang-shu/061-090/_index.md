@@ -3,7 +3,6 @@ title: "新唐书 卷61-90"
 date: 2026-05-24
 weight: 3
 tags: ["新唐书"]
-categories: ["史部"]
 draft: false
 summary: "新唐书卷61至卷90。"
 showToc: false

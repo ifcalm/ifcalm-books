@@ -2,8 +2,7 @@
 title: "周书 卷20"
 date: 2026-05-24
 weight: 20
-tags: ["周书", "唐", "令狐德棻等"]
-categories: ["史部"]
+tags: ["周书"]
 draft: false
 summary: "周书卷20。"
 showToc: false

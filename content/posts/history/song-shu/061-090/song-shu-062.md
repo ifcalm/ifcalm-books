@@ -2,8 +2,7 @@
 title: "宋书 卷62"
 date: 2026-05-24
 weight: 62
-tags: ["宋书", "南朝梁", "沈约"]
-categories: ["史部"]
+tags: ["宋书"]
 draft: false
 summary: "宋书卷62。"
 showToc: false

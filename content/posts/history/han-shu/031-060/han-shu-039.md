@@ -2,8 +2,7 @@
 title: "汉书 卷39"
 date: 2026-05-24
 weight: 39
-tags: ["汉书", "东汉", "班固"]
-categories: ["史部"]
+tags: ["汉书"]
 draft: false
 summary: "汉书卷39。"
 showToc: false

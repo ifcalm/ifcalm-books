@@ -2,8 +2,7 @@
 title: "魏书 卷89"
 date: 2026-05-24
 weight: 89
-tags: ["魏书", "北齐", "魏收"]
-categories: ["史部"]
+tags: ["魏书"]
 draft: false
 summary: "魏书卷89。"
 showToc: false

@@ -2,8 +2,7 @@
 title: "金史 卷132"
 date: 2026-05-24
 weight: 132
-tags: ["金史", "元", "脱脱等"]
-categories: ["史部"]
+tags: ["金史"]
 draft: false
 summary: "金史卷132。"
 showToc: false

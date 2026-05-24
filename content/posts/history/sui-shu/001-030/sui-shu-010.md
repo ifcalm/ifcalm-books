@@ -2,8 +2,7 @@
 title: "隋书 卷10"
 date: 2026-05-24
 weight: 10
-tags: ["隋书", "唐", "魏徵等"]
-categories: ["史部"]
+tags: ["隋书"]
 draft: false
 summary: "隋书卷10。"
 showToc: false

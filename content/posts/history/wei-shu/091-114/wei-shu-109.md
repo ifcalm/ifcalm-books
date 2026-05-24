@@ -2,8 +2,7 @@
 title: "魏书 卷109"
 date: 2026-05-24
 weight: 109
-tags: ["魏书", "北齐", "魏收"]
-categories: ["史部"]
+tags: ["魏书"]
 draft: false
 summary: "魏书卷109。"
 showToc: false

@@ -2,8 +2,7 @@
 title: "南齐书 卷41"
 date: 2026-05-24
 weight: 41
-tags: ["南齐书", "南朝梁", "萧子显"]
-categories: ["史部"]
+tags: ["南齐书"]
 draft: false
 summary: "南齐书卷41。"
 showToc: false

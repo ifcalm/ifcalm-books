@@ -2,8 +2,7 @@
 title: "汉书 卷7"
 date: 2026-05-24
 weight: 7
-tags: ["汉书", "东汉", "班固"]
-categories: ["史部"]
+tags: ["汉书"]
 draft: false
 summary: "汉书卷7。"
 showToc: false

@@ -3,7 +3,6 @@ title: "新唐书 卷181-210"
 date: 2026-05-24
 weight: 7
 tags: ["新唐书"]
-categories: ["史部"]
 draft: false
 summary: "新唐书卷181至卷210。"
 showToc: false

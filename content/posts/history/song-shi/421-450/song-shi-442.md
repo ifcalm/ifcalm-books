@@ -2,8 +2,7 @@
 title: "宋史 卷442"
 date: 2026-05-24
 weight: 442
-tags: ["宋史", "元", "脱脱等"]
-categories: ["史部"]
+tags: ["宋史"]
 draft: false
 summary: "宋史卷442。"
 showToc: false

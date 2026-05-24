@@ -2,8 +2,7 @@
 title: "梁书 卷11"
 date: 2026-05-24
 weight: 11
-tags: ["梁书", "唐", "姚思廉"]
-categories: ["史部"]
+tags: ["梁书"]
 draft: false
 summary: "梁书卷11。"
 showToc: false

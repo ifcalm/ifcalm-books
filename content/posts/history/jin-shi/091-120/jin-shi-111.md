@@ -2,8 +2,7 @@
 title: "金史 卷111"
 date: 2026-05-24
 weight: 111
-tags: ["金史", "元", "脱脱等"]
-categories: ["史部"]
+tags: ["金史"]
 draft: false
 summary: "金史卷111。"
 showToc: false

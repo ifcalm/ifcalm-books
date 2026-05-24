@@ -2,8 +2,7 @@
 title: "隋书 卷80"
 date: 2026-05-24
 weight: 80
-tags: ["隋书", "唐", "魏徵等"]
-categories: ["史部"]
+tags: ["隋书"]
 draft: false
 summary: "隋书卷80。"
 showToc: false

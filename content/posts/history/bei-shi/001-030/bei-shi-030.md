@@ -2,8 +2,7 @@
 title: "北史 卷30"
 date: 2026-05-24
 weight: 30
-tags: ["北史", "唐", "李延寿"]
-categories: ["史部"]
+tags: ["北史"]
 draft: false
 summary: "北史卷30。"
 showToc: false

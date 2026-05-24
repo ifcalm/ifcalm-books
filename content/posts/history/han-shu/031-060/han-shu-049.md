@@ -2,8 +2,7 @@
 title: "汉书 卷49"
 date: 2026-05-24
 weight: 49
-tags: ["汉书", "东汉", "班固"]
-categories: ["史部"]
+tags: ["汉书"]
 draft: false
 summary: "汉书卷49。"
 showToc: false

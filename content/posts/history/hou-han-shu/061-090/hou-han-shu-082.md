@@ -2,8 +2,7 @@
 title: "后汉书 卷82"
 date: 2026-05-24
 weight: 82
-tags: ["后汉书", "南朝宋", "范晔"]
-categories: ["史部"]
+tags: ["后汉书"]
 draft: false
 summary: "后汉书卷82。"
 showToc: false

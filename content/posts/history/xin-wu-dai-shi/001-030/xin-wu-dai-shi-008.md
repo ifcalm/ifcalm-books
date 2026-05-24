@@ -2,8 +2,7 @@
 title: "新五代史 卷8"
 date: 2026-05-24
 weight: 8
-tags: ["新五代史", "北宋", "欧阳修"]
-categories: ["史部"]
+tags: ["新五代史"]
 draft: false
 summary: "新五代史卷8。"
 showToc: false

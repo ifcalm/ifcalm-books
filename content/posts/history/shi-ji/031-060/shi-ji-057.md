@@ -2,8 +2,7 @@
 title: "史记 卷57"
 date: 2026-05-24
 weight: 57
-tags: ["史记", "西汉", "司马迁"]
-categories: ["史部"]
+tags: ["史记"]
 draft: false
 summary: "史记卷57。"
 showToc: false

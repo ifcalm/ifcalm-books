@@ -2,8 +2,7 @@
 title: "元史 卷1"
 date: 2026-05-24
 weight: 1
-tags: ["元史", "明", "宋濂等"]
-categories: ["史部"]
+tags: ["元史"]
 draft: false
 summary: "元史卷1。"
 showToc: false

@@ -2,8 +2,7 @@
 title: "隋书 卷82"
 date: 2026-05-24
 weight: 82
-tags: ["隋书", "唐", "魏徵等"]
-categories: ["史部"]
+tags: ["隋书"]
 draft: false
 summary: "隋书卷82。"
 showToc: false

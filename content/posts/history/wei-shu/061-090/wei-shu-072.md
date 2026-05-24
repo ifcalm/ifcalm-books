@@ -2,8 +2,7 @@
 title: "魏书 卷72"
 date: 2026-05-24
 weight: 72
-tags: ["魏书", "北齐", "魏收"]
-categories: ["史部"]
+tags: ["魏书"]
 draft: false
 summary: "魏书卷72。"
 showToc: false
