@@ -1,5 +1,5 @@
 ---
-title: "明史 卷185 卷一百八十五 列傳第七十三 李敏 賈俊 黃紱 張悅 佀鍾 曾鑑 梁璟 徐恪 李介 黃珂 王鴻儒 叢蘭 吳世忠"
+title: "明史 卷185"
 date: 2026-05-24
 weight: 185
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷185。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李敏〈（葉淇）〉賈俊〈（劉璋）〉黃紱張悅〈（張鎣）〉似鐘曾鑒梁璟〈（王詔）〉徐恪李介〈（子昆）〉黃珂王鴻儒叢蘭吳世忠

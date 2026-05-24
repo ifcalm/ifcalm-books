@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷72 卷72 陽尼 賈思伯 李叔虎 路恃慶 房亮 曹世表 潘永基 朱元旭"
+title: "魏书 卷72"
 date: 2026-05-24
 weight: 72
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷72。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陽尼　賈思伯　李叔虎　路恃慶　房亮　曹世表　潘永基　朱元旭

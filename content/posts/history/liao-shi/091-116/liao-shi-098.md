@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷98 卷九十八 列傳第二十八: 蕭兀納 耶律儼 劉伸 耶律胡呂"
+title: "辽史 卷98"
 date: 2026-05-24
 weight: 98
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷98。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭兀納耶律儼劉伸耶律胡呂

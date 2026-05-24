@@ -1,5 +1,5 @@
 ---
-title: "元史 卷134 卷一百三十四 列傳第二十一: 撒吉思 月合乃 昔班 鐵連 愛薛 闊闊 禿忽魯 唐仁祖 朵兒赤 和尚 劉容 迦魯納答思 闊里吉思 小雲石脫忽憐 斡羅思 朵羅台弟闊闊出 子脫歡 也先不花"
+title: "元史 卷134"
 date: 2026-05-24
 weight: 134
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷134。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 撒吉思

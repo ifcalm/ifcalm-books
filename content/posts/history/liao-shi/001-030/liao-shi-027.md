@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷27 卷二十七 本紀第二十七: 天祚皇帝一"
+title: "辽史 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 天祚皇帝，諱延禧，字延甯，小字阿果。道宗之孫，父順宗大孝順聖皇帝，母貞順皇后蕭氏。大康元年生。六歲封梁王，加守太尉，兼中書令。後三年，進封燕國王。大安七年，總北南院樞密使事，加尚書令，為天下兵馬大元帥。

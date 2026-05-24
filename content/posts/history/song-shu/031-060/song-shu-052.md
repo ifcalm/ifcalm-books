@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷52 卷五十二 列傳第十二 庾悅 王誕 謝景仁 袁湛 褚叔度"
+title: "宋书 卷52"
 date: 2026-05-24
 weight: 52
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷52。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 庾悅

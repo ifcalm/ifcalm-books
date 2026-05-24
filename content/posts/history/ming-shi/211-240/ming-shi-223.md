@@ -1,5 +1,5 @@
 ---
-title: "明史 卷223 卷二百二十三 列傳第一百十一 盛應期 朱衡 潘季馴 萬恭 吳桂芳 王宗沐 劉東星 徐貞明"
+title: "明史 卷223"
 date: 2026-05-24
 weight: 223
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷223。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 盛應期朱衡〈（翁大立潘誌伊）〉潘季馴萬恭吳桂芳〈（傅希摯）〉王宗沐〈（子士崧士琦士昌從子士性）〉劉東星〈（胡瓚）〉徐貞明〈（伍袁萃）〉

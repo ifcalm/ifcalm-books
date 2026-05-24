@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷132 卷一百三十二 列傳第八十二: 李抱玉 李抱真 王虔休 盧從史 李芃 李澄"
+title: "旧唐书 卷132"
 date: 2026-05-24
 weight: 132
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷132。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李抱玉　李抱真　王虔休　盧從史　李芃李澄 族弟元素

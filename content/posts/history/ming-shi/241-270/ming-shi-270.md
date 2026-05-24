@@ -1,5 +1,5 @@
 ---
-title: "明史 卷270 卷二百七十 列傳第一百五十八 馬世龍 賀虎臣 沈有容 張可大 魯欽 秦良玉 龍在田"
+title: "明史 卷270"
 date: 2026-05-24
 weight: 270
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷270。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 馬世龍〈（楊肇基）〉賀虎臣〈（子贊誠）〉沈有容張可大〈（弟可仕）〉魯欽〈（子宗文）〉秦良玉龍在田馬世龍，字蒼元，寧夏人。由世職舉武會試，歷宣府遊擊。

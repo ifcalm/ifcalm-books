@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷77 卷77 宋翻 辛雄 羊深 楊機 高崇"
+title: "魏书 卷77"
 date: 2026-05-24
 weight: 77
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷77。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宋翻　辛雄　羊深　楊機　高崇

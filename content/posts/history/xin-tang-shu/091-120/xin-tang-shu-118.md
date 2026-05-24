@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷118 卷一百一十八 列傳第四十三 張韋韓宋辛二李裴"
+title: "新唐书 卷118"
 date: 2026-05-24
 weight: 118
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷118。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張韋韓宋辛二李裴

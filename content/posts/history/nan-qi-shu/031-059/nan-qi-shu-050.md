@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷50 卷五十 列傳第三十一 文二王 明七王"
+title: "南齐书 卷50"
 date: 2026-05-24
 weight: 50
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷50。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷五十‧列傳第三十一

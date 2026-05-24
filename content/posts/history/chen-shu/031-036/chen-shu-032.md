@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷32 卷三十二 列傳第二十六: 孝行"
+title: "陈书 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孔子曰：「夫聖人之德，何以加於孝乎！」孝者百行之本，人倫之至極也。凡在性靈，孰不由此。若乃奉生盡養，送終盡哀，或泣血三年，絕漿七日，思蓼莪之慕切，追顧復之恩深，或德感乾坤，誠貫幽顯，在於歷代，蓋有人矣。陳承梁室喪亂，風漓化薄，及跡隱閻閭，無聞視聽，今之採綴，以備闕云。

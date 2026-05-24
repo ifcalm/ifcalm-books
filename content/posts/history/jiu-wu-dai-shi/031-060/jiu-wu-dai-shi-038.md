@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷38 卷三十八 唐書14: 明宗本紀四"
+title: "旧五代史 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 天成二年春正月癸丑朔，帝御明堂殿受朝賀，仗衛如常儀。製曰：「王者祗敬宗祧，統臨寰宇，必順體元之典，特新製義之文。朕以眇躬，獲承丕構，襲三百年之休運，繼二十聖之耿光。馭朽納隍，夕惕之心罔怠；法天師古，日躋之道惟勤。今則載戢干戈，渾同書軌，荷上穹之眷祐，契兆庶之樂推。檢玉泥金，非敢期於薄德；耕田鑿井，誠有慕於前王。將陳享謁之儀，即備郊丘之禮，宜更稱謂，永耀簡編。今改名為亶，凡在中外，宜體朕懷。」宣製訖，百僚稱賀，有司告郊廟社稷。

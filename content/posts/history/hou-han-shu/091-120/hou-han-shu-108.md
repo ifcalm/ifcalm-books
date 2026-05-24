@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷108 第十八 五行六 日蝕 日抱 日赤無光 日黃珥 日中黑 虹貫日 月蝕非其月"
+title: "后汉书 卷108"
 date: 2026-05-24
 weight: 108
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷108。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十八　　五行六

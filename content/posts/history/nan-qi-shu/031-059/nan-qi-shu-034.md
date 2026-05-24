@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷34 卷三十四 列傳第十五 虞玩之 劉休 沈沖 庾杲之 王諶"
+title: "南齐书 卷34"
 date: 2026-05-24
 weight: 34
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷34。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷三十四‧列傳第十五

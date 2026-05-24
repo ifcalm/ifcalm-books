@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷136 卷一百三十六 列傳第八十六: 竇參 齊映 劉滋 盧邁 崔損 齊抗"
+title: "旧唐书 卷136"
 date: 2026-05-24
 weight: 136
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷136。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 竇參，字時中，工部尚書誕之玄孫。父審言，聞喜尉，以參貴贈吏部尚書。參習法令，通政術，性矜嚴，強直而果斷。少以門廕，累官至萬年尉。時同僚有直官曹者，將夕，聞親疾，請參代之。會獄囚亡走，京兆尹按直簿，將奏，參遽請曰：「彼以不及狀謁，參實代之，宜當罪。」坐貶江夏尉，人多義之。

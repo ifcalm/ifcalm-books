@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷14 卷14 神元平文諸帝子孫"
+title: "魏书 卷14"
 date: 2026-05-24
 weight: 14
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷14。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 上谷公紇羅，神元皇帝之曾孫也。初，從太祖自獨孤如賀蘭部，招集舊戶，得三百家，與弟建議，勸賀訥推太祖為主。及太祖登王位，紇羅常翼衞左右。又從征伐，有大功。紇羅有援立謀，特見優賞。及即帝位，與弟建同日賜爵為公。卒。

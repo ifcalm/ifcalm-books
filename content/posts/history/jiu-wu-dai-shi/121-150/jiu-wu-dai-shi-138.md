@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷138 卷一百三十八 外國列傳二: 吐蕃 回鶻 高麗 渤海靺鞨 黑水靺鞨 新羅 党項 昆明部落 于闐 占城 牂牁蠻"
+title: "旧五代史 卷138"
 date: 2026-05-24
 weight: 138
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷138。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 吐蕃 回鶻 高麗 渤海靺鞨 黑水靺鞨 新羅 党項 昆明部落 于闐 占城 牂牁蠻

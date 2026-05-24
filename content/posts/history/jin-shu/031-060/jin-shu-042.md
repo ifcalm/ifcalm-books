@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷42 卷四十二 列傳第十二 王渾 王濬 唐彬"
+title: "晋书 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王渾〈（子濟）〉王濬 唐彬

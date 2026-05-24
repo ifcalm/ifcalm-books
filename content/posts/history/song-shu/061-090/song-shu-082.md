@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷82 卷八十二 列傳第四十二 周朗 沈懷文"
+title: "宋书 卷82"
 date: 2026-05-24
 weight: 82
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷82。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第四十二　　周朗 沈懷文

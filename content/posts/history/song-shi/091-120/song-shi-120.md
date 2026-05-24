@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷120 卷一百二十 志第七十三 禮二十三"
+title: "宋史 卷120"
 date: 2026-05-24
 weight: 120
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷120。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 群臣上表儀宰臣赴上儀朝省集議班位臣僚上馬之制臣僚呵引之制

@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷8 卷8 世宗紀 Volum 8"
+title: "魏书 卷8"
 date: 2026-05-24
 weight: 8
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷8。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 世宗宣武皇帝，諱恪，高祖孝文皇帝第二子。母曰高夫人，初，夢為日所逐，避於牀下，日化為龍，繞己數匝，寤而驚悸，既而有娠。太和七年閏四月，生帝於平城宮。二十一年正月甲午，立為皇太子。

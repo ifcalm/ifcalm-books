@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷54 卷54 列傳第19 王長述 李衍 伊婁謙 田仁恭 元亨 杜整 李徹 崔彭"
+title: "隋书 卷54"
 date: 2026-05-24
 weight: 54
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷54。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷五十四列傳第十九

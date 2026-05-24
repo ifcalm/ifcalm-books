@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷99 卷九十九 列傳第二十九: 蕭巖壽 耶律撒剌 蕭速撒 耶律撻不也 蕭撻不也 蕭忽古 耶律石柳"
+title: "辽史 卷99"
 date: 2026-05-24
 weight: 99
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷99。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭巖壽耶律撒剌蕭速撒耶律撻不也蕭撻不也蕭忽古耶律石柳

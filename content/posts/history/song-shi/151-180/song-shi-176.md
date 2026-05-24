@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷176 卷一百七十六 志第一百二十九 食貨上四"
+title: "宋史 卷176"
 date: 2026-05-24
 weight: 176
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷176。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 食貨上四〈（屯田常平義倉）〉

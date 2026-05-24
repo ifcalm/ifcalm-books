@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷44 卷四十四 本紀第四十四 理宗四"
+title: "宋史 卷44"
 date: 2026-05-24
 weight: 44
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷44。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 二年春正月乙亥朔，大元城利州、閬州。詔湘潭縣民陳克良孝行，表其門。

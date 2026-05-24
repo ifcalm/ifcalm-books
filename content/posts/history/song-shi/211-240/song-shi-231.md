@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷231 卷二百三十一 表第二十二 宗室世系十七"
+title: "宋史 卷231"
 date: 2026-05-24
 weight: 231
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷231。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7231"
-source_license: "CC BY-SA 4.0"
 ---
 
 |  |  | 贈太師、昌王、謚端孝宗晟 | 郇王、謚康孝仲御 | 太子右內率府副率士祺 |  |  |  |  |  |  |  |  |

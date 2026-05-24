@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷224 卷二百二十四 表第十五 宗室世系十"
+title: "宋史 卷224"
 date: 2026-05-24
 weight: 224
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷224。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7224"
-source_license: "CC BY-SA 4.0"
 ---
 
 太宗九子：長漢王元佐，次昭成太子元僖，次真宗，次商王元份，次越王元傑，次鎮王元偓，次楚王元偁，次周王元儼，次崇王元億世絕。

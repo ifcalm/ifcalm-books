@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷42 卷四二 列傳第三四 陽斐 盧潛 崔劼 盧叔武 陽休之 袁聿修"
+title: "北齐书 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陽斐　盧潛　崔劼　盧叔武　陽休之　袁聿修

@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷20 卷二十 古今人表"
+title: "汉书 卷20"
 date: 2026-05-24
 weight: 20
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷20。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 〈師古曰：「但次古人而不表今人者，其書未畢故也。」〉

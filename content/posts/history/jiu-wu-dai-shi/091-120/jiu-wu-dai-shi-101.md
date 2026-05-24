@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷101 卷一百〇一 漢書3: 隱帝本紀上"
+title: "旧五代史 卷101"
 date: 2026-05-24
 weight: 101
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷101。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隱皇帝，諱承祐，高祖第二子也。母曰李太后，以唐長興二年，歲在辛卯，三月七日，生帝於鄴都之舊第。高祖鎮太原，署節院使，累官至檢校尚書右僕射。國初，授左衛大將軍、檢校司空，遷大內都點檢、檢校太保。

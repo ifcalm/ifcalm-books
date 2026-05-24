@@ -1,5 +1,5 @@
 ---
-title: "明史 卷148 卷一百四十八 列傳第三十六 楊士奇 楊榮 楊溥"
+title: "明史 卷148"
 date: 2026-05-24
 weight: 148
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷148。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊士奇 楊榮曾:孫旦 楊溥附:馬愉

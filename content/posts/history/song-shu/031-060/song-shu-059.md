@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷59 卷五十九 列傳第十九 殷淳 張暢 何偃 江智淵"
+title: "宋书 卷59"
 date: 2026-05-24
 weight: 59
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷59。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十九　　殷淳子孚弟沖淡張暢何偃江智淵

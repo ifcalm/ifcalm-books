@@ -1,5 +1,5 @@
 ---
-title: "明史 卷161 卷一百六十一 列傳第四十九 周新 李昌祺 陳士啟 應履平 林碩 況鍾 陳本深 彭勖 夏時 黃潤玉 楊瓚 劉實 陳選 夏寅 陳壯 張昺 宋端儀"
+title: "明史 卷161"
 date: 2026-05-24
 weight: 161
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷161。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 周新李昌祺〈（蕭省身）〉陳士啟應履平林碩況鐘〈（朱勝）〉陳本深〈（羅以禮莫愚趙泰）〉彭勖〈（孫鼎）〉夏時黃潤玉楊瓚〈（王懋葉錫趙亮）〉劉實陳選夏寅陳壯張昺宋端儀

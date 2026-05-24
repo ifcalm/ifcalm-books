@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷94 卷九十四 列傳第二十四: 耶律化哥 耶律斡臘 耶律速撒 蕭阿魯帶 耶律那也 耶律何魯掃古 耶律世良"
+title: "辽史 卷94"
 date: 2026-05-24
 weight: 94
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷94。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律化哥耶律斡臘耶律速撒蕭阿魯帶耶律那也耶律何魯掃古耶律世良

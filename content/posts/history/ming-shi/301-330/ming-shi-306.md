@@ -1,5 +1,5 @@
 ---
-title: "明史 卷306 卷三百〇六 列傳第一百九十四 閹黨 焦芳 張綵 顧秉謙 崔呈秀 劉志選 曹欽程 王紹徽 霍維華 閻鳴泰 賈繼春 田爾耕"
+title: "明史 卷306"
 date: 2026-05-24
 weight: 306
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷306。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 序

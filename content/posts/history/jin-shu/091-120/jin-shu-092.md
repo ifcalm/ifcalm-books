@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷92 卷九十二 列傳第六十二 文苑"
+title: "晋书 卷92"
 date: 2026-05-24
 weight: 92
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷92。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 夫文以化成，惟聖之高義；行而不遠，前史之格言。是以溫洛禎圖，綠字元其丕業；苑山靈篆，金簡成其帝載。既而書契之道聿興，鐘石之文逾廣，移風俗于王化，崇孝敬于人倫，經緯乾坤，彌綸中外，故知文之時義大哉遠矣！

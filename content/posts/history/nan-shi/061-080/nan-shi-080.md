@@ -1,5 +1,5 @@
 ---
-title: "南史 卷80 卷八十 列傳第七十 賊臣"
+title: "南史 卷80"
 date: 2026-05-24
 weight: 80
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷80。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 賊侯景 熊曇朗 周迪 留異 陳寶應

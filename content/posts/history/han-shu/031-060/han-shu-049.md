@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷49 卷四十九 爰盎晁錯傳"
+title: "汉书 卷49"
 date: 2026-05-24
 weight: 49
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷49。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷四十九 爰盎晁錯傳第十九

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷377 卷三百七十七 列傳第一百三十六 向子諲 陳規 季陵 盧知原 陳桷 李璆 李朴 王庠 王衣"
+title: "宋史 卷377"
 date: 2026-05-24
 weight: 377
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷377。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 向子諲

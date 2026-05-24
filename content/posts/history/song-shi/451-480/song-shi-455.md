@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷455 卷四百五十五 列傳第二百十四 忠義十 陳東 歐陽澈 馬伸何兌 呂祖儉 呂祖泰 楊宏中 華岳 鄧若水 僧眞寶 莫謙之 徐道明"
+title: "宋史 卷455"
 date: 2026-05-24
 weight: 455
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷455。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 忠義十

@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷90 卷九十 列傳第二十: 蕭阿剌 耶律義先 蕭陶隗 蕭塔剌葛 耶律敵祿"
+title: "辽史 卷90"
 date: 2026-05-24
 weight: 90
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷90。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭阿剌耶律義先〈（信先）〉蕭陶隗蕭塔剌葛耶律敵祿

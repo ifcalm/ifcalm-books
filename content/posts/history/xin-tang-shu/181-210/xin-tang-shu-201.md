@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷201 卷二百零一 列傳第一百二十六 文藝上 袁朗 賀德仁 蔡允恭 謝偃 崔信明 劉延祐 張昌齡 崔行功 杜審言孫:杜甫 王勃附:楊炯 盧照鄰 駱賓王 元萬頃"
+title: "新唐书 卷201"
 date: 2026-05-24
 weight: 201
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷201。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 袁朗孫:誼 從父弟:承序 從祖弟:利貞 賀德仁附:庾抱 蔡允恭 謝偃 崔信明鄭世翼 劉延祐從弟:藏器 子:知柔 張昌齡 崔行功孫:銑 杜審言從祖兄:易簡 孫:甫 王勃兄:勮 弟:助 附:楊炯 盧照鄰 駱賓王 元萬頃附:范履冰 周思茂 胡楚賓 萬頃孫:正 曾孫:義方 季方

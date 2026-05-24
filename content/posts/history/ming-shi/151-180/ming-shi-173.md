@@ -1,5 +1,5 @@
 ---
-title: "明史 卷173 卷一百七十三 列傳第六十一 楊洪 石亨 郭登 朱謙 孫鏜 范廣"
+title: "明史 卷173"
 date: 2026-05-24
 weight: 173
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷173。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊洪〈（子俊從子能信）〉石亨〈（從子彪從孫後）〉郭登朱謙〈（子永孫暉等）〉孫鏜〈（趙勝）〉範廣

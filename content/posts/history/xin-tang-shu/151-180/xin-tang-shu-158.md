@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷158 卷一百五十八 列傳第八十三 韋張嚴韓"
+title: "新唐书 卷158"
 date: 2026-05-24
 weight: 158
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷158。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韋張嚴韓

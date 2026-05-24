@@ -1,5 +1,5 @@
 ---
-title: "明史 卷224 卷二百二十四 列傳第一百十二 嚴清 宋纁 陸光祖 孫鑨 陳有年 孫丕揚 蔡國珍 楊時喬"
+title: "明史 卷224"
 date: 2026-05-24
 weight: 224
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷224。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 嚴清 宋纁 陸光祖 孫鑨子如法陳有年 孫丕揚 蔡國珍 楊時喬

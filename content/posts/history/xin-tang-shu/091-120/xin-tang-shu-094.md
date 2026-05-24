@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷94 卷九十四 列傳第十九 侯君集 張亮 薛萬均弟:萬徹 萬備 附:盛彥師 盧祖尚 劉世讓 劉蘭 李君羨"
+title: "新唐书 卷94"
 date: 2026-05-24
 weight: 94
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷94。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 侯君集 張亮 薛萬均弟:萬徹 萬淑 萬備 附:盛彥師 盧祖尚 劉世讓 劉蘭 李君羨

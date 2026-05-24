@@ -1,5 +1,5 @@
 ---
-title: "北史 卷91 卷九十一 列傳第七十九: 列女"
+title: "北史 卷91"
 date: 2026-05-24
 weight: 91
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷91。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列女

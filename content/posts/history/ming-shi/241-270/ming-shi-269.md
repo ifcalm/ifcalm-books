@@ -1,5 +1,5 @@
 ---
-title: "明史 卷269 卷二百六十九 列傳第一百五十七 艾萬年 李卑 湯九州 陳于王 侯良柱 張令 猛如虎 虎大威 孫應元 姜名武 尤世威 侯世祿 劉國能"
+title: "明史 卷269"
 date: 2026-05-24
 weight: 269
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷269。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 艾萬年李卑湯九州〈（楊正芳楊世恩）〉陳於王〈（程龍等）〉侯良柱〈（子天錫）〉張令〈（汪之鳳）〉猛如虎〈（劉光祚等）〉虎大威孫應元姜名武〈（王來聘等鄧祖禹）〉尤世威〈（王世欽等）〉侯世祿〈（子拱極）〉劉國能〈（李萬慶）〉

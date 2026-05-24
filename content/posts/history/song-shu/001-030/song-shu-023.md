@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷23 卷二十三 志第十三 天文一"
+title: "宋书 卷23"
 date: 2026-05-24
 weight: 23
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷23。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十三　　天文一

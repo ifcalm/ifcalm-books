@@ -1,5 +1,5 @@
 ---
-title: "明史 卷321 卷三百二十一 列傳第二百〇九 外國二 安南"
+title: "明史 卷321"
 date: 2026-05-24
 weight: 321
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷321。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 安南，古交阯地。唐以前皆隸中國。五代時，始為土人曲承美竊據。宋初，封丁部領為交阯郡王，三傳為大臣黎桓所篡。黎氏亦三傳為大臣李公蘊所篡。李氏八傳，無子，傳其婿陳日炬。元時，屢破其國。

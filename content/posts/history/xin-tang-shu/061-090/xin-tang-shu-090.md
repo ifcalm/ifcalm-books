@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷90 卷九十 列傳第十五 二劉殷許程柴任丘"
+title: "新唐书 卷90"
 date: 2026-05-24
 weight: 90
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷90。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉弘基

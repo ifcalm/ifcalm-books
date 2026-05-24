@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷161 卷一百六十一 列傳第一百十一: 李光進 烏重胤 王沛 李珙 李祐 董重質 楊元卿 劉悟 劉沔 石雄"
+title: "旧唐书 卷161"
 date: 2026-05-24
 weight: 161
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷161。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李光進，本河曲部落稽阿跌之族也。父良臣，襲雞田州刺史，隸朔方軍。光進姊適舍利葛旃，殺僕固瑒而事河東節度使辛雲京。光進兄弟少依葛旃，因家於太原。

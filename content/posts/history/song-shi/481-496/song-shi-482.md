@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷482 卷四百八十二 列傳第二百四十一 世家五 北漢劉氏劉繼元(父:鈞 兄:繼恩 附:衛融 趙文度 李惲 馬峯 郭無爲)"
+title: "宋史 卷482"
 date: 2026-05-24
 weight: 482
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷482。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 世家五○北漢劉氏

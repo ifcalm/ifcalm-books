@@ -1,5 +1,5 @@
 ---
-title: "明史 卷216 卷二百十六 列傳第一百〇四 吳山 陸樹聲 瞿景淳 田一儁 黃鳳翔 余繼登 馮琦 王圖 翁正春 劉應秋 唐文獻 李騰芳 蔡毅中 公鼐 羅喻義 姚希孟 許士柔 顧錫疇"
+title: "明史 卷216"
 date: 2026-05-24
 weight: 216
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷216。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 吳山陸樹聲〈（子彥章）〉瞿景淳〈（子汝稷汝說）〉田一俊〈（沈懋學懋學從孫壽民）〉黃鳳翔〈（韓世能）〉余繼登馮琦〈（從祖惟訥從父子咸）〉王圖〈（劉曰寧）〉翁正春劉應秋〈（子同升）〉唐文獻〈（楊道賓陶望齡）〉李勝芳蔡毅中公鼐羅喻義姚希孟許士柔顧錫疇

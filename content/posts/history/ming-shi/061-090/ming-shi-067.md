@@ -1,5 +1,5 @@
 ---
-title: "明史 卷67 卷六十七 志第四十三 輿服三"
+title: "明史 卷67"
 date: 2026-05-24
 weight: 67
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷67。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文武官冠服命婦冠服內外官親屬冠服內使冠服侍儀以下冠服士庶冠服樂工冠服軍隸冠服外蕃冠服僧道服色

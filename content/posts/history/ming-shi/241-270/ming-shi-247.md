@@ -1,5 +1,5 @@
 ---
-title: "明史 卷247 卷二百四十七 列傳第一百三十五 劉綎 李應祥 陳璘 鄧子龍 馬孔英"
+title: "明史 卷247"
 date: 2026-05-24
 weight: 247
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷247。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉綎〈（喬一琦）〉　李應祥〈（童元鎮）〉　陳璘〈（吳廣）〉　鄧子龍　馬孔英

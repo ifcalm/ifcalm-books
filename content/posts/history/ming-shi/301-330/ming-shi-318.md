@@ -1,5 +1,5 @@
 ---
-title: "明史 卷318 卷三百十八 列傳第二百〇六 廣西土司二"
+title: "明史 卷318"
 date: 2026-05-24
 weight: 318
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷318。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 太平，漢屬交阯，號麗江。唐為羈縻州，隸邕州都督府。宋平嶺南，於左、右二江溪峒立五寨。其一曰太平，與古萬、遷隆、永平、橫山四寨各領州、縣、峒，屬邕州建武軍節度。元仍為五寨。後廢，乃置太平路於麗江。

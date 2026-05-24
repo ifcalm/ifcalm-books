@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷205 卷二百〇五 志第一百五十八 藝文四"
+title: "宋史 卷205"
 date: 2026-05-24
 weight: 205
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷205。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 藝文四

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷119 卷一百十九 列傳第七 諸王四"
+title: "明史 卷119"
 date: 2026-05-24
 weight: 119
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷119。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 諸王四○仁宗諸子

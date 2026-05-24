@@ -1,5 +1,5 @@
 ---
-title: "南史 卷15 卷十五 列傳第五 劉穆之 徐羨之 傅亮 檀道濟"
+title: "南史 卷15"
 date: 2026-05-24
 weight: 15
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷15。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉穆之

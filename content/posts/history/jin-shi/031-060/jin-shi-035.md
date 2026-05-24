@@ -1,5 +1,5 @@
 ---
-title: "金史 卷35 卷三十五 志第十六: 禮八 宣聖廟 武成王廟 諸前代帝王 諸神雜祠·長白山 諸神雜祠·大房山 諸神雜祠·混同江 諸神雜祠·嘉廕侯 諸神雜祠·瀘溝河神 諸神雜祠·昭應順濟聖後 諸神雜祠·鎮安公 諸神雜祠·瑞聖公 諸神雜祠·貞獻郡王廟 祈禜 拜天 本國拜儀"
+title: "金史 卷35"
 date: 2026-05-24
 weight: 35
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷35。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宣聖廟

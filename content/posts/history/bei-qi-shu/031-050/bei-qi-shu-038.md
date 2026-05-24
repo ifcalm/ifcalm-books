@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷38 卷三八 補列傳第三十 辛術 元文遙 趙彥深"
+title: "北齐书 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 辛術　元文遙　趙彥深

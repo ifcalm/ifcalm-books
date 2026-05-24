@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷299 卷二百九十九 列傳第五十八 狄棐 郎簡 孫祖德 張若谷 石揚休 祖士衡 李垂 張洞 李仕衡 李溥 胡則 薛顏 許元 鍾離瑾 孫沖 崔嶧 田瑜 施昌言"
+title: "宋史 卷299"
 date: 2026-05-24
 weight: 299
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷299。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 狄棐

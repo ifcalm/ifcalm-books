@@ -1,5 +1,5 @@
 ---
-title: "明史 卷19 卷十九 本紀第十九 穆宗"
+title: "明史 卷19"
 date: 2026-05-24
 weight: 19
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷19。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 穆宗，契天隆道淵懿寬仁顯文光武純德弘孝莊皇帝，諱載垕，世宗第三子也。母杜康妃。嘉靖十八年二月封裕王，與莊敬太子、景恭王同日受冊。已而莊敬薨，世宗以王長且賢，繼序已定，而中外危疑，屢有言者，乃令景王之國。

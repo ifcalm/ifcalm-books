@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷64 卷六十四 表第四 方鎮一"
+title: "新唐书 卷64"
 date: 2026-05-24
 weight: 64
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷64。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高祖、太宗之制，兵列府以居外，將列衛以居內，有事則將以征伐，事已各解而去。兵者，將之事也，使得以用，而不得以有之。及其晚也，土地之廣，人民之衆，城池之固，器甲之利，舉而予之。何慮於其始也深，而易於其後也忽，如此之異哉？豈其弊有漸，馴而致之，勢有不得已而然哉？方鎮之患，始也各專其地以自世，旣則迫於利害之謀，故其喜則連衡而叛上，怒則以力而相并，又其甚則起而弱王室。唐自中世以後，收功弭亂，雖常倚鎮兵，而其亡也亦終以此，可不戒哉！作方鎮表。

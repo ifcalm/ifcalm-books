@@ -1,5 +1,5 @@
 ---
-title: "金史 卷89 卷八十九 列傳第二十七: 蘇保衡 翟永固 魏子平 孟浩附:田瑴 梁肅 移剌慥 移剌子敬"
+title: "金史 卷89"
 date: 2026-05-24
 weight: 89
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷89。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蘇保衡

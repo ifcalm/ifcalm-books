@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷58 卷五十八 新五代史考第一"
+title: "新五代史 卷58"
 date: 2026-05-24
 weight: 58
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷58。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 嗚呼，五代禮樂文章，吾無取焉。其後世有欲知之者，不可以遺也。作《司天職方考》。○司天考第一

@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷44 卷44 羅結 伊馛 乙瑰 和其奴 苟頽 薛野𧗠者 宇文福 費于 孟威"
+title: "魏书 卷44"
 date: 2026-05-24
 weight: 44
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷44。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 羅結　伊馛　乙瓌　和其奴　苟頹　薛野䐗　宇文福　費于　孟威

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷92 卷九十二 列傳第四十二: 魏元忠 韋安石 蕭至忠 宗楚客 紀處訥"
+title: "旧唐书 卷92"
 date: 2026-05-24
 weight: 92
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷92。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 魏元忠韋安石（子陟斌斌子況從父兄子抗從祖兄子巨源趙彥昭附）蕭至忠（宗楚客紀處訥附）

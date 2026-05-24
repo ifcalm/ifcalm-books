@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷494 卷四百九十四 列傳第二百五十三 蠻夷二 西南溪峒諸蠻下 梅山峒 誠徽州 南丹州"
+title: "宋史 卷494"
 date: 2026-05-24
 weight: 494
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷494。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 西南溪峒諸蠻下 梅山峒 誠徽州 南丹州

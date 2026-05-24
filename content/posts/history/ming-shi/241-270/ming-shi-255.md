@@ -1,5 +1,5 @@
 ---
-title: "明史 卷255 卷二百五十五 列傳第一百四十三 劉宗周 黃道周"
+title: "明史 卷255"
 date: 2026-05-24
 weight: 255
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷255。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉宗周〈（祝淵王毓蓍）〉黃道周〈（葉廷秀）〉

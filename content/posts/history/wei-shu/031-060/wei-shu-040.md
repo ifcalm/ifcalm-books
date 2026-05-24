@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷40 卷40 陸俟"
+title: "魏书 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陸俟

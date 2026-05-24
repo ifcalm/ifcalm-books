@@ -1,5 +1,5 @@
 ---
-title: "元史 卷151 卷一百五十一 列傳第三十八: 薛塔剌海 高兒 王義 王玉 趙迪 邸順 王善 杜豐 石抹孛迭兒 賈塔剌渾 奧敦世英 田雄 張拔都 張榮 趙天錫"
+title: "元史 卷151"
 date: 2026-05-24
 weight: 151
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷151。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 薛塔剌海

@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷78 卷78 孫紹 張普惠"
+title: "魏书 卷78"
 date: 2026-05-24
 weight: 78
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷78。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孫紹　張普惠

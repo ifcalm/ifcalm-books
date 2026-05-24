@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷475 卷四百七十五 列傳第二百三十四 叛臣上 張邦昌 劉豫 苗傅劉正彥 杜充 吳曦"
+title: "宋史 卷475"
 date: 2026-05-24
 weight: 475
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷475。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 一三七八九页：張邦昌 劉豫 苗傅劉正彥附 杜充 吳曦

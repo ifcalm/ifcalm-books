@@ -1,5 +1,5 @@
 ---
-title: "明史 卷80 卷八十 志第五十六 食貨四"
+title: "明史 卷80"
 date: 2026-05-24
 weight: 80
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷80。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鹽法茶法

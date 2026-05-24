@@ -1,5 +1,5 @@
 ---
-title: "金史 卷69 卷六十九 列傳第七: 太祖諸子 宗雋本名訛魯觀 宗傑本名沒里野 宗強本名阿魯，子:爽（本名阿鄰）可喜 阿瑣 宗敏本名阿魯補 元本名常勝"
+title: "金史 卷69"
 date: 2026-05-24
 weight: 69
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷69。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第七 太祖諸子 宗雋本名訛魯觀 宗傑本名沒里野 宗強本名阿魯，子 爽（本名阿鄰）可喜 阿瑣 宗敏本名阿魯補 元宗峻子，本名常勝

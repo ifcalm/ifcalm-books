@@ -1,5 +1,5 @@
 ---
-title: "元史 卷37 卷三十七 本紀第三十七: 寧宗"
+title: "元史 卷37"
 date: 2026-05-24
 weight: 37
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷37。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 寧宗

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷314 卷三百十四 列傳第七十三 Fan Zhongyan and son: Chunyou, Chun Li, Chun Cui, Fan Chunren and son: Zhengping"
+title: "宋史 卷314"
 date: 2026-05-24
 weight: 314
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷314。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 范仲淹

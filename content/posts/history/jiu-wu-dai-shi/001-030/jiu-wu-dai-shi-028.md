@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷28 卷二十八 唐書4: 莊宗本紀二"
+title: "旧五代史 卷28"
 date: 2026-05-24
 weight: 28
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷28。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 天祐九年春正月庚辰朔，周德威等自飛狐東下。丙戌，會鎮、定之師進營祁溝。庚子，次涿州，刺史劉知溫以城歸順。德威進迫幽州，守光出兵拒戰，燕將王行方等以部下四百人來奔。

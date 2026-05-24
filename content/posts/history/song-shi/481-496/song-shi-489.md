@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷489 卷四百八十九 列傳第二百四十八 外國五 占城 眞臘 蒲甘 邈黎 三佛齊 闍婆南毗 勃泥 注輦 丹眉流"
+title: "宋史 卷489"
 date: 2026-05-24
 weight: 489
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷489。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 占城 真臘 蒲甘 邈黎 三佛齊 闍婆南毗附 勃泥 注輦 丹眉流

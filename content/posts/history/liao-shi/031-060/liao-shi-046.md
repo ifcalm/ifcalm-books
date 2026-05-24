@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷46 卷四十六 志第十六: 百官志二"
+title: "辽史 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 百官志二 ○北面部族官北面部族官部族，詳見《營衛志》。設官之制具如左。

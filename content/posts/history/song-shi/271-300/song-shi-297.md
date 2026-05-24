@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷297 卷二百九十七 列傳第五十六 孔道輔 鞠詠 劉隨 曹修古 郭勸 段少連"
+title: "宋史 卷297"
 date: 2026-05-24
 weight: 297
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷297。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孔道輔

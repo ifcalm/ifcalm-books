@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷93 卷九十三 列傳第二十三: 蕭惠 蕭迂魯 蕭圖玉 耶律鐸軫"
+title: "辽史 卷93"
 date: 2026-05-24
 weight: 93
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷93。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭惠〈（慈氏奴）〉蕭迂魯〈（鐸盧斡）〉蕭圖玉耶律鐸軫

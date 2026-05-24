@@ -1,5 +1,5 @@
 ---
-title: "周书 卷15 卷15 列傳第7 寇洛 李弼 弟標 于謹 子寔"
+title: "周书 卷15"
 date: 2026-05-24
 weight: 15
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷15。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 寇洛　李弼 弟檦　于謹 子寔

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷366 卷三百六十六 列傳第一百二十五 劉錡 吳玠 吳璘"
+title: "宋史 卷366"
 date: 2026-05-24
 weight: 366
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷366。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉錡 吳玠 吳璘子:挺

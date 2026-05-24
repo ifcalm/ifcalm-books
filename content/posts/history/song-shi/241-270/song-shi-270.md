@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷270 卷二百七十 列傳第二十九 顏衎 劇可久 趙逢 蘇曉 高防 馮瓚 邊珝 王明 許仲宣 楊克讓 段思恭 侯陟 李符 魏丕 董樞"
+title: "宋史 卷270"
 date: 2026-05-24
 weight: 270
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷270。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 顏衎

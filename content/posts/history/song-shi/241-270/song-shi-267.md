@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷267 卷二百六十七 列傳第二十六 張宏 趙昌言 陳恕 魏羽 劉式 劉昌言 張洎 李惟清"
+title: "宋史 卷267"
 date: 2026-05-24
 weight: 267
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷267。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張宏

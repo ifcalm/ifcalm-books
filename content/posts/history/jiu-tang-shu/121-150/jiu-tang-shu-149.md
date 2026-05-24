@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷149 卷一百四十九 列傳第九十九: 于休烈 令狐峘 歸崇敬 奚陟 張薦 蔣乂 柳登 沈傳師"
+title: "旧唐书 卷149"
 date: 2026-05-24
 weight: 149
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷149。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 于休烈子肅肅子敖敖子琮

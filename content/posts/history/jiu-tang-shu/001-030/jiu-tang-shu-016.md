@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷16 卷十六 本紀第十六: 穆宗"
+title: "旧唐书 卷16"
 date: 2026-05-24
 weight: 16
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷16。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 穆宗睿聖文惠孝皇帝諱恆，憲宗第三子，母曰懿安皇后郭氏。貞元十一年七月，生於大明宮之別殿。初名宥，元和元年八月，進封遂王。五年三月，領彰義軍節度大使。七年十月，冊為皇太子，改今諱。

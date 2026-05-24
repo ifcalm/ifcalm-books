@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷11 卷十一 志第三 樂"
+title: "南齐书 卷11"
 date: 2026-05-24
 weight: 11
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷11。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 樂

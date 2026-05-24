@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷103 卷一百〇三 列傳第五十三: 郭虔瓘 張嵩 郭知運 王君 張守珪 牛仙客 王忠嗣"
+title: "旧唐书 卷103"
 date: 2026-05-24
 weight: 103
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷103。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 郭虔瓘，齊州歷城人也。開元初，累遷右驍衛將軍，兼北庭都護。二年春，突厥默啜遣其子移江可汗及同俄特勒率精騎圍逼北庭，虔瓘率眾固守。同俄特勒單騎親逼城下，虔瓘使勇士伏於路左，突起斬之。賊眾既至，失同俄，相率於城下乞降，請盡軍中衣資器杖以贖同俄。及聞其死，三軍慟哭，便引退。默啜女婿火拔頡利發石阿失畢時與同俄特勒同領兵，以同俄之死，懼不敢歸，遂將其妻歸降。虔瓘以破賊之功，拜冠軍大將軍，行右驍衛大將軍。又下制曰：

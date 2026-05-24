@@ -1,5 +1,5 @@
 ---
-title: "明史 卷171 卷一百七十一 列傳第五十九 王驥 徐有貞 楊善 王越"
+title: "明史 卷171"
 date: 2026-05-24
 weight: 171
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷171。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王驥〈（孫瑾）〉徐有貞楊善〈（李實趙榮霍瑄沈固）〉王越

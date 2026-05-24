@@ -1,5 +1,5 @@
 ---
-title: "元史 卷177 卷一百七十七 列傳第六十四: 張思明 吳元珪 張昇 臧夢解 陳顥"
+title: "元史 卷177"
 date: 2026-05-24
 weight: 177
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷177。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張思明

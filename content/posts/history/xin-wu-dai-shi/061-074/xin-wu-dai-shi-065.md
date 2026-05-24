@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷65 卷六十五 南漢世家第五: 劉隱"
+title: "新五代史 卷65"
 date: 2026-05-24
 weight: 65
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷65。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉隱，其祖安仁，上蔡人也，後徙閩中，商賈南海，因家焉。父謙，為廣州牙將。唐乾符五年，黃巢攻破廣州，去略湖、湘間，廣州表謙封州刺史、賀江鎮遏使，以禦梧、桂以西。歲餘，有兵萬人，戰艦百餘艘。謙三子，曰隱、臺、巖。

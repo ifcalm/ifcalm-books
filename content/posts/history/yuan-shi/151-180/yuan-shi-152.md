@@ -1,5 +1,5 @@
 ---
-title: "元史 卷152 卷一百五十二 列傳第三十九: 張晉亨 王珍 楊傑只哥 劉通 岳存 張子良 唐慶 齊榮顯 石天祿 石抹阿辛 劉斌 趙柔"
+title: "元史 卷152"
 date: 2026-05-24
 weight: 152
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷152。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張晉亨好古

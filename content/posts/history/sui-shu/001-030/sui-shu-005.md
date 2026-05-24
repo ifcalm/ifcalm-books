@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷5 卷5 帝紀第5 恭帝"
+title: "隋书 卷5"
 date: 2026-05-24
 weight: 5
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷5。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 恭皇帝諱侑，元德太子之子也。母曰韋妃。性聰敏，有氣度。大業三年，[1]立為陳王。後數載，徙為代王，邑萬戶。及煬帝親征遼東，令於京師總留事。十一年，從幸晉陽，拜太原太守。尋鎮京師。義兵入長安，尊煬帝為太上皇，奉帝纂業。

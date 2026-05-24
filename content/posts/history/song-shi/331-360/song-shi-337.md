@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷337 卷三百三十七 列傳第九十六 范鎮從子:百祿 從孫:祖禹"
+title: "宋史 卷337"
 date: 2026-05-24
 weight: 337
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷337。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 范鎮

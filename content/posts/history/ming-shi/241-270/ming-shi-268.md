@@ -1,5 +1,5 @@
 ---
-title: "明史 卷268 卷二百六十八 列傳第一百五十六 曹文詔 周遇吉 黃得功"
+title: "明史 卷268"
 date: 2026-05-24
 weight: 268
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷268。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 曹文詔〈（弟文耀）〉周遇吉黃得功

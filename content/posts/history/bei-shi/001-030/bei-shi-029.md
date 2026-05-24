@@ -1,5 +1,5 @@
 ---
-title: "北史 卷29 卷二十九 列傳第十七: 司馬休之 司馬楚之 劉昶 蕭寶夤 蕭正表 蕭祗 蕭退 蕭泰 蕭撝 蕭圓肅 蕭大圜"
+title: "北史 卷29"
 date: 2026-05-24
 weight: 29
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷29。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 司馬休之 司馬楚之 劉昶 蕭寶夤 蕭正表 蕭祗 蕭退 蕭泰 蕭撝 蕭圓肅 蕭大圜

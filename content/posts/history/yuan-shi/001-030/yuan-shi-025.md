@@ -1,5 +1,5 @@
 ---
-title: "元史 卷25 卷二十五 本紀第二十五: 仁宗二"
+title: "元史 卷25"
 date: 2026-05-24
 weight: 25
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷25。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 延祐元年春正月丁亥，授中書右丞劉正平章政事、商議中書省事。丙申，除四川酒禁。興元、鳳翔、涇州、邠州歲荒，禁酒。庚子，敕各省平章為首者及漢人省臣一員，專意訪求遺逸，茍得其人，先以名聞，而後致之。以江浙行中書省左丞高昉為中書參知政事。丁未，詔改元延祐。釋天下流以下罪囚，免上都、大都差稅二年，其餘被災曾經賑濟人戶，免差稅一年。庚戌，中書省臣禿忽魯等以災變乞罷免，不允。

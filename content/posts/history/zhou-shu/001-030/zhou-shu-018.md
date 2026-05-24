@@ -1,5 +1,5 @@
 ---
-title: "周书 卷18 卷18 列傳第10 王羆 王思政"
+title: "周书 卷18"
 date: 2026-05-24
 weight: 18
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷18。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王羆 子慶遠 孫述　王思政

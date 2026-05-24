@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷84 卷八十四 列傳第三十四: 劉仁軌 郝處俊 裴行儉"
+title: "旧唐书 卷84"
 date: 2026-05-24
 weight: 84
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷84。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉仁軌郝處俊裴行儉（子光庭）

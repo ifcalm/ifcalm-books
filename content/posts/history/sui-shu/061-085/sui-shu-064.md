@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷64 卷64 列傳第29 李圓通 陳茂 張定和 張奫 麥鐵杖 沈光 來護兒 魚俱羅 陳稜 王辯"
+title: "隋书 卷64"
 date: 2026-05-24
 weight: 64
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷64。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ○李圓通

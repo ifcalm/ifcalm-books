@@ -1,5 +1,5 @@
 ---
-title: "明史 卷32 卷三十二 志第八 曆二"
+title: "明史 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Hanchuan Caolu transcription"
-source_url: "https://www.sidneyluo.net/a/a24/032.htm"
-source_license: "Public domain source text"
 ---
 
 卷三十二 ‧ 志第八

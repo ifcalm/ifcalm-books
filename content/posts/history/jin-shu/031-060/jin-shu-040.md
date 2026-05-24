@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷40 卷四十 列傳第十 賈充 楊駿"
+title: "晋书 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 賈充〈（郭彰）〉楊駿〈(弟珧 珧弟濟)〉

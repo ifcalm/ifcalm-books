@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷117 卷一百十七 志第七十 禮二十"
+title: "宋史 卷117"
 date: 2026-05-24
 weight: 117
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷117。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮二十〈（賓禮二）〉

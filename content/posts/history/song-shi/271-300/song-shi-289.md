@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷289 卷二百八十九 列傳第四十八 高瓊 范廷召 葛霸"
+title: "宋史 卷289"
 date: 2026-05-24
 weight: 289
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷289。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高瓊

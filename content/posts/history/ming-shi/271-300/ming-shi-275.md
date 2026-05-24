@@ -1,5 +1,5 @@
 ---
-title: "明史 卷275 卷二百七十五 列傳第一百六十三 張慎言 徐石麒 解學龍 高倬 左懋第 祁彪佳"
+title: "明史 卷275"
 date: 2026-05-24
 weight: 275
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷275。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張慎言〈（子履旋）〉徐石麒解學龍高倬〈（黃端伯等）〉左懋第祁彪佳

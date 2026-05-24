@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷147 卷一百四十七 志第一百 儀衞五"
+title: "宋史 卷147"
 date: 2026-05-24
 weight: 147
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷147。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 儀衛五

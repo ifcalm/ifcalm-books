@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷122 卷一百二十二 載記第二十二 呂光 呂纂 呂隆"
+title: "晋书 卷122"
 date: 2026-05-24
 weight: 122
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷122。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 呂光 呂纂 呂隆

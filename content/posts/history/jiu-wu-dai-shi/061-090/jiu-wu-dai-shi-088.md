@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷88 卷八十八 晉書14: 列傳三 景延廣 李彥韜 張希崇 王庭胤 史匡翰 梁漢顒 楊思權 尹暉 李從璋 李從溫 張萬進"
+title: "旧五代史 卷88"
 date: 2026-05-24
 weight: 88
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷88。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 景延廣，字航川，陜州人也。父建，累贈太尉。延廣少習射，以挽強見稱。梁開平中，邵王朱友誨節制於陜，召置麾下，友誨坐謀亂，延廣竄而獲免。後事華州連帥尹皓，皓引薦列校，隸於汴軍，從王彥章拒莊宗於河上。及中都之敗，彥章見擒，而延廣被數創，歸於汴。

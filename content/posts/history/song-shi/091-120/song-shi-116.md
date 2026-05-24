@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷116 卷一百十六 志第六十九 禮十九"
+title: "宋史 卷116"
 date: 2026-05-24
 weight: 116
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷116。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮十九〈（賓禮一）〉○大朝會儀常朝儀

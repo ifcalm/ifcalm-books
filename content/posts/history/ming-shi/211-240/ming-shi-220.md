@@ -1,5 +1,5 @@
 ---
-title: "明史 卷220 卷二百二十 列傳第一百〇八 萬士和 王之誥 吳百朋 劉應節 王遴 畢鏘 舒化 李世達 曾同亨 辛自修 溫純 趙世卿 李汝華"
+title: "明史 卷220"
 date: 2026-05-24
 weight: 220
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷220。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 萬士和王之誥〈（劉一儒）〉吳百朋劉應節〈（徐栻）〉王遴畢鏘舒化李世達曾同享〈（弟乾亨）〉辛自修溫純趙世卿李汝華

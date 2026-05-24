@@ -1,5 +1,5 @@
 ---
-title: "明史 卷209 卷二百〇九 列傳第九十七 楊最 馮恩 楊爵 周怡 劉魁 沈束 沈鍊 楊繼盛 楊允繩"
+title: "明史 卷209"
 date: 2026-05-24
 weight: 209
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷209。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊最〈（顧存仁高金王納言）〉馮恩〈（子行可時可宋邦輔薛宗鎧會翀）〉楊爵〈（浦鋐周天佐）〉周怡劉魁沈束沈煉楊繼盛〈（何光裕龔愷）〉楊允繩〈（馬從謙孫允中狄斯彬）〉

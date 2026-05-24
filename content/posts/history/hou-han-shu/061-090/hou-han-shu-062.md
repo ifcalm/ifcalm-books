@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷62 卷六十二 荀韓鍾陳列傳"
+title: "后汉书 卷62"
 date: 2026-05-24
 weight: 62
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷62。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 荀

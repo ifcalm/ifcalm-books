@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷37 卷三十七 桓榮丁鴻列傳"
+title: "后汉书 卷37"
 date: 2026-05-24
 weight: 37
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷37。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 後漢書卷三十七　桓榮丁鴻列傳　第二十七　　桓榮字春卿，沛郡龍亢人也。[一]少學長安，習歐陽尚書，事博士九江朱普。[二]　　貧窶無資，[三]常客傭以自給，精力不倦，十五年不窺家園。至王莽篡位乃歸。

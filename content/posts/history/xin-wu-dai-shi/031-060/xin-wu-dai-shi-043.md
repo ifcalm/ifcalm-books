@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷43 卷四十三 雜傳第三十一: 氏叔琮 李彥威 李振 裴迪 韋震 孔循 孫德昭 王敬蕘 蔣殷"
+title: "新五代史 卷43"
 date: 2026-05-24
 weight: 43
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷43。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 氏叔琮

@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷15 卷15 昭成子孫"
+title: "魏书 卷15"
 date: 2026-05-24
 weight: 15
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷15。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 寔君者，昭成皇帝之庶長子也。性愚戇，安忍不仁。昭成季年，苻堅遣其行唐公苻洛等來寇南境，昭成遣劉庫仁逆戰於石子嶺。昭成時不勝，不能親勒眾軍，乃率諸部避難陰山，度漠北。高車四面寇抄，復度漠南。苻洛軍退，乃還雲中。

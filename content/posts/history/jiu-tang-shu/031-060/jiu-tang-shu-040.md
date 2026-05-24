@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷40 卷四十 志第二十: 地理三"
+title: "旧唐书 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十地理三

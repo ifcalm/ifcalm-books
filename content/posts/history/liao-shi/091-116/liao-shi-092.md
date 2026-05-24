@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷92 卷九十二 列傳第二十二: 蕭奪剌 蕭普達 耶律侯哂 耶律古昱 耶律獨挴 蕭韓家 蕭烏野"
+title: "辽史 卷92"
 date: 2026-05-24
 weight: 92
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷92。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭奪剌 蕭普達 耶律侯哂 耶律古昱 耶律獨攧 蕭韓家 蕭烏野

@@ -1,5 +1,5 @@
 ---
-title: "周书 卷24 卷24 列傳第16 盧辯"
+title: "周书 卷24"
 date: 2026-05-24
 weight: 24
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷24。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 盧辯

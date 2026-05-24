@@ -1,5 +1,5 @@
 ---
-title: "明史 卷42 卷四十二 志第十八 地理三"
+title: "明史 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十八 地理三

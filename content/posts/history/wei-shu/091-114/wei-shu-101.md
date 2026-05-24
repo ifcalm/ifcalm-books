@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷101 卷101 氐 吐榖渾 宕昌 高昌 鄧至 蠻 獠"
+title: "魏书 卷101"
 date: 2026-05-24
 weight: 101
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷101。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 氐　吐谷渾　宕昌　高昌　鄧至　蠻　獠

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷212 卷二百十二 表第三 宰輔三"
+title: "宋史 卷212"
 date: 2026-05-24
 weight: 212
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷212。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 公元	紀年	宰相進拜加官	罷免	執政進拜加官	罷免

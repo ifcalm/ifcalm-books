@@ -1,5 +1,5 @@
 ---
-title: "明史 卷155 卷一百五十五 列傳第四十三 宋晟 薛祿 劉榮 朱榮 費瓛 譚廣 陳懷 蔣貴 任禮 趙安 趙輔 劉聚"
+title: "明史 卷155"
 date: 2026-05-24
 weight: 155
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷155。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 黃宗載顧佐〈（邵玘陳勉賈諒嚴升）〉段民〈（吾紳）〉章敞〈（徐琦劉戩）〉吳訥〈（朱與言）〉魏驥魯穆耿九疇軒輗〈（陳復）〉黃孔昭

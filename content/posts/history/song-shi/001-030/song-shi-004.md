@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷4 卷四 本紀第四 太宗一"
+title: "宋史 卷4"
 date: 2026-05-24
 weight: 4
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷4。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 太宗神功聖德文武皇帝諱炅字廷宜，初名匡乂，改賜光義，即位之二年改今諱，宣祖第三子也，母曰昭憲皇后杜氏。初，后夢神人捧日以授，已而有娠，遂生帝於浚儀官舍。是夜，赤光上騰如火，閭巷聞有異香，時晉天福四年十月七日甲辰也。

@@ -1,5 +1,5 @@
 ---
-title: "金史 卷24 卷二十四 志第五: 地理上 上京路 咸平路 東京路 北京路 西京路 中都路"
+title: "金史 卷24"
 date: 2026-05-24
 weight: 24
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷24。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 金之壤地封疆，東極吉裏迷兀的改諸野人之境，北自蒲與路之北三千餘裏，火魯火疃謀克地為邊，右旋入泰州婆盧火所浚界壕而西，經臨潢、金山，跨慶、桓、撫、昌、淨州之北，出天山外，包東勝，接西夏，逾黃河，複西曆葭州及米脂寨，出臨洮府，會州、積石之外，與生羌地相錯。複自積石諸山之南左折而東，逾洮州，越鹽川堡，循渭至大散關北，並山入京兆，絡商州，南以唐鄧西南皆四十里，取淮之中流為界，而與宋為表裏。

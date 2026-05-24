@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷112 第二十二 郡國四 青州 荊州 揚州"
+title: "后汉书 卷112"
 date: 2026-05-24
 weight: 112
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷112。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十二　　郡国四

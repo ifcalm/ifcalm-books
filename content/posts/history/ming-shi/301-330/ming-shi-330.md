@@ -1,5 +1,5 @@
 ---
-title: "明史 卷330 卷三百三十 列傳第二百十八 西域二"
+title: "明史 卷330"
 date: 2026-05-24
 weight: 330
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷330。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 西番諸衛〈（西寧河州洮州岷州等番族諸衛）〉

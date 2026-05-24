@@ -1,5 +1,5 @@
 ---
-title: "北史 卷87 卷八十七 列傳第七十五: 酷吏"
+title: "北史 卷87"
 date: 2026-05-24
 weight: 87
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷87。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 酷吏

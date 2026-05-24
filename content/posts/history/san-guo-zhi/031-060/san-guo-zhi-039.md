@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷39 卷三十九 蜀書九 董劉馬陳董呂傳"
+title: "三国志 卷39"
 date: 2026-05-24
 weight: 39
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷39。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 董和

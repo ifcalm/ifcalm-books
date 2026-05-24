@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷27 卷二十七 志第十七 符瑞上"
+title: "宋书 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十七　　符瑞上

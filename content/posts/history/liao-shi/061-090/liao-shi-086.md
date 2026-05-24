@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷86 卷八十六 列傳第十六: 耶律合住 劉景 劉六符 耶律褭履 牛溫舒 杜防 蕭和尚 耶律合里只 耶律頗的"
+title: "辽史 卷86"
 date: 2026-05-24
 weight: 86
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷86。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律合住劉景劉六符耶律甗履牛溫舒杜防蕭和尚〈（特末）〉耶律合裏只耶律頗的

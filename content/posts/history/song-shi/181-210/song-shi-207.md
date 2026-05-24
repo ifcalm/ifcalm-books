@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷207 卷二百〇七 志第一百六十 藝文六"
+title: "宋史 卷207"
 date: 2026-05-24
 weight: 207
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷207。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 藝文六苗銳《新刪定廣聖曆》二卷僧一行《開元大衍曆議》十三卷啟玄子《天元玉冊》十卷

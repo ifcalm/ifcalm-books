@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷5 卷五 帝紀第五 孝懷帝 孝愍帝"
+title: "晋书 卷5"
 date: 2026-05-24
 weight: 5
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷5。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 帝紀第五

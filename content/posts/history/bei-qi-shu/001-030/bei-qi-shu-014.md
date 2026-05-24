@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷14 卷十四 補列傳第六 廣平公盛 陽州公永樂 弟長弼 襄樂王顯國 上洛王思宗 子元海 弟思好 平秦王歸彥 武興王普 長樂太守靈山 嗣子伏護"
+title: "北齐书 卷14"
 date: 2026-05-24
 weight: 14
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷14。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 廣平公盛　陽州公永樂 弟長弼　襄樂王顯國　上洛王思宗 子元海 弟思好　平秦王歸彥　武興王普　長樂太守靈山 嗣子伏護

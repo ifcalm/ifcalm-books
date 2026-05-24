@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷86 卷八十六 何武王嘉師丹傳"
+title: "汉书 卷86"
 date: 2026-05-24
 weight: 86
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷86。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷八十六 何武王嘉師丹傳第五十六

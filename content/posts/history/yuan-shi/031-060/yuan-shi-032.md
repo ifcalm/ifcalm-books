@@ -1,5 +1,5 @@
 ---
-title: "元史 卷32 卷三十二 本紀第三十二: 文宗一"
+title: "元史 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文宗聖明元孝皇帝，諱圖帖睦爾，武宗之次子，明宗之弟也。母曰文獻昭聖皇后，唐兀氏。大德三年，武宗總兵北邊，帝以八年春正月癸亥生。

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷172 卷一百七十二 志第一百二十五 職官十二"
+title: "宋史 卷172"
 date: 2026-05-24
 weight: 172
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷172。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 職官十二〈（奉祿製下）〉○增給公用錢給券職田增給

@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷20 卷二十 魏書二十 武文世王公傳"
+title: "三国志 卷20"
 date: 2026-05-24
 weight: 20
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷20。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 魏武帝诸子 丰愍王曹昂 相殇王曹铄 邓哀王曹冲 彭城王曹据 燕王曹宇 沛穆王曹林 中山恭王曹衮 济阳怀王曹玹 陈留恭王曹峻 范阳闵王曹矩 赵王曹干 临邑殇公子曹上 楚王曹彪 刚殇公子曹勤 谷城殇公子曹乘 郿戴公子曹整 灵殇公子曹京 樊安公曹均 广宗殇公子曹棘 东平灵王曹徽 乐陵王曹茂 魏文帝诸子 赞哀王曹协 北海悼王曹蕤 东武阳怀王曹鉴 东海定王曹霖 元城哀王曹礼 邯郸怀王曹邕 清河悼王曹贡 广平哀王曹俨

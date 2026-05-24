@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷69 卷六十九 唐書45: 列傳21 張憲 王正言 胡裝 崔貽孫 孟鵠 孫岳 張延朗 劉延皓 劉延朗"
+title: "旧五代史 卷69"
 date: 2026-05-24
 weight: 69
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷69。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張憲，字允中，晉陽人，世以軍功為牙校。憲始童丱，喜儒學，勵志橫經，不舍晝夜。太原地雄邊服，人多尚武，恥於學業，惟憲與里人藥縱之精力遊學，弱冠盡通諸經，尤精《左傳》。嘗袖行所業，謁判官李襲吉，一見欣歎。既辭，謂憲曰：「子勉之，將來必成佳器。」石州刺史楊守業喜聚書，以家書示之，聞見日博。

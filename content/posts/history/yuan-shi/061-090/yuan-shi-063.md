@@ -1,5 +1,5 @@
 ---
-title: "元史 卷63 卷六十三 志第十五: 地理六"
+title: "元史 卷63"
 date: 2026-05-24
 weight: 63
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷63。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 湖廣等處行中書省，為路三十、州十三、府三、安撫司十五、軍三，屬府三，屬州十七，屬縣一百五十，管番民總管一。本省陸站一百處，水站七十三處。

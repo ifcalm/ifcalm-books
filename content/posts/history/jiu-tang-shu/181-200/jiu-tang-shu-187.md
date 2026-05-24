@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷187 卷一百八十七"
+title: "旧唐书 卷187"
 date: 2026-05-24
 weight: 187
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷187。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷一百八十七上 列傳第一百三十七上: 忠義上

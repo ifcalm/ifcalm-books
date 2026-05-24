@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷220 卷二百二十列傳第一百四十五 東夷"
+title: "新唐书 卷220"
 date: 2026-05-24
 weight: 220
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷220。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高麗 百濟 新羅 倭、日本

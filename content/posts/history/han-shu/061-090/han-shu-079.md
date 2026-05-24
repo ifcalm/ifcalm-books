@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷79 卷七十九 馮奉世傳"
+title: "汉书 卷79"
 date: 2026-05-24
 weight: 79
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷79。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷七十九 馮奉世傳第四十九

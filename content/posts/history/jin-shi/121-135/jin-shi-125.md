@@ -1,5 +1,5 @@
 ---
-title: "金史 卷125 卷一百二十五 列傳第六十三: 文藝上 韓昉 蔡松年子:珪 吳激 馬定國 任詢 趙可 郭長倩 蕭永祺 胡礪 王競 楊伯仁 鄭子聃 党懷英"
+title: "金史 卷125"
 date: 2026-05-24
 weight: 125
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷125。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第六十三 文藝上 ○韓昉 蔡松年子 珪 吳激 馬定國 任詢 趙可 郭長倩 蕭永祺 胡礪 王競 楊伯仁 鄭子聃 党懷英

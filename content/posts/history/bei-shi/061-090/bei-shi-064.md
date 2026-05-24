@@ -1,5 +1,5 @@
 ---
-title: "北史 卷64 卷六十四 列傳第五十二: 韋孝寬 韋瑱 柳虯"
+title: "北史 卷64"
 date: 2026-05-24
 weight: 64
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷64。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韋孝寬 韋瑱 柳虯

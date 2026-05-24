@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷12 卷十二 補列傳第四 文宣四王 孝昭六王 武成十二王 後主五男"
+title: "北齐书 卷12"
 date: 2026-05-24
 weight: 12
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷12。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文宣四王

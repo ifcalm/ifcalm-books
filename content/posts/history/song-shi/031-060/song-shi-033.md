@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷33 卷三十三 本紀第三十三 孝宗一"
+title: "宋史 卷33"
 date: 2026-05-24
 weight: 33
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷33。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝宗紹統同道冠德昭功哲文神武明聖成孝皇帝，諱昚，字元永，太祖七世孫也。初，太祖少子秦王德芳生英國公惟憲，惟憲生新興侯從郁，從郁生華陰侯世將，世將生慶國公令譮，令譮生子偁，是爲秀王。王夫人張氏夢人擁一羊遺之曰：「以此爲識。」已而有娠，以建炎元年十月戊寅生帝於秀州青杉閘之官舍，紅光滿室，如日正中。少長，命名伯琮。

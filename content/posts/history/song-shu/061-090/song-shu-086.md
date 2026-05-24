@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷86 卷八十六 列傳第四十六 殷孝祖 劉勔"
+title: "宋书 卷86"
 date: 2026-05-24
 weight: 86
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷86。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第四十六　　殷孝祖 劉勔

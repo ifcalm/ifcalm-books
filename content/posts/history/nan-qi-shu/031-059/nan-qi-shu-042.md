@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷42 卷四十二 列傳第二十三 王晏 蕭諶 蕭坦之 江祏"
+title: "南齐书 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷四十二‧列傳第二十三

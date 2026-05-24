@@ -1,5 +1,5 @@
 ---
-title: "明史 卷258 卷二百五十八 列傳第一百四十六 許譽卿 華允誠 魏呈潤 毛羽健 吳執御 章正宸 黃紹杰 傅朝佑 姜埰 熊開元 詹爾選 湯開遠 成勇 陳龍正"
+title: "明史 卷258"
 date: 2026-05-24
 weight: 258
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷258。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 許譽卿

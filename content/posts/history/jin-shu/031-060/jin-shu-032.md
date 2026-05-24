@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷32 卷三十二 列傳第二 后妃下"
+title: "晋书 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 元敬虞皇后

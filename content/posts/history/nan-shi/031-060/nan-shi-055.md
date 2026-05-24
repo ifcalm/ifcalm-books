@@ -1,5 +1,5 @@
 ---
-title: "南史 卷55 卷五十五 列傳第四十五 王茂 曹景宗 席闡文 夏侯詳 士瞻 蔡道恭 楊公則 鄧元起 張惠紹 馮道根 康絢 昌義之"
+title: "南史 卷55"
 date: 2026-05-24
 weight: 55
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷55。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王茂

@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷41 卷四十一 列傳第二十二 張融 周顒"
+title: "南齐书 卷41"
 date: 2026-05-24
 weight: 41
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷41。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷四十一‧列傳第二十二

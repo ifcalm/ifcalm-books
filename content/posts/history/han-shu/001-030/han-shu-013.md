@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷13 卷十三 異姓諸侯王表"
+title: "汉书 卷13"
 date: 2026-05-24
 weight: 13
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷13。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 昔詩書述虞夏之際，舜禹受䄠，[1]積德累功，洽於百姓，攝位行政，考之于天，[2]經數十年，然後在位。殷周之王，乃繇禼稷，[3]脩仁行義，歷十餘世，至于湯武，然後放殺。[4]秦起襄公，章文、繆，獻、[5]孝、昭、嚴，稍蠶食六國，[6]百有餘載，至始皇，迺并天下。以德若彼，用力如此其囏難也。[7]

@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷83 卷83"
+title: "魏书 卷83"
 date: 2026-05-24
 weight: 83
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷83。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷83上 外戚上:賀訥 劉羅辰 姚黄眉 杜超 賀迷 閭毗

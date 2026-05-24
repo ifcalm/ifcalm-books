@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷107 卷一百〇七 列傳第三十七: 列女"
+title: "辽史 卷107"
 date: 2026-05-24
 weight: 107
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷107。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列女

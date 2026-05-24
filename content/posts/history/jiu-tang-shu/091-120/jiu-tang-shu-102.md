@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷102 卷一百〇二 列傳第五十二: 馬懷素 褚無量 劉子玄 徐堅 元行沖 吳兢 韋述"
+title: "旧唐书 卷102"
 date: 2026-05-24
 weight: 102
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷102。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 馬懷素

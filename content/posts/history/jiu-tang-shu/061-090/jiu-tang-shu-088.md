@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷88 卷八十八 列傳第三十八: 韋思謙 陸元方 蘇瑰"
+title: "旧唐书 卷88"
 date: 2026-05-24
 weight: 88
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷88。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韋思謙（子承慶嗣立）陸元方（子象先）蘇瓌（子頲）

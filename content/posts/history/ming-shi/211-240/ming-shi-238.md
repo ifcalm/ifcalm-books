@@ -1,5 +1,5 @@
 ---
-title: "明史 卷238 卷二百三十八 列傳第一百二十六 李成梁 麻貴"
+title: "明史 卷238"
 date: 2026-05-24
 weight: 238
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷238。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李成梁子:如松 如柏 如楨 如樟 如梅 麻貴兄:錦

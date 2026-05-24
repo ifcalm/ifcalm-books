@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷401 卷四百〇一 列傳第一百六十 辛棄疾 何異 劉宰 劉爚 柴中行 李孟傳"
+title: "宋史 卷401"
 date: 2026-05-24
 weight: 401
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷401。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 辛棄疾 何異 劉宰 劉爚 柴中行 李孟傳

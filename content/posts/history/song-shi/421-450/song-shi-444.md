@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷444 卷四百四十四 列傳第二百〇三 文苑六 黃庭堅 晁補之從弟:詠之 秦觀 張耒 陳師道 李廌 劉恕 王無咎 蔡肇 李格非 呂南公 郭祥正 米芾 劉詵 倪濤 李公麟 周邦彥 朱長文 劉弇"
+title: "宋史 卷444"
 date: 2026-05-24
 weight: 444
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷444。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 黃庭堅 晁補之弟:詠之 秦觀 張耒 陳師道 李廌 劉恕 王無咎 蔡肇 李格非 呂南公 郭祥正 米芾 劉詵 倪濤 李公麟 周邦彥 朱長文 劉弇

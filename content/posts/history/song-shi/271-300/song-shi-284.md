@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷284 卷二百八十四 列傳第四十三 陳堯佐兄:堯叟 弟:堯咨 從子:漸 宋庠弟:祁"
+title: "宋史 卷284"
 date: 2026-05-24
 weight: 284
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷284。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳堯佐

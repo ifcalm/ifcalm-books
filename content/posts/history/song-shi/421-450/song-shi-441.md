@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷441 卷四百四十一 列傳第二百 文苑三 陳充 吳淑舒雅 黃夷簡盧稹 謝炎 許洞 徐鉉 句中正 曾致堯 刁衎 姚鉉 李建中 洪湛 路振 崔遵度 陳越"
+title: "宋史 卷441"
 date: 2026-05-24
 weight: 441
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷441。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文苑三

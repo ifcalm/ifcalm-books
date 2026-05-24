@@ -1,5 +1,5 @@
 ---
-title: "明史 卷298 卷二百九十八 列傳第一百八十六 隱逸"
+title: "明史 卷298"
 date: 2026-05-24
 weight: 298
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷298。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張介福 倪瓚 徐舫 楊恆 陳洄 楊引 吳海 劉閔 楊黼 孫一元 沈周 陳繼儒

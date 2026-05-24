@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷248 卷二百四十八 列傳第七 公主 秦國大長公主 太祖六女 太宗七女 真宗二女 仁宗十三女 英宗四女 神宗十女 哲宗四女 徽宗三十四女 孝宗二女 光宗三女 魏惠獻王一女 寧宗一女 理宗一女"
+title: "宋史 卷248"
 date: 2026-05-24
 weight: 248
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷248。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 秦國大長公主

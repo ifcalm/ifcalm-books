@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷294 卷二百九十四 列傳第五十三 掌禹錫 蘇紳 王洙 胥偃 柳植 聶冠卿 馮元 趙師民 張錫 張揆 楊安國"
+title: "宋史 卷294"
 date: 2026-05-24
 weight: 294
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷294。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 掌禹錫

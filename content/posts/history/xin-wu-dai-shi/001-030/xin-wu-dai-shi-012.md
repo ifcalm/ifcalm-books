@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷12 卷十二 周本紀第十二: 世宗 恭帝"
+title: "新五代史 卷12"
 date: 2026-05-24
 weight: 12
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷12。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷十二 周本纪第十二

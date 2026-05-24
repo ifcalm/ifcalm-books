@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷461 卷四百六十一 列傳第二百二十 方技上 趙修己 王處訥子:熙元 苗訓子:守信 馬韶 楚芝蘭 韓顯符 史序 周克明 劉翰 王懷隱 趙自化 馮文智 沙門洪蘊 蘇澄隱 丁少微 趙自然"
+title: "宋史 卷461"
 date: 2026-05-24
 weight: 461
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷461。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 方技上

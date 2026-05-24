@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷31 卷31 志第26 地理下"
+title: "隋书 卷31"
 date: 2026-05-24
 weight: 31
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷31。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書 隋書總目 隋書卷三十一志第二十六

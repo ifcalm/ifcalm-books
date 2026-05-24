@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷10 卷十 漢本紀第十: 高祖 隱帝"
+title: "新五代史 卷10"
 date: 2026-05-24
 weight: 10
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷10。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高祖睿文聖武昭肅孝皇帝，姓劉氏，初名知遠，其先沙陀部人也，其後世居於太原。知遠弱不好弄，嚴重寡言，面紫色，目多白睛，凜如也。與晉高祖俱事明宗，為偏將。明宗及梁人戰德勝，晉高祖馬甲斷，梁兵幾及，知遠以所乘馬授之，復取高祖馬殿而還，高祖德之。高祖留守北京，以知遠為押衙。

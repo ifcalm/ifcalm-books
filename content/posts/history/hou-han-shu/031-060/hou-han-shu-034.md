@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷34 卷三十四 梁統列傳"
+title: "后汉书 卷34"
 date: 2026-05-24
 weight: 34
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷34。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁統

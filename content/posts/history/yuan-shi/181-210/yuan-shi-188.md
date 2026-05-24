@@ -1,5 +1,5 @@
 ---
-title: "元史 卷188 卷一百八十八 列傳第七十五: 董摶霄 劉哈剌不花 王英 石抹宜孫"
+title: "元史 卷188"
 date: 2026-05-24
 weight: 188
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷188。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 董摶霄弟昂霄

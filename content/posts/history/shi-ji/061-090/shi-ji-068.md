@@ -1,5 +1,5 @@
 ---
-title: "史记 卷68 《商君列傳》 Biography of Lord Shang"
+title: "史记 卷68"
 date: 2026-05-24
 weight: 68
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷68。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《商君列傳》 Biography of Lord Shang

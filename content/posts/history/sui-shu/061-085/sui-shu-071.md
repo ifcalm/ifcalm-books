@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷71 卷71 列傳第36 誠節"
+title: "隋书 卷71"
 date: 2026-05-24
 weight: 71
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷71。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷七十一列傳第三十六

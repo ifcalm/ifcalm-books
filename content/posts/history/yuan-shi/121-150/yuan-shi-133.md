@@ -1,5 +1,5 @@
 ---
-title: "元史 卷133 卷一百三十三 列傳第二十: 塔出 拜延 也罕的斤 葉仙鼐 脫力世官 忽剌出 重喜 旦只兒 脫歡 完者都拔都 失里伯 孛蘭奚 怯烈 暗伯 也速䚟兒 昔都兒"
+title: "元史 卷133"
 date: 2026-05-24
 weight: 133
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷133。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 塔出

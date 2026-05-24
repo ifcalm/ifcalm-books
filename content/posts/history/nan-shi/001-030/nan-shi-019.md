@@ -1,5 +1,5 @@
 ---
-title: "南史 卷19 卷十九 列傳第九 謝晦 謝裕 謝方明 謝靈運"
+title: "南史 卷19"
 date: 2026-05-24
 weight: 19
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷19。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 谢晦

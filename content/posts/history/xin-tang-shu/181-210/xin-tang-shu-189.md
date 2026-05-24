@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷189 卷一百八十九 列傳第一百十四 高趙田朱"
+title: "新唐书 卷189"
 date: 2026-05-24
 weight: 189
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷189。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高趙田朱

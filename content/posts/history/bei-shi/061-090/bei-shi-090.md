@@ -1,5 +1,5 @@
 ---
-title: "北史 卷90 卷九十 列傳第七十八: 藝術下"
+title: "北史 卷90"
 date: 2026-05-24
 weight: 90
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷90。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 藝術下

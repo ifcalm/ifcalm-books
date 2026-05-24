@@ -1,5 +1,5 @@
 ---
-title: "明史 卷182 卷一百八十二 列傳第七十 王恕 馬文升 劉大夏"
+title: "明史 卷182"
 date: 2026-05-24
 weight: 182
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷182。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王恕

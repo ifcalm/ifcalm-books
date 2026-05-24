@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷16 卷十六 列傳第十 王亮 張稷 王瑩"
+title: "梁书 卷16"
 date: 2026-05-24
 weight: 16
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷16。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第十六 列傳第十

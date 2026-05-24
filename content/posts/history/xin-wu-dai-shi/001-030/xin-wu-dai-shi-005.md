@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷5 卷五 唐本紀第五: 莊宗下"
+title: "新五代史 卷5"
 date: 2026-05-24
 weight: 5
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷5。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 存勖，克用長子也。初，克用破孟方立於邢州，還軍上黨，置酒三垂崗，伶人奏《百年歌》，至於衰老之際，聲甚悲，坐上皆淒愴。時存勖在側，方五歲，克用慨然捋須，指而笑曰：「吾行老矣，此奇兒也，後二十年，其能代我戰於此乎！」存勖年十一，從克用破王行瑜，遣獻捷於京師，昭宗異其狀貌，賜以鸂鶒卮、翡翠盤，而撫其背曰：「兒有奇表，後當富貴，無忘予家。」及長，善騎射，膽勇過人，稍習《春秋》，通大義，尤喜音聲歌舞俳優之戲。

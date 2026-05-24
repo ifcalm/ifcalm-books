@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷32 卷三十二 蜀書二 先主傳"
+title: "三国志 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 先主 劉備

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷312 卷三百十二 列傳第七十一 韓琦子:忠彥 曾公亮子:孝寬 孝廣 孝蘊 陳升之 吳充 王珪從父:罕 從兄:琪"
+title: "宋史 卷312"
 date: 2026-05-24
 weight: 312
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷312。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韓琦

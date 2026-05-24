@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷434 卷四百三十四 列傳第一百九十三 儒林四 劉子翬 呂祖謙 蔡元定子:沉 陸九齡兄:九韶 陸九淵 薛季宣 陳傅良 葉適 戴溪 蔡幼學 楊泰之"
+title: "宋史 卷434"
 date: 2026-05-24
 weight: 434
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷434。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 儒林四

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷210 卷二百一十 列傳第九十七: 外夷三 緬國 占城 暹國 爪哇 瑠求 三嶼 馬八兒等國"
+title: "元史 卷210"
 date: 2026-05-24
 weight: 210
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷210。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 緬

@@ -1,5 +1,5 @@
 ---
-title: "周书 卷35 卷35 列傳第27 鄭孝穆 崔謙 弟說 子弘度 崔猷 裴俠 薛端 薛善 弟慎"
+title: "周书 卷35"
 date: 2026-05-24
 weight: 35
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷35。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鄭孝穆　崔謙 弟說 子弘度　崔猷　裴俠　薛端　薛善 弟慎

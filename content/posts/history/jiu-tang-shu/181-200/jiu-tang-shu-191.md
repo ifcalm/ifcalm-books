@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷191 卷一百九十一 列傳第一百四十一: 方伎"
+title: "旧唐书 卷191"
 date: 2026-05-24
 weight: 191
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷191。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔善為 薛頤 甄權弟:立言 宋俠 許胤宗 乙弗弘禮 袁天綱 孫思邈 明崇儼 張憬藏 李嗣真 張文仲附:李虔縱 韋慈藏 尚獻甫附:裴知古 孟詵 嚴善思 金梁鳳 張果 葉法善 僧玄奘 僧神秀附:慧能 普寂 義福 僧一行附:泓師 桑道茂

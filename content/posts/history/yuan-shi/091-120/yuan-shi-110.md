@@ -1,5 +1,5 @@
 ---
-title: "元史 卷110 卷一百一十 表第五上: 三公表一"
+title: "元史 卷110"
 date: 2026-05-24
 weight: 110
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷110。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 古者三公之職，寅亮天地，燮理陰陽，以論道經邦者也。元初，以太師、太傅、太保為三公，自木華黎國王始為太師，後凡為三公者，皆國之元勳，而漢人則惟劉秉忠嘗為太保，其後鮮有聞矣。其制又有大司徙、司徒、太尉、司空之屬，然其置否不常，人品或混，故置者又或開府不開府焉。若夫東宮，亦嘗置三師、三少，而不恆有也。今固不得而悉著之，惟自木華黎而下，得拜三公者若干人，作三公表。

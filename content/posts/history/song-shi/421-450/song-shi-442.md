@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷442 卷四百四十二 列傳第二百〇一 文苑四 穆脩 石延年劉潛 蕭貫 蘇舜欽 尹源 黃亢 黃鑑 楊蟠 顏太初 郭忠恕"
+title: "宋史 卷442"
 date: 2026-05-24
 weight: 442
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷442。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文苑四

@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷96 第六 禮儀下 大喪諸侯王列侯始封貴人公主薨"
+title: "后汉书 卷96"
 date: 2026-05-24
 weight: 96
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷96。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 後漢書志第六　禮儀下　大喪諸侯王列侯始封貴人公主薨　　不豫，太醫令丞將醫人，就進所宜藥。嘗藥監、近臣中常侍、小黃門皆先嘗藥，過量十二。公卿朝臣問起居無閒。太尉告請南郊，司徒、司空告請宗廟，告五獄、四瀆、腢祀，並禱求福。疾病，公卿復如禮。　　注[一]漢舊儀曰：「帝崩，唅以珠，纏以緹繒十二重。以玉為襦，如鎧狀，連縫之，以黃金為縷。腰以下以玉為札，長一尺，*[廣]*二寸半，為柙，下至足，亦縫以黃金鏤。*(請)*諸衣衿斂之。凡乘輿衣服，已御，輒藏之，崩皆以斂。」

@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷41 卷四一 列傳第三三 暴顯 皮景和 鮮于世榮 綦連猛 元景安 獨孤永業 傅伏 高保寧"
+title: "北齐书 卷41"
 date: 2026-05-24
 weight: 41
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷41。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 暴顯 皮景和 鮮于世榮 綦連猛 元景安 獨孤永業 傅伏 高保寧

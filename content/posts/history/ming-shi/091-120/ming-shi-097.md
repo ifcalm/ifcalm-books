@@ -1,5 +1,5 @@
 ---
-title: "明史 卷97 卷九十七 志第七十三 藝文二"
+title: "明史 卷97"
 date: 2026-05-24
 weight: 97
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷97。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 史類十：一曰正史類，編年在內。二曰雜史類，三曰史鈔類，四曰故事類，五曰職官類，六曰儀注類，七曰刑法類，八曰傳記類，九曰地理類，十曰譜牒類。

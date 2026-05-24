@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷76 卷七十六 列傳第六: 耶律解里 耶律拔里得 耶律朔古 耶律魯不古 趙延壽 高模翰 趙思溫 耶律漚里思 張礪"
+title: "辽史 卷76"
 date: 2026-05-24
 weight: 76
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷76。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律解裏耶律拔裏得耶律朔古耶律魯不古趙延壽高模翰趙思溫耶律漚裏思張礪

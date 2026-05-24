@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷45 卷四十五 蜀書十五 鄧張宗楊傳"
+title: "三国志 卷45"
 date: 2026-05-24
 weight: 45
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷45。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鄧芝

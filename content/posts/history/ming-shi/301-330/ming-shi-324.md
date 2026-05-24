@@ -1,5 +1,5 @@
 ---
-title: "明史 卷324 卷三百二十四 列傳第二百十二 外國五 占城 真臘 暹羅 瓜哇 三佛齊"
+title: "明史 卷324"
 date: 2026-05-24
 weight: 324
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷324。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 占城

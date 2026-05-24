@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷84 卷八十四 列女傳"
+title: "后汉书 卷84"
 date: 2026-05-24
 weight: 84
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷84。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《詩》、《書》之言女德尚矣。[1]若夫賢妃助國君之政，哲婦隆家人之道，高士弘清淳之風，貞女亮明白之節，則其徽美未殊也，而世典咸漏焉。故自中興以後，綜其成事，述為列女篇。如馬、鄧、梁后別見前紀，梁嫕、李姬各附家傳，[2]若斯之類，並不兼書。余但𢯱次才行尤高秀者，不必專在一操而已。

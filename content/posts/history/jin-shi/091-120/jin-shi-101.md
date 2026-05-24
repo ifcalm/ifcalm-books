@@ -1,5 +1,5 @@
 ---
-title: "金史 卷101 卷一百〇一 列傳第三十九: 承暉本名福興 抹撚盡忠 僕散端本名七斤 耿端義 李英 孛朮魯德裕 烏古論慶壽"
+title: "金史 卷101"
 date: 2026-05-24
 weight: 101
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷101。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 承暉

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷152 卷一百五十二 列傳第一百〇二: 馬璘 郝廷玉 王棲曜 劉昌 李景略 張萬福 高固 郝玼 段佐 史敬奉"
+title: "旧唐书 卷152"
 date: 2026-05-24
 weight: 152
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷152。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 馬璘，扶風人也。祖正會，右威衛將軍。父晟，右司禦率府兵曹參軍。璘少孤，落拓不事生業。年二十余，讀《馬援傳》至「大丈夫當死於邊野，以馬革裹屍而歸」，慨然嘆曰：「豈使吾祖勛業墜於地乎！」開元末，杖劍從戎，自效於安西。以前後奇功，累遷至左金吾衛將軍同正。

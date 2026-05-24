@@ -1,5 +1,5 @@
 ---
-title: "明史 卷156 卷一百五十六 列傳第四十四 吳允誠 薛斌 吳成 金忠 李英 毛勝 焦禮 毛忠 和勇 羅秉忠"
+title: "明史 卷156"
 date: 2026-05-24
 weight: 156
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷156。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 吳允誠〈（子克忠孫瑾）〉薛斌〈（子綬弟貴李賢）〉吳成〈（滕定金順）〉金忠〈（蔣信）〉李英〈（從子文）〉毛勝焦禮毛忠〈（孫銳）〉和勇羅秉忠

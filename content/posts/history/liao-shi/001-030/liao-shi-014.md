@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷14 卷十四 本紀第十四: 聖宗五"
+title: "辽史 卷14"
 date: 2026-05-24
 weight: 14
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷14。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 聖宗五

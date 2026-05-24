@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷136 卷一百三十六 列傳第六十一 李光弼附:荔非元禮 郝廷玉 李國臣 白孝德 張伯儀 白元光 陳利貞 侯仲莊 柏良器 烏承玼"
+title: "新唐书 卷136"
 date: 2026-05-24
 weight: 136
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷136。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李光弼子:彙 弟:光進 附:荔非元禮 郝廷玉 李國臣 白孝德 張伯儀 白元光 陳利貞 侯仲莊 柏良器 烏承玼

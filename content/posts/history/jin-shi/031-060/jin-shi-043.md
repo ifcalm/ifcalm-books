@@ -1,5 +1,5 @@
 ---
-title: "金史 卷43 卷四十三 志第二十四: 輿服上 天子車輅、皇后妃嬪車輦、皇太子車制、王公以下車制及鞍勒飾 輿服中 天子袞冕 視朝之服 皇后冠服 皇太子冠服 宗室及外戚並一品命婦 臣下朝服 祭服 公服 輿服下 衣服通制"
+title: "金史 卷43"
 date: 2026-05-24
 weight: 43
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷43。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 輿服上

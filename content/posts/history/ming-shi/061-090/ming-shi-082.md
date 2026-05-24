@@ -1,5 +1,5 @@
 ---
-title: "明史 卷82 卷八十二 志第五十八 食貨六"
+title: "明史 卷82"
 date: 2026-05-24
 weight: 82
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷82。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 上供採造 採造柴炭 採木 珠池 織造 燒造 俸餉 會計

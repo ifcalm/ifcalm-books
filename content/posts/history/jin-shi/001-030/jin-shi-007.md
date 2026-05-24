@@ -1,5 +1,5 @@
 ---
-title: "金史 卷7 卷七 本紀第七: 世宗中"
+title: "金史 卷7"
 date: 2026-05-24
 weight: 7
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷7。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 十二年正月庚午朔，宋、高麗、夏遣使來賀。戊寅，詔有司：「凡陳言文字，皆國政利害，自今言有可行，以其本封送秘書監，當行者錄副付所司。」丙申，以水旱，免中都、西京、南京、河北、河東、山東、陝西去年租稅。

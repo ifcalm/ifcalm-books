@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷88 卷八十八 列傳第十八: 蕭敵烈 耶律盆奴 蕭排押 耶律資忠 耶律瑤質 耶律弘古 高正 耶律的琭 大康乂"
+title: "辽史 卷88"
 date: 2026-05-24
 weight: 88
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷88。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭敵烈〈（拔剌）〉耶律盆奴蕭排押〈（恒德匹敵）〉耶律資忠耶律瑤質耶律弘古高正耶律的錄大康乂

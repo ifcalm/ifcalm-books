@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷185 卷一百八十五"
+title: "旧唐书 卷185"
 date: 2026-05-24
 weight: 185
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷185。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷一百八十五上 列傳第一百三十五上: 良吏上

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷173 卷一百七十三 列傳第六十: 崔斌 崔彧 葉李 燕公楠 馬紹"
+title: "元史 卷173"
 date: 2026-05-24
 weight: 173
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷173。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔斌

@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷43 卷四十三"
+title: "新唐书 卷43"
 date: 2026-05-24
 weight: 43
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷43。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷四十三上 志第三十三上 地理七上

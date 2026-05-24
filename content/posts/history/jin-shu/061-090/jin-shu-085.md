@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷85 卷八十五 列傳第五十五 劉毅 諸葛長民 何無忌 檀憑之 魏詠之"
+title: "晋书 卷85"
 date: 2026-05-24
 weight: 85
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷85。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉毅〈（兄邁）〉諸葛長民 何無忌 檀憑之 魏詠之

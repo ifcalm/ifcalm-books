@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷78 卷七十八 列傳第八: 耶律夷臘葛 蕭海璃 蕭護思 蕭思溫 蕭繼先"
+title: "辽史 卷78"
 date: 2026-05-24
 weight: 78
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷78。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律夷臘葛蕭海璃蕭護思蕭思溫蕭繼先

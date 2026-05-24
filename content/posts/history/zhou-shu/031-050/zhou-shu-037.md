@@ -1,5 +1,5 @@
 ---
-title: "周书 卷37 卷37 列傳第29 寇儁 韓褒 趙肅 張軌 李彥 郭彥 裴文舉 高賓"
+title: "周书 卷37"
 date: 2026-05-24
 weight: 37
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷37。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 寇儁　韓褒　趙肅　張軌　李彥　郭彥　裴文舉 高賓

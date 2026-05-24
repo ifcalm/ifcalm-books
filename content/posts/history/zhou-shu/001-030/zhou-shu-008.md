@@ -1,5 +1,5 @@
 ---
-title: "周书 卷8 卷8 帝紀第8 靜帝"
+title: "周书 卷8"
 date: 2026-05-24
 weight: 8
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷8。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 靜帝

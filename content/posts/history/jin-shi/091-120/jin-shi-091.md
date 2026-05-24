@@ -1,5 +1,5 @@
 ---
-title: "金史 卷91 卷九十一 列傳第二十九: 完顏撒改 龐迪 溫蒂罕移室懣 神土懣 移剌成 石抹卞 楊仲武 蒲察世傑本名阿撒 蕭懷忠 移剌按答 孛朮魯阿魯罕 趙興祥 石抹榮 敬嗣暉"
+title: "金史 卷91"
 date: 2026-05-24
 weight: 91
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷91。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 完顏撒改

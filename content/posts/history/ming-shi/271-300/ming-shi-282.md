@@ -1,5 +1,5 @@
 ---
-title: "明史 卷282 卷二百八十二 列傳第一百七十 儒林一"
+title: "明史 卷282"
 date: 2026-05-24
 weight: 282
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷282。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 粵自司馬遷、班固創述《儒林》，著漢興諸儒修明經藝之由，朝廷廣厲學官之路，與一代政治相表裏。後史沿其體制，士之抱遺經以相授受者，雖無他事業，率類次為篇。《宋史》判《道學》、《儒林》為二，以明伊、雒淵源，上承洙、泗，儒宗統緒，莫正於是。所關於世道人心者甚巨，是以載籍雖繁，莫可廢也。

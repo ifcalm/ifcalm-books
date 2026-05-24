@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷413 卷四百十三 列傳第一百七十二 趙汝談 趙汝讜 趙希錧 趙彥吶 趙善湘 趙與懽 趙必愿"
+title: "宋史 卷413"
 date: 2026-05-24
 weight: 413
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷413。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙汝談趙汝讜趙希趙彥呐趙善湘趙與歡趙必願

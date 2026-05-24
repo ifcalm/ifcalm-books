@@ -1,5 +1,5 @@
 ---
-title: "南史 卷3 卷三 宋本紀下第三 明帝 後廢帝 順帝"
+title: "南史 卷3"
 date: 2026-05-24
 weight: 3
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷3。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宋本紀下第三

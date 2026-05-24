@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷76 卷76 盧同 張烈"
+title: "魏书 卷76"
 date: 2026-05-24
 weight: 76
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷76。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 盧同　張烈

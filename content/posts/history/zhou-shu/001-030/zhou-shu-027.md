@@ -1,5 +1,5 @@
 ---
-title: "周书 卷27 卷27 列傳第19 赫連達 韓果 蔡祐 常善 辛威 厙狄昌 田弘 梁椿 梁臺 宇文測 弟深"
+title: "周书 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 赫連達　韓果　蔡祐　常善　辛威　厙狄昌　田弘　梁椿　梁臺　宇文測 弟深

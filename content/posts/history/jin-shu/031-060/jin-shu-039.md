@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷39 卷三十九 列傳第九 王沈 荀顗 荀勖 馮紞"
+title: "晋书 卷39"
 date: 2026-05-24
 weight: 39
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷39。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王沈〈（子浚）〉荀顗 荀勖〈（子籓 籓子邃 邃弟闓 籓弟組 組子奕）〉馮紞

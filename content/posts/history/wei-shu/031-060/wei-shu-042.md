@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷42 卷42 薛辯 寇贊 酈範 韓秀 堯暄"
+title: "魏书 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 薛辯　寇讚　酈範　韓秀　堯暄

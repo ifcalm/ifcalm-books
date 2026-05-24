@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷360 卷三百六十 列傳第一百十九 宗澤 趙鼎"
+title: "宋史 卷360"
 date: 2026-05-24
 weight: 360
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷360。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宗澤 趙鼎

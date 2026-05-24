@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷32 卷三十二 唐書8: 莊宗本紀六"
+title: "旧五代史 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 同光二年夏五月己亥，帝御文明殿，冊齊王張全義為太尉。禮畢，全義赴尚書省領事，左諫議大夫竇專不降階，為御史所劾，專援引舊典，宰相不能詰，寢而不行。庚子，太常卿李燕卒。壬寅，以教坊使陳俊為景州刺史，內園使儲德源為憲州刺史，皆梁之伶人也。初，帝平梁，俊與德源皆為寵伶周匝所薦，帝因許除郡，郭崇韜以為不可，伶官言之者眾，帝密召崇韜謂之曰：「予已許除郡，經年未行，我慚見二人，卿當屈意行之。」故有是命。

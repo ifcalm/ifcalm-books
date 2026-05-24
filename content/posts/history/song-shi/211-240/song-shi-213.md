@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷213 卷二百十三 表第四 宰輔四"
+title: "宋史 卷213"
 date: 2026-05-24
 weight: 213
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷213。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 公元	紀年	宰相進拜加官	罷免	執政進拜加官	罷免

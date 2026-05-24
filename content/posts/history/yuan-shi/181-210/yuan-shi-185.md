@@ -1,5 +1,5 @@
 ---
-title: "元史 卷185 卷一百八十五 列傳第七十二: 呂思誠 汪澤民 干文傳 韓鏞 李稷 蓋苗"
+title: "元史 卷185"
 date: 2026-05-24
 weight: 185
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷185。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 呂思誠

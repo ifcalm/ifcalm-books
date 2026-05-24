@@ -1,5 +1,5 @@
 ---
-title: "元史 卷137 卷一百三十七 列傳第二十四: 察罕 曲樞 阿禮海牙 奕赫抵雅爾丁 脫烈海牙"
+title: "元史 卷137"
 date: 2026-05-24
 weight: 137
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷137。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 察罕

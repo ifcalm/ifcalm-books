@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷75 卷七十五 列傳第二十五: 蘇世長 韋雲起 孫伏伽 張玄素"
+title: "旧唐书 卷75"
 date: 2026-05-24
 weight: 75
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷75。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蘇世長 子良嗣

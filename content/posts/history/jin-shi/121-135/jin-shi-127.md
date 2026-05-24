@@ -1,5 +1,5 @@
 ---
-title: "金史 卷127 卷一百二十七 列傳第六十五: 孝友 溫蒂罕斡魯補 陳顏 劉瑜 孟興 王震 劉政 隱逸 褚承亮 王去非 趙質 杜時升 郝天挺 薛繼元 高仲振 張潛 王汝梅 宋可 辛願 王予可"
+title: "金史 卷127"
 date: 2026-05-24
 weight: 127
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷127。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝友

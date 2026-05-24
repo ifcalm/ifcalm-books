@@ -1,5 +1,5 @@
 ---
-title: "南史 卷36 卷三十六 列傳第二十六 羊欣 羊玄保 沈演之 江夷 江秉之"
+title: "南史 卷36"
 date: 2026-05-24
 weight: 36
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷36。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第二十六

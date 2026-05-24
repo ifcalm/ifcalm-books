@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷46 卷四十六 列傳第二十七 王秀之 王慈 蔡約 陸慧曉 顧憲之 蕭惠基"
+title: "南齐书 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷四十六‧列傳第二十七

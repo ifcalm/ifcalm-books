@@ -1,5 +1,5 @@
 ---
-title: "明史 卷136 卷一百三十六 列傳第二十四 陶安 詹同 朱升 崔亮 陶凱 曾魯 任昂 李原名 樂韶鳳"
+title: "明史 卷136"
 date: 2026-05-24
 weight: 136
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷136。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陶安

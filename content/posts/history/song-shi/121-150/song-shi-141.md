@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷141 卷一百四十一 志第九十四 樂十六"
+title: "宋史 卷141"
 date: 2026-05-24
 weight: 141
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷141。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 樂十六〈（鼓吹下）〉○高宗郊祀大禮五首《導引》

@@ -1,5 +1,5 @@
 ---
-title: "周书 卷9 卷9 列傳第1 皇后"
+title: "周书 卷9"
 date: 2026-05-24
 weight: 9
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷9。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文帝元皇后　文宣叱奴皇后　孝閔帝元皇后　明帝獨孤皇后　武帝阿史那皇后　武帝李皇后　宣帝楊皇后　宣帝朱皇后　宣帝陳皇后　宣帝元皇后　宣帝尉遲皇后　靜帝司馬皇后

@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷43 卷四十三 酈陸朱劉叔孫傳"
+title: "汉书 卷43"
 date: 2026-05-24
 weight: 43
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷43。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷四十三 酈陸硃劉叔孫傳第十三

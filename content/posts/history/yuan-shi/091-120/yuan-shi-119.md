@@ -1,5 +1,5 @@
 ---
-title: "元史 卷119 卷一百十九 列傳第六: 木華黎 博魯朮 博爾忽"
+title: "元史 卷119"
 date: 2026-05-24
 weight: 119
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷119。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 木華黎

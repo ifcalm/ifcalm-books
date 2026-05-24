@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷53 卷五十三 吳書八 張嚴程闞薛傳"
+title: "三国志 卷53"
 date: 2026-05-24
 weight: 53
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷53。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張紘

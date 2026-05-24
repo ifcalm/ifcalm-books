@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷174 卷一百七十四 列傳第九十九 李逢吉 元稹 牛僧儒孫:徽 李宗閔 楊嗣復"
+title: "新唐书 卷174"
 date: 2026-05-24
 weight: 174
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷174。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李逢吉 元稹 牛僧儒子:蔚 蔚子:徽 子:叢 李宗閔 楊嗣復子:授 煚 損

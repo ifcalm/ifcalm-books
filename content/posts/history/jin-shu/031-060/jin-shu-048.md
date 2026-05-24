@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷48 卷四十八 列傳第十八 向雄 段灼 閻纘"
+title: "晋书 卷48"
 date: 2026-05-24
 weight: 48
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷48。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 向雄 段灼 閻纘

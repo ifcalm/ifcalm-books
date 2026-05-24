@@ -1,5 +1,5 @@
 ---
-title: "元史 卷166 卷一百六十六 列傳第五十三: 王綧 隋世昌 羅璧 劉恩 石高山 鞏彥暉 蔡珍 張泰亨 賀祉 孟德子義 鄭義 張榮實 石抹狗狗 楚鼎 樊楫 張均 信苴日 王昔剌 趙宏偉"
+title: "元史 卷166"
 date: 2026-05-24
 weight: 166
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷166。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王綧

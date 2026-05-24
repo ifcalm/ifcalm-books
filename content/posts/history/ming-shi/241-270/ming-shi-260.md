@@ -1,5 +1,5 @@
 ---
-title: "明史 卷260 卷二百六十 列傳第一百四十八 楊鶴 陳奇瑜 熊文燦 練國事 丁啟睿 鄭崇儉 邵捷春 余應桂 高斗樞 張任學"
+title: "明史 卷260"
 date: 2026-05-24
 weight: 260
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷260。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊鶴〈（從弟鶚）〉陳奇瑜〈（元默）〉熊文燦〈（洪雲蒸）〉練國事丁啟睿〈（從父魁楚）〉鄭崇儉〈（方孔炤楊一鵬）〉邵捷春余應桂高鬥樞張任學

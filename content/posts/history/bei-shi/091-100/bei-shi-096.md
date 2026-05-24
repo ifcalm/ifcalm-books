@@ -1,5 +1,5 @@
 ---
-title: "北史 卷96 卷九十六 列傳第八十四: 氐 吐谷渾 宕昌 鄧至 白蘭 党項 附國 稽胡"
+title: "北史 卷96"
 date: 2026-05-24
 weight: 96
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷96。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 氐 吐谷渾 宕昌 鄧至 白蘭 党項 附國 稽胡

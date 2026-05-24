@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷109 卷一百〇九 志第六十二 禮十二"
+title: "宋史 卷109"
 date: 2026-05-24
 weight: 109
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷109。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮十二〈（吉禮十二）〉○后廟景靈宮神御殿功臣配侑群臣家廟

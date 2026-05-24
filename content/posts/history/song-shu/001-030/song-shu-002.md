@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷2 卷二 本紀第二 武帝中"
+title: "宋书 卷2"
 date: 2026-05-24
 weight: 2
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷2。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 七年正月己未，振旅于京師。改授大將軍、揚州牧，給班劍二十人，本官悉如故，固辭。凡南北征伐戰亡者，並列上賻贈。尸喪未反，遣主帥迎接，致還本土。

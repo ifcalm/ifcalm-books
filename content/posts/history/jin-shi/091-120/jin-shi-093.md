@@ -1,5 +1,5 @@
 ---
-title: "金史 卷93 卷九十三 列傳第三十一: 顯宗諸子琮(本名承慶) 瑰(本名桓篤) 從彝(本名阿憐) 從憲(本名吾里不) 玠(本名謀良虎) 章宗諸子洪裕 洪靖(本名阿虎懶) 洪熙(本名訛魯不) 洪衍(本名撒改) 洪輝(本名訛論) 忒鄰 衞紹王子從恪 宣宗三子莊獻太子守忠 玄齡 荊王守純(本名盤都) 獨吉思忠 承裕 僕散揆 抹撚史扢搭 宗浩"
+title: "金史 卷93"
 date: 2026-05-24
 weight: 93
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷93。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 顯宗諸子

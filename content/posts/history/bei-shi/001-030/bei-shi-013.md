@@ -1,5 +1,5 @@
 ---
-title: "北史 卷13 卷十三 列傳第一: 后妃上"
+title: "北史 卷13"
 date: 2026-05-24
 weight: 13
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷13。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 魏神元皇后竇氏 文帝皇后封氏 桓皇后惟氏 平文皇后王氏 昭成皇后慕容氏 獻明皇后賀氏 道武皇后慕容氏 道武宣穆皇后劉氏 明元昭哀皇后姚氏 明元密皇后杜氏 太武皇后赫連氏 太武敬哀皇后賀氏 景穆恭皇后郁久閭氏 文成文明皇后馮氏 文成元皇后李氏 獻文思皇后李氏 孝文貞皇后林氏 孝文廢皇后馮氏 孝文幽皇后馮氏 孝文文昭皇后高氏 宣武順皇后于氏 宣武皇后高氏 宣武靈皇后胡氏 孝明皇后胡氏 孝武皇后高氏 文帝文皇后乙弗氏 文帝悼皇后郁久閭氏 廢帝皇后宇文氏 恭帝皇后若干氏 孝靜皇后高氏

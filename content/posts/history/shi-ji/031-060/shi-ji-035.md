@@ -1,5 +1,5 @@
 ---
-title: "史记 卷35 《管蔡世家》 Houses of Guan and Cai"
+title: "史记 卷35"
 date: 2026-05-24
 weight: 35
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷35。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《管蔡世家》 Houses of Guan and Cai

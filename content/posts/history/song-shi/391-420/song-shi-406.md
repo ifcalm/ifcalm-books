@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷406 卷四百〇六 列傳第一百六十五 崔與之 洪咨夔 許奕 陳居仁 劉漢弼"
+title: "宋史 卷406"
 date: 2026-05-24
 weight: 406
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷406。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔與之 洪咨夔 許奕 陳居仁 劉漢弼

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷169 卷一百六十九 列傳第五十六: 賀仁傑 賈昔剌 劉哈剌八都魯 石抹明里 謝仲溫 高觿 張九思 王伯勝"
+title: "元史 卷169"
 date: 2026-05-24
 weight: 169
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷169。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 賀仁傑

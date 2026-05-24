@@ -1,5 +1,5 @@
 ---
-title: "元史 卷62 卷六十二 志第十四: 地理五"
+title: "元史 卷62"
 date: 2026-05-24
 weight: 62
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷62。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 江浙等處行中書省，為路三十、府一、州二，屬州二十六，屬縣一百四十三。本省陸站一百八十處，水站八十二處。

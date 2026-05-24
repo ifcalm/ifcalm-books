@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷64 卷六十四 志第十七 五行二下"
+title: "宋史 卷64"
 date: 2026-05-24
 weight: 64
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷64。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 火下

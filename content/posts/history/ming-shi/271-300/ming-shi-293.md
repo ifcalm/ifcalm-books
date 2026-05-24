@@ -1,5 +1,5 @@
 ---
-title: "明史 卷293 卷二百九十三 列傳第一百八十一 忠義五"
+title: "明史 卷293"
 date: 2026-05-24
 weight: 293
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷293。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 武大烈〈（徐日泰等）〉錢祚徵盛以恒〈（高孝志等）〉顏日愉〈（艾毓初等）〉潘弘〈（劉振世等）〉陳豫抱〈（許宣等）〉劉振之〈（杜邦舉費曾謀等）〉李乘雲〈（余爵等）〉關永傑〈（侯君擢等）〉張維世〈（姚若時等）〉王世琇〈（顏則孔等）〉許永禧〈（高鬥垣等）〉李貞佐〈（周卜歷等）〉魯世任〈（張信等）〉劉禋〈（陳顯元等）〉何燮〈（左相申等）〉趙興基〈（鄭元綬等）〉

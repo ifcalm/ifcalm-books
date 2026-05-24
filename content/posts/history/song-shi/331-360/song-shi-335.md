@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷335 卷三百三十五 列傳第九十四 种世衡子:古 諤 誼 孫:樸 師道 師中"
+title: "宋史 卷335"
 date: 2026-05-24
 weight: 335
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷335。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 种世衡

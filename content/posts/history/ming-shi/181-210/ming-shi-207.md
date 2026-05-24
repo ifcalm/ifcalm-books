@@ -1,5 +1,5 @@
 ---
-title: "明史 卷207 卷二百〇七 列傳第九十五 鄧繼曾 朱淛 楊言 劉安 薛侃 楊名 郭弘化 劉世龍 張選 包節 謝廷荡鄄洍 王與齡 楊思忠"
+title: "明史 卷207"
 date: 2026-05-24
 weight: 207
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷207。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鄧繼曾〈（劉最）〉朱淛〈（馬明衡陳逅林應聰）〉楊言劉安薛侃〈（喻希禮石金楊名黃直）〉郭弘化劉世龍〈（徐申羅虞臣）〉張選〈（黃正色）〉包節〈（弟孝）〉謝廷王與齡〈（周鈇）〉楊思忠〈（樊深淩儒王時舉方新）〉

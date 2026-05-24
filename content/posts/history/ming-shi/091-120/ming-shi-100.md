@@ -1,5 +1,5 @@
 ---
-title: "明史 卷100 卷一百 表第一 諸王世表一"
+title: "明史 卷100"
 date: 2026-05-24
 weight: 100
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷100。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 明太祖建藩，子孫世系預錫嘉名，以示傳世久遠。當神宗中葉，僅及祖訓之半，而不億之麗，宗祿虧乏，議者遂有減歲祿，限宮媵，且限支子之請。由是支屬承祧者，親王無旁推之恩；群從繼世者，郡封絕再裂之例，以及名婚不時有明禁，本折互支屬常期。啓、禎時，軍饷告絀，大農蒿目，安能顧瞻藩維。親王或可自存，郡王以致中尉空乏尤甚。一旦盜起，無力禦侮，徒手就戮，宗社爲墟，惜哉！

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷357 卷三百五十七 列傳第一百十六 何灌 李熙靖 王雲 譚世勣 梅執禮 程振 劉延慶"
+title: "宋史 卷357"
 date: 2026-05-24
 weight: 357
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷357。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 何灌 李熙靖 王雲 譚世勣 梅執禮 程振 劉延慶

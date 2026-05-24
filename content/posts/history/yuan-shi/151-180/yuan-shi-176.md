@@ -1,5 +1,5 @@
 ---
-title: "元史 卷176 卷一百七十六 列傳第六十三: 曹伯啟 李元禮 王壽 王倚 劉正 謝讓 韓若愚 趙師魯 劉德溫 尉遲德誠 秦起宗"
+title: "元史 卷176"
 date: 2026-05-24
 weight: 176
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷176。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 曹伯啟

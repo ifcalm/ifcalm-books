@@ -1,5 +1,5 @@
 ---
-title: "明史 卷117 卷一百十七 列傳第五 諸王二"
+title: "明史 卷117"
 date: 2026-05-24
 weight: 117
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷117。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蜀王椿　湘王柏　代王桂 襄垣王遜燂　靈丘王遜烇　成𨨣　廷鄣　肅王楧　遼王植　慶王㮵　寧王權

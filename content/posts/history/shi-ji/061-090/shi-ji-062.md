@@ -1,5 +1,5 @@
 ---
-title: "史记 卷62 《管晏列傳》"
+title: "史记 卷62"
 date: 2026-05-24
 weight: 62
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷62。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《管晏列傳》

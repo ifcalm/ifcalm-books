@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷120 卷一百二十 載記第二十 李特 李流"
+title: "晋书 卷120"
 date: 2026-05-24
 weight: 120
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷120。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李特

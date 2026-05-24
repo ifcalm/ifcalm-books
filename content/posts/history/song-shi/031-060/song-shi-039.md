@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷39 卷三十九 本紀第三十九 寧宗三"
+title: "宋史 卷39"
 date: 2026-05-24
 weight: 39
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷39。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 嘉定元年春正月戊寅，右諫議大夫葉時等請梟韓侂胄首於兩淮以謝天下，不報。辛巳，下詔求言。壬午，王柟還自河南，持金人牒，求韓侂胄首。丙戌，葉時等復請梟侂胄首於兩淮。戊子，安定郡王伯栩薨。壬辰，以史彌遠知樞密院事，以許奕爲金國通謝使。

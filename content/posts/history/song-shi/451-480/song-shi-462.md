@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷462 卷四百六十二 列傳第二百二十一 方技下 賀蘭棲眞 柴通玄 甄棲眞 楚衍 僧志言 僧懷丙 許希 龐安時 錢乙 僧智緣 郭天信 魏漢津 王老志 王仔昔 林靈素 皇甫坦 王克明 莎衣道人 孫守榮"
+title: "宋史 卷462"
 date: 2026-05-24
 weight: 462
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷462。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 方技下

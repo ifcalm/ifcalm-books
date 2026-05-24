@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷437 卷四百三十七 列傳第一百九十六 儒林七 程迥 劉清之 眞德秀 魏了翁 廖德明"
+title: "宋史 卷437"
 date: 2026-05-24
 weight: 437
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷437。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 儒林七○程迥劉清之真德秀魏了翁廖德明

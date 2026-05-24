@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷44 卷四十四 雜傳第三十二: 劉知俊 丁會 賀德倫 閻寶 康延孝"
+title: "新五代史 卷44"
 date: 2026-05-24
 weight: 44
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷44。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉知俊

@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷84 卷84 儒林:梁越 盧醜 張偉 梁祚 平恆 陳奇 常爽 劉獻之"
+title: "魏书 卷84"
 date: 2026-05-24
 weight: 84
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷84。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁越　盧醜　張偉　梁祚　平恒　陳奇　常爽　劉獻之　張吾貴　劉蘭　孫惠蔚　徐遵明　董徵　刁沖　盧景裕　李同軌　李業興

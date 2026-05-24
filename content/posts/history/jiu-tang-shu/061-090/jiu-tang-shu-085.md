@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷85 卷八十五 列傳第三十五: 唐臨 張文瓘 徐有功"
+title: "旧唐书 卷85"
 date: 2026-05-24
 weight: 85
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷85。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 唐臨（孫紹）張文瓘（兄文琮從弟文收）徐有功

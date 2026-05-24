@@ -1,5 +1,5 @@
 ---
-title: "明史 卷158 卷一百五十八 列傳第四十六 黃宗載 顧佐 段民 章敞 吳訥 魏驥 魯穆 耿九疇 軒輗 黃孔昭"
+title: "明史 卷158"
 date: 2026-05-24
 weight: 158
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷158。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 黃宗載顧佐〈（邵玘陳勉賈諒嚴升）〉段民〈（吾紳）〉章敞〈（徐琦劉戩）〉吳訥〈（朱與言）〉魏驥魯穆耿九疇軒輗〈（陳復）〉黃孔昭

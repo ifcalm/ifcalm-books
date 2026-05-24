@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷109 卷一百〇九 載記第九 慕容皝"
+title: "晋书 卷109"
 date: 2026-05-24
 weight: 109
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷109。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 慕容皝

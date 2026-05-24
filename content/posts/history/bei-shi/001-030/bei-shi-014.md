@@ -1,5 +1,5 @@
 ---
-title: "北史 卷14 卷十四 列傳第二: 后妃下"
+title: "北史 卷14"
 date: 2026-05-24
 weight: 14
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷14。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 齊武明皇后婁氏蠕蠕公主郁久閭氏彭城太妃爾硃氏小爾硃氏上党太妃韓氏馮翊太妃鄭氏高陽太妃游氏馮娘李娘文襄敬皇后元氏琅邪公主文宣皇后李氏段昭儀王嬪薛嬪

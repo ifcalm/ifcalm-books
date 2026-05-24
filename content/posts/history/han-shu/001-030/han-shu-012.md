@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷12 卷十二 平帝紀"
+title: "汉书 卷12"
 date: 2026-05-24
 weight: 12
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷12。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝平皇帝，元帝庶孫，中山孝王子也。母曰衛姬。年三歲嗣立為王。元壽二年六月，哀帝崩，太皇太后詔曰：「大司馬賢年少，不合眾心。其上印綬，罷。」賢即日自殺。新都侯王莽為大司馬，領尚書事。秋七月，遣車騎將軍王舜、大鴻臚左咸使持節迎中山王。辛卯，貶皇太后趙氏為孝成皇后，退居北宮，哀帝皇后傅氏退居桂宮。孔鄉侯傅晏、少府董恭等皆免官爵，徙合浦。九月辛酉，中山王即皇帝位，謁高廟，大赦天下。

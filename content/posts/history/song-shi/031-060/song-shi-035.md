@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷35 卷三十五 本紀第三十五 孝宗三"
+title: "宋史 卷35"
 date: 2026-05-24
 weight: 35
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷35。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 五年春正月辛丑，侍御史謝廓然乞戒有司毋以程頤、王安石之說取士。從之。癸卯，罷特旨免臣僚及寺觀科徭。庚戌，大風。己未，詔侍從、台諫、兩省官集議考課法。

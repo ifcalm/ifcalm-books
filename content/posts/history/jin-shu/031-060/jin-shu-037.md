@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷37 卷三十七 列傳第七 宗室"
+title: "晋书 卷37"
 date: 2026-05-24
 weight: 37
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷37。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 安平獻王孚〈（子邕、邕弟義陽成王望、望子河間平王洪、洪子威、洪弟隨穆王整、整弟竟陵王楙、望弟太原成王輔、輔弟翼、翼弟下邳獻王晃、晃弟太原烈王瑰、瑰弟高陽元王珪、珪弟常山孝王衡、衡弟沛順王景）〉彭城穆王權〈（曾孫紘、紘子俊）〉高密文獻王泰〈（子孝王略、略兄新蔡武哀王騰）〉范陽康王綏〈（子虓）〉濟南惠王遂〈（曾孫勳）〉譙剛王遜〈（子閔王承等）〉高陽王睦、任城景王陵〈（弟順）〉

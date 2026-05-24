@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷56 卷五十六 志第九 天文九"
+title: "宋史 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 歲星晝見

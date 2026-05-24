@@ -1,5 +1,5 @@
 ---
-title: "元史 卷57 卷五十七 志第九: 曆六"
+title: "元史 卷57"
 date: 2026-05-24
 weight: 57
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷57。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%85%83%E5%8F%B2/%E5%8D%B7057"
-source_license: "CC BY-SA 4.0"
 ---
 
 曆六

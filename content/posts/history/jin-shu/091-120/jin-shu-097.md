@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷97 卷九十七 列傳第六十七 四夷"
+title: "晋书 卷97"
 date: 2026-05-24
 weight: 97
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷97。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 夫恢恢乾德，萬類之所資始；蕩蕩坤儀，九區之所均載。考羲軒於往統，肇承天而理物；訊炎昊於前辟，爰制地而疏疆。襲冠帶以辨諸華，限要荒以殊遐裔，區分中外，其來尚矣。九夷八狄，被青野而亙玄方；七戎六蠻，綿西宇而橫南極。繁種落，異君長，遇有道則時遵聲教，鐘無妄則爭肆虔劉，趨扇風塵，蓋其常性也。詳求遐議，曆選深謨，莫不待以羈縻，防其猾夏。

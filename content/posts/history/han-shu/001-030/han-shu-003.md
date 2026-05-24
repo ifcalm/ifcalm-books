@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷3 卷三 高后紀"
+title: "汉书 卷3"
 date: 2026-05-24
 weight: 3
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷3。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高皇后呂氏，生惠帝。佐高祖定天下，父兄及高祖而侯者三人。惠帝即位，尊呂后為太后。太后立帝姊魯 元公主女為皇后，無子，取後宮美人子名之以為太子。惠帝崩，太子立為皇帝，年幼，太后臨朝稱制，大赦天下。乃立兄子呂台、產、祿、台子通四人為王，封諸呂 六人為列侯。語在外戚傳。

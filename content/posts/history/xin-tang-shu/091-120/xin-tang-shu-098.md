@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷98 卷九十八 列傳第二十三 王珪 薛收子:元超 從兄子:元敬 從孫:稷 馬周 韋挺子:待價 玄孫:武 子:萬石"
+title: "新唐书 卷98"
 date: 2026-05-24
 weight: 98
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷98。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王珪孫:燾 薛收子:元超 從兄子:元敬 從孫:稷 稷子:伯陽 馬周子:載 韋挺子:待價 玄孫:武 子:萬石

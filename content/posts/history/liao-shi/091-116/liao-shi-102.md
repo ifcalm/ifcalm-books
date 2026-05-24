@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷102 卷一百〇二 列傳第三十二: 蕭奉先 李處溫 張琳 耶律余睹"
+title: "辽史 卷102"
 date: 2026-05-24
 weight: 102
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷102。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭奉先李處溫張琳耶律余睹

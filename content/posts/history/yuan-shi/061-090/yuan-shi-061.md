@@ -1,5 +1,5 @@
 ---
-title: "元史 卷61 卷六十一 志第十三: 地理四"
+title: "元史 卷61"
 date: 2026-05-24
 weight: 61
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷61。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 雲南諸路行中書省，為路三十七、府二，屬府三，屬州五十四，屬縣四十七。其餘甸寨軍民等府不在此數。馬站七十四處，水站四處。

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷214 卷二百十四 列傳第一百〇二 楊博 馬森 劉體乾 王廷 葛守禮 靳學顏"
+title: "明史 卷214"
 date: 2026-05-24
 weight: 214
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷214。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊博〈（子俊民）〉馬森劉體乾王廷〈（毛愷）〉葛守禮靳學顏〈（弟學曾）〉

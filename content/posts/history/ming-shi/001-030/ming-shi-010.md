@@ -1,5 +1,5 @@
 ---
-title: "明史 卷10 卷十 本紀第十 英宗前紀"
+title: "明史 卷10"
 date: 2026-05-24
 weight: 10
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷10。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 序言

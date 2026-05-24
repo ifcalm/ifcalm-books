@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷304 卷三百〇四 列傳第六十三 周渭 梁鼎 范正辭 劉師道 王濟 方偕 曹穎叔 劉元瑜 楊告 趙及 劉湜 王彬 仲簡"
+title: "宋史 卷304"
 date: 2026-05-24
 weight: 304
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷304。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 周渭

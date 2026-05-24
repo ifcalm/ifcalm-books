@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷280 卷二百八十 列傳第三十九 田紹斌 王榮 楊瓊 錢守俊 徐興 王杲 李重誨 白守素 張思鈞 李琪 王延範"
+title: "宋史 卷280"
 date: 2026-05-24
 weight: 280
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷280。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 田紹斌

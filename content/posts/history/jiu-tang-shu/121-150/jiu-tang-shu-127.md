@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷127 卷一百二十七 列傳第七十七: 姚令言 張光晟 源休 喬琳 張涉 蔣鎮 洪經綸 彭偃"
+title: "旧唐书 卷127"
 date: 2026-05-24
 weight: 127
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷127。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 姚令言，河中人也。少應募，起於卒伍，隸涇原節度馬璘。以戰功累授金吾大將軍同正，為衙前兵馬使，改試太常卿、兼御史中丞。建中元年，孟暤為涇原節度留後，自以文吏進身，不樂軍旅，頻表薦令言謹肅，堪任將帥。暤尋歸朝廷，遂拜令言為四鎮北庭行營涇原節度使、涇州刺史、兼御史大夫。

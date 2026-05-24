@@ -1,5 +1,5 @@
 ---
-title: "明史 卷274 卷二百七十四 列傳第一百六十二 史可法 高弘圖 姜曰廣"
+title: "明史 卷274"
 date: 2026-05-24
 weight: 274
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷274。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 【列傳第一百六十二史可法〈（任民育等·何剛等）〉·高弘圖·薑曰廣〈（周鑣·雷縯祚）〉】

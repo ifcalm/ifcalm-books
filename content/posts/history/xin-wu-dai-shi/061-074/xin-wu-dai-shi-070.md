@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷70 卷七十 東漢世家第十: 劉旻"
+title: "新五代史 卷70"
 date: 2026-05-24
 weight: 70
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷70。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉旻，漢高祖母弟也。初名崇，為人美須髯，目重瞳子。少無賴，嗜酒好博，嘗黥為卒。高祖事晉為河東節度使，以旻為都指揮使。高祖即帝位，以為太原尹、北京留守、同中書門下平章事。隱帝時，累加中書令。

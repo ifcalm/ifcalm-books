@@ -1,5 +1,5 @@
 ---
-title: "明史 卷280 卷二百八十 列傳第一百六十八 何騰蛟 瞿式耜"
+title: "明史 卷280"
 date: 2026-05-24
 weight: 280
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷280。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 何騰蛟〈（章曠傅作霖）〉瞿式耜〈（汪皞等）〉

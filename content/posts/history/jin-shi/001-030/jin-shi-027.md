@@ -1,5 +1,5 @@
 ---
-title: "金史 卷27 卷二十七 志第八: 河渠 黃河 漕渠盧溝河 滹沱河 漳河"
+title: "金史 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 黃河

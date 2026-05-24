@@ -1,5 +1,5 @@
 ---
-title: "明史 卷189 卷一百八十九 列傳第七十七 李文祥 孫磐 胡爟 羅僑 葉釗 戴冠 黃鞏 陸震 夏良勝 何遵"
+title: "明史 卷189"
 date: 2026-05-24
 weight: 189
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷189。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 【列傳第七十七李文祥·孫磐·徐珪·胡爟·周時從·王雄·羅僑·葉釗·劉天麒·戴冠·黃鞏·陸震·夏良勝·萬潮等·何遵·劉校等】

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷184 卷一百八十四 列傳第一百三十四: 宦官"
+title: "旧唐书 卷184"
 date: 2026-05-24
 weight: 184
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷184。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 唐制有內侍省，其官員：內侍四人；內常侍六人；內謁者監六人；內給事八人；謁者十二人；典引十八人；寺伯二人；寺人六人。別有五局：掖廷局掌宮人簿籍；宮闈局掌宮內門禁，其屬有掌扇、給使等員；奚官局掌宮人疾病死喪；內仆局掌宮中供帳燈燭；內府局主中藏給納。五局有令丞，皆內官為之。

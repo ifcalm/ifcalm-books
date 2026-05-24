@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷92 卷92 列女:崔覧妻封氏 封卓妻劉氏 魏溥妻房氏 胡長命妻張氏"
+title: "魏书 卷92"
 date: 2026-05-24
 weight: 92
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷92。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔覽妻封氏　封卓妻劉氏　魏溥妻房氏　胡長命妻張氏　平原女子孫氏　房愛親妻崔氏　涇州貞女兕先氏[1]　姚氏婦楊氏　張洪初妻劉氏[2]　董景起妻張氏　陽尼妻高氏　史映周妻耿氏　任城國太妃孟氏　苟金龍妻劉氏　盧元禮妻李氏　河東孝女姚氏　刁思遵妻魯氏

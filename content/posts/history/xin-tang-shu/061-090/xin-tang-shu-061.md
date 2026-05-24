@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷61 卷六十一 表第一 宰相上"
+title: "新唐书 卷61"
 date: 2026-05-24
 weight: 61
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷61。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 唐因隋舊，以三省長官為宰相，已而又以他官參議，而稱號不一，出於臨時，最後乃有同品、平章之名，然其為職業則一也。作宰相表。

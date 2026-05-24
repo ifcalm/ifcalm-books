@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷386 卷三百八十六 列傳第一百四十五 劉珙 王藺 黃祖舜 王大寶 金安節 王剛中 李彥穎 范成大"
+title: "宋史 卷386"
 date: 2026-05-24
 weight: 386
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷386。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉珙

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷323 卷三百二十三 列傳第二百十一 外國四 琉球 呂宋 合貓里 美洛居 沙瑤吶嗶嘽 雞籠 婆羅 麻葉甕 古麻喇朗 馮嘉施蘭 文郎馬神"
+title: "明史 卷323"
 date: 2026-05-24
 weight: 323
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷323。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 琉球

@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷28 卷28 和跋 奚牧 莫題 庾業延 賀狄乾 李栗 劉潔 古弼 張黎"
+title: "魏书 卷28"
 date: 2026-05-24
 weight: 28
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷28。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 和跋　奚牧　莫題　庾業延　賀狄干　李栗　劉潔　古弼　張黎

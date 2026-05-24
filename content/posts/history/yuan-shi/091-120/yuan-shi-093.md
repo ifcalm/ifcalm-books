@@ -1,5 +1,5 @@
 ---
-title: "元史 卷93 卷九十三 志第四十二: 食貨一"
+title: "元史 卷93"
 date: 2026-05-24
 weight: 93
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷93。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 食貨一

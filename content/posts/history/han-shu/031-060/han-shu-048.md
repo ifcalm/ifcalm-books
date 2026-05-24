@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷48 卷四十八 賈誼傳"
+title: "汉书 卷48"
 date: 2026-05-24
 weight: 48
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷48。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷四十八 賈誼傳第十八

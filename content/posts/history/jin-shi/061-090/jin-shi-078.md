@@ -1,5 +1,5 @@
 ---
-title: "金史 卷78 卷七十八 列傳第十六: 劉彥宗子:萼(子:筈(子:仲誨)) 劉頍 時立愛 韓企先子:鐸"
+title: "金史 卷78"
 date: 2026-05-24
 weight: 78
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷78。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十六 ○劉彥宗子:萼(子:筈(子:仲誨)) 劉頍 時立愛 韓企先子:鐸

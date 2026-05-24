@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷17 卷17 志第12 律曆中"
+title: "隋书 卷17"
 date: 2026-05-24
 weight: 17
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷17。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 律曆中

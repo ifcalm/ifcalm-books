@@ -1,5 +1,5 @@
 ---
-title: "金史 卷121 卷一百二十一 列傳第五十九: 忠義一 胡沙補 特虎 僕忽得 粘割韓奴 曹珪 溫蒂罕蒲睹 訛里也 納蘭綽赤 魏全 鄯陽 夾穀守中 石抹元毅 伯德梅和尚 烏古孫兀屯 高守約 和速嘉安禮 王維翰 移剌古與涅 宋扆 烏古論榮祖 烏古論仲溫 九住 李演 劉德基 王毅 王晦 齊鷹揚 朮甲法心 高錫"
+title: "金史 卷121"
 date: 2026-05-24
 weight: 121
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷121。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第五十九 忠義一 ○胡沙補 特虎 僕忽得 粘割韓奴 曹珪 溫蒂罕蒲睹 訛里也 納蘭綽赤 魏全 鄯陽 夾穀守中 石抹元毅 伯德梅和尚 烏古孫兀屯 高守約 和速嘉安禮 王維翰 移剌古與涅 宋扆 烏古論榮祖 烏古論仲溫 九住 李演 劉德基 王毅 王晦 齊鷹揚 朮甲法心 高錫

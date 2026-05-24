@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷37 卷三十七 列傳第十八 到撝 劉悛 虞悰 胡諧之"
+title: "南齐书 卷37"
 date: 2026-05-24
 weight: 37
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷37。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷三十七‧列傳第十八

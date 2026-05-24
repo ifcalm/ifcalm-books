@@ -1,5 +1,5 @@
 ---
-title: "明史 卷279 卷二百七十九 列傳第一百六十七 呂大器 文安之 樊一蘅 吳炳 王錫袞 堵胤錫 嚴起恒 朱天麟 楊畏知 吳貞毓"
+title: "明史 卷279"
 date: 2026-05-24
 weight: 279
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷279。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 呂大器文安之樊一蘅〈（范文光詹天顏）〉吳炳〈（侯偉時）〉王錫兗堵胤錫嚴起恒朱天麟〈（張孝起）〉楊畏知吳貞毓〈（高勣等）〉

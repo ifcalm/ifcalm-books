@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷60 卷六十 列傳第十: 宗室 (太祖諸子 代祖諸子)"
+title: "旧唐书 卷60"
 date: 2026-05-24
 weight: 60
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷60。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 永安王孝基　淮安王神通　 子道彥　孝察　孝同　孝慈　孝友　孝節孝義孝逸

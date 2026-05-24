@@ -1,5 +1,5 @@
 ---
-title: "明史 卷176 卷一百七十六 列傳第六十四 李賢 呂原 岳正 彭時 商輅 劉定之"
+title: "明史 卷176"
 date: 2026-05-24
 weight: 176
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷176。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李賢呂原〈（子常）〉嶽正彭時商輅劉定之

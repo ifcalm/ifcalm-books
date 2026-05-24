@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷110 卷一百一十 載記第十 慕容俊"
+title: "晋书 卷110"
 date: 2026-05-24
 weight: 110
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷110。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 慕容俊

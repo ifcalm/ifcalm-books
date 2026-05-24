@@ -1,5 +1,5 @@
 ---
-title: "明史 卷267 卷二百六十七 列傳第一百五十五 馬從聘 張伯鯨 宋玫 范淑泰 高名衡 徐汧 鹿善繼"
+title: "明史 卷267"
 date: 2026-05-24
 weight: 267
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷267。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 馬從聘〈（耿蔭樓）〉張伯鯨宋玫〈（族叔應亨陳顯際趙士驥等）〉範淑泰高名衡〈（王漢）〉徐汧〈（楊廷樞）〉鹿善繼〈（薛一鶚）〉

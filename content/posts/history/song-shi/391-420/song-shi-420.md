@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷420 卷四百二十 列傳第一百七十九 王伯大 鄭寀 應𢖟 徐清叟 李曾伯 王埜 蔡抗 張磻 馬天驥 朱熠 饒虎臣 戴慶炣 皮龍榮 沈炎"
+title: "宋史 卷420"
 date: 2026-05-24
 weight: 420
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷420。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王伯大　鄭寀　應㒡　徐清叟　李曾伯　王野　蔡抗　張磻　馬天驥　朱熠　饒虎臣　戴慶炣　皮龍榮　沈炎

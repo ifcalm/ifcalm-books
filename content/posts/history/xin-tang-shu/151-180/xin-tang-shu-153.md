@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷153 卷一百五十三 列傳第七十八 段秀實 顏真卿"
+title: "新唐书 卷153"
 date: 2026-05-24
 weight: 153
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷153。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 段秀實子:伯倫 孫:嶷 文楚 珂 附:劉海賓 顏真卿

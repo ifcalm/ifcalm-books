@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷77 卷七十七 列傳第二 后妃下"
+title: "新唐书 卷77"
 date: 2026-05-24
 weight: 77
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷77。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 后妃下

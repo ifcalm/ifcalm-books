@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷10 卷十 成帝紀"
+title: "汉书 卷10"
 date: 2026-05-24
 weight: 10
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷10。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝成皇帝，元帝太子也。母曰王皇后，元帝在太子宮生甲觀畫堂，為世嫡皇孫。宣帝愛之，字曰太孫，常置左右。年三歲而宣帝崩，元帝即位，帝為太子。壯好經書，寬博謹慎。初居桂宮，上嘗急召，太子出龍樓門，不敢絕馳道，西至直城門，得絕乃度，還入作室門。上遲之，問其故，以狀對。上大說，乃著令，令太子得絕馳道云。其後幸酒，樂燕樂，上不以為能。而定陶恭王有材藝，母傅昭儀又愛幸，上以故常有意欲以恭王為嗣。賴侍中史丹護太子家，輔助有力，上亦以先帝尤愛太子，故得無廢。

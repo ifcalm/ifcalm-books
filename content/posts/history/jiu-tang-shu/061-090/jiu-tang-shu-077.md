@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷77 卷七十七 列傳第二十七: 韋挺 楊纂 劉德威 閻立德 柳亨 崔義玄"
+title: "旧唐书 卷77"
 date: 2026-05-24
 weight: 77
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷77。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韋挺 子待價　弟萬石

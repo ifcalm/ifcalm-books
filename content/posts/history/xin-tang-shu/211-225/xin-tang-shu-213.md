@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷213 卷二百一十三 列傳第一百三十八 藩鎮淄青橫海"
+title: "新唐书 卷213"
 date: 2026-05-24
 weight: 213
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷213。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 藩鎮淄青橫海

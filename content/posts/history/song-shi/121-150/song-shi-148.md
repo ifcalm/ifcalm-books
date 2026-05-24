@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷148 卷一百四十八 志第一百〇一 儀衞六"
+title: "宋史 卷148"
 date: 2026-05-24
 weight: 148
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷148。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 儀衛六○鹵簿儀服。

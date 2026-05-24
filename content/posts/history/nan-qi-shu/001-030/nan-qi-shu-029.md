@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷29 卷二十九 列傳第十 呂安國 全景文 周山圖 周盤龍 王廣之"
+title: "南齐书 卷29"
 date: 2026-05-24
 weight: 29
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷29。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷二十九‧列傳第十

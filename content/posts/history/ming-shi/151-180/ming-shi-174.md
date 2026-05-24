@@ -1,5 +1,5 @@
 ---
-title: "明史 卷174 卷一百七十四 列傳第六十二 史昭 巫凱 許貴 周賢 歐信 王璽 魯鑑 劉寧 彭清 姜漢 安國 杭雄"
+title: "明史 卷174"
 date: 2026-05-24
 weight: 174
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷174。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 史昭〈（劉昭李達）〉巫凱〈（曹義施聚）〉許貴〈（子寧）〉周賢〈（子玉）〉歐信王璽魯鑒〈（子麟孫經）〉劉寧〈（周璽莊鑒）〉彭清姜漢〈（子奭孫應熊）〉安國杭雄

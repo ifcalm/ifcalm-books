@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷137 卷一百三十七 列傳第六十二 郭子儀子:曜 子:晞 晞孫:承嘏 子:曖 曖子:釗 鏦 銛 曖孫:曙 母弟:幼明 幼明子:昕"
+title: "新唐书 卷137"
 date: 2026-05-24
 weight: 137
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷137。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 郭子儀子:曜 子:晞 晞孫:承嘏 子:曖 曖子:釗 鏦 銛 曖孫:曙 母弟幼:明 幼明子:昕

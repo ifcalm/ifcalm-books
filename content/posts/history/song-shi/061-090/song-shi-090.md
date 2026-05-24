@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷90 卷九十 志第四十三 地理六"
+title: "宋史 卷90"
 date: 2026-05-24
 weight: 90
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷90。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 廣南東路廣南西路燕山府路

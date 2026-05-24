@@ -1,5 +1,5 @@
 ---
-title: "元史 卷98 卷九十八 志第四十六: 兵一"
+title: "元史 卷98"
 date: 2026-05-24
 weight: 98
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷98。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 兵一

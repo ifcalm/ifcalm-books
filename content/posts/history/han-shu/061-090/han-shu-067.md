@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷67 卷六十七 楊胡朱梅云傳"
+title: "汉书 卷67"
 date: 2026-05-24
 weight: 67
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷67。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷六十七·楊胡朱梅云傳第三十七

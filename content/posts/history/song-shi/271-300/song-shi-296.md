@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷296 卷二百九十六 列傳第五十五 韓丕 師頏 張茂直 梁顥 楊徽之 呂文仲 王著 呂祐之 潘慎修 杜鎬 查道"
+title: "宋史 卷296"
 date: 2026-05-24
 weight: 296
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷296。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韓丕

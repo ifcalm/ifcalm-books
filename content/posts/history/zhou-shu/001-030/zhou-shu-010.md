@@ -1,5 +1,5 @@
 ---
-title: "周书 卷10 卷10 列傳第2 邵惠公顥 杞簡公連 莒莊公洛生 虞國公仲"
+title: "周书 卷10"
 date: 2026-05-24
 weight: 10
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷10。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 邵惠公顥 子什肥 導 (護) 什肥子胄 導子廣 亮 翼 椿 衆　杞簡公連　莒莊公洛生 子菩提　虞國公仲 子興

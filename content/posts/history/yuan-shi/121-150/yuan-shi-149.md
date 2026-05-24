@@ -1,5 +1,5 @@
 ---
-title: "元史 卷149 卷一百四十九 列傳第三十六: 耶律留哥 劉伯林 郭寶玉 石天應 移剌揑兒 耶律禿花 王珣"
+title: "元史 卷149"
 date: 2026-05-24
 weight: 149
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷149。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律留哥

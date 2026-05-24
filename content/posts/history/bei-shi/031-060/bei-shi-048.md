@@ -1,5 +1,5 @@
 ---
-title: "北史 卷48 卷四十八 列傳第三十六: 尒朱榮"
+title: "北史 卷48"
 date: 2026-05-24
 weight: 48
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷48。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 尒硃榮　子文暢　文略　從子兆　從弟彥伯　彥伯子敞　彥伯弟仲遠　世隆　榮從父弟度律　榮從祖兄子天光

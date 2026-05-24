@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷27 卷二十七 志第十七 五行上"
+title: "晋书 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 五行志上

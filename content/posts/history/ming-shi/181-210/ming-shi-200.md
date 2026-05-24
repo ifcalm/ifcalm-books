@@ -1,5 +1,5 @@
 ---
-title: "明史 卷200 卷二百 列傳第八十八 姚鏌 張嵿 伍文定 蔡天祐 詹榮 劉天和 楊守禮 張岳 郭宗臯 趙時春"
+title: "明史 卷200"
 date: 2026-05-24
 weight: 200
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷200。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 姚鏌 張嵿 伍文定 蔡天祐 詹榮 劉天和 楊守禮 張岳 郭宗臯 趙時春

@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷29 卷二十九 志第十九 曆五"
+title: "新唐书 卷29"
 date: 2026-05-24
 weight: 29
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷29。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 寶應元年六月望戊夜，月蝕三之一。官曆加時在日出後，有交，不署蝕。代宗以《至德曆》不與天合，詔司天臺官屬郭獻之等，復用《麟德》元紀，更立歲差，增損遲疾、交會及五星差數，以寫《大衍》舊術。上元七曜，起赤道虛四度。帝為制序，題曰《五紀曆》。

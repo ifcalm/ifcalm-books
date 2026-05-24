@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷95 卷九十五 列傳第五十五 索虜"
+title: "宋书 卷95"
 date: 2026-05-24
 weight: 95
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷95。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 索頭虜姓託跋氏，其先漢將李陵後也。陵降匈奴，有數百千種，各立名號，索頭亦其一也。

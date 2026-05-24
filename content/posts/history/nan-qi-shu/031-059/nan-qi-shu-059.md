@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷59 卷五十九 列傳第四十 芮芮虜 河南 氐 羌"
+title: "南齐书 卷59"
 date: 2026-05-24
 weight: 59
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷59。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷第五十九 列傳第四十

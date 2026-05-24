@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷20 卷二十 本紀第二十 徽宗二"
+title: "宋史 卷20"
 date: 2026-05-24
 weight: 20
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷20。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 四年春正月庚午朔，改熙河蘭會路為熙河蘭湟路。丙戌，築溪哥城。壬辰，詔察諸路監司貪虐者論其罪。丙申，詔京畿路改置轉運使、提點刑獄官。蔡卞罷。立武學法。丁酉，秦鳳蕃落獻邦、潘、疊三州。以內侍童貫為熙河蘭湟、秦鳳路經略安撫制置使。

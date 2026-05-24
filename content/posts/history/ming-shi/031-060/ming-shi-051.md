@@ -1,5 +1,5 @@
 ---
-title: "明史 卷51 卷五十一 志第二十七 禮五"
+title: "明史 卷51"
 date: 2026-05-24
 weight: 51
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷51。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十七 禮五〈（吉禮五）〉

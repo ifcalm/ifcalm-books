@@ -1,5 +1,5 @@
 ---
-title: "元史 卷76 卷七十六 志第二十七上: 祭祀五"
+title: "元史 卷76"
 date: 2026-05-24
 weight: 76
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷76。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 祭祀五 ○太社太稷

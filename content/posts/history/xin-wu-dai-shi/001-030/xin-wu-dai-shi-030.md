@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷30 卷三十 漢臣傳第十八: 蘇逢吉 史弘肇 楊邠 王章 劉銖 李業 聶文進 後贊 郭允明"
+title: "新五代史 卷30"
 date: 2026-05-24
 weight: 30
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷30。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蘇逢吉

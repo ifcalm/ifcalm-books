@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷32 卷三十二 張耳陳餘傳"
+title: "汉书 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張耳、陳餘

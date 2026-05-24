@@ -1,5 +1,5 @@
 ---
-title: "金史 卷73 卷七十三 列傳第十一: 阿離合懣子:晏(本名斡論)，孫:宗尹(本名阿里罕) 宗甯(本名阿土古) 宗道本名八十 宗雄本名謀良虎，子:阿鄰 按荅海 希尹本名穀神，孫:守貞(本名左靨) 守能(本名胡刺)"
+title: "金史 卷73"
 date: 2026-05-24
 weight: 73
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷73。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十一 ○阿離合懣子:晏(本名斡論)，孫:宗尹(本名阿里罕) 宗甯(本名阿土古) 宗道本名八十 宗雄本名:謀良虎，子:阿鄰 按荅海 希尹本名:穀神，孫:守貞(本名左靨) 守能(本名胡刺)

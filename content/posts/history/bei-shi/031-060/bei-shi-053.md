@@ -1,5 +1,5 @@
 ---
-title: "北史 卷53 卷五十三 列傳第四十一: 万俟普 可朱渾元 劉豐 破六韓常 金祚 劉貴 蔡雋 韓賢 尉長命 王懷 任祥 莫多婁貸文 厙狄迴洛 厙狄盛 張保洛 侯莫陳相 薛孤延 斛律羌舉 張瓊 宋顯 王則 慕容紹宗 叱列平 步大汗薩 薛脩義 慕容儼 潘樂 彭樂 暴顯 皮景和 綦連猛 元景安 獨孤永業 鮮于世榮 傅伏"
+title: "北史 卷53"
 date: 2026-05-24
 weight: 53
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷53。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 万俟普 可朱渾元 劉豐 破六韓常 金祚 劉貴 蔡雋 韓賢 尉長命 王懷 任祥 莫多婁貸文 厙狄迴洛 厙狄盛 張保洛 侯莫陳相 薛孤延 斛律羌舉 張瓊 宋顯 王則 慕容紹宗 叱列平 步大汗薩 薛脩義 慕容儼 潘樂 彭樂 暴顯 皮景和 綦連猛 元景安 獨孤永業 鮮于世榮 傅伏

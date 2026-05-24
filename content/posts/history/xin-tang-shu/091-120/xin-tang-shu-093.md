@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷93 卷九十三 列傳第十八 李靖孫:令問 五代孫:彥芳 李勣孫:敬業"
+title: "新唐书 卷93"
 date: 2026-05-24
 weight: 93
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷93。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李靖弟:客師 孫:令問 五代孫:彥芳 李勣孫:敬業

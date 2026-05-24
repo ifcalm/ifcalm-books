@@ -1,5 +1,5 @@
 ---
-title: "南史 卷79 卷七十九 列傳第六十九 夷貊下"
+title: "南史 卷79"
 date: 2026-05-24
 weight: 79
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷79。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 東夷 西戎 蠻 西域諸國 蠕蠕

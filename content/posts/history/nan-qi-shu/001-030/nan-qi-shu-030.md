@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷30 卷三十 列傳第十一 薛淵 戴僧靜 桓康 焦度 曹虎"
+title: "南齐书 卷30"
 date: 2026-05-24
 weight: 30
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷30。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷三十‧列傳第十一

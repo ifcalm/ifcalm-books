@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷48 卷四十八 列傳第八 朱齡石 毛脩之 傅弘之"
+title: "宋书 卷48"
 date: 2026-05-24
 weight: 48
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷48。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第八　　朱齡石〈弟超石〉 毛脩之 傅弘之

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷344 卷三百四十四 列傳第一百〇三 孫覺 李常 孔文仲 李周 鮮于侁 顧臨 李之純 王覿 馬默"
+title: "宋史 卷344"
 date: 2026-05-24
 weight: 344
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷344。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孫覺

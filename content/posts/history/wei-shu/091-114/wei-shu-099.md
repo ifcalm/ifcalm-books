@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷99 卷99 私署凉州牧張實 鮮卑乞伏國仁 鮮卑秃發烏孤 私署凉王李暠 盧水胡沮渠蒙遜"
+title: "魏书 卷99"
 date: 2026-05-24
 weight: 99
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷99。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 私署涼州牧張寔　鮮卑乞伏國仁　鮮卑禿髮烏孤　私署涼王李暠　盧水胡沮渠蒙遜

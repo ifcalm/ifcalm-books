@@ -1,5 +1,5 @@
 ---
-title: "明史 卷168 卷一百六十八 列傳第五十六 陳循 王文 江淵 許彬 陳文 萬安 劉珝 劉吉 尹直"
+title: "明史 卷168"
 date: 2026-05-24
 weight: 168
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷168。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳循〈（蕭鎡）〉王文江淵許彬陳文萬安〈（彭華）〉劉珝〈（子鈗）〉劉吉尹直

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷200 卷二百 列傳第八十七: 列女一"
+title: "元史 卷200"
 date: 2026-05-24
 weight: 200
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷200。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 古者女子之居室也，必有傅姆師保為陳詩書圖史以訓之。凡左右佩服之儀，內外授受之別，與所以事父母舅姑之道，蓋無所不備也。而又有天子之后妃，諸侯之夫人，躬行於上，以率化之。則其居安而有淑順之稱，臨變而有貞特之操者，夫豈偶然哉。後世此道既廢，女生而處閨闥之中，溺情愛之私，耳不聆箴史之言，目不睹防範之具，由是動逾禮則，而往往自放於邪僻矣。苟於是時而有能以懿節自著者焉，非其生質之美，則亦豈易致哉。史氏之書，所以必錄而弗敢略也。

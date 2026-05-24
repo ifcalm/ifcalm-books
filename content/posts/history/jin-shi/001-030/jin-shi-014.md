@@ -1,5 +1,5 @@
 ---
-title: "金史 卷14 卷十四 本紀第十四: 宣宗上"
+title: "金史 卷14"
 date: 2026-05-24
 weight: 14
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷14。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宣宗繼天興統述道勤仁英武聖孝皇帝諱珣，本名吾睹補，顯宗長子，母曰昭華劉氏。

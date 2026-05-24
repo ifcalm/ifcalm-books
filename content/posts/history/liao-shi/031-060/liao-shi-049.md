@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷49 卷四十九 志第十八: 禮志一"
+title: "辽史 卷49"
 date: 2026-05-24
 weight: 49
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷49。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮志一

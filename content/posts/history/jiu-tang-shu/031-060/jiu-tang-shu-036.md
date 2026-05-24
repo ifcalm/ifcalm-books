@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷36 卷三十六 志第十六: 天文下"
+title: "旧唐书 卷36"
 date: 2026-05-24
 weight: 36
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷36。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十六天文下

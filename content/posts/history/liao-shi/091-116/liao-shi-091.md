@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷91 卷九十一 列傳第二十一: 耶律韓八 耶律唐古 蕭朮哲 耶律玦 耶律僕里篤"
+title: "辽史 卷91"
 date: 2026-05-24
 weight: 91
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷91。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律韓八　耶律唐古　蕭朮哲〈（藥師奴）〉　耶律玦　耶律仆里篤

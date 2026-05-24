@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷42 卷四十二 張周趙任申屠傳"
+title: "汉书 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張蒼

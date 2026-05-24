@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷6 卷六 帝紀第六 中宗元帝 肅宗明帝"
+title: "晋书 卷6"
 date: 2026-05-24
 weight: 6
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷6。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 元帝

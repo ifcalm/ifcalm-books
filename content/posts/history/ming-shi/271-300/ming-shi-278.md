@@ -1,5 +1,5 @@
 ---
-title: "明史 卷278 卷二百七十八 列傳第一百六十六 楊廷麟 萬元吉 郭維經 詹兆恒 陳泰來 王養正 曾亨應 揭重熙 陳子壯 張家玉 陳邦彥 蘇觀生"
+title: "明史 卷278"
 date: 2026-05-24
 weight: 278
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷278。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊廷麟〈（彭期生等）〉萬元吉〈（楊文薦梁於涘）〉郭維經〈（姚奇胤）〉詹兆恒〈（胡夢泰周定仍等）〉陳泰來〈（曹誌明）〉王養正〈（夏萬亨等）〉曾亨應〈（弟和應子筠）〉揭重熙〈（傅鼎銓）〉陳子壯〈（麥而炫朱實蓮霍子衡）〉張家玉〈（陳象明等）〉陳邦彥蘇觀生

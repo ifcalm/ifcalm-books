@@ -1,5 +1,5 @@
 ---
-title: "元史 卷148 卷一百四十八 列傳第三十五: 董俊 嚴實"
+title: "元史 卷148"
 date: 2026-05-24
 weight: 148
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷148。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 董俊子文蔚　文用　文忠　文直

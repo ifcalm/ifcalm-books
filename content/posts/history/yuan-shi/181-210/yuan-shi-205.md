@@ -1,5 +1,5 @@
 ---
-title: "元史 卷205 卷二百〇五 列傳第九十二: 姦臣"
+title: "元史 卷205"
 date: 2026-05-24
 weight: 205
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷205。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 古之為史者，善惡備書，所以示勸懲也。故孔子修春秋，於亂臣賊子之事，無不具載，而楚之史名檮杌，皆以戒夫為惡者，使知所懼而不敢肆焉。後世作史者，有酷吏、佞幸、姦臣、叛逆之傳，良有以也。

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷397 卷三百九十七 列傳第一百五十六 徐誼 吳獵 項安世 薛叔似 劉甲 楊輔 劉光祖"
+title: "宋史 卷397"
 date: 2026-05-24
 weight: 397
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷397。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 徐誼

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷102 卷一百〇二 志第五十五 禮五"
+title: "宋史 卷102"
 date: 2026-05-24
 weight: 102
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷102。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 社稷岳瀆籍田先蠶奏告祈禜

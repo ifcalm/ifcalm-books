@@ -1,5 +1,5 @@
 ---
-title: "北史 卷78 卷七十八 列傳第六十六: 張定和 張奫 麥鐵杖 權武 王仁恭 吐萬緒 董純 魚俱羅 王辯 陳稜 趙才"
+title: "北史 卷78"
 date: 2026-05-24
 weight: 78
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷78。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張定和 張奫 麥鐵杖 權武 王仁恭 吐萬緒 董純 魚俱羅 王辯 陳稜 趙才

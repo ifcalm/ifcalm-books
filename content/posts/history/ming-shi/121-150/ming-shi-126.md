@@ -1,5 +1,5 @@
 ---
-title: "明史 卷126 卷一百二十六 列傳第十四 李文忠 鄧愈 湯和 沐英"
+title: "明史 卷126"
 date: 2026-05-24
 weight: 126
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷126。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李文忠

@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷62 卷六十二 志第三十一: 刑法下"
+title: "辽史 卷62"
 date: 2026-05-24
 weight: 62
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷62。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 刑法志下

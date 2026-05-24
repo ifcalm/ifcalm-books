@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷106 卷一百〇六 列傳第五十六: 李林甫 楊國忠 張暐 王琚 王毛仲 陳玄禮"
+title: "旧唐书 卷106"
 date: 2026-05-24
 weight: 106
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷106。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李林甫楊國忠張暐王琚王毛仲陳玄禮附

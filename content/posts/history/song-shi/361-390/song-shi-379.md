@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷379 卷三百七十九 列傳第一百三十八 章誼 韓肖冑 陳公輔 張觷 胡松年 曹勛 李稙 韓公裔"
+title: "宋史 卷379"
 date: 2026-05-24
 weight: 379
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷379。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 章誼

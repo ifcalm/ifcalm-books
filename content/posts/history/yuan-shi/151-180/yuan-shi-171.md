@@ -1,5 +1,5 @@
 ---
-title: "元史 卷171 卷一百七十一 列傳第五十八: 劉因 吳澄"
+title: "元史 卷171"
 date: 2026-05-24
 weight: 171
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷171。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉因

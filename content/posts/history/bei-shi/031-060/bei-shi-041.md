@@ -1,5 +1,5 @@
 ---
-title: "北史 卷41 卷四十一 列傳第二十九: 楊播 楊敷"
+title: "北史 卷41"
 date: 2026-05-24
 weight: 41
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷41。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊播 楊敷

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷5 卷五 本紀第五: 高宗下"
+title: "旧唐书 卷5"
 date: 2026-05-24
 weight: 5
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷5。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 麟德三年春正月戊辰朔，車駕至泰山頓。是日親祀昊天上帝于封祀壇，以高祖、太宗配饗。己巳，帝升山行封禪之禮。庚午，禪於社首，祭皇地祇，乙太穆太皇太后、文德皇太后配饗；皇后為亞獻，越國太妃燕氏為終獻。辛未，禦降禪壇。

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷34 卷三十四 本紀第三十四 孝宗二"
+title: "宋史 卷34"
 date: 2026-05-24
 weight: 34
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷34。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 三年春正月甲辰，詔廷尉大理官毋以獄情白宰執，探刺旨意爲輕重。庚戌，置三省戶房國用司。初，以國用匱乏，罷江州屯駐軍馬，至是復留之。癸亥，罷銅錢過江之禁。裁定利州西路諸軍額。

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷291 卷二百九十一 列傳第一百七十九 忠義三"
+title: "明史 卷291"
 date: 2026-05-24
 weight: 291
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷291。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 潘宗顏〈（竇永澄等）〉張銓 何廷魁〈（徐國全）〉高邦佐〈（顧頤）〉崔儒秀〈（陳輔堯 段展）〉鄭國昌〈（張鳳奇 盧成功等）〉党還醇〈（安上達 任光裕等）〉李獻明〈（何天球徐澤武起潛）〉張春 閻生斗〈（李師聖等）〉王肇坤〈（王一桂 上官藎等）〉孫士美〈（白慧元 李禎寧等）〉喬若雯〈（李崇德等）〉張秉文〈（宋學朱等）〉彥胤紹〈（趙珽等）〉吉孔嘉〈（王端冕等）〉刑國璽〈（馮守禮等）〉張振秀〈（劉源清等）〉鄧藩錫〈（王維新等）〉張焜芳

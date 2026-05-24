@@ -1,5 +1,5 @@
 ---
-title: "北史 卷44 卷四十四 列傳第三十二: 崔光 崔亮"
+title: "北史 卷44"
 date: 2026-05-24
 weight: 44
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷44。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔光 崔亮

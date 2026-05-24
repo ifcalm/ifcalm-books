@@ -1,5 +1,5 @@
 ---
-title: "明史 卷101 卷一百〇一 表第二 諸王世表二"
+title: "明史 卷101"
 date: 2026-05-24
 weight: 101
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷101。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楚

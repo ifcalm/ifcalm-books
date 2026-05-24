@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷169 卷一百六十九 列傳第一百十九: 李訓 鄭注 王涯 王璠 賈餗 舒元輿 郭行餘 羅立言 李孝本"
+title: "旧唐书 卷169"
 date: 2026-05-24
 weight: 169
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷169。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李訓，肅宗時宰相揆之族孫也。始名仲言。進士擢第。形貌魁梧，神情灑落；辭敏智捷，善揣人意。寶歷中，從父逢吉為宰相，以訓陰險善計事，愈親厚之。初與茅匯等欲中傷李程，及武昭事發，訓坐長流嶺表，會赦得還。丁母憂，居洛中。

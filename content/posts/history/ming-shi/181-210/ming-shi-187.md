@@ -1,5 +1,5 @@
 ---
-title: "明史 卷187 卷一百八十七 列傳第七十五 何鑑 馬中錫 陸完 洪鍾 陳金 俞諫 周南 馬昊"
+title: "明史 卷187"
 date: 2026-05-24
 weight: 187
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷187。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 何鑒馬中錫陸完洪鐘〈（陳鎬蔣昇）〉陳金俞諫周南〈（孫祿）〉馬昊

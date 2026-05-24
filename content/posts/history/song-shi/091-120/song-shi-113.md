@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷113 卷一百十三 志第六十六 禮十六"
+title: "宋史 卷113"
 date: 2026-05-24
 weight: 113
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷113。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮十六〈（嘉禮四）〉○宴饗遊觀賜酺

@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷111 卷一百十一 列傳第四十一: 姦臣下"
+title: "辽史 卷111"
 date: 2026-05-24
 weight: 111
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷111。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭餘里也耶律合魯蕭得裏特蕭訛都斡蕭達魯古耶律塔不也蕭圖古辭

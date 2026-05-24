@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷5 卷五 本紀第五 太宗二"
+title: "宋史 卷5"
 date: 2026-05-24
 weight: 5
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷5。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 二年春正月丙辰，以德恭為左武衛大將軍判濟州，封定安侯；德隆為右武衛大將軍判沂州，封長寧侯。右補闕劉蒙叟通判濟州，起居舍人韓儉通判沂州。乙丑，賜德恭、德隆常奉外支錢三百萬。

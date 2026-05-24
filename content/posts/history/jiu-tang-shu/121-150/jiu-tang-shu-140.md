@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷140 卷一百四十 列傳第九十: 韋皋 張建封 盧群"
+title: "旧唐书 卷140"
 date: 2026-05-24
 weight: 140
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷140。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韋臯，字城武，京兆人。大歷初，以建陵挽郎調補華州參軍，累授使府監察御史。宰相張鎰出為鳳翊隴右節度使，奏臯為營田判官，得殿中侍御史，權知隴州行營留後事。

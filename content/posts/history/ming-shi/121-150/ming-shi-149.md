@@ -1,5 +1,5 @@
 ---
-title: "明史 卷149 卷一百四十九 列傳第三十七 蹇義 夏原吉"
+title: "明史 卷149"
 date: 2026-05-24
 weight: 149
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷149。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蹇義夏原吉〈（俞士吉李文郁鄒師顏）〉

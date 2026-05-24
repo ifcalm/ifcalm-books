@@ -1,5 +1,5 @@
 ---
-title: "元史 卷179 卷一百七十九 列傳第六十六: 賀勝 楊朵兒只 蕭拜住"
+title: "元史 卷179"
 date: 2026-05-24
 weight: 179
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷179。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 賀胜

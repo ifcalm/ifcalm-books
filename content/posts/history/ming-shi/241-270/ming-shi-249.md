@@ -1,5 +1,5 @@
 ---
-title: "明史 卷249 卷二百四十九 列傳第一百三十七 朱燮元 李橒 王三善 蔡復一"
+title: "明史 卷249"
 date: 2026-05-24
 weight: 249
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷249。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 朱燮元〈（徐如珂劉可訓胡平表盧安世林兆鼎）〉李枟〈（史永安劉錫元）〉王三善〈（岳具仰等朱家民）〉蔡復一〈（沈儆炌）〉袁善周鴻圖段伯炌〈（胡從儀）〉

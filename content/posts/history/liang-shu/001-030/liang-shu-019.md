@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷19 卷十九 列傳第十三 宗夬 劉坦 樂藹"
+title: "梁书 卷19"
 date: 2026-05-24
 weight: 19
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷19。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第十九 列傳第十三

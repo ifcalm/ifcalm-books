@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷19 卷十九 魏書十九 任城陳蕭王傳"
+title: "三国志 卷19"
 date: 2026-05-24
 weight: 19
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷19。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 任城王曹彰 陳思王曹植 蕭懷王曹熊

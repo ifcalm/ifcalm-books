@@ -1,5 +1,5 @@
 ---
-title: "金史 卷74 卷七十四 列傳第十二: 宗翰本名粘罕 子:斜哥 宗望本名斡離不 子:齊 京 文"
+title: "金史 卷74"
 date: 2026-05-24
 weight: 74
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷74。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十二　○宗翰本名粘罕 子:斜哥 宗望本名斡離不 子:齊 京 文

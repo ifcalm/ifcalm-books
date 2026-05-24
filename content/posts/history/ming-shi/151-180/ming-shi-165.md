@@ -1,5 +1,5 @@
 ---
-title: "明史 卷165 卷一百六十五 列傳第五十三 陶成 陳敏 丁瑄 王得仁 葉禎 伍驥 毛吉 林錦 郭緒 姜昂"
+title: "明史 卷165"
 date: 2026-05-24
 weight: 165
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷165。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陶成〈（子魯）〉陳敏丁瑄王得仁〈（子一夔）〉葉禎伍驥毛吉林錦郭緒姜昂〈（子龍）〉

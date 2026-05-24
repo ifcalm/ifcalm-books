@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷95 卷九十五 志第四十八 河渠五"
+title: "宋史 卷95"
 date: 2026-05-24
 weight: 95
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷95。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 漳河 滹沱河 御河 塘濼緣邊諸水 河北諸水 岷江

@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷70 卷七十 表第八: 屬國表"
+title: "辽史 卷70"
 date: 2026-05-24
 weight: 70
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷70。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 屬國表

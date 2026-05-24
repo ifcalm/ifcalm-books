@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷150 卷一百五十 列傳第七十五 李常趙崔齊盧"
+title: "新唐书 卷150"
 date: 2026-05-24
 weight: 150
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷150。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李常趙崔齊盧

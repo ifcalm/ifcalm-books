@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷134 卷一百三十四 僭偽列傳一: 楊行密 李昪 王審知"
+title: "旧五代史 卷134"
 date: 2026-05-24
 weight: 134
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷134。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊行密，廬州人。少孤貧，有膂力，日行三百里。唐中和之亂，天子幸蜀，郡將遣行密徒步奏事，如期而復。〈（《北夢瑣言》：鄭綮嘗典楊行密為本州步奏官。）〉光啟初，秦宗權擾淮右，頻寇廬、壽，郡將募能致戰擒賊者，計級賞之，行密以膽力應募，往必有獲，得補為隊長。行密乃自募百餘人，皆璟勇無行者，殺都將，自權州兵，郡將即以符印付之而去，朝廷因正授行密廬州刺史。

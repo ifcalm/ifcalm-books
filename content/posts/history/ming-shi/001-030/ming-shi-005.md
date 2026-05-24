@@ -1,5 +1,5 @@
 ---
-title: "明史 卷5 卷五 本紀第五 成祖一"
+title: "明史 卷5"
 date: 2026-05-24
 weight: 5
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷5。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 成祖啟天弘道高明肇運聖武神功純仁至孝文皇帝諱棣，太祖第四子也。母孝慈高皇后。洪武三年，封燕王。十三年，之籓北平。王貌奇偉，美髭髯。智勇有大略，能推誠任人。二十三年，同晉王討鼐爾不哈。晉王怯不敢進，王倍道趨伊都山，獲其全部而還，太祖大喜，是後屢帥諸將出征，並令王節制沿邊士馬，王威名大振。

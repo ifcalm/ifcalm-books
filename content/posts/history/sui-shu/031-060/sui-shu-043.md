@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷43 卷43 列傳第8 河間王弘 楊處綱 楊子崇 觀德王雄"
+title: "隋书 卷43"
 date: 2026-05-24
 weight: 43
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷43。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷四十三列傳第八

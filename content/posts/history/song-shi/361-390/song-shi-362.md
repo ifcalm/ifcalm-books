@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷362 卷三百六十二 列傳第一百二十一 朱勝非 呂頤浩 范宗尹 范致虛 呂好問"
+title: "宋史 卷362"
 date: 2026-05-24
 weight: 362
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷362。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 朱勝非 呂頤浩 范宗尹 范致虛 呂好問

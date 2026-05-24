@@ -1,5 +1,5 @@
 ---
-title: "金史 卷40 卷四十 志第二十一: 樂下 宗廟樂歌 殿庭樂歌 鼓吹導引曲、采茨曲"
+title: "金史 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宗廟樂歌

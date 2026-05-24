@@ -1,5 +1,5 @@
 ---
-title: "明史 卷276 卷二百七十六 列傳第一百六十四 朱大典 張國維 張肯堂 曾櫻 朱繼祚 余煌 王瑞栴 路振飛 何楷 熊汝霖 錢肅樂 沈宸荃"
+title: "明史 卷276"
 date: 2026-05-24
 weight: 276
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷276。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 朱大典〈（王道焜等）〉張國維張肯堂〈（李向中吳鐘巒朱永佑等）〉曾櫻朱繼祚〈（湯芬等）〉余煌〈（陳函輝）〉王瑞栴路振飛何楷〈（林蘭友）〉熊汝霖錢肅樂〈（劉中藻鄭遵謙）〉沈宸荃〈（邑子履祥）〉

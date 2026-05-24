@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷49 卷四十九 列傳第四十三 文學上"
+title: "梁书 卷49"
 date: 2026-05-24
 weight: 49
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷49。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 到沆　丘遲　劉苞　袁峻　庾於陵　弟肩吾　劉昭　何遜　鍾嶸　周興嗣　吳均

@@ -1,5 +1,5 @@
 ---
-title: "北史 卷95 卷九十五 列傳第八十三: 蠻 獠 林邑 赤土 真臘 婆利"
+title: "北史 卷95"
 date: 2026-05-24
 weight: 95
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷95。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蠻 獠 林邑 赤土 真臘 婆利

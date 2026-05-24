@@ -1,5 +1,5 @@
 ---
-title: "明史 卷246 卷二百四十六 列傳第一百三十四 滿朝薦 江秉謙 侯震暘 王允成"
+title: "明史 卷246"
 date: 2026-05-24
 weight: 246
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷246。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 滿朝薦江秉謙侯震旸〈（倪思輝朱欽相王心一）〉王允成〈（李希孔毛士龍）〉

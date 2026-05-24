@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷78 卷七十八 列傳第二十八: 于志寧 高季輔 張行成"
+title: "旧唐书 卷78"
 date: 2026-05-24
 weight: 78
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷78。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 於志寧　高季輔　張行成 族孫易之　昌宗

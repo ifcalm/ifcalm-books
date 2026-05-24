@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷37 卷三十七 列傳第三十一 謝舉 何敬容"
+title: "梁书 卷37"
 date: 2026-05-24
 weight: 37
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷37。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第三十七 列傳第三十一

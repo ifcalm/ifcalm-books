@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷450 卷四百五十 列傳第二百〇九 忠義五 陳元桂 張順張貴 范天順 牛富 邊居誼 陳炤王安節 尹玉 李芾 尹穀楊霆 趙卯發 唐震 趙與檡趙孟錦 趙淮"
+title: "宋史 卷450"
 date: 2026-05-24
 weight: 450
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷450。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 忠義五

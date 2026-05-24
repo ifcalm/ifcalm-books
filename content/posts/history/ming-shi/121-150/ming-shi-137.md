@@ -1,5 +1,5 @@
 ---
-title: "明史 卷137 卷一百三十七 列傳第二十五 劉三吾 安然 吳伯宗 吳沉 桂彥良 宋訥 趙俶 李叔正 劉崧 羅復仁 孫汝敬"
+title: "明史 卷137"
 date: 2026-05-24
 weight: 137
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷137。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉三吾〈（汪睿朱善）〉安然〈（王本等）〉吳伯宗〈（鮑恂任亨泰）〉吳沈桂彥良〈（李希顏徐宗實陳南賓劉淳董子莊趙季通楊黼金實等）〉宋訥〈（許存仁張美和聶鉉貝瓊）〉趙俶〈（錢宰蕭執）〉李叔正劉崧羅復仁〈（孫汝敬）〉

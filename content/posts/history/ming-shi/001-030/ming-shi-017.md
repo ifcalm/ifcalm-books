@@ -1,5 +1,5 @@
 ---
-title: "明史 卷17 卷十七 本紀第十七 世宗一"
+title: "明史 卷17"
 date: 2026-05-24
 weight: 17
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷17。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 【世宗一】

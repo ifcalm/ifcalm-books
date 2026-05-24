@@ -1,5 +1,5 @@
 ---
-title: "周书 卷17 卷17 列傳第9 梁禦 若干惠 怡峯 劉亮 王德"
+title: "周书 卷17"
 date: 2026-05-24
 weight: 17
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷17。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁禦　若干惠　怡峯　劉亮　王德

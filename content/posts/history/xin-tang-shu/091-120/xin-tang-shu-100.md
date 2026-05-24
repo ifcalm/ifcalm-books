@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷100 卷一百 列傳第二十五 陳叔達 楊恭仁弟:師道 封倫 裴矩 宇文士及 鄭善果 權萬紀族孫:懷恩 閻立德附:閻立本 孫:知微 蔣儼 韋弘機孫:岳子 姜師度 張知謇"
+title: "新唐书 卷100"
 date: 2026-05-24
 weight: 100
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷100。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳叔達 楊恭仁子:思訓 弟:師道 從孫:執柔 封倫 裴矩 宇文士及 鄭善果附:元璹 權萬紀族孫:懷恩 閻立德附:閻立本 孫:知微 曾孫:用之 蔣儼 韋弘機孫:岳子 姜師度附:強循 張知謇

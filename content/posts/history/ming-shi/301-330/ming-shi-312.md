@@ -1,5 +1,5 @@
 ---
-title: "明史 卷312 卷三百十二 列傳第二百 四川土司二"
+title: "明史 卷312"
 date: 2026-05-24
 weight: 312
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷312。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 播州宣慰司永寧宣撫司酉陽宣撫司石砫宣撫司

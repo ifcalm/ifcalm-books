@@ -1,5 +1,5 @@
 ---
-title: "元史 卷103 卷一百〇三 志第五十一: 刑法二"
+title: "元史 卷103"
 date: 2026-05-24
 weight: 103
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷103。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 刑法二 ○職制下

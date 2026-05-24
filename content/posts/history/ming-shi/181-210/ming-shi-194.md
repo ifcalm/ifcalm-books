@@ -1,5 +1,5 @@
 ---
-title: "明史 卷194 卷一百九十四 列傳第八十二 喬宇 孫交 林俊 金獻民 秦金 趙璜 鄒文盛 梁材 劉麟 蔣瑤 王廷相"
+title: "明史 卷194"
 date: 2026-05-24
 weight: 194
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷194。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 喬宇孫交〈（子元）〉林俊〈（子達）〉（張黻）金獻民秦金〈（孫柱）〉趙璜鄒文盛梁材劉麟蔣瑤王廷相

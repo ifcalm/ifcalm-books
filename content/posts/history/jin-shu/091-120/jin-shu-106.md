@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷106 卷一百〇六 載記第六 石季龍（石虎）上"
+title: "晋书 卷106"
 date: 2026-05-24
 weight: 106
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷106。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 石季龍[石虎]（上）

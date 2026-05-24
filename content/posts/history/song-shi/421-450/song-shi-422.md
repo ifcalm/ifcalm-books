@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷422 卷四百二十二 列傳第一百八十一 林勳 劉才邵 許忻 應孟明 曾三聘 徐僑 度正 程珌 牛大年 陳仲微 梁成大 李知孝"
+title: "宋史 卷422"
 date: 2026-05-24
 weight: 422
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷422。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 林勛劉才邵許忻應孟明曾三聘徐僑度正程必牛大年陳仲微梁成大李知孝

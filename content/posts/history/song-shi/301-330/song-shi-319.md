@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷319 卷三百十九 列傳第七十八 歐陽修子:發 棐 劉敞弟:攽 子:奉世 曾鞏弟:肇"
+title: "宋史 卷319"
 date: 2026-05-24
 weight: 319
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷319。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 歐陽脩

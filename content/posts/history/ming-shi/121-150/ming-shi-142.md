@@ -1,5 +1,5 @@
 ---
-title: "明史 卷142 卷一百四十二 列傳第三十 鐵鉉 暴昭 陳性善 張昺 謝貴 彭二 宋忠 馬宣 瞿能 張倫 顏伯瑋 王省 姚善 陳彥回"
+title: "明史 卷142"
 date: 2026-05-24
 weight: 142
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷142。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鐵鉉 暴昭〈（侯泰）〉陳性善〈（陳植 王彬 崇剛）〉張昺〈（謝貴 彭二 葛誠 余逢辰）〉宋忠〈（余瑱）〉馬宣〈（曾浚 卜萬 朱鑒 石撰）〉瞿能〈（莊得 楚智 皂旗張 王指揮 楊本）〉張倫〈（陳質）〉顏伯瑋〈（唐子清 黃謙 向樸 鄭恕 鄭華）〉王省 姚善〈（錢芹）〉陳彥回〈（張彥方）〉

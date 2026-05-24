@@ -1,5 +1,5 @@
 ---
-title: "元史 卷56 卷五十六 志第八: 曆五"
+title: "元史 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%85%83%E5%8F%B2/%E5%8D%B7056"
-source_license: "CC BY-SA 4.0"
 ---
 
 曆五

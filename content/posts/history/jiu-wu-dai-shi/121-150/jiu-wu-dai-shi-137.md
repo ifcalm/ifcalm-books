@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷137 卷一百三十七 外國列傳一: 契丹"
+title: "旧五代史 卷137"
 date: 2026-05-24
 weight: 137
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷137。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 契丹者，古匈奴之種也。代居遼澤之中，潢水南岸，南距榆關一千一百里，榆關南距幽州七百里，本鮮卑之舊地也。其風土人物，世代君長，前史載之詳矣。

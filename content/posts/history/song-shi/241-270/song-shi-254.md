@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷254 卷二百五十四 列傳第十三 侯益 張從恩 扈彥珂 薛懷讓 趙贊 李繼勳 藥元福 趙晁"
+title: "宋史 卷254"
 date: 2026-05-24
 weight: 254
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷254。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 侯益

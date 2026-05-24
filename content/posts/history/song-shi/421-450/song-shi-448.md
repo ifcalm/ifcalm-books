@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷448 卷四百四十八 列傳第二百〇七 忠義三 曾怘從弟:悟 劉汲 鄭驤 呂由誠 郭永 韓浩朱庭傑 王允功 王薦 周中 周辛 歐陽珣 張忠輔 李彥仙邵雲 呂圓登 宋炎 趙立鄭褒 王復 王忠植 唐琦 李震 陳求道"
+title: "宋史 卷448"
 date: 2026-05-24
 weight: 448
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷448。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 忠義三

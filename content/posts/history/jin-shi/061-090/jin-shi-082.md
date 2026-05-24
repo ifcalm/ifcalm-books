@@ -1,5 +1,5 @@
 ---
-title: "金史 卷82 卷八十二 列傳第二十: 郭藥師子:安國 耶律塗山 烏延胡里改 烏延吾里補 蕭恭 完顏習不主 紇石烈胡剌 耶律恕 郭企忠 烏孫訛論 顏盞門都 僕散渾坦 鄭建充 烏古論三合 移剌溫 蕭仲恭子:拱 蕭仲宣 高松 海陵諸子光英 元壽 矧思阿補 廣陽"
+title: "金史 卷82"
 date: 2026-05-24
 weight: 82
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷82。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第二十 ○郭藥師子:安國 耶律塗山 烏延胡里改 烏延吾里補 蕭恭 完顏習不主 紇石烈胡剌 耶律恕 郭企忠 烏孫訛論 顏盞門都 僕散渾坦 鄭建充 烏古論三合 移剌溫 蕭仲恭子:拱 蕭仲宣 高松 海陵諸子光英 元壽 矧思阿補 廣陽

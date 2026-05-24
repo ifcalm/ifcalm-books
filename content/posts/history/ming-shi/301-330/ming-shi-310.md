@@ -1,5 +1,5 @@
 ---
-title: "明史 卷310 卷三百一十 列傳第一百九十八 土司"
+title: "明史 卷310"
 date: 2026-05-24
 weight: 310
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷310。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 西南諸蠻，有虞氏之苗，商之鬼方，西漢之夜郎、靡莫、邛、莋、僰、爨之屬皆是也。自巴、夔以東及湖、湘、嶺嶠，盤踞數千里，種類殊別。歷代以來，自相君長。原其為王朝役使，自周武王時孟津大會，而庸、蜀、羌、髳、微、盧、彭、濮諸蠻皆與焉。及楚莊蹻王滇，而秦開五尺道，置吏，沿及漢武，置都尉縣屬，仍令自保，此即土官、土吏之所始歟。

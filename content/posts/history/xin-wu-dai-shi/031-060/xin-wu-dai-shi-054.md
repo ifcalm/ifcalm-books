@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷54 卷五十四 雜傳第四十二: 序言 馮道 李琪 鄭玨 李愚 盧導 司空頲"
+title: "新五代史 卷54"
 date: 2026-05-24
 weight: 54
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷54。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《傳》曰：「禮義廉恥，國之四維；四維不張，國乃滅亡。」善乎，管生之能言也！禮義，治人之大法；廉恥，立人之大節。蓋不廉，則無所不取；不恥，則無所不為。人而如此，則禍亂敗亡，亦無所不至，況為大臣而無所不取，無所不為，則天下其有不亂，國家其有不亡者乎！予讀馮道《長樂老敘》，見其自述以為榮，其可謂無廉恥者矣，則天下國家可從而知也。

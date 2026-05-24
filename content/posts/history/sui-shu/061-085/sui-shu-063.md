@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷63 卷63 列傳第28 樊子蓋 史祥 元壽 楊義臣 衞玄 劉權"
+title: "隋书 卷63"
 date: 2026-05-24
 weight: 63
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷63。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷六十三列傳第二十八

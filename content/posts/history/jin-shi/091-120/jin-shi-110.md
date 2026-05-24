@@ -1,5 +1,5 @@
 ---
-title: "金史 卷110 卷一百一十 列傳第四十八: 楊雲翼 趙秉文 韓玉 馮璧 李獻甫 雷淵 程震"
+title: "金史 卷110"
 date: 2026-05-24
 weight: 110
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷110。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊雲翼

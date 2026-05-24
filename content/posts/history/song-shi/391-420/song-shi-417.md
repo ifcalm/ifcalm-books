@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷417 卷四百十七 列傳第一百七十六 喬行簡 范鍾 游似 趙葵 謝方叔"
+title: "宋史 卷417"
 date: 2026-05-24
 weight: 417
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷417。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 喬行簡範鍾遊似趙葵〈（兄範）〉謝方叔

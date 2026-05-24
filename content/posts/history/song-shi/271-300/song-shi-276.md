@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷276 卷二百七十六 列傳第三十五 劉保勳 滕中正 劉蟠 孔承恭 宋璫 袁廓 樊知古 郭載 臧丙 徐休復 張觀 陳從信 張平 王繼昇 尹憲 王賓 安忠"
+title: "宋史 卷276"
 date: 2026-05-24
 weight: 276
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷276。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉保勳

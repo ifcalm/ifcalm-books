@@ -1,5 +1,5 @@
 ---
-title: "北史 卷20 卷二十 列傳第八: 衞操 莫含 劉庫仁 尉古真 穆崇 奚斤 叔孫建 安同 庾業延 王建 羅結 樓伏連 閭大肥 奚牧 和跋 莫題 賀狄干 李栗 奚眷"
+title: "北史 卷20"
 date: 2026-05-24
 weight: 20
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷20。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 衞操 莫含 劉庫仁 尉古真 穆崇 奚斤 叔孫建 安同 庾業延 王建 羅結 樓伏連 閭大肥 奚牧 和跋 莫題 賀狄干 李栗 奚眷

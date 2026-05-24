@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷76 卷七十六 趙尹韓張兩王傳"
+title: "汉书 卷76"
 date: 2026-05-24
 weight: 76
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷76。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷七十六 趙尹韓張兩王傳第四十六

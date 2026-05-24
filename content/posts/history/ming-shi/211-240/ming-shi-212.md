@@ -1,5 +1,5 @@
 ---
-title: "明史 卷212 卷二百十二 列傳第一百 俞大猷 戚繼光 劉顯 李錫 張元勳"
+title: "明史 卷212"
 date: 2026-05-24
 weight: 212
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷212。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 俞大猷附:盧鏜 湯克寬 戚繼光弟:繼美 附:硃先 劉顯附:郭成 李錫附:黃應甲 尹鳳 張元勛

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷297 卷二百九十七 列傳第一百八十五 孝義二"
+title: "明史 卷297"
 date: 2026-05-24
 weight: 297
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷297。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王俊〈（劉準楊敬）〉石鼐〈（任鏜）〉史五常周敖鄭韺〈（榮瑄葉文榮）〉傅檝楊成章謝用何競王原黃璽歸鉞〈（族子繡）〉何麟孫清〈（宋顯章李豫）〉劉憲〈（羅璋等）〉容師偃〈（劉靜溫鉞）〉俞孜〈（張震孫文）〉崔鑒唐儼丘緒張鈞〈（張承相等）〉王在復〈（王抃等）〉夏子孝阿寄趙重華〈（謝廣）〉王世名李文詠〈（王應元等）〉孔金〈（子良）〉楊通照〈（弟通傑浦邵等）〉張清雅〈（白精忠等）〉

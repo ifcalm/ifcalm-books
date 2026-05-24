@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷229 卷二百二十九 表第二十 宗室世系十五"
+title: "宋史 卷229"
 date: 2026-05-24
 weight: 229
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷229。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7229"
-source_license: "CC BY-SA 4.0"
 ---
 
 |  |  |  | 欽國公、謚密靖仲胡 | 武經郎士挹 |  |  |  |  |  |  |  |  |

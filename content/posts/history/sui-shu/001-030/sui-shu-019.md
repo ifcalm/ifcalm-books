@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷19 卷19 志第14 天文上"
+title: "隋书 卷19"
 date: 2026-05-24
 weight: 19
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷19。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 天文上

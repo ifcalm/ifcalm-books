@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷189 卷一百八十九 志第一百四十二 兵三"
+title: "宋史 卷189"
 date: 2026-05-24
 weight: 189
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷189。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 廂兵

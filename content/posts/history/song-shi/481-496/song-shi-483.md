@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷483 卷四百八十三 列傳第二百四十二 世家六 湖南周氏周行逢(子:保權 附:李觀象 張文表) 荆南高氏高保融(弟:保勗 子:繼沖 弟:保寅 附:孫光憲 梁延嗣 漳泉留氏留從效 陳氏陳洪進(子:文顯 文顥 文顗 文頊)"
+title: "宋史 卷483"
 date: 2026-05-24
 weight: 483
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷483。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 世家六○湖南周氏荊南高氏漳泉留氏陳氏

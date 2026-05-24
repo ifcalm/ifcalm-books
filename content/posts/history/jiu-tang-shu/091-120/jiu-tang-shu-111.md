@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷111 卷一百十一 列傳第六十一: 崔光遠 房琯 張鎬 高適 暢璀"
+title: "旧唐书 卷111"
 date: 2026-05-24
 weight: 111
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷111。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔光遠，滑州靈昌人也。本博陵舊族。祖敬嗣，好樗蒱飲酒。則天初，為房州刺史。中宗為廬陵王，安置在州，官吏多無禮度，敬嗣獨以親賢待之，供給豐贍，中宗深德之。及登位，有益州長史崔敬嗣，既同姓名，每進擬官，皆御筆超拜之者數四。後引與語，始知誤寵。訪敬嗣已卒，乃遣中書令韋安石授其子汪官。汪嗜酒不堪職任，且授洛州司功，又改五品。

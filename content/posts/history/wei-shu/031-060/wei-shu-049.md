@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷49 卷49 李靈 崔鑒"
+title: "魏书 卷49"
 date: 2026-05-24
 weight: 49
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷49。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李靈　崔鑒

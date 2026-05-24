@@ -1,5 +1,5 @@
 ---
-title: "元史 卷4 卷四 本紀第四: 世祖一"
+title: "元史 卷4"
 date: 2026-05-24
 weight: 4
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷4。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 世祖聖德神功文武皇帝，諱忽必烈，睿宗皇帝第四子。母莊聖太后，怯烈氏。以乙亥歲八月乙卯生。及長，仁明英睿，事太后至孝，尤善撫下。納弘吉剌氏為妃。

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷133 卷一百三十三 列傳第二十一 廖永安 俞通海 胡大海 耿再成 張德勝 趙德勝 桑世傑 茅成 胡深 孫興祖 曹良臣 濮英"
+title: "明史 卷133"
 date: 2026-05-24
 weight: 133
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷133。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 廖永安

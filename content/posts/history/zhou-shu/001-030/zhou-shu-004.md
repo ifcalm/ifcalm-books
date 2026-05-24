@@ -1,5 +1,5 @@
 ---
-title: "周书 卷4 卷4 帝紀第4 明帝"
+title: "周书 卷4"
 date: 2026-05-24
 weight: 4
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷4。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 世宗明皇帝諱毓，小名統萬突，太祖長子也。母曰姚夫人，永熙三年，太祖臨夏州，生帝於統萬城，因以名焉。大統十四年，封寧都郡公。十六年，行華州事。尋拜開府儀同三司、宜州諸軍事、宜州刺史。魏恭帝三年，授大將軍，鎮隴右。孝閔帝踐阼，進位柱國，轉岐州諸軍事、岐州刺史。治有美政，黎民懷之。及孝閔帝廢，晉公護遣使迎帝於岐州。秋九月癸亥，至京師，止於舊邸。甲子，羣臣上表勸進，備法駕奉迎。帝固讓，羣臣固請，是日，即天王位，大赦天下。乙丑，朝羣臣於延壽殿。

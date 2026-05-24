@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷208 卷二百〇八 志第一百六十一 藝文七"
+title: "宋史 卷208"
 date: 2026-05-24
 weight: 208
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷208。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 藝文七集類四：一曰楚辭類，二曰別集類，三曰總集類，四曰文史類。《楚辭》十六卷〈（楚屈原等撰）〉卷《楚辭》十七卷〈（後漢王逸章句）〉

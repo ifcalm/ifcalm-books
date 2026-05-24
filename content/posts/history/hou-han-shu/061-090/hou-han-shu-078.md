@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷78 卷七十八 宦者列傳"
+title: "后汉书 卷78"
 date: 2026-05-24
 weight: 78
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷78。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《易》曰：“天垂象，聖人則之。”宦者四星，在皇位之侧，故《周礼》置官，亦备其数。阍者守中門之禁，寺人掌女宫之戒。又云“王之正内者五人”。《月令》：“仲冬，命阉尹审門闾，谨房室。”《詩》之《小雅》，亦有《巷伯》刺谗之篇。然宦人之在王朝者，其來旧矣。将以其体非全气，情志专良，通关中人，易以役养乎？然而后世因之，才任稍广，其能者，則勃貂、管苏有功于楚、晋，景监、缪贤著庸于秦、趙。及其敝也，則竖刁乱齐，伊戾祸宋。

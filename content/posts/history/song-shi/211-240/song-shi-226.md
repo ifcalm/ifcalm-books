@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷226 卷二百二十六 表第十七 宗室世系十二"
+title: "宋史 卷226"
 date: 2026-05-24
 weight: 226
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷226。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7226"
-source_license: "CC BY-SA 4.0"
 ---
 
 |  |  |  | 雲安侯仲琨 | 右班殿直士瑲 |  |  |  |  |  |  |  |  |

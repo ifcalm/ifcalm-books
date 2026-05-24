@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷21 卷二十一 列傳第十五 王瞻 王志 王峻 王暕 子訓 王泰 王份 孫鍚 僉 張充 柳惲 蔡撙 江蒨"
+title: "梁书 卷21"
 date: 2026-05-24
 weight: 21
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷21。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第二十一 列傳第十五

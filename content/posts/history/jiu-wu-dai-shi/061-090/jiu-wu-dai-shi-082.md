@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷82 卷八十二 晉書8: 少帝本紀二"
+title: "旧五代史 卷82"
 date: 2026-05-24
 weight: 82
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷82。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 天福八年秋七月丁丑朔，京師雨水深三尺。辛巳，許州節度使李從溫來朝，進封楚國公。壬午，以前河陽節度使皇甫遇為右龍武統軍。丁亥，以宣徽南院使李承福為同州節度使。癸巳，改陜州甘棠驛為通津驛，避廟諱也。甲午，正衙命冊皇太后，以宰臣李崧充使，右散騎常侍李慎儀為副。丁酉，幸南莊，召從駕臣僚習射，路左農人各賜布衫麻屨。

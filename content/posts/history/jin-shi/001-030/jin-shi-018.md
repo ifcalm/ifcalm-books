@@ -1,5 +1,5 @@
 ---
-title: "金史 卷18 卷十八 本紀第十八: 哀宗下"
+title: "金史 卷18"
 date: 2026-05-24
 weight: 18
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷18。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 九月戊寅朔，詔減親衛軍。己丑，軍士殺鄭門守者出奔。壬辰，起上党公張開及臨淄郡王王義深、廣平郡王范成進為元帥。以前御史大夫完顏合周權參知政事。乙未，以榜召民賣放下年軍需錢，上戶田租如之。辛丑，夜大雷，工部尚書蒲乃速震死。

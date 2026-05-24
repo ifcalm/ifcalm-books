@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷108 卷一百零八 列傳第三十三 劉仁軌 裴行儉子:光庭 稹 玄孫:均 婁師德"
+title: "新唐书 卷108"
 date: 2026-05-24
 weight: 108
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷108。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉仁軌 裴行儉子:光庭 稹 玄孫:均 婁師德

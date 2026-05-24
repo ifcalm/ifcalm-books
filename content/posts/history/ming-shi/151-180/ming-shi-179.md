@@ -1,5 +1,5 @@
 ---
-title: "明史 卷179 卷一百七十九 列傳第六十七 羅倫 章懋 黃仲昭 莊曰鄄永 鄒智 舒芬"
+title: "明史 卷179"
 date: 2026-05-24
 weight: 179
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷179。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 羅倫〈（塗棐）〉章懋〈（從子拯）〉黃仲昭莊鄒智舒芬〈（崔桐馬汝驥）〉

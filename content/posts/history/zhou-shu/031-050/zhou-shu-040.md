@@ -1,5 +1,5 @@
 ---
-title: "周书 卷40 卷40 列傳第32 尉遲運 王軌 宇文神舉 宇文孝伯 顏之儀"
+title: "周书 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 尉遲運　王軌　宇文神舉　宇文孝伯　顏之儀 樂運

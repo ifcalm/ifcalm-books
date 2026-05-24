@@ -1,5 +1,5 @@
 ---
-title: "金史 卷87 卷八十七 列傳第二十五: 紇石烈志寧 僕散忠義 徒單合喜"
+title: "金史 卷87"
 date: 2026-05-24
 weight: 87
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷87。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 紇石烈志寧

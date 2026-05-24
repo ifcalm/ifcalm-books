@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷81 卷八十一 志第三十四 律曆十四"
+title: "宋史 卷81"
 date: 2026-05-24
 weight: 81
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷81。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 中原既失，禮樂淪亡。高宗時，胡銓著《審律論》，曰：

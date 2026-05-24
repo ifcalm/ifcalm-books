@@ -1,5 +1,5 @@
 ---
-title: "明史 卷331 卷三百三十一 列傳第二百十九 西域三"
+title: "明史 卷331"
 date: 2026-05-24
 weight: 331
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷331。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 烏斯藏大寶法王

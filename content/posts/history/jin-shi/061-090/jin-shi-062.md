@@ -1,5 +1,5 @@
 ---
-title: "金史 卷62 卷六十二 表第四: 交聘表下"
+title: "金史 卷62"
 date: 2026-05-24
 weight: 62
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷62。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宋	夏	高麗

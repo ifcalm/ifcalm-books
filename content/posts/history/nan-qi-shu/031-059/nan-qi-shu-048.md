@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷48 卷四十八 列傳第二十九 袁彖 孔稚珪 劉繪"
+title: "南齐书 卷48"
 date: 2026-05-24
 weight: 48
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷48。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷卷四十八‧列傳第二十九

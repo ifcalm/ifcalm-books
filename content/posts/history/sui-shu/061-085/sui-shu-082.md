@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷82 卷82 列傳第47 南蠻"
+title: "隋书 卷82"
 date: 2026-05-24
 weight: 82
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷82。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南蠻

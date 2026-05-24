@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷170 卷一百七十 志第一百二十三 職官十"
+title: "宋史 卷170"
 date: 2026-05-24
 weight: 170
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷170。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 讚引

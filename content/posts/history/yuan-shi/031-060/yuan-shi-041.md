@@ -1,5 +1,5 @@
 ---
-title: "元史 卷41 卷四十一 本紀第四十一: 順帝四"
+title: "元史 卷41"
 date: 2026-05-24
 weight: 41
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷41。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 順帝四

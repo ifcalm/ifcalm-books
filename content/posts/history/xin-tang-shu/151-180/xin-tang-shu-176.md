@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷176 卷一百七十六 列傳第一百零一 韓愈附:孟郊 張籍 賈島"
+title: "新唐书 卷176"
 date: 2026-05-24
 weight: 176
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷176。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韓愈附:孟郊 張籍 皇甫湜 盧仝 賈島 劉乂

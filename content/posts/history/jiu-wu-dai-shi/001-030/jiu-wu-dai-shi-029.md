@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷29 卷二十九 唐書5: 莊宗本紀三"
+title: "旧五代史 卷29"
 date: 2026-05-24
 weight: 29
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷29。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 天祐十六年春正月，李存審城德勝，夾河為柵。帝還魏州，命昭義軍節度使李嗣昭權知幽州軍府事。三月，帝兼領幽州，遣近臣李紹宏提舉府事。

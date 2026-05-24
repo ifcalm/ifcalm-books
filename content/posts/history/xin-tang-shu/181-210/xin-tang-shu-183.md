@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷183 卷一百八十三 列傳第一百零八 畢崔劉陸鄭朱韓"
+title: "新唐书 卷183"
 date: 2026-05-24
 weight: 183
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷183。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 畢崔劉陸鄭朱韓

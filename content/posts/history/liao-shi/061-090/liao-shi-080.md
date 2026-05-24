@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷80 卷八十 列傳第十: 張儉 邢抱朴 馬得臣 蕭朴 耶律八哥"
+title: "辽史 卷80"
 date: 2026-05-24
 weight: 80
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷80。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張儉邢抱樸馬得臣蕭樸耶律八哥

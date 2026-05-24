@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷69 卷六十九 列傳第三十九 劉隗 刁協 戴若思 周顗"
+title: "晋书 卷69"
 date: 2026-05-24
 weight: 69
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷69。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉隗〈（孫波）〉刁協〈（子彝 彝子逵）〉戴若思〈（弟邈）〉 周顗

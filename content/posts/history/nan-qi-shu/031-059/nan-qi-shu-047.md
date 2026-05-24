@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷47 卷四十七 列傳第二十八 王融 謝朓"
+title: "南齐书 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷47。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷四十七‧列傳第二十八

@@ -1,5 +1,5 @@
 ---
-title: "南史 卷78 卷七十八 列傳第六十八 夷貊上"
+title: "南史 卷78"
 date: 2026-05-24
 weight: 78
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷78。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 海南諸國

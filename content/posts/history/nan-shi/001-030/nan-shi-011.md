@@ -1,5 +1,5 @@
 ---
-title: "南史 卷11 卷十一 列傳第一 后妃上"
+title: "南史 卷11"
 date: 2026-05-24
 weight: 11
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷11。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宋孝穆趙皇后　孝懿蕭皇后　武敬臧皇后　武張夫人　文章胡太后　少帝司馬皇后　文元袁皇后　孝武昭路太后　明宣沈太后　孝武文穆王皇后　前廢帝何皇后　明恭王皇后　後廢帝陳太妃　後廢帝江皇后　順陳太妃　順謝皇后　齊宣孝陳皇后　高昭劉皇后　武穆裴皇后　文安王皇后　郁林王何妃　海陵王王妃　明敬劉皇后　東昏褚皇后　和王皇后

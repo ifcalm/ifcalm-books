@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷29 卷二十九 魏書二十九 方技傳"
+title: "三国志 卷29"
 date: 2026-05-24
 weight: 29
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷29。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 華佗杜夔朱建平周宣管輅

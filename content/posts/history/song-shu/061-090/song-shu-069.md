@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷69 卷六十九 列傳第二十九 劉湛 范曄"
+title: "宋书 卷69"
 date: 2026-05-24
 weight: 69
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷69。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第二十九　　劉湛 范曄

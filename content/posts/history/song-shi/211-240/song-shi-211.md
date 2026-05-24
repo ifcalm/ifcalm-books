@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷211 卷二百十一 表第二 宰輔二"
+title: "宋史 卷211"
 date: 2026-05-24
 weight: 211
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷211。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 公元	紀年	宰相進拜加官	罷免	執政進拜加官	罷免

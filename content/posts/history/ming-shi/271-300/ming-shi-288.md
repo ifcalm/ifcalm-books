@@ -1,5 +1,5 @@
 ---
-title: "明史 卷288 卷二百八十八 列傳第一百七十六 文苑四"
+title: "明史 卷288"
 date: 2026-05-24
 weight: 288
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷288。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文苑四

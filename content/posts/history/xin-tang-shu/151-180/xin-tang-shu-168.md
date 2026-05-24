@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷168 卷一百六十八 列傳第九十三 韋執誼 王叔文附:王伾 陸質 劉禹錫 柳宗元 程异"
+title: "新唐书 卷168"
 date: 2026-05-24
 weight: 168
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷168。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韋執誼 王叔文附:王伾 韓曄 陳諫 凌準 韓泰 陸質 劉禹錫 柳宗元 程异

@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷66 卷六十六 公孫劉田王楊蔡陳鄭傳"
+title: "汉书 卷66"
 date: 2026-05-24
 weight: 66
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷66。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷六十六 公孫劉田王楊蔡陳鄭傳第三十六

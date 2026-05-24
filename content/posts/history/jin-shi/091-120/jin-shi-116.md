@@ -1,5 +1,5 @@
 ---
-title: "金史 卷116 卷一百十六 列傳第五十四: 徒單兀典 石盞女魯歡 蒲察官奴 內族:完顏承立一名慶山奴"
+title: "金史 卷116"
 date: 2026-05-24
 weight: 116
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷116。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 徒單兀典

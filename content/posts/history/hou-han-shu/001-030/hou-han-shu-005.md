@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷5 卷五 孝安帝紀"
+title: "后汉书 卷5"
 date: 2026-05-24
 weight: 5
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷5。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 恭宗孝安皇帝諱祜，肅宗孫也。父清河孝王慶，母左姬。帝自在邸第，數有神光照室，又有赤蛇盤於床笫之間。年十歲，好學《史書》，和帝稱之，數見禁中。

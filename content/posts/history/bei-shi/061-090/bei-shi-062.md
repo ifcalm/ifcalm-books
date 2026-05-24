@@ -1,5 +1,5 @@
 ---
-title: "北史 卷62 卷六十二 列傳第五十: 王羆 王思政 尉遲迥 王軌"
+title: "北史 卷62"
 date: 2026-05-24
 weight: 62
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷62。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王羆 王思政 尉遲迥 王軌

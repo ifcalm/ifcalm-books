@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷5 卷5 高宗紀"
+title: "魏书 卷5"
 date: 2026-05-24
 weight: 5
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷5。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高宗文成皇帝，諱濬，恭宗景穆皇帝之長子也。母曰閭氏，真君元年六月生於東宮。帝少聰達，世祖愛之，常置左右，號世嫡皇孫。年五歲，世祖北巡，帝從在後，逢虜帥桎一奴欲加其罰。帝謂之曰：「奴今遭我，汝宜釋之。」帥奉命解縛。世祖聞之，曰：「此兒雖小，欲以天子自處。」意奇之。既長，風格異常，每有大政，常參決可否。正平二年十月戊申，即皇帝位於永安前殿，大赦，改年。

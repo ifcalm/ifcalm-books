@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷114 卷一百十四 列傳第四十四: 逆臣下"
+title: "辽史 卷114"
 date: 2026-05-24
 weight: 114
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷114。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 逆臣下 ○蕭胡睹蕭叠裏得古叠耶律撒剌竹奚回離保蕭特烈

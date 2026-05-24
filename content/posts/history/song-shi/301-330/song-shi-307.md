@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷307 卷三百〇七 列傳第六十六 喬維岳 王陟 張雍 董儼 魏廷式 盧琰 宋摶 凌策 楊覃 陳世卿 李若拙 陳知微"
+title: "宋史 卷307"
 date: 2026-05-24
 weight: 307
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷307。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 喬維岳

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷301 卷三百〇一 列傳第六十 邊肅 梅詢 馬元方 薛田 寇瑊 楊日嚴 李行簡 章頻 陳琰 李宥 張秉 張擇行 鄭向 郭稹 趙賀 高覿 袁抗 徐起 張旨 齊廓 鄭驤"
+title: "宋史 卷301"
 date: 2026-05-24
 weight: 301
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷301。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 邊肅

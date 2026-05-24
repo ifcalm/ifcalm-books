@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷151 卷一百五十一 列傳第一百〇一: 高崇文 伊慎 朱忠亮 劉昌裔 范希朝 王鍔 閻巨源 孟元陽 趙昌"
+title: "旧唐书 卷151"
 date: 2026-05-24
 weight: 151
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷151。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高崇文，其先渤海人。崇文生幽州，樸厚寡言，少從平盧軍。貞元中，隨韓全義鎮長武城，治軍有聲。五年夏，吐蕃三萬寇寧州，崇文率甲士三千救之，戰於佛堂原，大破之，死者過半。韓全義入覲，崇文掌行營節度留務，遷兼御史中丞。十四年，為長武城使，積粟練兵，軍聲大振。

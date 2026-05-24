@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷47 卷四七 補列傳第三九 酷吏"
+title: "北齐书 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷47。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 邸珍　宋遊道　盧斐　畢義雲

@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷19 卷十九 志第九 禮上"
+title: "晋书 卷19"
 date: 2026-05-24
 weight: 19
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷19。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮志上

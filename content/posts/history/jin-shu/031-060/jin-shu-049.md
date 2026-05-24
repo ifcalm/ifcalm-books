@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷49 卷四十九 列傳第十九 阮籍 嵇康 向秀 劉伶 謝鯤 胡毋輔之 畢卓 王尼 羊曼 光逸"
+title: "晋书 卷49"
 date: 2026-05-24
 weight: 49
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷49。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 阮籍

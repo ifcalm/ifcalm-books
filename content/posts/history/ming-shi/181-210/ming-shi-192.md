@@ -1,5 +1,5 @@
 ---
-title: "明史 卷192 卷一百九十二 列傳第八十 楊慎 王思 張翀 劉濟 安磐 張漢卿 張原 毛玉 王時柯 鄭本公 張曰韜 楊淮 張澯 郭楠"
+title: "明史 卷192"
 date: 2026-05-24
 weight: 192
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷192。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊慎〈（王元正）〉王思〈（王相）〉張翀劉濟安磐張漢卿張原毛玉〈（裴紹宗）〉王時柯〈（余翺）〉鄭本公張曰韜〈（胡瓊）〉楊淮〈（申良）〉張澯〈（仵瑜臧應奎胡璉余禎李可登安璽殷承敘）〉郭楠〈（俞敬李繼王懋）〉

@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷52 卷五十二 志第四十二 食貨二"
+title: "新唐书 卷52"
 date: 2026-05-24
 weight: 52
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷52。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 食貨二

@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷52 卷五十二 列傳第二十二 郤詵 阮种 華譚"
+title: "晋书 卷52"
 date: 2026-05-24
 weight: 52
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷52。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 郤詵

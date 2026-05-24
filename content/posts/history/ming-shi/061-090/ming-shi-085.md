@@ -1,5 +1,5 @@
 ---
-title: "明史 卷85 卷八十五 志第六十一 河渠三"
+title: "明史 卷85"
 date: 2026-05-24
 weight: 85
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷85。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 運河上

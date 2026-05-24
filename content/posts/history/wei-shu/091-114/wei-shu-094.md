@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷94 卷94 閹官:宗愛 仇洛齊 段霸 王琚 趙黑 孫小 張宗之等"
+title: "魏书 卷94"
 date: 2026-05-24
 weight: 94
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷94。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宗愛　仇洛齊　段霸　王琚　趙黑[1]　孫小　張宗之　劇鵬　張祐　抱嶷　王遇　苻承祖　王質　李堅　秦松　白整　劉騰　賈粲　楊範　成軌　王溫　孟鸞[2]　平季　封津　劉思逸

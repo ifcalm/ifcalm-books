@@ -1,5 +1,5 @@
 ---
-title: "明史 卷79 卷七十九 志第五十五 食貨三"
+title: "明史 卷79"
 date: 2026-05-24
 weight: 79
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷79。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 漕運倉庫

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷404 卷四百〇四 列傳第一百六十三 汪若海 張運 柳約 李舜臣 孫逢吉 章穎 商飛卿 劉穎 徐邦憲"
+title: "宋史 卷404"
 date: 2026-05-24
 weight: 404
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷404。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 汪若海

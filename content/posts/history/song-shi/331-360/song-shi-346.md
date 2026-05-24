@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷346 卷三百四十六 列傳第一百〇五 陳次升 陳師錫 彭汝礪弟:汝霖 汝方 呂陶 張庭堅 龔𡙇 孫諤 陳軒 江公望 陳祐 常安民"
+title: "宋史 卷346"
 date: 2026-05-24
 weight: 346
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷346。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳次升

@@ -1,5 +1,5 @@
 ---
-title: "金史 卷100 卷一百 列傳第三十八: 孟鑄 宗端脩 完顏閭山 路鐸 完顏伯嘉 朮虎筠壽 張煒 高竑 李復亨"
+title: "金史 卷100"
 date: 2026-05-24
 weight: 100
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷100。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孟鑄

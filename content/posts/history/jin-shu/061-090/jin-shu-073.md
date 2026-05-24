@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷73 卷七十三 列傳第四十三 庾亮"
+title: "晋书 卷73"
 date: 2026-05-24
 weight: 73
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷73。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 庾亮〈（子彬 羲 龢 弟懌 冰 條 翼）〉

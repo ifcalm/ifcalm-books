@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷282 卷二百八十二 列傳第四十一 李沆 王旦 向敏中"
+title: "宋史 卷282"
 date: 2026-05-24
 weight: 282
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷282。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李沆

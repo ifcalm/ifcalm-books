@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷328 卷三百二十八 列傳第八十七 李清臣 安燾 張璪 蒲宗孟 黃履 蔡挺 王韶 薛向 章楶"
+title: "宋史 卷328"
 date: 2026-05-24
 weight: 328
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷328。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李清臣

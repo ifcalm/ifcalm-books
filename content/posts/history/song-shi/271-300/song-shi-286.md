@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷286 卷二百八十六 列傳第四十五 魯宗道 薛奎 王曙 蔡齊"
+title: "宋史 卷286"
 date: 2026-05-24
 weight: 286
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷286。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 魯宗道

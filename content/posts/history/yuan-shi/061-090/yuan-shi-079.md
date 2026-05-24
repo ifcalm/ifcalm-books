@@ -1,5 +1,5 @@
 ---
-title: "元史 卷79 卷七十九 志第二十九: 輿服二"
+title: "元史 卷79"
 date: 2026-05-24
 weight: 79
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷79。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 輿服二 ○儀仗

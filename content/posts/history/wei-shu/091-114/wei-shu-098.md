@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷98 卷98 島夷蕭道成 島夷蕭衍"
+title: "魏书 卷98"
 date: 2026-05-24
 weight: 98
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷98。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 島夷蕭道成　島夷蕭衍

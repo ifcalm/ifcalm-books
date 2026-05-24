@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷240 卷二百四十 表第三十一 宗室世系二十六"
+title: "宋史 卷240"
 date: 2026-05-24
 weight: 240
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷240。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7240"
-source_license: "CC BY-SA 4.0"
 ---
 
 |  | 建安郡王承裕 | 莘國公克諶 | 富水侯叔策 | 太子右內率府副率接之 |  |  |  |  |  |  |  |  |

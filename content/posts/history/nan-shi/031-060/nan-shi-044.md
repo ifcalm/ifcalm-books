@@ -1,5 +1,5 @@
 ---
-title: "南史 卷44 卷四十四 列傳第三十四 齊武帝諸子 文惠諸子 明帝諸子"
+title: "南史 卷44"
 date: 2026-05-24
 weight: 44
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷44。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第三十四

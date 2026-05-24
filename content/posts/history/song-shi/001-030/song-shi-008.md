@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷8 卷八 本紀第八 真宗三"
+title: "宋史 卷8"
 date: 2026-05-24
 weight: 8
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷8。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 四年春正月辛巳，詔執事汾陰懈怠者，罪勿原。乙酉，習祀後土儀。丁亥，將祀汾陰，謁啟聖院太宗神禦殿、普安院元德皇后聖容。丙申，詔以六月六日天書再降日為天貺節。丁酉，奉天書發京師。日上有黃氣如匹素，五色雲如蓋，紫氣翼仗。庚子，右僕射、判河陽張齊賢見於汜水頓。陳堯叟獻白鹿。辛丑，陳幄殿於訾村，望拜諸陵。甲辰，至慈澗頓，賜道傍耕民茶荈。

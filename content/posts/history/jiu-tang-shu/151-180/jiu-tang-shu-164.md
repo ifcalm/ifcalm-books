@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷164 卷一百六十四 列傳第一百十四: 王播 李絳 楊於陵"
+title: "旧唐书 卷164"
 date: 2026-05-24
 weight: 164
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷164。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王播，字明敭。曾祖璡，嘉州司馬。祖升，咸陽令。父恕，揚府參軍。播擢進士第，登賢良方正制科，授集賢校理，再遷監察御史，轉殿中，歷侍御史。貞元末，幸臣李實為京兆尹，恃恩頗橫，嘗遇播於途，不避。故事，尹避臺官。播移文詆之；實怒，後奏播為三原令，欲挫之。播受命，趨府謁謝，盡府縣之儀。及臨所部，政理修明，恃勢豪門，未嘗貸法。歲終考課，為畿邑之最。實以其人有政術，甚禮重之，頻薦之於上。德宗奇之，將不次拔用，會母喪。

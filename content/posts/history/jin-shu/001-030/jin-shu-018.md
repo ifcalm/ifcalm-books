@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷18 卷十八 志第八 律曆下"
+title: "晋书 卷18"
 date: 2026-05-24
 weight: 18
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷18。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Kanseki Repository/Kanripo"
-source_url: "https://github.com/kanripo/KR2a0015"
-source_license: "CC BY-SA 4.0"
 ---
 
 晉書卷十八

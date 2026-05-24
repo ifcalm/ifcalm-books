@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷65 卷65 列傳第30 周羅睺 周法尚 李景 慕容三藏 薛世雄 王仁恭 權武 吐萬緒 董純 趙才"
+title: "隋书 卷65"
 date: 2026-05-24
 weight: 65
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷65。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 周羅睺

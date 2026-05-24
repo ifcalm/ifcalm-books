@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷438 卷四百三十八 列傳第一百九十七 儒林八 湯漢 何基 王柏 徐夢莘弟:得之 從子:天麟 李心傳 葉味道 王應麟 黃震"
+title: "宋史 卷438"
 date: 2026-05-24
 weight: 438
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷438。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 儒林八

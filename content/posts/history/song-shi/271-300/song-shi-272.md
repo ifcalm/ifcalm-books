@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷272 卷二百七十二 列傳第三十一 楊業子:延昭 等 附:王貴 荊罕儒從孙:嗣 曹光實從子:克明 張暉 司超"
+title: "宋史 卷272"
 date: 2026-05-24
 weight: 272
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷272。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊業

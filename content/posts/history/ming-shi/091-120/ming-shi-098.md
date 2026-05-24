@@ -1,5 +1,5 @@
 ---
-title: "明史 卷98 卷九十八 志第七十四 藝文三"
+title: "明史 卷98"
 date: 2026-05-24
 weight: 98
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷98。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 子類十二：一曰儒家類，二曰雜家類，前代藝文志列名法諸家，然寥寥無幾，備數而已。今總附雜家。三曰農家類，四曰小說家類，五曰兵書類，六曰天文類，七曰歷數類，八曰五行類，九曰藝術類，醫書附。十曰類書類，十一曰道家類，十二曰釋家類。

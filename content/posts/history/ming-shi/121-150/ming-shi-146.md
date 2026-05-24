@@ -1,5 +1,5 @@
 ---
-title: "明史 卷146 卷一百四十六 列傳第三十四 張武 陳珪 孟善 鄭亨 徐忠 郭亮 趙彝 張信 徐祥 李濬 孫巖 陳旭 陳賢 張興 陳志 王友"
+title: "明史 卷146"
 date: 2026-05-24
 weight: 146
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷146。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張武陳珪孟善鄭亨徐忠郭亮〈（趙彜）〉張信〈（唐雲）〉徐祥李浚孫巖〈（房勝）〉陳旭陳賢張興陳誌王友

@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷56 卷五十六 列傳第二十六 江統 孫楚"
+title: "晋书 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 江統 子虨、惇 孫楚 孫統、綽

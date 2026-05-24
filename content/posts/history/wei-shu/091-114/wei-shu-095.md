@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷95 卷95 匈奴劉聰 羯胡石勒 鐵弗劉虎 徒何慕容廆 臨渭氐苻健 羌姚萇 略陽氐吕光"
+title: "魏书 卷95"
 date: 2026-05-24
 weight: 95
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷95。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 匈奴劉聰　羯胡石勒　鐵弗劉虎　徒何慕容廆　臨渭氐苻健　羌姚萇　略陽氐呂光

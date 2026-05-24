@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷193 卷一百九十三 列傳第一百四十三: 列女"
+title: "旧唐书 卷193"
 date: 2026-05-24
 weight: 193
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷193。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 女子稟陰柔之質，有從人之義。前代誌貞婦烈女，蓋善其能以禮自防。至若失身賊庭，不汙非義；臨白刃而慷慨，誓丹衷而激發；粉身不顧，視死如歸，雖在壯夫，恐難守節，窈窕之操，不其賢乎！其次梁鴻之妻，無辭偕隱，共姜之誓，不踐二庭，婦道母儀，克彰圖史，又其長也。末代風靡，貞行寂寥，聊播椒蘭，以貽閨壺，彤管之職，幸無忽焉！

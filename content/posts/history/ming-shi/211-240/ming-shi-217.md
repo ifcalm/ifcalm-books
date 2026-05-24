@@ -1,5 +1,5 @@
 ---
-title: "明史 卷217 卷二百十七 列傳第一百〇五 王家屏 陳于陛 沈鯉 于慎行 李廷機 吳道南"
+title: "明史 卷217"
 date: 2026-05-24
 weight: 217
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷217。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王家屏陳于陛沈鯉于慎行李廷機吳道南

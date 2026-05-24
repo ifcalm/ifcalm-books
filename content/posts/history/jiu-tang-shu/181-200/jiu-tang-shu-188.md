@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷188 卷一百八十八 列傳第一百三十八: 孝友"
+title: "旧唐书 卷188"
 date: 2026-05-24
 weight: 188
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷188。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 善父母為孝，善兄弟為友。夫善於父母，必能隱身錫類，仁惠逮於胤嗣矣；善於兄弟，必能因心廣濟，德信被於宗族矣！推而言之，可以移於君，施於有政，承上而順下，令終而善始，雖蠻貊猶行焉，雖窘迫猶亨焉！自昔立身揚名，未有不偕孝友而成者也。前代史官，所傳《孝友傳》，多錄當時旌表之士，人或微細，非眾所聞，事出閭裏，又難詳究。今錄衣冠盛德，眾所知者，以為稱首。至於州縣薦飾者，必覆其殊尤，可以勸世者，亦載之。

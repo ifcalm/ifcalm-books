@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷170 卷一百七十 列傳第九十五 二高伊朱二劉范二王孟趙李任張"
+title: "新唐书 卷170"
 date: 2026-05-24
 weight: 170
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷170。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 二高伊朱二劉範二王孟趙李任張

@@ -1,5 +1,5 @@
 ---
-title: "金史 卷111 卷一百十一 列傳第四十九: 古里甲石倫 內族:完顏訛可 撒合輦 強伸 烏林答胡土 內族:完顏思烈 紇石烈牙吾塔"
+title: "金史 卷111"
 date: 2026-05-24
 weight: 111
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷111。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 古里甲石倫

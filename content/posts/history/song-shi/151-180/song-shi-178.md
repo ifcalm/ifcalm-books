@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷178 卷一百七十八 志第一百三十一 食貨上六"
+title: "宋史 卷178"
 date: 2026-05-24
 weight: 178
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷178。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 食貨上六〈（役法下振恤）〉役法

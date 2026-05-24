@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷43 卷四三 列傳第三五 李稚廉 封述 許惇 羊烈 源彪"
+title: "北齐书 卷43"
 date: 2026-05-24
 weight: 43
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷43。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李稚廉　封述　許惇　羊烈　源彪

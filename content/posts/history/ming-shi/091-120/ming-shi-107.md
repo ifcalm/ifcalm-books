@@ -1,5 +1,5 @@
 ---
-title: "明史 卷107 卷一百〇七 表第八 功臣世表三"
+title: "明史 卷107"
 date: 2026-05-24
 weight: 107
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷107。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 始封	子	孫	曾孫	五世	六世	七世	八世	九世	十世

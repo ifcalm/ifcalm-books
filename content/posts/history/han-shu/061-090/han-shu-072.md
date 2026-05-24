@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷72 卷七十二 王貢兩龔鮑傳"
+title: "汉书 卷72"
 date: 2026-05-24
 weight: 72
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷72。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 昔武王伐紂，遷九鼎於雒邑，伯夷、叔齊薄之，餓于首陽，不食其祿，周猶稱盛德焉。然孔子賢此二人，以為「不降其志，不辱其身」也。而孟子亦云：「聞伯夷之風者，貪夫廉，懦夫有立志；」「奮乎百世之上，行乎百世之下莫不興起，非賢人而能若是乎！」

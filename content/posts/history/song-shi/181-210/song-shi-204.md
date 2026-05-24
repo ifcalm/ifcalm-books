@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷204 卷二百〇四 志第一百五十七 藝文三"
+title: "宋史 卷204"
 date: 2026-05-24
 weight: 204
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷204。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 藝文三衛宏《漢舊儀》三卷應劭《漢官儀》一卷蔡質《漢官典儀》一卷

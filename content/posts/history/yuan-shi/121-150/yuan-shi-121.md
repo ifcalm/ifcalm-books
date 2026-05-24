@@ -1,5 +1,5 @@
 ---
-title: "元史 卷121 卷一百二十一 列傳第八: 速不台 按竺邇 畏答兒 博羅歡 抄思"
+title: "元史 卷121"
 date: 2026-05-24
 weight: 121
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷121。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 速不臺

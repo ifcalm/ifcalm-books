@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷11 卷11 廢出三帝紀 前廢帝廣陵王"
+title: "魏书 卷11"
 date: 2026-05-24
 weight: 11
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷11。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 前廢帝廣陵王　後廢帝安定王　出帝平陽王

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷145 卷一百四十五 志第九十八 儀衞三"
+title: "宋史 卷145"
 date: 2026-05-24
 weight: 145
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷145。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 儀衛三○國初鹵簿

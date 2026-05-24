@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷390 卷三百九十 列傳第一百四十九 李衡 王自中 家愿 張綱 張大經 蔡洸 莫濛 周淙 劉章 沈作賓"
+title: "宋史 卷390"
 date: 2026-05-24
 weight: 390
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷390。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李衡王自中家愿张纲张大经蔡洸莫濛周淙刘章沈作宾

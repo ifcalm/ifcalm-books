@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷55 卷五十五 吳書十 程黃韓蔣周陳董甘淩徐潘丁傳"
+title: "三国志 卷55"
 date: 2026-05-24
 weight: 55
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷55。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 程普

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷115 卷一百十五 列傳第六十五: 崔器 趙國珍 崔瓘 敬括 韋元甫 魏少游 衛伯玉 李承"
+title: "旧唐书 卷115"
 date: 2026-05-24
 weight: 115
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷115。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔器，深州安平人也。曾祖恭禮，狀貌豐碩，飲酒過鬥。貞觀中，拜駙馬都尉，尚神堯館陶公主。父肅然，平陰丞。

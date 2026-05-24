@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷382 卷三百八十二 列傳第一百四十一 張燾 黃中 孫道夫 曾幾 勾濤 李彌遜"
+title: "宋史 卷382"
 date: 2026-05-24
 weight: 382
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷382。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張燾

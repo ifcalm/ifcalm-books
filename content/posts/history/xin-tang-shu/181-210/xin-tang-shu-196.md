@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷196 卷一百九十六 列傳第一百二十一 隱逸"
+title: "新唐书 卷196"
 date: 2026-05-24
 weight: 196
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷196。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 古之隱者，大抵有三概：上焉者，身藏而德不晦，故自放草野，而名往從之，雖萬乘之貴，猶尋軌而委聘也；其次，挈治世具弗得伸，或持峭行不可屈於俗，雖有所應，其於爵祿也，泛然受，悠然辭，使人君常有所慕企，怊然如不足，其可貴也；末焉者，資槁薄，樂山林，內審其才，終不可當世取捨，故逃丘園而不返，使人常高其風而不敢加訾焉。且世未嘗無隱，有之未嘗不旌賁而先焉者，以孔子所謂「舉逸民，天下之人歸焉」。

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷164 卷一百六十四 列傳第五十一: 楊恭懿 王恂 郭守敬 楊桓 楊果 王構 魏初 焦養直 孟攀麟 尚野 李之紹"
+title: "元史 卷164"
 date: 2026-05-24
 weight: 164
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷164。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊恭懿

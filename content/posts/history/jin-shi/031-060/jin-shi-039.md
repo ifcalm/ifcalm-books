@@ -1,5 +1,5 @@
 ---
-title: "金史 卷39 卷三十九 志第二十: 樂上 雅樂 散樂 鼓吹樂 本朝樂曲"
+title: "金史 卷39"
 date: 2026-05-24
 weight: 39
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷39。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《傳》曰：「王者功成作樂，治定制禮。」豈二帝三王之彌文哉！蓋有天下者，將一軌度、正民俗、合人神、和上下，舍禮樂何以焉。金初得宋，始有金石之樂，然而未盡其美也。及乎大定、明昌之際，日修月葺，粲然大備。其隸太常者，即郊廟、祀享、大宴、大朝會宮縣二舞是也。隸教坊者，則有鐃歌鼓吹，天子行幸鹵簿導引之樂也。有散樂。有渤海樂。有本國舊音，世宗嘗寫其意度為雅曲，史錄其一，其俚者弗載雲。

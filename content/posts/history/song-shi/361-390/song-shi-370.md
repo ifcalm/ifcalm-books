@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷370 卷三百七十 列傳第一百二十九 王友直 李寶 成閔 趙密 劉子羽 呂祉 胡世將 鄭剛中"
+title: "宋史 卷370"
 date: 2026-05-24
 weight: 370
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷370。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王友直 李寶 成閔 趙密 劉子羽 呂祉 胡世將 鄭剛中

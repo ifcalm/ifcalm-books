@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷219 卷二百十九 表第十 宗室世系五"
+title: "宋史 卷219"
 date: 2026-05-24
 weight: 219
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷219。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7219"
-source_license: "CC BY-SA 4.0"
 ---
 
 |  |  | 博陵侯從質 | 南康侯世哲 | 贈高密郡公令儇 | 贈感德軍節度使子莒 | 伯通 | 師洙 | 希曾 | 與晙 | 孟傑 | 由艷 |  |

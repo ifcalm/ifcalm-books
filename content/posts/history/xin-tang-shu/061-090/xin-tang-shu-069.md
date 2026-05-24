@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷69 卷六十九 表第九 方鎮六"
+title: "新唐书 卷69"
 date: 2026-05-24
 weight: 69
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷69。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 表第九 方鎮表六

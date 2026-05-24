@@ -1,5 +1,5 @@
 ---
-title: "金史 卷104 卷一百〇四 列傳第四十二: 納坦謀嘉 鄒谷 高霖 孟奎 烏林荅與 郭俁 溫迪罕達 王擴 移剌福僧 奧屯忠孝 蒲察思忠 紇石烈胡失門 完顏宇 斡勒合打 蒲察移剌都"
+title: "金史 卷104"
 date: 2026-05-24
 weight: 104
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷104。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 納坦謀嘉

@@ -1,5 +1,5 @@
 ---
-title: "南史 卷66 卷六十六 列傳第五十六 杜僧明 周文育 侯瑱 侯安都 歐陽頠 黃法𣰰 淳于量 章昭達 吳明徹"
+title: "南史 卷66"
 date: 2026-05-24
 weight: 66
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷66。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第五十六

@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷77 卷七十七 蓋諸葛劉鄭孫毌將何傳"
+title: "汉书 卷77"
 date: 2026-05-24
 weight: 77
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷77。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷七十七 蓋諸葛劉鄭孫毋將何傳第四十七

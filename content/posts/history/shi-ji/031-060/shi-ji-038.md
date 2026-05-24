@@ -1,5 +1,5 @@
 ---
-title: "史记 卷38 《宋微子世家》"
+title: "史记 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《宋微子世家》

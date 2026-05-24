@@ -1,5 +1,5 @@
 ---
-title: "金史 卷25 卷二十五 志第六: 地理中 南京路 河北東路 河北西路 山東東路 山東西路"
+title: "金史 卷25"
 date: 2026-05-24
 weight: 25
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷25。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南京路

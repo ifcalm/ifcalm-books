@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷83 卷八十三 志第三十六 律曆十六"
+title: "宋史 卷83"
 date: 2026-05-24
 weight: 83
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷83。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Kanseki Repository/Kanripo"
-source_url: "https://github.com/kanripo/KR2a0032"
-source_license: "CC BY-SA 4.0"
 ---
 
 宋史巻八十三

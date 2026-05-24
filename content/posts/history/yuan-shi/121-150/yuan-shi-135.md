@@ -1,5 +1,5 @@
 ---
-title: "元史 卷135 卷一百三十五 列傳第二十二: 鐵哥朮 塔出 塔里赤 塔海帖木兒 口兒吉 忽都 孛兒速 月舉連赤海牙 阿答赤 明安 忽林失 失剌拔都兒 徹里 曷剌 乞台 脫因納 和尚"
+title: "元史 卷135"
 date: 2026-05-24
 weight: 135
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷135。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鐵哥朮

@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷102 卷一百零二 列傳第二十七 岑文本孫:羲 從子:長倩 虞世南 李百藥子:安期 褚亮附:李玄道 姚思廉孫:珽 令狐德棻鄧世隆 李延壽 令狐峘"
+title: "新唐书 卷102"
 date: 2026-05-24
 weight: 102
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷102。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 岑文本孫:羲 從子:長倩 附:格輔元 虞世南 李百藥子:安期 褚亮附:劉孝孫 李玄道 李守素 姚思廉孫:璹 珽 令狐德棻鄧世隆 顧胤 李延壽 李仁實 令狐峘

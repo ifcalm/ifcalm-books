@@ -1,5 +1,5 @@
 ---
-title: "明史 卷40 卷四十 志第十六 地理一"
+title: "明史 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十六 地理一

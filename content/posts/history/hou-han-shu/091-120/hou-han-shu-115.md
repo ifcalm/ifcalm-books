@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷115 第二十五 百官二 太常 光祿勳 衛尉 太僕 廷尉 大鴻臚"
+title: "后汉书 卷115"
 date: 2026-05-24
 weight: 115
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷115。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十五　　百官二

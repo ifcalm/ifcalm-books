@@ -1,5 +1,5 @@
 ---
-title: "明史 卷34 卷三十四 志第十 曆四"
+title: "明史 卷34"
 date: 2026-05-24
 weight: 34
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷34。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Hanchuan Caolu transcription"
-source_url: "https://www.sidneyluo.net/a/a24/034.htm"
-source_license: "Public domain source text"
 ---
 
 卷三十四 ‧ 志第十

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷61 卷六十一 志第三十七 樂一"
+title: "明史 卷61"
 date: 2026-05-24
 weight: 61
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷61。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第三十七 樂一

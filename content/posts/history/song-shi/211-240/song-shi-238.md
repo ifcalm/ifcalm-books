@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷238 卷二百三十八 表第二十九 宗室世系二十四"
+title: "宋史 卷238"
 date: 2026-05-24
 weight: 238
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷238。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7238"
-source_license: "CC BY-SA 4.0"
 ---
 
 |  |  | 信國公克顓謚靖惠 | 建國公叔儺 | 贈左太中大夫奭之 | 訓武郎公瑗 |  |  |  |  |  |  |  |

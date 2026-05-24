@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷321 卷三百二十一 列傳第八十 鄭獬 陳襄 錢公輔 孫洙 豐稷 呂誨 劉述 劉琦 錢顗 鄭俠"
+title: "宋史 卷321"
 date: 2026-05-24
 weight: 321
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷321。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鄭獬

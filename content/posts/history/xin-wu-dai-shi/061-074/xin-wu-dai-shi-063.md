@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷63 卷六十三 前蜀世家第三: 王建"
+title: "新五代史 卷63"
 date: 2026-05-24
 weight: 63
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷63。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王建，字光圖，許州舞陽人也。隆眉廣顙，狀貌偉然。少無賴，以屠牛、盜驢、販私鹽為事，里人謂之「賊王八」。後為忠武軍卒，稍遷隊將。

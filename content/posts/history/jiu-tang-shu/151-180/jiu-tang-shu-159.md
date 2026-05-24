@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷159 卷一百五十九 列傳第一百〇九: 衛次公 鄭絪 韋處厚 崔群 路隨"
+title: "旧唐书 卷159"
 date: 2026-05-24
 weight: 159
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷159。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 衛次公，字從周，河東人。器韻和雅，弱冠舉進士。禮部侍郎潘炎目為國器，擢居上第。參選調禮部侍郎盧翰嘉其才，補崇文館校書郎，改渭南尉。次公善鼓琴，京兆尹李齊運使其子交歡，意欲次公授之琴。次公拒之，由是終身未嘗操弦。

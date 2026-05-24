@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷25 卷二十五"
+title: "汉书 卷25"
 date: 2026-05-24
 weight: 25
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷25。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷二十五上 郊祀志

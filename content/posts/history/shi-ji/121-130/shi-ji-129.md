@@ -1,5 +1,5 @@
 ---
-title: "史记 卷129 《太史公自序》"
+title: "史记 卷129"
 date: 2026-05-24
 weight: 129
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷129。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《貨殖列傳》

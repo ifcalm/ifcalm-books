@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷40 卷40 列傳第5 梁士彥 宇文忻 王誼 元諧 王世積 虞慶則 元冑"
+title: "隋书 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷四十列傳第五

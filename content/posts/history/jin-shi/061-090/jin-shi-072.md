@@ -1,5 +1,5 @@
 ---
-title: "金史 卷72 卷七十二 列傳第十: 婁室子:活女 謀衍 仲(本名石古乃)，族子:海里 銀朮可子:彀英(本名撻懶) 母弟:麻吉(子:沃側) 弟:拔離速 習古乃"
+title: "金史 卷72"
 date: 2026-05-24
 weight: 72
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷72。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十 ○婁室子:活女 謀衍 仲(本名石古乃)，族子:海里 銀朮可子:彀英(本名撻懶) 母弟:麻吉(子:沃側) 弟:拔離速 習古乃

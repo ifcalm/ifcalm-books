@@ -1,5 +1,5 @@
 ---
-title: "明史 卷325 卷三百二十五 列傳第二百十三 外國六 浡泥 滿刺加 蘇門答喇 蘇祿 西洋瑣里 瑣里 覽邦 淡巴 百花 彭亨 那孤兒 黎伐 南渤利 阿魯 柔佛 丁機宜 巴剌西"
+title: "明史 卷325"
 date: 2026-05-24
 weight: 325
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷325。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 浡泥〈（Brunei，今文萊）〉

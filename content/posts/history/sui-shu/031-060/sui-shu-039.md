@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷39 卷39 列傳第4 于義 陰壽 竇榮定 元景山 源雄 豆盧勣 賀若誼"
+title: "隋书 卷39"
 date: 2026-05-24
 weight: 39
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷39。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書總目

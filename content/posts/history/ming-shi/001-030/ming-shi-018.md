@@ -1,5 +1,5 @@
 ---
-title: "明史 卷18 卷十八 本紀第十八 世宗二"
+title: "明史 卷18"
 date: 2026-05-24
 weight: 18
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷18。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 【世宗二】

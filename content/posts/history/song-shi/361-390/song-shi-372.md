@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷372 卷三百七十二 列傳第一百三十一 朱倬 王綸 尹穡 王之望 徐俯 沈與求 翟汝文 王庶 辛炳"
+title: "宋史 卷372"
 date: 2026-05-24
 weight: 372
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷372。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 朱倬 王綸 尹穡 王之望 徐俯 沈與求 翟汝文 王庶 辛炳

@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷103 卷一百〇三 載記第三 劉曜"
+title: "晋书 卷103"
 date: 2026-05-24
 weight: 103
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷103。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉曜

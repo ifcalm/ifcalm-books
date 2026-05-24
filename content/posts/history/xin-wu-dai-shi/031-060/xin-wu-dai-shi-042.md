@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷42 卷四十二 雜傳第三十: 朱宣 王師範 李罕之 孟方立 王珂 趙犨 馮行襲"
+title: "新五代史 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 朱宣〈（弟瑾）〉

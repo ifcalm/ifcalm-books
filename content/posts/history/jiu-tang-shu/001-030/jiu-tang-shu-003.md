@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷3 卷三 本紀第三: 太宗下"
+title: "旧唐书 卷3"
 date: 2026-05-24
 weight: 3
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷3。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 四年春正月乙亥，定襄道行軍總管李靖大破突厥，獲隋皇后蕭氏及煬帝之孫正道，送至京師。癸巳，武德殿北院火。二月己亥，幸溫湯。甲辰，李靖又破突厥於陰山，頡利可汗輕騎遠遁。丙午，至自溫湯。甲寅，大赦，賜酺五日。民部尚書戴胄以本官檢校吏部尚書，參預朝政。太常卿蕭瑀為御史大夫，與宰臣參議朝政。御史大夫、西河郡公溫彥博為中書令。三月庚辰，大同道行軍副總管張寶相生擒頡利可汗，獻于京師。甲申，尚書右僕射、蔡國公杜如晦薨。甲午，以俘頡利告於太廟。

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷128 卷一百二十八 列傳第十六 劉基 宋濂 葉琛 章溢"
+title: "明史 卷128"
 date: 2026-05-24
 weight: 128
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷128。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉基

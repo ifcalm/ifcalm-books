@@ -1,5 +1,5 @@
 ---
-title: "明史 卷315 卷三百十五 列傳第二百〇三 雲南土司三"
+title: "明史 卷315"
 date: 2026-05-24
 weight: 315
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷315。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 緬甸〈（二宣慰司）〉幹崖〈（宣撫）〉潞江南甸〈（二宣撫司）〉芒市者樂甸茶山孟璉〈（即猛臉）〉裏麻鈕兀東倘瓦甸促瓦散金木邦〈（孟密安撫司附）〉孟養車裏老撾八百〈（二宣慰司）〉

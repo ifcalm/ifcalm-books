@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷87 卷八十七 列傳第四十七 蕭惠開 殷琰"
+title: "宋书 卷87"
 date: 2026-05-24
 weight: 87
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷87。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第四十七　　蕭惠開 殷琰

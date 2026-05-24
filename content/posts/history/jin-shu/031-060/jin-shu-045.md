@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷45 卷四十五 列傳第十五 劉毅 和嶠 武陔 任愷 崔洪 郭奕 侯史光 何攀"
+title: "晋书 卷45"
 date: 2026-05-24
 weight: 45
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷45。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉毅

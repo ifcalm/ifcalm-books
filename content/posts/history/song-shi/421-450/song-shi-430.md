@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷430 卷四百三十 列傳第一百八十九 道學四 朱氏門人 黃榦 李燔 張洽 陳淳 李方子 黃灝"
+title: "宋史 卷430"
 date: 2026-05-24
 weight: 430
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷430。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 黃榦 李燔 張洽 陳淳 李方子 黃灝

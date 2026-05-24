@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷41 卷四十一 志第十一: 地理志五"
+title: "辽史 卷41"
 date: 2026-05-24
 weight: 41
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷41。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 地理志五 ○西京道

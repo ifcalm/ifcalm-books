@@ -1,5 +1,5 @@
 ---
-title: "明史 卷115 卷一百十五 列傳第三 興宗孝康皇帝 睿宗興獻皇帝"
+title: "明史 卷115"
 date: 2026-05-24
 weight: 115
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷115。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 興宗孝康皇帝 孝康皇后 呂太后　睿宗獻皇帝 獻皇后

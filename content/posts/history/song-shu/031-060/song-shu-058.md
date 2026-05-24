@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷58 卷五十八 列傳第十八 王惠"
+title: "宋书 卷58"
 date: 2026-05-24
 weight: 58
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷58。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十八　　王惠謝弘微王球

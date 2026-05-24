@@ -1,5 +1,5 @@
 ---
-title: "明史 卷150 卷一百五十 列傳第三十八 郁新 趙羾 金忠 李慶 師逵 古朴 陳壽 劉季箎 劉辰 楊砥 虞謙 呂升 湯宗"
+title: "明史 卷150"
 date: 2026-05-24
 weight: 150
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷150。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 郁新趙羾金忠李慶師逵古樸〈（向寶）〉陳壽〈（馬京許思溫）〉劉季{虎}劉辰楊砥虞謙〈（呂升仰瞻嚴本）〉湯宗

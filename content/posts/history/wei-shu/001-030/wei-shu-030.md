@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷30 卷30 王建 安同 樓伏連 丘堆 娥清 劉尼 奚眷 車伊洛等"
+title: "魏书 卷30"
 date: 2026-05-24
 weight: 30
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷30。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王建　安同　樓伏連　丘堆　娥清　劉尼　奚眷　車伊洛　宿石　來大千　周幾　豆代田　周觀　閭大肥　尉撥　陸真　呂洛拔

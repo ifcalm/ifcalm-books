@@ -1,5 +1,5 @@
 ---
-title: "明史 卷52 卷五十二 志第二十八 禮六"
+title: "明史 卷52"
 date: 2026-05-24
 weight: 52
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷52。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十八 禮六〈（吉禮六）〉

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷164 卷一百六十四 列傳第五十二 鄒緝 弋謙 黃澤 范濟 聊讓 左鼎 曹凱 劉煒 單宇 張昭 高瑤"
+title: "明史 卷164"
 date: 2026-05-24
 weight: 164
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷164。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鄒緝〈（鄭維桓柯暹）〉弋謙〈（黃驥）〉黃澤〈（孔友諒）〉範濟聊讓〈（郭佑胡仲倫華敏賈斌）〉左鼎〈（練綱）〉曹凱〈（許仕達）〉劉煒〈（尚褫）〉單宇〈（姚顯楊浩）〉張昭〈（賀煬）〉高瑤〈（虎臣）〉

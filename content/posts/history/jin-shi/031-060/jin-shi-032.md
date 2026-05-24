@@ -1,5 +1,5 @@
 ---
-title: "金史 卷32 卷三十二 志第十三: 禮五 上尊諡"
+title: "金史 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 上尊諡

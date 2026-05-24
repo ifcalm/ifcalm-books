@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷186 卷一百八十六"
+title: "旧唐书 卷186"
 date: 2026-05-24
 weight: 186
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷186。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷一百八十六上 列傳第一百三十六上: 酷吏上

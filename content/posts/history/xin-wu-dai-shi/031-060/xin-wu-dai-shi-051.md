@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷51 卷五十一 雜傳第三十九: 朱守殷 董璋 范延光 婁繼英 安重榮 安從進 楊光遠"
+title: "新五代史 卷51"
 date: 2026-05-24
 weight: 51
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷51。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 朱守殷

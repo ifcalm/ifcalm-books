@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷28 卷二十八 列傳第二十二: 世祖九王 高宗二十九王 後主諸子"
+title: "陈书 卷28"
 date: 2026-05-24
 weight: 28
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷28。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳書卷二十八

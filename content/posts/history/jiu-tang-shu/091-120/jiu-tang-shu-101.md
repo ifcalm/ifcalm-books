@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷101 卷一百〇一 列傳第五十一: 李乂 薛登 韋湊 韓思復 張廷珪 王求禮 辛替否"
+title: "旧唐书 卷101"
 date: 2026-05-24
 weight: 101
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷101。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李乂薛登韋湊從子虛心虛舟

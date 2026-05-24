@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷50 卷五十 列傳第十 胡藩 劉康祖 垣護之 張興世"
+title: "宋书 卷50"
 date: 2026-05-24
 weight: 50
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷50。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十　　胡藩 劉康祖 垣護之 張興世

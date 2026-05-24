@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷159 卷一百五十九 列傳第八十四 鮑李蕭薛樊王吳鄭陸盧柳崔"
+title: "新唐书 卷159"
 date: 2026-05-24
 weight: 159
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷159。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鮑李蕭薛樊王吳鄭陸盧柳崔

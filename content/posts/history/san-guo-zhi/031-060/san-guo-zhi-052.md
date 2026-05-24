@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷52 卷五十二 吳書七 張顧諸葛步傳"
+title: "三国志 卷52"
 date: 2026-05-24
 weight: 52
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷52。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張昭

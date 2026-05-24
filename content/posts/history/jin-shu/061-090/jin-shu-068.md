@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷68 卷六十八 列傳第三十八 顧榮 紀瞻 賀循 薛兼"
+title: "晋书 卷68"
 date: 2026-05-24
 weight: 68
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷68。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 顧榮

@@ -1,5 +1,5 @@
 ---
-title: "南史 卷71 卷七十一 列傳第六十一 儒林"
+title: "南史 卷71"
 date: 2026-05-24
 weight: 71
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷71。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第六十一儒林

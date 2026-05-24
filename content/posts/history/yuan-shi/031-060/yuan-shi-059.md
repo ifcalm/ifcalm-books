@@ -1,5 +1,5 @@
 ---
-title: "元史 卷59 卷五十九 志第十一: 地理二"
+title: "元史 卷59"
 date: 2026-05-24
 weight: 59
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷59。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 遼陽等處行中書省，為路七、府一，屬州十二，屬縣十。徒存其名而無城邑者，不在此數。本省計站一百二十處。

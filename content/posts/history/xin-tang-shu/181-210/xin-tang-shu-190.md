@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷190 卷一百九十 列傳第一百十五 三劉成杜鍾張王"
+title: "新唐书 卷190"
 date: 2026-05-24
 weight: 190
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷190。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 三劉成杜鍾張王

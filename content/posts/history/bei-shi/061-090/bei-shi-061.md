@@ -1,5 +1,5 @@
 ---
-title: "北史 卷61 卷六十一 列傳第四十九: 王盟 獨孤信 竇熾 賀蘭祥 叱列伏龜 閻慶 史寧 權景宣"
+title: "北史 卷61"
 date: 2026-05-24
 weight: 61
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷61。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王盟 獨孤信 竇熾 賀蘭祥 叱列伏龜 閻慶 史寧 權景宣

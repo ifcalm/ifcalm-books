@@ -1,5 +1,5 @@
 ---
-title: "明史 卷57 卷五十七 志第三十三 禮十一"
+title: "明史 卷57"
 date: 2026-05-24
 weight: 57
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷57。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第三十三 禮十一〈（軍禮）〉

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷491 卷四百九十一 列傳第二百五十 外國七 流求國 定安國 渤海國 日本國 党項"
+title: "宋史 卷491"
 date: 2026-05-24
 weight: 491
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷491。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 流求國 定安國 渤海國 日本國 党項

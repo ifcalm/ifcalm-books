@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷139 卷一百三十九 志第九十二 樂十四"
+title: "宋史 卷139"
 date: 2026-05-24
 weight: 139
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷139。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 樂十四〈（樂章八）〉○恭上皇帝皇太后尊號下冊立皇后冊皇太子皇子冠鄉飲酒聞喜宴鹿鳴宴

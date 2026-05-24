@@ -1,5 +1,5 @@
 ---
-title: "明史 卷221 卷二百二十一 列傳第一百〇九 袁洪愈 王廷瞻 郭應聘 耿定向 王樵 魏時亮 郝杰 趙參魯 張孟男 李禎 丁賓"
+title: "明史 卷221"
 date: 2026-05-24
 weight: 221
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷221。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 袁洪愈〈（子一鶚譚希思）〉王廷瞻郭應聘〈（吳文華）〉耿定向〈（弟定理定力）〉王樵〈（子肯堂）〉魏時亮〈（陳瓚）〉郝傑〈（胡克儉）〉趙參魯張孟男〈（衛承芳）〉李禎丁賓

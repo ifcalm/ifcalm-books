@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷141 卷一百四十一 志3: 五行志"
+title: "旧五代史 卷141"
 date: 2026-05-24
 weight: 141
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷141。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 五行志

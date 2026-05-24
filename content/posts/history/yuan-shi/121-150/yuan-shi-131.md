@@ -1,5 +1,5 @@
 ---
-title: "元史 卷131 卷一百三十一 列傳第十八: 速哥 囊加歹 忙兀台 奧魯赤 完者都 伯帖木兒 懷都 亦黑迷失 拜降"
+title: "元史 卷131"
 date: 2026-05-24
 weight: 131
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷131。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 速哥

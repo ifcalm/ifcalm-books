@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷188 卷一百八十八 志第一百四十一 兵二"
+title: "宋史 卷188"
 date: 2026-05-24
 weight: 188
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷188。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禁軍下

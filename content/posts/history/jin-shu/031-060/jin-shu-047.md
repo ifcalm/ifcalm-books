@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷47 卷四十七 列傳第十七 傅玄"
+title: "晋书 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷47。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 傅玄〈（子咸 咸子敷、咸從父弟祗）〉

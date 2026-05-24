@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷17 卷17 明元六王"
+title: "魏书 卷17"
 date: 2026-05-24
 weight: 17
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷17。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 明元皇帝七男。杜密皇后生世祖太武皇帝。大慕容夫人生樂平戾王丕。安定殤王彌闕母氏。慕容夫人生樂安宣王範。尹夫人生永昌莊王健。建寧王崇、新興王俊二王，並闕母氏。

@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷57 卷五十七 杜欒劉李劉謝列傳"
+title: "后汉书 卷57"
 date: 2026-05-24
 weight: 57
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷57。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 杜根

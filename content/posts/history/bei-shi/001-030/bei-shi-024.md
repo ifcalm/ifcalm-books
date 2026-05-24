@@ -1,5 +1,5 @@
 ---
-title: "北史 卷24 卷二十四 列傳第十二: 崔逞 王憲 封懿"
+title: "北史 卷24"
 date: 2026-05-24
 weight: 24
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷24。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔逞 王憲 封懿

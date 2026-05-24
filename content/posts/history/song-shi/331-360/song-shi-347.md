@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷347 卷三百四十七 列傳第一百〇六 孫鼛 吳時 李昭玘 吳師禮 王漢之 黃廉 朱服 張舜民 盛陶 章衡 顏復 孫升 韓川 龔鼎臣 鄭穆 席旦 喬執中"
+title: "宋史 卷347"
 date: 2026-05-24
 weight: 347
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷347。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孫鼛

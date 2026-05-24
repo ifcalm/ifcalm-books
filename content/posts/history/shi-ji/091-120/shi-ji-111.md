@@ -1,5 +1,5 @@
 ---
-title: "史记 卷111 《衛將軍驃騎列傳》 Biography of Cavalry General Wei"
+title: "史记 卷111"
 date: 2026-05-24
 weight: 111
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷111。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《衛將軍驃騎列傳》 Biography of Cavalry General Wei

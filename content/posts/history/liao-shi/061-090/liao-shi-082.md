@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷82 卷八十二 列傳第十二: 耶律隆運 耶律勃古哲 蕭陽阿 武白 蕭常哥 耶律虎古"
+title: "辽史 卷82"
 date: 2026-05-24
 weight: 82
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷82。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律隆運〈（德威滌魯制心）〉耶律勃古哲蕭陽阿武白蕭常哥耶律虎古〈（磨魯古）〉

@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷192 卷一百九十二 列傳第一百十七 忠義中"
+title: "新唐书 卷192"
 date: 2026-05-24
 weight: 192
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷192。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 忠義中顏杲卿春卿賈循隱林張巡許遠南霽雲雷萬春姚訚

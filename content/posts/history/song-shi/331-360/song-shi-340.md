@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷340 卷三百四十 列傳第九十九 呂大防兄:大忠 弟:大鈞 大臨 劉摯 蘇頌"
+title: "宋史 卷340"
 date: 2026-05-24
 weight: 340
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷340。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 呂大防

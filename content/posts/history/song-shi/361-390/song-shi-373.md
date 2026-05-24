@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷373 卷三百七十三 列傳第一百三十二 朱弁 鄭望之 張邵 洪皓"
+title: "宋史 卷373"
 date: 2026-05-24
 weight: 373
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷373。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 朱弁

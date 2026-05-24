@@ -1,5 +1,5 @@
 ---
-title: "北史 卷94 卷九十四 列傳第八十二: 高麗 百濟 新羅 勿吉 奚 契丹 室韋 豆莫婁 地豆干 烏洛侯 流求 倭"
+title: "北史 卷94"
 date: 2026-05-24
 weight: 94
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷94。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高麗 百濟 新羅 勿吉 奚 契丹 室韋 豆莫婁 地豆幹 烏洛侯 流求 倭

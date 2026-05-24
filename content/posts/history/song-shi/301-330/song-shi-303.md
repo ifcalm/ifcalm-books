@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷303 卷三百〇三 列傳第六十二 張昷之 魏瓘 滕宗諒 李防 趙湘 唐肅 張述 黃震 胡順之 陳貫 范祥 田京"
+title: "宋史 卷303"
 date: 2026-05-24
 weight: 303
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷303。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張昷之

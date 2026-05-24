@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷3 卷3 帝紀第3 煬帝上"
+title: "隋书 卷3"
 date: 2026-05-24
 weight: 3
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷3。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 煬皇帝諱廣，一名英，小字阿𡡉，高祖第二子也。母曰文獻獨孤皇后。上美姿儀，少敏慧，高祖及后於諸子中特所鍾愛。在周，以高祖勳，封雁門郡公。

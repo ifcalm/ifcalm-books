@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷368 卷三百六十八 列傳第一百二十七 王德 王彥 魏勝 張憲 楊再興 牛皋 胡閎休"
+title: "宋史 卷368"
 date: 2026-05-24
 weight: 368
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷368。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王德 王彥 魏勝 張憲 楊再興 牛皋 胡閎休

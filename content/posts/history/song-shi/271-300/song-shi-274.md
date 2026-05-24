@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷274 卷二百七十四 列傳第三十三 王贊 張保續 趙玭 盧懷忠 王繼勳 丁德裕 張延通 梁迥 史珪 田欽祚 侯贇 王文寶 翟守素 王侁 劉審瓊"
+title: "宋史 卷274"
 date: 2026-05-24
 weight: 274
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷274。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王贊

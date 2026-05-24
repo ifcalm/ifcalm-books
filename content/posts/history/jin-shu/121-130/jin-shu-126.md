@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷126 卷一百二十六 載記第二十六 禿髮烏孤 禿髮利鹿孤 禿髮傉檀"
+title: "晋书 卷126"
 date: 2026-05-24
 weight: 126
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷126。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禿髮烏孤

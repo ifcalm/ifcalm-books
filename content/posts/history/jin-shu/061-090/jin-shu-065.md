@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷65 卷六十五 列傳第三十五 王導"
+title: "晋书 卷65"
 date: 2026-05-24
 weight: 65
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷65。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王導〈（子悅 恬 洽 協 劭 薈 洽子殉 瑉 劭子謐）〉

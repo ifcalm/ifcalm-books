@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷38 卷三十八 志第十八: 地理一"
+title: "旧唐书 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十八地理一

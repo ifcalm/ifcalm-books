@@ -1,5 +1,5 @@
 ---
-title: "元史 卷12 卷十二 本紀第十二: 世祖九"
+title: "元史 卷12"
 date: 2026-05-24
 weight: 12
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷12。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 十九年春正月壬戌朔，高麗國王王春遣其大將軍金子廷來賀。丙寅，罷征東行中書省。丁卯，諸王劄剌忽至自軍中。時皇子北平王以軍鎮阿裏麻裏之地，以禦海都。諸王昔裏吉與脫脫木兒、棨木忽兒、撒裏蠻等謀劫皇子北平王以叛，欲與劄剌忽結援於海都，海都不從。撒裏蠻悔過，執昔裏吉等，北平王遣劄剌忽以聞。妖民張圓光伏誅。立太僕院。撥信州民四百八戶隸諸王柏木兒。丙子，車駕畋於近郊。丁丑，高麗國王貢綢布四百匹。丙戌，賜西平王怯薛那懷等鈔一萬一千五百二十一錠。

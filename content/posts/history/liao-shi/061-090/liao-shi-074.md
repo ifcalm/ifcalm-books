@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷74 卷七十四 列傳第四: 耶律敵剌 蕭痕篤 康默記 韓延徽 韓知古"
+title: "辽史 卷74"
 date: 2026-05-24
 weight: 74
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷74。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律敵剌蕭痕篤康默記〈（延壽）〉韓延徽〈（德樞紹勛紹芳資讓）〉韓知古〈（匡嗣德源德凝）〉

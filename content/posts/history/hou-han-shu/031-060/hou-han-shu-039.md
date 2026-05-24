@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷39 卷三十九 劉趙淳于江劉周趙列傳"
+title: "后汉书 卷39"
 date: 2026-05-24
 weight: 39
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷39。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 後漢書卷三十九　劉趙淳於江劉周趙列傳　第二十九

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷399 卷三百九十九 列傳第一百五十八 鄭瑴 王庭秀 仇悆 高登 婁寅亮 宋汝爲"
+title: "宋史 卷399"
 date: 2026-05-24
 weight: 399
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷399。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鄭𣪝

@@ -1,5 +1,5 @@
 ---
-title: "金史 卷12 卷十二 本紀第十二: 章宗四"
+title: "金史 卷12"
 date: 2026-05-24
 weight: 12
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷12。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 四年春正月乙丑朔，宋、高麗、夏遣使來賀。丁卯，諭外方使人不得佩刀入宮。庚午，幸豫王永成第視疾。辛未，如光春宮春水。壬申，陰霧，木冰。丁丑，行尚書省奏，宋賀正使還至慶都卒。詔遣防禦使女奚烈元往祭，致賻絹布各二百二十匹，仍命送伴使張雲護喪以歸。豫王永成薨。辛卯，高麗國王王𧦬没，嗣子韺遣使來告哀。

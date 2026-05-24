@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷10 卷十 本紀第十 仁宗二"
+title: "宋史 卷10"
 date: 2026-05-24
 weight: 10
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷10。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 明道元年春二月癸卯，呂夷簡上《三朝寶訓》。丙午，詔仕廣南者毋過兩任，以防貪黷。庚戌，以張士遜同中書門下平章事、集賢殿大學士。戊午，錄故宰臣孫，並試將作監主簿。甲子，詔員外郎以上致仕者，錄其子校書郎，三丞以上齋郎。丁卯，以真宗順容李氏為宸妃，是日妃薨。

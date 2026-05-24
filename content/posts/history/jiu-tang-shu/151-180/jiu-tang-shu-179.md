@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷179 卷一百七十九 列傳第一百二十九: 蕭遘 孔緯 韋昭度 崔昭緯 張濬 朱樸 鄭綮 劉崇望 徐彥若 陸扆 柳璨"
+title: "旧唐书 卷179"
 date: 2026-05-24
 weight: 179
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷179。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭遘，蘭陵人。開元朝宰相太師徐國公嵩之四代孫。嵩生衡。衡生復，德宗朝宰相。復生湛。湛生寘，咸通中宰相。寘生遘，以咸通五年登進士第，釋褐秘書省校書郎、太原從事。入朝為右拾遺，再遷起居舍人。與韋保衡同年登進士第，保衡以幸進無藝，同年門生皆薄之。

@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷86 卷八十六 列傳第五十六 張軌"
+title: "晋书 卷86"
 date: 2026-05-24
 weight: 86
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷86。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張軌〈（子寔 寔弟茂 寔子駿 駿子重華 重華子耀靈 耀靈伯父祚 耀靈弟玄靚 玄靚叔天錫）〉

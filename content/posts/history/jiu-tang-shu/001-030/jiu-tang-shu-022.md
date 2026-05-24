@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷22 卷二十二 志第二: 禮儀二"
+title: "旧唐书 卷22"
 date: 2026-05-24
 weight: 22
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷22。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋文帝開皇中，將作大匠宇文愷依《月令》造明堂木樣以獻。帝令有司于京城安業裏內規兆其地，方欲崇建，而諸儒爭論不定，竟議罷之。煬帝時，愷復獻明堂木樣並議狀，屬遷都興役，事又不就。終於隋代，季秋大享，恆在雩壇設祀。

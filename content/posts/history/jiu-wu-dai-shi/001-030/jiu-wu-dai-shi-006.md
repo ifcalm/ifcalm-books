@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷6 卷六 梁書6: 太祖本紀六"
+title: "旧五代史 卷6"
 date: 2026-05-24
 weight: 6
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷6。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 開平四年十月乙亥，東京博王友文入覲，召之也。己卯，以新修天驥院開宴落成，內外並獻馬，而魏博進絹四萬匹為駔價。壬午，以冬設禁軍，幸興安鞠場，召文武百官宴。幸開化，大閱軍實。

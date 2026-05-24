@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷210 卷二百一十 表第一 宰輔一"
+title: "宋史 卷210"
 date: 2026-05-24
 weight: 210
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷210。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宋宰輔年表，前九朝始建隆庚申，終靖康丙午，凡一百六十七年，居相位者七十二人，位執政者二百三十八人。後七朝始建炎丁未，終德祐丙子，凡一百四十九年，居相位者六十一人，位執政者二百四十四人。

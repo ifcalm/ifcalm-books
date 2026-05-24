@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷261 卷二百六十一 列傳第二十 李瓊 郭瓊 陳承昭 李萬超 白重贊 王仁鎬 陳思讓 焦繼勳 劉重進 袁彥 祁廷訓 張鐸 李萬全 田景咸 王暉"
+title: "宋史 卷261"
 date: 2026-05-24
 weight: 261
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷261。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李瓊

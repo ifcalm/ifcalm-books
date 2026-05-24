@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷45 卷四十五 雜傳第三十三: 張全義 朱友謙 袁象先 朱漢賓 段凝 劉玘 周知裕 陸思鐸"
+title: "新五代史 卷45"
 date: 2026-05-24
 weight: 45
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷45。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張全義

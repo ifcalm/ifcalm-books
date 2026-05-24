@@ -1,5 +1,5 @@
 ---
-title: "元史 卷191 卷一百九十一 列傳第七十八: 良吏一"
+title: "元史 卷191"
 date: 2026-05-24
 weight: 191
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷191。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 自古國家上有寬厚之君，然後為政者得以盡其愛民之術，而良吏興焉。班固有曰：「漢興，與民休息，凡事簡易，禁罔疏闊，以寬厚清靜為天下先，故文、景以後，循吏輩出。」其言蓋識當時之治體矣。

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷158 卷一百五十八 列傳第一百〇八: 武元衡 鄭餘慶 韋貫之"
+title: "旧唐书 卷158"
 date: 2026-05-24
 weight: 158
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷158。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 武元衡，字伯蒼，河南緱氏人。曾祖載德，天后從父弟，官至湖州刺史。祖平一，善屬文，終考功員外郎、修文館學士，事在《逸人傳》。父就，殿中侍御史，以元衡貴，追贈吏部侍郎。元衡進士登第，累辟使府，至監察御史。後為華原縣令。時畿輔有鎮軍督將恃恩矜功者，多撓吏民。元衡苦之，乃稱病去官。放情事外，沈浮宴詠者久之。德宗知其才，召授比部員外郎。一歲，遷左司郎中。時以詳整稱重。

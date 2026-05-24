@@ -1,5 +1,5 @@
 ---
-title: "金史 卷16 卷十六 本紀第十六: 宣宗下"
+title: "金史 卷16"
 date: 2026-05-24
 weight: 16
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷16。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 四年春正月壬辰朔，詔免朝。丙申，金安軍節度使行元帥府事古裏甲古倫除名。丁酉，大元兵下好義堡，霍州刺史移剌阿裏合等死之。詔贈官有差。庚戌，宋步騎十餘萬圍鄧州，聞援軍至，夜焚營去，招撫副使朮虎移剌答追及之，奪其俘還。壬子，晝晦，有頃大雷電，雨以風。癸丑，戶部侍郎張師魯上書，請遣騎兵數千，及春，淮、蜀並進、以撓宋。丙辰，以武仙遙領中京留守，進官一階。

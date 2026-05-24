@@ -1,5 +1,5 @@
 ---
-title: "明史 卷135 卷一百三十五 列傳第二十三 陳遇 葉兌 范常 宋思顏 郭景祥 楊元杲 阮弘道 孔克仁"
+title: "明史 卷135"
 date: 2026-05-24
 weight: 135
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷135。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳遇

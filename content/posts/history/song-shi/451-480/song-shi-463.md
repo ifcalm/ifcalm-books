@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷463 卷四百六十三 列傳第二百二十二 外戚上 杜審琦弟:審瓊 審肇 審進(從子:彥圭 彥鈞 從孫:守元 曾孫:惟序) 賀令圖楊重進 王繼勳 劉知信子:承宗 劉文裕 劉美子:從德 從廣 孫:永年 附:馬季良 郭崇仁 楊景宗 符惟忠 柴宗慶 張堯佐"
+title: "宋史 卷463"
 date: 2026-05-24
 weight: 463
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷463。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 外戚上

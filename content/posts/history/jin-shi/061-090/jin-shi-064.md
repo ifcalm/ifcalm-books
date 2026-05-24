@@ -1,5 +1,5 @@
 ---
-title: "金史 卷64 卷六十四 列傳第二: 后妃下 睿宗欽慈皇后 睿宗貞懿皇后 世宗昭德皇后 世宗元妃張氏 世宗元妃李氏 顯宗孝懿皇后 顯宗昭聖皇后 章宗欽懷皇后 章宗元妃李氏 衛紹王后徒單氏 宣宗皇后王氏 宣宗明惠皇后 哀宗徒單皇后"
+title: "金史 卷64"
 date: 2026-05-24
 weight: 64
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷64。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第二 后妃下 ○睿宗欽慈皇后 睿宗貞懿皇后 世宗昭德皇后 世宗元妃張氏 世宗元妃李氏 顯宗孝懿皇后 顯宗昭聖皇后 章宗欽懷皇后 章宗元妃李氏 衛紹王后徒單氏 宣宗皇后王氏 宣宗明惠皇后 哀宗徒單皇后

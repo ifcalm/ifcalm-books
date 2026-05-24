@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷20 卷20 文成五王"
+title: "魏书 卷20"
 date: 2026-05-24
 weight: 20
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷20。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 安樂王廣川王　齊郡王　河間王安豐王

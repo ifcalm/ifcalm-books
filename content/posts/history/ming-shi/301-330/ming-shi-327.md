@@ -1,5 +1,5 @@
 ---
-title: "明史 卷327 卷三百二十七 列傳第二百十五 外國八 韃靼"
+title: "明史 卷327"
 date: 2026-05-24
 weight: 327
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷327。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韃靼

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷156 卷一百五十六 列傳第一百〇六: 于頔 韓弘 王智興"
+title: "旧唐书 卷156"
 date: 2026-05-24
 weight: 156
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷156。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 于頔，字允元，河南人也，周太師燕文公謹之後也。始以廕補千牛，調授華陰尉，黜陟使劉灣辟為判官。又以櫟陽主簿攝監察御史，充入蕃使判官。再遷司門員外郎，兼侍御史，賜紫。充入西蕃計會使，將命稱旨，時論以為有出疆專對之能。歷長安縣令、駕部郎中。

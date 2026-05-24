@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷56 卷五十六 唐書32: 列傳八 周德威 符存審"
+title: "旧五代史 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 周德威，字鎮遠，小字陽五，朔州馬邑人也。初事武皇為帳中騎督，驍勇，便騎射，膽氣智數皆過人。久在雲中，諳熟邊事，望煙塵之警，懸知兵勢。乾寧中，為鐵林軍使，武皇討王行瑜，以功加檢校左僕射，移內衙軍副。

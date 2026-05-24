@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷311 卷三百十一 列傳第七十 晏殊 龐籍孫:恭孫 王隨 章得象 呂夷簡子:公綽 公弼 公孺 張士遜"
+title: "宋史 卷311"
 date: 2026-05-24
 weight: 311
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷311。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 晏殊

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷147 卷一百四十七 列傳第三十五 解縉 黃淮 胡廣 金幼孜 胡儼"
+title: "明史 卷147"
 date: 2026-05-24
 weight: 147
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷147。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 解縉 黃淮 胡廣 金幼孜 胡儼

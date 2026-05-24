@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷16 卷十六 列傳第十: 趙知禮 蔡景歷 劉師知 謝岐"
+title: "陈书 卷16"
 date: 2026-05-24
 weight: 16
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷16。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳書卷十六

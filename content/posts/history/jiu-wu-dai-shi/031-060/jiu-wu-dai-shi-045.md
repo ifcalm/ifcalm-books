@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷45 卷四十五 唐書21: 閔帝本紀"
+title: "旧五代史 卷45"
 date: 2026-05-24
 weight: 45
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷45。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 閔帝，諱從厚，小字菩薩奴，明宗第三子也。母昭懿皇后夏氏，以天祐十一年歲在甲戌，十一月二十八日庚申，生帝於晉陽舊第。帝髫齔好讀《春秋》，略通大義，貌類明宗，尤鍾愛。

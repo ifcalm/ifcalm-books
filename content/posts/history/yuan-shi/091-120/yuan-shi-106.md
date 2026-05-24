@@ -1,5 +1,5 @@
 ---
-title: "元史 卷106 卷一百〇六 表第一: 后妃表"
+title: "元史 卷106"
 date: 2026-05-24
 weight: 106
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷106。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 后妃表

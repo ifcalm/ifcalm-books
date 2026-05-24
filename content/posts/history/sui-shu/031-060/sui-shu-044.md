@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷44 卷44 列傳第9 滕穆王瓚 道悼王靜 蔡王智積"
+title: "隋书 卷44"
 date: 2026-05-24
 weight: 44
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷44。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷四十四列傳第九

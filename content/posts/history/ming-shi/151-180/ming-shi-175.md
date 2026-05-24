@@ -1,5 +1,5 @@
 ---
-title: "明史 卷175 卷一百七十五 列傳第六十三 衞青 董興 何洪 劉玉 仇鉞 神英 曹雄 馮禎 張俊 楊銳"
+title: "明史 卷175"
 date: 2026-05-24
 weight: 175
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷175。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 衛青〈（子穎）〉董興何洪〈（劉雄）〉劉玉仇鉞神英〈（子周）〉曹雄〈（子謙）〉馮禎張俊〈（李鋐）〉楊銳〈（崔文）〉

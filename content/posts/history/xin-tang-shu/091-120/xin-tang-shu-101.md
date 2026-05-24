@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷101 卷一百零一 列傳第二十六 蕭瑀瑀從子:鈞 瓘子:嵩 嵩子:華 嵩孫:復 華孫:俛 華孫:倣 倣子:廩 復曾孫:遘"
+title: "新唐书 卷101"
 date: 2026-05-24
 weight: 101
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷101。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭瑀瑀從子:鈞 鈞兄子:嗣業 瓘子:嵩 嵩子:華 嵩孫:復 華孫:俛 華孫:倣 倣子:廩 復曾孫:遘 瑀曾孫:定

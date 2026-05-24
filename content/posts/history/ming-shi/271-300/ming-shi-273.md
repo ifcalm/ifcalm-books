@@ -1,5 +1,5 @@
 ---
-title: "明史 卷273 卷二百七十三 列傳第一百六十一 左良玉 高傑 祖寬"
+title: "明史 卷273"
 date: 2026-05-24
 weight: 273
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷273。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 【列傳第一百六十一左良玉〈（鄧·賀人龍）〉·高傑〈（劉澤清）〉·祖寬】

@@ -1,5 +1,5 @@
 ---
-title: "金史 卷11 卷十一 本紀第十一: 章宗三"
+title: "金史 卷11"
 date: 2026-05-24
 weight: 11
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷11。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 三年春正月己亥朔，日有食之。辛丑，宋、夏遣使來賀。癸卯，諭有司：「凡館接伴並奉使者，毋以語言相勝，務存大體。奉使者亦必得其人乃可。」乙卯，詔罷講議所。丙辰，如城南春水。丁巳，並上京、東京兩路提刑司為一，提刑使、副兼安撫使、副，安撫專掌教習武事，毋令改其本俗。己未，以都南行宮名建春。甲子，至自春水。乙丑，宋主以祖母喪，遣使告哀。

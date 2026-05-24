@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷18 卷十八 志第十 祥瑞"
+title: "南齐书 卷18"
 date: 2026-05-24
 weight: 18
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷18。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 天符瑞命，遐哉邈矣。靈篇祕圖，固以蘊金匱而充石室，炳契決，陳緯候者，方策未書。啓覺天人之期，扶獎帝王之運，三五聖業，神明大寶，二謀協贊，罔不由茲。夫流火赤雀，實紀周祚，雕雲素靈，發祥漢氏，光武中興，皇符爲盛，魏膺當塗之讖，晉有石瑞之文，史筆所詳，亦唯舊矣。齊氏受命，事殷前典。黃門郎蘇偘撰《聖皇瑞應記》，永明中庾溫撰《瑞應圖》，其餘衆品，史注所載。今詳錄去取，以爲《志》云。

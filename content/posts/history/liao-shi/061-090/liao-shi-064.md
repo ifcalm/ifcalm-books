@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷64 卷六十四 表第二: 皇子表"
+title: "辽史 卷64"
 date: 2026-05-24
 weight: 64
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷64。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 皇子表

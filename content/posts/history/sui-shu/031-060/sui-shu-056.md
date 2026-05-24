@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷56 卷56 列傳第21 盧愷 令狐熙 薛冑 宇文㢸 張衡 楊汪"
+title: "隋书 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷五十六列傳第二十一

@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷7 卷七 本紀第七 前廢帝"
+title: "宋书 卷7"
 date: 2026-05-24
 weight: 7
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷7。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 前廢帝諱子業，小字法師，孝武帝長子也。元嘉二十六年正月甲申生。世祖鎮尋陽，子業留京邑。三十年，世祖入伐元凶，被囚侍中下省，將見害者數矣，卒得無恙。

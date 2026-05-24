@@ -1,5 +1,5 @@
 ---
-title: "明史 卷197 卷一百九十七 列傳第八十五 席書 霍韜 熊浹 黃宗明 黃綰"
+title: "明史 卷197"
 date: 2026-05-24
 weight: 197
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷197。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 席書〈（弟春篆）〉霍韜〈（子與瑕）〉熊浹黃宗明黃綰〈（陸澄）〉

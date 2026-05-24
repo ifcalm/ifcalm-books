@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷90 卷九十 列傳第四十: 王及善 杜景儉 朱敬則 楊再思 李懷遠 豆盧欽望"
+title: "旧唐书 卷90"
 date: 2026-05-24
 weight: 90
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷90。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王及善

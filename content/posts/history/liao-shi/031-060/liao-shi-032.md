@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷32 卷三十二 志第二: 營衞志中"
+title: "辽史 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 營衛誌中 ○行營

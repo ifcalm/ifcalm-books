@@ -1,5 +1,5 @@
 ---
-title: "北史 卷57 卷五十七 列傳第四十五: 周宗室"
+title: "北史 卷57"
 date: 2026-05-24
 weight: 57
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷57。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 邵惠公顥子什肥導護叱羅協馮遷杞簡公連莒莊公洛生虞國公仲廣川公測弟深深子孝伯東平公神舉弟慶

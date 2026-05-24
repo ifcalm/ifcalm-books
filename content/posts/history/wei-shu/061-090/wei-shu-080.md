@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷80 卷80 朱瑞 叱列延慶 斛斯椿 賈顯度 樊子鵠 賀拔勝 侯莫 陳悅 侯淵"
+title: "魏书 卷80"
 date: 2026-05-24
 weight: 80
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷80。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 朱瑞　叱列延慶　斛斯椿　賈顯度　樊子鵠　賀拔勝　侯莫陳悅　侯淵

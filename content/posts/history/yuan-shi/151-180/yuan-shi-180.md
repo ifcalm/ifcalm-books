@@ -1,5 +1,5 @@
 ---
-title: "元史 卷180 卷一百八十 列傳第六十七: 耶律希亮 趙世延 孔思晦"
+title: "元史 卷180"
 date: 2026-05-24
 weight: 180
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷180。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律希亮

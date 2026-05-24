@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷115 卷一百一十五 載記第十五 苻丕 苻登"
+title: "晋书 卷115"
 date: 2026-05-24
 weight: 115
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷115。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 苻丕 苻登

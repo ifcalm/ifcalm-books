@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷73 卷73 列傳第38 循吏"
+title: "隋书 卷73"
 date: 2026-05-24
 weight: 73
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷73。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷七十三列傳第三十八

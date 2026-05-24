@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷69 卷六十九 列傳第十九: 侯君集 張亮 薛萬徹"
+title: "旧唐书 卷69"
 date: 2026-05-24
 weight: 69
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷69。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 侯君集　張亮　薛萬徹 兄萬均　盛彥師　盧祖尚　劉世讓　劉蘭　李君羨等附

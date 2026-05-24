@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷152 卷一百五十二 列傳第七十七 張姜武李宋"
+title: "新唐书 卷152"
 date: 2026-05-24
 weight: 152
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷152。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張姜武李宋

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷8 卷八 本紀第八: 玄宗上"
+title: "旧唐书 卷8"
 date: 2026-05-24
 weight: 8
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷8。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 玄宗至道大聖大明孝皇帝諱隆基，睿宗第三子也，母曰昭成順聖皇后竇氏。垂拱元年秋八月戊寅，生於東都。性英斷多藝，尤知音律，善八分書。儀範偉麗，有非常之表。

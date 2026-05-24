@@ -1,5 +1,5 @@
 ---
-title: "元史 卷165 卷一百六十五 列傳第五十二: 張禧 賈文備 解誠 管如德 趙匣剌 周全 孔元 朱國寶 張立 齊秉節 張萬家奴 郭昂 綦公直 楊賽因不花 鮮卑仲吉 完顏石柱"
+title: "元史 卷165"
 date: 2026-05-24
 weight: 165
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷165。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張禧

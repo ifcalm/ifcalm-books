@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷61 卷六十一 吳世家第一: 楊行密"
+title: "新五代史 卷61"
 date: 2026-05-24
 weight: 61
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷61。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 嗚呼！自唐失其政，天下乘時，黥髡盜販，袞冕峨巍。吳暨南唐，奸豪竊攘。蜀險而富，漢險而貧，貧能自強，富者先亡。閩陋荊蹙，楚開蠻服。剝剽弗堪，吳越其尤。牢牲視人，嶺皞遭劉。百年之間，並起爭雄，山川亦絕，風氣不通。語曰：清風興，群陰伏；日月出，爝火息。故真人作而天下同。作《十國世家》。

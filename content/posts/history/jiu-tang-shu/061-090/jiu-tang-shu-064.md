@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷64 卷六十四 列傳第十四: 高祖二十二子"
+title: "旧唐书 卷64"
 date: 2026-05-24
 weight: 64
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷64。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隱太子建成　衛王玄霸　巢王元吉　楚王智雲　荊王元景　漢王元昌　酆王元亨　周王元方　徐王元禮　韓王元嘉　彭王元則　鄭王元懿　霍王元軌　虢王鳳道王元慶　鄧王元裕　舒王元名　魯王靈夔　江王元祥　密王元曉　滕王元嬰

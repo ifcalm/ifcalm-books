@@ -1,5 +1,5 @@
 ---
-title: "明史 卷253 卷二百五十三 列傳第一百四十一 王應熊 張至發 薛國觀 程國祥 陳演 魏藻德"
+title: "明史 卷253"
 date: 2026-05-24
 weight: 253
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷253。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王應熊〈（何吾騶）〉張至發〈（孔貞運黃士俊劉宇亮）〉薛國觀〈（袁愷）〉程國祥〈（蔡國用範復粹方逢年張四知等）〉陳演魏藻德〈（李建泰）〉

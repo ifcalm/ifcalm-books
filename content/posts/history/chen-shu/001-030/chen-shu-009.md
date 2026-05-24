@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷9 卷九 列傳第三: 侯瑱 歐陽頠 吳明徹 裴子烈"
+title: "陈书 卷9"
 date: 2026-05-24
 weight: 9
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷9。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳書卷九

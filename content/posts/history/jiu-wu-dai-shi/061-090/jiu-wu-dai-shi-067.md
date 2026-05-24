@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷67 卷六十七 唐書43: 列傳19 豆盧革 韋說 盧程 趙鳳 李愚 任圜"
+title: "旧五代史 卷67"
 date: 2026-05-24
 weight: 67
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷67。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 豆盧革，祖籍，同州刺史。父瓚，舒州刺史。〈（《宣和書譜》云：失其世係。）〉革少值亂離，避地鄜、延，轉入中山，王處直禮之，辟於幕下，有奏記之譽。因牡丹會賦詩，諷處直以桑柘為意，言甚古雅，漸加器仰，轉節度判官。而理家無法，獨請謁處直，處直慮布政有缺，有所規諫，斂版出迎，乃為嬖人祈軍職矣。

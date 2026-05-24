@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷77 卷七十七 列傳第七: 耶律屋質 耶律吼 耶律安摶 耶律洼 耶律頹昱 耶律撻烈"
+title: "辽史 卷77"
 date: 2026-05-24
 weight: 77
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷77。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律屋質耶律吼〈（何魯不）〉耶律安摶耶律窪耶律頹昱耶律撻烈

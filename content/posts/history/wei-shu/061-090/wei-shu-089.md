@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷89 卷89 酷吏:于洛侯 胡泥 李洪之 高遵張赦提 羊祉 崔暹 郦道元"
+title: "魏书 卷89"
 date: 2026-05-24
 weight: 89
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷89。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 于洛侯　胡泥　李洪之　高遵　張赦提　羊祉　崔暹　酈道元　谷楷

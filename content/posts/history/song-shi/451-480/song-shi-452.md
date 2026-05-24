@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷452 卷四百五十二 列傳第二百十一 忠義七 高敏張吉 景思忠弟:思立 王奇 蔣興祖 郭滸 吳革 李翼阮駿 趙士嶐士醫 士眞 士遒 士跂 叔皎 叔憑 訓之 聿之 陳淬 黃友 郝仲連 劉惟輔 牛皓 魏彥明 劉士英 翟興弟:進 朱蹕朱良 方允武 龔楫李亘 凌唐佐 楊粹中 強霓康傑 李伸 郭僎郭贊 王迸 吳從龍 司馬夢求 林空齋 黃介 孫益 王仙 吳楚材 李成大 陶居仁"
+title: "宋史 卷452"
 date: 2026-05-24
 weight: 452
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷452。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 忠義七

@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷63 卷六十三 表第三 宰相下"
+title: "新唐书 卷63"
 date: 2026-05-24
 weight: 63
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷63。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 表第三 宰相下

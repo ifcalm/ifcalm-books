@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷112 卷一百十二 列傳第六十二: 李暠 李麟 李國貞 李峘 李巨"
+title: "旧唐书 卷112"
 date: 2026-05-24
 weight: 112
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷112。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李暠族弟齊物齊物子復暠族弟若水

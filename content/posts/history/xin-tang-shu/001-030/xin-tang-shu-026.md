@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷26 卷二十六 志第十六 曆二"
+title: "新唐书 卷26"
 date: 2026-05-24
 weight: 26
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷26。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高宗時，《戊寅曆》益疏，淳風作《甲子元曆》以獻。詔太史起麟德二年頒用，謂之《麟德曆》。古曆有章、蔀，有元、紀，有日分、度分，參差不齊，淳風為總法千三百四十以一之。損益中晷術以考日至，為木渾圖以測黃道，余因劉焯《皇極曆》法，增損所宜。當時以為密，與太史令瞿壇羅所上《經緯曆》參行。

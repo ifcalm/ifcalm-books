@@ -1,5 +1,5 @@
 ---
-title: "金史 卷114 卷一百十四 列傳第五十二: 白華 斜卯愛實附:合周 石抹世勣"
+title: "金史 卷114"
 date: 2026-05-24
 weight: 114
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷114。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 白華

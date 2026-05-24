@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷82 卷82 李琰之 祖瑩 常景"
+title: "魏书 卷82"
 date: 2026-05-24
 weight: 82
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷82。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李琰之　祖瑩　常景

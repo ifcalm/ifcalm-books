@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷73 卷七十三 列傳第二十三: 薛收 姚思廉 顏師古 令狐德棻 孔穎達"
+title: "旧唐书 卷73"
 date: 2026-05-24
 weight: 73
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷73。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 薛收 兄子元敬　收子元超　從子稷

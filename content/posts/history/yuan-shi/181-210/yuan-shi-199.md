@@ -1,5 +1,5 @@
 ---
-title: "元史 卷199 卷一百九十九 列傳第八十六: 隱逸"
+title: "元史 卷199"
 date: 2026-05-24
 weight: 199
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷199。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 古之君子，負經世之術，度時不可為，故高蹈以全其志。使得其時，未嘗不欲仕，仕而行所學，及物之功豈少哉。後世之士，其所蘊蓄或未至，而好以跡為高，當邦有道之時，且遁世離群，謂之隱士。世主亦苟取其名而強起之，及考其實，不如所聞，則曰「是欺世釣譽者也」，上下豈不兩失也哉！

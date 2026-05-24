@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷281 卷二百八十一 列傳第四十 呂端 畢士安曾孫:仲衍 仲游 寇準"
+title: "宋史 卷281"
 date: 2026-05-24
 weight: 281
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷281。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 呂端

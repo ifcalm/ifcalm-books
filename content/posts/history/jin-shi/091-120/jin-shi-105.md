@@ -1,5 +1,5 @@
 ---
-title: "金史 卷105 卷一百〇五 列傳第四十三: 程寀 任熊祥 孔璠子:拯 范拱 張用直 劉樞 王翛 楊伯雄族兄:伯淵 蕭貢 溫蒂罕締達 張翰 任天寵"
+title: "金史 卷105"
 date: 2026-05-24
 weight: 105
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷105。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 程寀

@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷46 卷46 竇瑾 許彦 李欣"
+title: "魏书 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 竇瑾　許彥　李訢

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷334 卷三百三十四 列傳第九十三 徐禧 李稷 高永能 沈起 劉彝 熊本 蕭注 陶弼 林廣"
+title: "宋史 卷334"
 date: 2026-05-24
 weight: 334
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷334。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 徐禧

@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷40 卷四十 列傳第三十四 司馬褧 到漑 劉顯 劉之遴 弟之享 許懋"
+title: "梁书 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第四十 列傳第三十四

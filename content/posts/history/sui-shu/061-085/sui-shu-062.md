@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷62 卷62 列傳第27 王韶 元巖 劉行本 梁毗 柳彧 趙綽 裴肅"
+title: "隋书 卷62"
 date: 2026-05-24
 weight: 62
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷62。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷六十二列傳第二十七

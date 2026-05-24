@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷98 卷九十八 列傳第六十八 王敦 桓溫"
+title: "晋书 卷98"
 date: 2026-05-24
 weight: 98
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷98。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王敦

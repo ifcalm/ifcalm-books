@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷228 卷二百二十八 表第十九 宗室世系十四"
+title: "宋史 卷228"
 date: 2026-05-24
 weight: 228
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷228。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7228"
-source_license: "CC BY-SA 4.0"
 ---
 
 商王房

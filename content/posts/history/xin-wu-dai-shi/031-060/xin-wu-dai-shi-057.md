@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷57 卷五十七 雜傳第四十五: 李崧 李鏻 賈緯 段希堯 張允 王松 裴皞 王仁裕 裴羽 王延 馬重績 趙延義"
+title: "新五代史 卷57"
 date: 2026-05-24
 weight: 57
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷57。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李崧

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷83 卷八十三 列傳第三十三: 郭孝恪 張儉 蘇定方 薛仁貴 程務挺 張士貴 趙道興"
+title: "旧唐书 卷83"
 date: 2026-05-24
 weight: 83
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷83。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 郭孝恪張儉蘇定方薛仁貴程務挺張士貴趙道興

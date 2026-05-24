@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷10 卷十 本紀第十 順帝"
+title: "宋书 卷10"
 date: 2026-05-24
 weight: 10
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷10。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 順皇帝諱準，字仲謀，[1]小字智觀，明帝第三子也。泰始五年七月癸丑生。七年，封安成王，食邑三千戶。仍拜撫軍將軍，置佐史。廢帝即位，為揚州刺史。元徽二年，進號車騎將軍、都督揚南豫二州諸軍事，給鼓吹一部，刺史如故。四年，又進號驃騎大將軍、開府儀同三司，班劍三十人，都督、刺史如故。

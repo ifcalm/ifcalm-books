@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷57 卷五十七 吳書十二 虞陸張駱陸吾朱傳"
+title: "三国志 卷57"
 date: 2026-05-24
 weight: 57
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷57。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 虞翻

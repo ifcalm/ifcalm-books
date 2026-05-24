@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷55 卷五十五 志第四十五 食貨五"
+title: "新唐书 卷55"
 date: 2026-05-24
 weight: 55
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷55。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 食貨五

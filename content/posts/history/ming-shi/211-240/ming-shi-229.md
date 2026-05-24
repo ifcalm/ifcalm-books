@@ -1,5 +1,5 @@
 ---
-title: "明史 卷229 卷二百二十九 列傳第一百十七 劉臺 傅應禎 王用汲 吳中行 趙用賢 艾穆 沈思孝"
+title: "明史 卷229"
 date: 2026-05-24
 weight: 229
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷229。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉臺〈（馮景隆孫繼先）〉傅應禎王用汲吳中行〈（子亮元從子宗達）〉趙用賢〈（孫士春）〉艾穆〈（喬璧星葉春及）〉沈思孝〈（丁此呂）〉

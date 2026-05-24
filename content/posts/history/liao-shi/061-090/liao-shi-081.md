@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷81 卷八十一 列傳第十一: 耶律室魯 王繼忠 蕭孝忠 陳昭袞 蕭合卓"
+title: "辽史 卷81"
 date: 2026-05-24
 weight: 81
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷81。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律室魯〈（歐裏斯）〉王繼忠蕭孝忠陳昭袞蕭合卓

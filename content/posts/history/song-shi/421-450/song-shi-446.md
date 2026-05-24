@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷446 卷四百四十六 列傳第二百〇五 忠義一 康保裔 馬遂 董元亨 曹覲孔宗旦 趙師旦 蘇緘 秦傳序 詹良臣江仲明 李若水 劉韐 傅察 楊震父:宗閔 張克戩 張確 朱昭 史抗 孫益"
+title: "宋史 卷446"
 date: 2026-05-24
 weight: 446
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷446。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 康保裔 馬遂 董元亨 曹覲 孔宗旦 趙師旦 蘇緘 秦傳序 詹良臣 江仲明 李若水 劉韐 傅察 楊震父:宗閔 張克戩 張確 朱昭 史抗 孫益

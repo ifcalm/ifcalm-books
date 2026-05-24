@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷11 卷十一 本紀第十一 仁宗三"
+title: "宋史 卷11"
 date: 2026-05-24
 weight: 11
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷11。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 慶曆元年春正月辛亥朔，禦大慶殿受朝。己未，加唃廝囉河西節度使。壬申，詔歲以春分祠高禖。是月，元昊請和。

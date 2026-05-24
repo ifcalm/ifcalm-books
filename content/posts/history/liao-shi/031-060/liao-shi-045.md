@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷45 卷四十五 志第十五: 百官志一"
+title: "辽史 卷45"
 date: 2026-05-24
 weight: 45
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷45。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 百官志一

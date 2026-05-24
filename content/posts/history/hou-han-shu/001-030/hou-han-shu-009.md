@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷9 卷九 孝獻帝紀"
+title: "后汉书 卷9"
 date: 2026-05-24
 weight: 9
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷9。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝獻皇帝諱協，靈帝中子也。母王美人，為何皇后所害。中平六年四月，少帝即位，封帝為勃海王，徙封陳留王。

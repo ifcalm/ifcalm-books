@@ -1,5 +1,5 @@
 ---
-title: "明史 卷113 卷一百十三 列傳第一 后妃一"
+title: "明史 卷113"
 date: 2026-05-24
 weight: 113
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷113。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 明太祖鑑前代女禍，立綱陳紀，首嚴內教。洪武元年，命儒臣修女誡，諭翰林學士朱升曰：「治天下者，正家為先。正家之道，始於謹夫婦。后妃雖母儀天下，然不可俾預政事。至於嬪嬙之屬，不過備職事，侍巾櫛；恩寵或過，則驕恣犯分，上下失序。歷代宮闈，政由內出，鮮不為禍。惟明主能察於未然，下此多為所惑。卿等其纂女誡及古賢妃事可為法者，使后世子孫知所持守。」升等乃編錄上之。

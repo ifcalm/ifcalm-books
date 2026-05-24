@@ -1,5 +1,5 @@
 ---
-title: "元史 卷143 卷一百四十三 列傳第三十: 馬祖常 巙巙 自當 阿榮 小雲石海涯 泰不華 余闕"
+title: "元史 卷143"
 date: 2026-05-24
 weight: 143
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷143。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 马祖常

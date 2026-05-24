@@ -1,5 +1,5 @@
 ---
-title: "明史 卷317 卷三百十七 列傳第二百〇五 廣西土司一"
+title: "明史 卷317"
 date: 2026-05-24
 weight: 317
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷317。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 廣西瑤、僮居多，盤萬嶺之中，當三江之險，六十三山倚為巢穴，三十六源踞其腹心，其散布於桂林、柳州、慶遠、平樂諸郡縣者，所在蔓衍。而田州、泗城之屬，尤稱強悍。種類滋繁，莫可枚舉。蠻勢之眾，與滇為埒。今就其尤著者列於篇。觀其叛服不常，沿革殊致，可以覘中國之德威，知夷情之順逆，為籌邊者之一助雲。

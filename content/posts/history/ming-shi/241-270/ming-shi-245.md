@@ -1,5 +1,5 @@
 ---
-title: "明史 卷245 卷二百四十五 列傳第一百三十三 周起元 繆昌期 周順昌 周宗建 黃尊素 李應昇 萬燝"
+title: "明史 卷245"
 date: 2026-05-24
 weight: 245
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷245。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 周起元繆昌期周順昌〈（子茂蘭朱祖文顏佩韋等）〉周宗建〈（蔣英）〉黃尊素李應升萬燝〈（丁乾學等）〉

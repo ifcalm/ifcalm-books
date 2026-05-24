@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷26 卷二十六 列傳第二十: 徐陵"
+title: "陈书 卷26"
 date: 2026-05-24
 weight: 26
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷26。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳書卷二十六

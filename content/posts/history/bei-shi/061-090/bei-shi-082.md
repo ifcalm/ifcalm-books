@@ -1,5 +1,5 @@
 ---
-title: "北史 卷82 卷八十二 列傳第七十: 儒林下"
+title: "北史 卷82"
 date: 2026-05-24
 weight: 82
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷82。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 儒林下

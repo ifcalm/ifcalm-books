@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷376 卷三百七十六 列傳第一百三十五 常同 張致遠 薛徽言 陳淵 魏矼 潘良貴 呂本中"
+title: "宋史 卷376"
 date: 2026-05-24
 weight: 376
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷376。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 常同 張致遠 薛徽言 陳淵 魏矼 潘良貴 呂本中

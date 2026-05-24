@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷44 卷四十四 唐書20: 明宗本紀十"
+title: "旧五代史 卷44"
 date: 2026-05-24
 weight: 44
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷44。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 長興四年春正月戊寅朔，帝御明堂殿受朝賀，仗衛如式。是日雪盈尺。戊子，秦王從榮加守尚書令、兼侍中，依前河南尹，判六軍諸衛事。庚寅，以端明殿學士、尚書兵部侍郎劉煦為中書侍郎、平章事。甲午，正衙命使冊故福慶長公主孟氏為晉國雍順長公主，遣太常卿崔居儉赴西川行冊禮。突厥內附。庚子，以前河東節度使李從溫為鄆州節度使。

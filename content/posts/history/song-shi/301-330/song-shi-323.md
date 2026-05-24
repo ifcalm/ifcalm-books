@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷323 卷三百二十三 列傳第八十二 蔚昭敏 高化 周美 閻守恭 孟元 劉謙 趙振 張忠 范恪 馬懷德 安俊 向寶"
+title: "宋史 卷323"
 date: 2026-05-24
 weight: 323
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷323。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蔚昭敏

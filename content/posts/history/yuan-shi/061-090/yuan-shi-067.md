@@ -1,5 +1,5 @@
 ---
-title: "元史 卷67 卷六十七 志第十八: 禮樂一"
+title: "元史 卷67"
 date: 2026-05-24
 weight: 67
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷67。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮樂一

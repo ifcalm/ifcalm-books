@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷166 卷一百六十六 列傳第九十一 賈杜令狐"
+title: "新唐书 卷166"
 date: 2026-05-24
 weight: 166
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷166。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 賈杜令狐

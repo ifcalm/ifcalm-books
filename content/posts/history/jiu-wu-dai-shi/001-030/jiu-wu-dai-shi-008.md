@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷8 卷八 梁書8: 末帝本紀上"
+title: "旧五代史 卷8"
 date: 2026-05-24
 weight: 8
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷8。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 末帝，諱瑱，初名友貞，及即位，改名鍠，貞明中又改今諱。太祖第四子也。母曰元貞皇后張氏。以唐文德元年戊申歲九月十二日生於東京。帝美容儀，性沉厚寡言，雅好儒士。唐光化三年，授河南府參軍。太祖受禪，封均王。時太祖初置天興軍，最為親衛，以帝為左天興軍使。開平四年夏，進位檢校司空，依前天興軍使，充東京馬步軍都指揮使。

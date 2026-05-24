@@ -1,5 +1,5 @@
 ---
-title: "明史 卷65 卷六十五 志第四十一 輿服一"
+title: "明史 卷65"
 date: 2026-05-24
 weight: 65
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷65。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 大輅 玉輅 大馬輦 小馬輦 步輦 大涼步輦 板轎 耕根車 后妃車輿 皇太子親王以下車輿 公卿以下車輿 傘蓋 鞍轡

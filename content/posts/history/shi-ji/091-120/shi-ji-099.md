@@ -1,5 +1,5 @@
 ---
-title: "史记 卷99 《劉敬叔孫通列傳》"
+title: "史记 卷99"
 date: 2026-05-24
 weight: 99
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷99。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《劉敬叔孫通列傳》

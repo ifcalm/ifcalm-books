@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷30 卷三十 本紀第三十: 天祚皇帝四 耶律淳 耶律雅里 耶律大石子:夷列 夷列妹:普速完 夷列次子:直魯古"
+title: "辽史 卷30"
 date: 2026-05-24
 weight: 30
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷30。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 天祚皇帝四 耶律淳 耶律雅里 耶律大石子:夷列 夷列妹:普速完 夷列次子:直魯古

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷120 卷一百二十 列傳第七: 察罕 札八兒火者 朮赤台 鎮海 肖乃台 吾也而 曷思麥里"
+title: "元史 卷120"
 date: 2026-05-24
 weight: 120
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷120。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 察罕亦力撒合立智理威

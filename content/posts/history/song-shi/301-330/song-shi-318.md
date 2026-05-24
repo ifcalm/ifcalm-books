@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷318 卷三百十八 列傳第七十七 張方平 王拱辰 張昪 趙槩 胡宿"
+title: "宋史 卷318"
 date: 2026-05-24
 weight: 318
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷318。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張方平

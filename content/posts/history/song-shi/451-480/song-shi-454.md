@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷454 卷四百五十四 列傳第二百十三 忠義九 趙時賞 趙希洎 劉子薦黃文政 呂文信 鍾季玉潘方 耿世安 丁黼 米立趙文義 楊壽孫 侯畐 王孝忠 高應松張山翁 黃申 陳羍 蕭雷龍 宋應龍褚一正 鄒㵯劉子俊 劉沐 孫㮚 彭震龍 蕭燾夫 陳繼周 陳龍復 張鏜 張雲 張汴 呂武 鞏信 蕭明哲 杜滸 林琦 蕭資 徐臻 金應 何時陳子敬 劉士昭王士敏 趙孟壘 趙孟枀"
+title: "宋史 卷454"
 date: 2026-05-24
 weight: 454
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷454。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙時賞

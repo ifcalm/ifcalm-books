@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷87 卷八十七 志第四十 地理三"
+title: "宋史 卷87"
 date: 2026-05-24
 weight: 87
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷87。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陝西

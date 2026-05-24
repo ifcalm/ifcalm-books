@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷81 卷八十一 獨行列傳"
+title: "后汉书 卷81"
 date: 2026-05-24
 weight: 81
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷81。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孔子曰：“与其不得中庸，必也狂狷乎！”又云：“狂者进取，狷者有所不为也。”此盖失于周全之道，而取诸偏至之端者也。然则有所不为，亦将有所必为者矣；既云进取，亦将有所不取者矣。如此，性尚分流，为否异适矣。

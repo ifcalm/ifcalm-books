@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷481 卷四百八十一 列傳第二百四十 世家四 南漢劉氏劉鋹(龔澄樞 李托 薛崇譽 潘崇徹)"
+title: "宋史 卷481"
 date: 2026-05-24
 weight: 481
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷481。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 世家四○南漢劉氏

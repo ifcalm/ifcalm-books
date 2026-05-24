@@ -1,5 +1,5 @@
 ---
-title: "金史 卷3 卷三 本紀第三: 太宗"
+title: "金史 卷3"
 date: 2026-05-24
 weight: 3
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷3。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 太宗體元應運世德昭功哲惠仁聖文烈皇帝，諱晟，本諱吳乞買，世祖第四子，母曰翼簡皇后拏懶氏，太祖母弟也。遼太康元年乙卯歲生。初爲穆宗養子。收國元年十月，命爲諳班勃極烈。太祖征伐，常居守。天輔五年，賜詔曰：「汝惟朕之母弟，義均一體，是用汝貳我國政。凡軍事違者，閱實其罪，從宜處之。其餘事無大小，一依本朝舊制。」

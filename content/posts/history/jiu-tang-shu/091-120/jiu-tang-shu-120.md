@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷120 卷一百二十 列傳第七十: 郭子儀"
+title: "旧唐书 卷120"
 date: 2026-05-24
 weight: 120
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷120。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 郭子儀子曜晞曖曙晤映晞子鋼曖子釗鏦釗子仲文族弟幼明子昕

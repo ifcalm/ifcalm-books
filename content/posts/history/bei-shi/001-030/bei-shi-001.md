@@ -1,5 +1,5 @@
 ---
-title: "北史 卷1 卷一 魏本紀第一: 太祖道武帝 太宗明元帝"
+title: "北史 卷1"
 date: 2026-05-24
 weight: 1
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷1。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 太祖道武帝 太宗明元帝

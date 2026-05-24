@@ -1,5 +1,5 @@
 ---
-title: "元史 卷118 卷一百十八 列傳第五: 特薛禪 孛禿 阿剌兀思剔吉忽里"
+title: "元史 卷118"
 date: 2026-05-24
 weight: 118
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷118。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 特薛禪

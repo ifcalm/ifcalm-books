@@ -1,5 +1,5 @@
 ---
-title: "明史 卷299 卷二百九十九 列傳第一百八十七 方伎"
+title: "明史 卷299"
 date: 2026-05-24
 weight: 299
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷299。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 滑壽 葛乾孫 呂復 倪維德 周漢卿 王履 周顛 張中 張三丰 袁珙子:忠徹 戴思恭 盛寅 皇甫仲和 仝寅 吳傑附:許紳 王綸 淩雲附:李玉 李時珍附:繆希雍 周述學 張正常附:劉淵然等

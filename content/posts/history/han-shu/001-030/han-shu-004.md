@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷4 卷四 文帝紀"
+title: "汉书 卷4"
 date: 2026-05-24
 weight: 4
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷4。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝文皇帝，高祖中子也，母曰薄姬。高祖十一年，誅陳豨，定代地，立為代王，都中都。十七年秋，高后崩，諸呂謀為亂，欲危劉氏。丞相陳平、太尉周勃、朱虛侯劉章等共誅之，謀立代王。語在高后紀、高五王傳。

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷137 卷一百三十七 志第九十 樂十二"
+title: "宋史 卷137"
 date: 2026-05-24
 weight: 137
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷137。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 樂十二〈（樂章六）〉祭太社太稷祭風雨雷師祭先農先蠶親耕藉田蠟祭釋奠文宣王武成王祭祚德廟祭司中司命景德祭社稷三首

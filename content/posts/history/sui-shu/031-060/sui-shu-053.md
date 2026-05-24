@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷53 卷53 列傳第18 達奚長儒 賀婁子幹 史萬歲 劉方"
+title: "隋书 卷53"
 date: 2026-05-24
 weight: 53
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷53。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 達奚長儒

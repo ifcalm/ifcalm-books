@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷32 卷三十二 本紀第三十二 高宗九"
+title: "宋史 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 三十一年春正月甲戌朔，以日食，不受朝。丁丑，雷。丁亥，免湖州增丁所輸絹。夜，風雷雨雪交作。辛卯，詔江、浙官民戶均輸和市絁帛。壬辰，劉寶落節鉞、福建路居住。丙申，大雨雪，給三衙衛士、行在貧民錢及薪炭，命常平振給輔郡細民，諸路監司決獄。己亥，放張浚、胡銓自便。庚子，禁淮南拘籍戶馬。

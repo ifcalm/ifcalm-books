@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷46 卷四十六 列傳第六 趙倫之"
+title: "宋书 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第六　　趙倫之 到彥之〈闕〉 王懿 張邵

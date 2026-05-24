@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷149 卷一百四十九 列傳第七十四 劉第五班王李"
+title: "新唐书 卷149"
 date: 2026-05-24
 weight: 149
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷149。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉第五班王李

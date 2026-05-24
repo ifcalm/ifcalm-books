@@ -1,5 +1,5 @@
 ---
-title: "明史 卷219 卷二百十九 列傳第一百〇七 張四維 馬自強 許國 趙志臯 張位 朱賡"
+title: "明史 卷219"
 date: 2026-05-24
 weight: 219
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷219。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張四維 馬自強 許國 趙志臯 張位 朱賡

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷472 卷四百七十二 列傳第二百三十一 姦臣二 蔡京弟:卞 子:攸 翛 族子:崈 趙良嗣 張覺 郭藥師"
+title: "宋史 卷472"
 date: 2026-05-24
 weight: 472
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷472。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蔡京弟:卞 子:攸 翛 族子:崈 趙良嗣附:張覺 郭藥師

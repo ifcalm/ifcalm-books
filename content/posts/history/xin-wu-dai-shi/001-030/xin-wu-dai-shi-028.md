@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷28 卷二十八 唐臣傳第十六: 豆盧革 盧程 任圜 趙鳳 李襲吉 張憲 蕭希甫 劉贊 何瓚"
+title: "新五代史 卷28"
 date: 2026-05-24
 weight: 28
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷28。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 豆盧革

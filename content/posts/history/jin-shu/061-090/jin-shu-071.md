@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷71 卷七十一 列傳第四十一 孫惠 熊遠 王鑒 陳頵 高崧"
+title: "晋书 卷71"
 date: 2026-05-24
 weight: 71
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷71。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孫惠 熊遠 王鑒 陳頵 高崧

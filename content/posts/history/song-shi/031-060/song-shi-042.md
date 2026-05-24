@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷42 卷四十二 本紀第四十二 理宗二"
+title: "宋史 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 端平二年正月丁酉，太陰行犯太白。甲寅，詔議胡瑗、孫明復、邵雍、歐陽修、周敦頤、司馬光、蘇軾、張載、程顥、程頤等十人從祀孔子廟庭，升孔伋十哲。丙辰，詔主管侍衛馬軍孟珙黃州駐紮，措置邊防。丁巳，孟珙入見。辛酉，以御前寧淮軍統制、借和州防禦使程芾爲大元通好使，從義郎王全副之，尋以武功郎杜顯爲添差通好副使。

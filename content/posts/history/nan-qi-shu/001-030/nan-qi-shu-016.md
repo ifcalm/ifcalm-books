@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷16 卷十六 志第八 百官"
+title: "南齐书 卷16"
 date: 2026-05-24
 weight: 16
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷16。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷十六‧志第八百官

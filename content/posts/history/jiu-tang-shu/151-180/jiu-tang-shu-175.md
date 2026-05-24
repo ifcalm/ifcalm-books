@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷175 卷一百七十五 列傳第一百二十五: 憲宗二十子 穆宗五子 敬宗五子 文宗二子 武宗五子 宣宗十一子 懿宗八子 僖宗二子 昭宗十子"
+title: "旧唐书 卷175"
 date: 2026-05-24
 weight: 175
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷175。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 憲宗二十子：穆宗皇帝、宣宗皇帝、惠昭太子寧、澧王惲、深王悰、洋王忻、絳王悟、建王恪、鄜王憬、瓊王悅、沔王恂、婺王懌、茂王愔、淄王協、衡王憺、澶王㤝、棣王惴、彭王惕、信王憻、榮王㥽。

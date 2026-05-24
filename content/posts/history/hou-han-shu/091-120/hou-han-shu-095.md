@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷95 第五 禮儀中 立夏 請雨 拜皇太子 拜王公 桃印 黃郊 立秋 貙劉 案戶 祠星 立冬 冬至 臘 大儺 土牛 遣衛士 朝會"
+title: "后汉书 卷95"
 date: 2026-05-24
 weight: 95
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷95。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 後漢書志第五　禮儀中　立夏請雨拜皇太子拜王公桃印黃郊立秋貙劉案戶祠星立冬

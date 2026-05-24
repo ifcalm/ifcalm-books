@@ -1,5 +1,5 @@
 ---
-title: "明史 卷145 卷一百四十五 列傳第三十三 姚廣孝 張玉 朱能 丘福 譚淵 王真 陳亨"
+title: "明史 卷145"
 date: 2026-05-24
 weight: 145
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷145。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 姚廣孝張玉子:輗 軏 從子:信朱能邱福附:李遠 王忠 王聰 火真譚淵王真陳亨子:懋附:徐理 房寬 劉才

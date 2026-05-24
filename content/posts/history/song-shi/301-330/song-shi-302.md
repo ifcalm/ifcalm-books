@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷302 卷三百〇二 列傳第六十一 王臻 魚周詢 賈黯 李京 吳鼎臣 呂景初 馬遵 吳及 范師道 李絢 何中立 沈邈"
+title: "宋史 卷302"
 date: 2026-05-24
 weight: 302
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷302。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王臻

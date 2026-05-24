@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷51 卷五十一 列傳第二十一 皇甫謐 摯虞 束皙 王接"
+title: "晋书 卷51"
 date: 2026-05-24
 weight: 51
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷51。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 皇甫謐〈（子方回）〉摯虞 束皙 王接

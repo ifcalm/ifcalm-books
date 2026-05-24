@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷44 卷四十四 志第三十四 選舉志上"
+title: "新唐书 卷44"
 date: 2026-05-24
 weight: 44
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷44。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 唐制，取士之科，多因隋舊，然其大要有三。由學館者曰生徒，由州縣者曰鄉貢，皆升於有司而進退之。其科之目，有秀才，有明經，有俊士，有進士，有明法，有明字，有明算，有一史，有三史，有開元禮，有道舉，有童子。而明經之別，有五經，有三經，有二經，有學究一經，有三禮，有三傳，有史科。此歲舉之常選也。其天子自詔者曰制舉，所以待非常之才焉。

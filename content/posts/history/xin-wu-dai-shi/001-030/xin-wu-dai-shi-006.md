@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷6 卷六 唐本紀第六: 明宗"
+title: "新五代史 卷6"
 date: 2026-05-24
 weight: 6
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷6。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 明宗聖德和武欽孝皇帝，世本夷狄，無姓氏。父霓，為雁門部將，生子邈佶烈，以騎射事太祖，為人質厚寡言，執事恭謹，太祖養以為子，賜名嗣源。

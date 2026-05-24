@@ -1,5 +1,5 @@
 ---
-title: "北史 卷67 卷六十七 列傳第五十五: 崔彥穆 楊纂 段永 令狐整 唐永 柳敏 王士良"
+title: "北史 卷67"
 date: 2026-05-24
 weight: 67
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷67。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔彥穆 楊纂 段永 令狐整 唐永 柳敏 王士良

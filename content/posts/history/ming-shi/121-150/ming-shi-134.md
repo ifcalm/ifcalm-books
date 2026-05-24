@@ -1,5 +1,5 @@
 ---
-title: "明史 卷134 卷一百三十四 列傳第二十二 何文輝 葉旺 馬雲 繆大亨 蔡遷 王銘 甯正 金興旺 花茂 丁玉 郭雲"
+title: "明史 卷134"
 date: 2026-05-24
 weight: 134
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷134。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 何文輝

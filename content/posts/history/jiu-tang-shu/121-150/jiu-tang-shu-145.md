@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷145 卷一百四十五 列傳第九十五: 劉玄佐 董晉 陸長源 劉全諒 李忠臣 李希烈 吳少誠"
+title: "旧唐书 卷145"
 date: 2026-05-24
 weight: 145
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷145。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉玄佐，本名洽，滑州匡城人也。少倜儻，不理生業；為縣捕盜吏，違法，為令所笞，僅死，乃亡命從軍。大歷中，為永平軍衙將。李靈曜據汴州，洽將兵乘其無備，徑入宋州，遂詔以州隸永平軍，節度使李勉奏署宋州刺史。建中二年，加兼御史中丞、亳潁節度等使。

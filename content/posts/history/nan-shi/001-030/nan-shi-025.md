@@ -1,5 +1,5 @@
 ---
-title: "南史 卷25 卷二十五 列傳第十五 王懿 到彥之 垣護之 張興世"
+title: "南史 卷25"
 date: 2026-05-24
 weight: 25
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷25。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十五

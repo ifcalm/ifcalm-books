@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷46 卷四十六 吳書一 孫破虜討逆傳"
+title: "三国志 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孫堅 孫策

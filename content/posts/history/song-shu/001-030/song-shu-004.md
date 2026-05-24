@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷4 卷四 本紀第四 少帝"
+title: "宋书 卷4"
 date: 2026-05-24
 weight: 4
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷4。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 少帝諱義符，小字車兵，武帝長子也。[1]母曰張夫人。晉義熙二年，生於京口。武帝晚無男，及帝生，甚悅。年十歲，拜豫章公世子。[2]帝有旅力，善騎射，解音律。宋臺建，拜宋世子。元熙元年，進為宋太子。武帝受禪，立為皇太子。

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷416 卷四百十六 列傳第一百七十五 吳淵 余玠 汪立信 向士璧 胡穎 冷應澂 曹叔遠 王萬 馬光祖"
+title: "宋史 卷416"
 date: 2026-05-24
 weight: 416
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷416。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 吳淵餘玠汪立信向士璧胡穎冷應澂曹叔遠〈（從子豳）〉王萬馬光祖

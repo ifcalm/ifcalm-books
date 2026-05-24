@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷253 卷二百五十三 列傳第十二 折德扆 馮繼業 王承美 李繼周 孫行友"
+title: "宋史 卷253"
 date: 2026-05-24
 weight: 253
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷253。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 折德扆

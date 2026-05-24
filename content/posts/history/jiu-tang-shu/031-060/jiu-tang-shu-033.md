@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷33 卷三十三 志第十三: 曆二"
+title: "旧唐书 卷33"
 date: 2026-05-24
 weight: 33
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷33。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十三曆二

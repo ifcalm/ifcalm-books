@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷32 卷三十二 列傳第十三 王琨 張岱 褚炫 何戢 王延之 阮韜"
+title: "南齐书 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷三十二‧列傳第十三

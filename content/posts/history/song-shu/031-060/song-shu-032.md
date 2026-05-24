@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷32 卷三十二 志第二十二 五行三"
+title: "宋书 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十二　　五行三

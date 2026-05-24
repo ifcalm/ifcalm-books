@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷19 卷十九 周太祖家人傳第七:"
+title: "新五代史 卷19"
 date: 2026-05-24
 weight: 19
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷19。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 聖穆皇后柴氏

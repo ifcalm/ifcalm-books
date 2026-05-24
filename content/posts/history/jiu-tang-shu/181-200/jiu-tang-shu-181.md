@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷181 卷一百八十一 列傳第一百三十一: 史憲誠 子孝章 何進滔 韓允忠 樂彥禎 羅弘信"
+title: "旧唐书 卷181"
 date: 2026-05-24
 weight: 181
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷181。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第一百三十一

@@ -1,5 +1,5 @@
 ---
-title: "北史 卷18 卷十八 列傳第六: 景穆十二王下"
+title: "北史 卷18"
 date: 2026-05-24
 weight: 18
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷18。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 景穆十二王下

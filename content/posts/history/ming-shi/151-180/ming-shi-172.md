@@ -1,5 +1,5 @@
 ---
-title: "明史 卷172 卷一百七十二 列傳第六十 羅亨信 侯璡 楊寧 王來 孫原貞 朱鑑 楊信民 張驥 馬謹 程信 白圭 張瓚 孔鏞 鄧廷瓚 王軾 劉丙"
+title: "明史 卷172"
 date: 2026-05-24
 weight: 172
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷172。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 羅亨信侯琎楊寧王來孫原貞〈（孫需張憲）〉朱鑒楊信民張驥〈（竺淵耿定王晟鄧颙）〉馬謹程信白圭〈（子鉞）〉張瓚〈（謝士元）〉孔鏞〈（李時敏）〉鄧廷瓚王軾劉丙

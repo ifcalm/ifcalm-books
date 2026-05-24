@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷496 卷四百九十六 列傳第二百五十五 蠻夷四 西南諸夷 黎州諸蠻 敍州三路蠻 威茂渝州蠻 黔涪施高徼外諸蠻 瀘州蠻"
+title: "宋史 卷496"
 date: 2026-05-24
 weight: 496
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷496。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 西南諸夷 黎州諸蠻 敍州三路蠻 威茂渝州蠻 黔涪施高徼外諸蠻 瀘州蠻

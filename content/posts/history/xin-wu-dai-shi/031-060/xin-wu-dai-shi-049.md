@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷49 卷四十九 雜傳第三十七: 翟光鄴 馮暉 皇甫暉 唐景思 王進 常思 孫方諫"
+title: "新五代史 卷49"
 date: 2026-05-24
 weight: 49
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷49。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 翟光鄴

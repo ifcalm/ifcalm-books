@@ -1,5 +1,5 @@
 ---
-title: "明史 卷264 卷二百六十四 列傳第一百五十二 賀逢聖 南居益 周士樸 呂維祺 王家禎 焦源溥 李夢辰 宋師襄 麻僖 王道純 田時震"
+title: "明史 卷264"
 date: 2026-05-24
 weight: 264
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷264。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 賀逢聖〈（傅冠尹如翁）〉南居益〈（族父企仲族弟居業）〉周士樸呂維祺〈（弟維祮）〉王家禎焦源溥〈（兄源清）〉李夢辰宋師襄麻僖王道純田時震〈（朱崇德崇德子國棟）〉

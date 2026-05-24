@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷17 卷十七 列傳第十一: 王沖 王通 袁敬"
+title: "陈书 卷17"
 date: 2026-05-24
 weight: 17
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷17。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳書卷十七

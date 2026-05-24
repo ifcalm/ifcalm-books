@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷77 卷七十七 酷吏列傳"
+title: "后汉书 卷77"
 date: 2026-05-24
 weight: 77
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷77。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 汉承战国余烈，多豪猾之民。其并兼者则陵横邦邑，桀健者则雄张闾里。且宰守旷远，户口殷大。故临民之职，专事威断，族灭奸轨，先行后闻。肆情刚烈，成其不桡之威。违众用己，表其难测之智。至于重文横入，为穷怒之所迁及者，亦何可胜言。故乃积骸满{穴井}，漂血十里。致温舒有虎冠之吏，延年受屠伯之名，岂虚也哉！若其揣挫强伤，摧勒公卿，碎裂头脑而不顾，亦为壮也。

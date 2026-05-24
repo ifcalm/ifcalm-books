@@ -1,5 +1,5 @@
 ---
-title: "金史 卷96 卷九十六 列傳第三十四: 黃久約 李晏子:仲略 李愈 王賁 許安仁 梁襄 路伯達"
+title: "金史 卷96"
 date: 2026-05-24
 weight: 96
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷96。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 黃久約

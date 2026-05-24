@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷40 卷四十 雜傳第二十八: 李茂貞 韓建 李仁福 韓遜 楊崇本 高萬興 溫韜"
+title: "新五代史 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李茂貞

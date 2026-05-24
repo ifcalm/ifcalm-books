@@ -1,5 +1,5 @@
 ---
-title: "南史 卷46 卷四十六 列傳第三十六 李安人 戴僧靜 桓康 焦度 曹武 呂安國 周山圖 周盤龍 王廣之"
+title: "南史 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李安人

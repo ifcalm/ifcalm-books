@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷424 卷四百二十四 列傳第一百八十三 陸持之 徐鹿卿 趙逢龍 趙汝騰 孫夢觀 洪天錫 黃師雍 徐元杰 孫子秀 李伯玉"
+title: "宋史 卷424"
 date: 2026-05-24
 weight: 424
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷424。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陸持之 徐鹿卿 趙逢龍 趙汝騰 孫夢觀 洪天錫 黃師雍 徐元傑 孫子秀 李伯玉

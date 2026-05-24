@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷133 卷一百三十三 列傳第五十八 二郭兩王張牛"
+title: "新唐书 卷133"
 date: 2026-05-24
 weight: 133
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷133。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 二郭兩王張牛

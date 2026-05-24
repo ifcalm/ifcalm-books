@@ -1,5 +1,5 @@
 ---
-title: "金史 卷71 卷七十一 列傳第九: 斡魯 斡魯古勃堇 婆盧火 吾紮忽 闍母子:宗敘(本名德壽)"
+title: "金史 卷71"
 date: 2026-05-24
 weight: 71
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷71。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第九　○斡魯 斡魯古勃堇 婆盧火 吾紮忽 闍母子 宗敘(本名德壽)

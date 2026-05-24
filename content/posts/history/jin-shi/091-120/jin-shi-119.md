@@ -1,5 +1,5 @@
 ---
-title: "金史 卷119 卷一百十九 列傳第五十七: 粘葛奴申 劉天起 完顏婁室三人大婁室、中婁室、小婁室 烏古論鎬 張天綱 完顏仲德"
+title: "金史 卷119"
 date: 2026-05-24
 weight: 119
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷119。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 粘葛奴申

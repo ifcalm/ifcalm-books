@@ -1,5 +1,5 @@
 ---
-title: "明史 卷138 卷一百三十八 列傳第二十六 陳修 楊思義 周禎 楊靖 單安仁 薛祥 唐鐸 開濟"
+title: "明史 卷138"
 date: 2026-05-24
 weight: 138
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷138。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第二十六陳修〈（滕毅·趙好德·翟善·李仁·吳琳）〉·楊思義〈（滕德懋·范敏·費震張琬）〉·周禎〈（劉惟謙·周湞·端復初·李質·黎光·劉敏）〉·楊靖〈（淩漢·嚴德瑉·單安仁·硃守仁·薛祥·秦逵·趙翥·趙俊·唐鐸·沈溍·開濟）〉】

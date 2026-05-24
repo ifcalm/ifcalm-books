@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷403 卷四百〇三 列傳第一百六十二 趙方 賈涉 扈再興 孟宗政 張威"
+title: "宋史 卷403"
 date: 2026-05-24
 weight: 403
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷403。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙方

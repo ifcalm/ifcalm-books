@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷62 卷六十二 吳書十七 是儀胡綜傳"
+title: "三国志 卷62"
 date: 2026-05-24
 weight: 62
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷62。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 是儀

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷218 卷二百十八 列傳第一百〇六 申時行 王錫爵 沈一貫 方從哲 沈㴶"
+title: "明史 卷218"
 date: 2026-05-24
 weight: 218
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷218。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 申時行子 用懋 用嘉 孫 紹芳王錫爵弟 鼎爵 子 衡沈一貫 方從哲 沈㴶弟 演

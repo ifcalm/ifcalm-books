@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷459 卷四百五十九 列傳第二百十八 隱逸下 徐中行 蘇雲卿 譙定 王忠民 劉勉之 胡憲 郭雍 劉愚 魏掞之 安世通 卓行 劉庭式 巢谷 徐積 曾叔卿 劉永一"
+title: "宋史 卷459"
 date: 2026-05-24
 weight: 459
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷459。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隱逸下

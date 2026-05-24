@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷99 卷九十九 列傳第二十四 李綱 李大亮族孫:迥秀 戴冑侄:至德 劉洎 崔仁師孫:湜"
+title: "新唐书 卷99"
 date: 2026-05-24
 weight: 99
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷99。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李綱孫:安仁 安靜 李大亮兄子:道裕 族孫:迥秀 戴冑侄:至德 劉洎附:樂彥瑋 崔仁師孫:湜 液 澄

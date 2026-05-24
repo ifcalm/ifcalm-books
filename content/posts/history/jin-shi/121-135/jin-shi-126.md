@@ -1,5 +1,5 @@
 ---
-title: "金史 卷126 卷一百二十六 列傳第六十四: 文藝下 趙渢 周昂 王庭筠 劉昂 李經 劉從益 呂中孚+張建 李純甫 王郁 宋九嘉 龐鑄 李獻能 王若虛 王元節 孫國綱 麻九疇 李汾 元德明子:元好問"
+title: "金史 卷126"
 date: 2026-05-24
 weight: 126
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷126。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第六十四 文藝下 ○趙渢 周昂 王庭筠 劉昂 李經 劉從益 呂中孚+張建 李純甫 王郁 宋九嘉 龐鑄 李獻能 王若虛 王元節 孫國綱 麻九疇 李汾 元德明子 元好問

@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷79 卷七十九 列傳第九: 室昉 耶律賢適 女里 郭襲 耶律阿沒里"
+title: "辽史 卷79"
 date: 2026-05-24
 weight: 79
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷79。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 室昉耶律賢適女裏郭襲耶律阿沒裏

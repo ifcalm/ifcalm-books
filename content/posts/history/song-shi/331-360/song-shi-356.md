@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷356 卷三百五十六 列傳第一百十五 劉拯 錢遹 石豫 左膚 許敦仁 吳執中 吳材 劉昺 宋喬年 強淵明 蔡居厚 劉嗣明 蔣靜 賈偉節 崔鶠 張根 任諒 周常"
+title: "宋史 卷356"
 date: 2026-05-24
 weight: 356
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷356。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉拯

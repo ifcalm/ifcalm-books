@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷99 卷九十九"
+title: "汉书 卷99"
 date: 2026-05-24
 weight: 99
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷99。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷九十九上 王莽傳

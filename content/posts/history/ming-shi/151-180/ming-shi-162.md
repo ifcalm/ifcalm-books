@@ -1,5 +1,5 @@
 ---
-title: "明史 卷162 卷一百六十二 列傳第五十 尹昌隆 耿通 戴綸 陳祚 劉球 陳鑑 鍾同 章綸 廖莊 倪敬 楊瑄"
+title: "明史 卷162"
 date: 2026-05-24
 weight: 162
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷162。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 尹昌隆耿通〈（陳諤）〉戴綸〈（林長懋）〉陳祚〈（郭循）〉劉球〈（子鉞釪）〉陳鑒〈（何觀）〉鐘同〈（孟玘楊集）〉章綸〈（子玄應）〉廖莊倪敬〈（盛灊等）〉楊瑄〈（子源盛颙等）〉

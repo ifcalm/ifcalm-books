@@ -1,5 +1,5 @@
 ---
-title: "明史 卷20 卷二十 本紀第二十 神宗一"
+title: "明史 卷20"
 date: 2026-05-24
 weight: 20
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷20。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 神宗，範天合道哲肅敦簡光文章武安仁止孝顯皇帝，諱翊鈞，穆宗第三子也。母貴妃李氏。隆慶二年，立為皇太子，時方六歲。穆宗嘗馳馬宮中，諫曰：「陛下天下主，獨騎而騁，寧無銜橛憂。」穆宗喜，下馬勞之。陳皇后病居別宮，每晨隨貴妃候起居。后聞履聲輒喜，為強起。取經書問之，無不響答，貴妃亦喜。由是兩宮益和。

@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷20 卷二十 銚期王霸祭遵列傳"
+title: "后汉书 卷20"
 date: 2026-05-24
 weight: 20
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷20。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 銚期

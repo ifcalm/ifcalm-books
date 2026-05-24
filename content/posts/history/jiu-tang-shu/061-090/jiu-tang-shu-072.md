@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷72 卷七十二 列傳第二十二: 虞世南 李百藥 褚亮"
+title: "旧唐书 卷72"
 date: 2026-05-24
 weight: 72
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷72。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 虞世南　李百藥 子安期

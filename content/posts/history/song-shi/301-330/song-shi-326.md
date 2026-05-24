@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷326 卷三百二十六 列傳第八十五 景泰 王信 蔣偕 張忠 郭恩 張岊 張君平 史方 盧鑑 李渭 王果 郭諮 田敏 侍其曙 康德輿 張昭遠"
+title: "宋史 卷326"
 date: 2026-05-24
 weight: 326
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷326。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 景泰

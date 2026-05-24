@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷42 卷四十二 列傳第三十六 臧盾 弟厥 傅岐"
+title: "梁书 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第四十二 列傳第三十六

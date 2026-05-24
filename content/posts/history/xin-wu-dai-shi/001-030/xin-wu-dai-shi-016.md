@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷16 卷十六 唐廢帝家人傳第四:"
+title: "新五代史 卷16"
 date: 2026-05-24
 weight: 16
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷16。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 廢帝皇后劉氏

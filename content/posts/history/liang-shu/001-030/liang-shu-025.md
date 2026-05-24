@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷25 卷二十五 列傳第十九 周捨 徐勉"
+title: "梁书 卷25"
 date: 2026-05-24
 weight: 25
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷25。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第二十五 列傳第十九

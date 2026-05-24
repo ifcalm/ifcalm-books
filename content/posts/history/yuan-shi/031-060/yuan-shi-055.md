@@ -1,5 +1,5 @@
 ---
-title: "元史 卷55 卷五十五 志第七: 曆四"
+title: "元史 卷55"
 date: 2026-05-24
 weight: 55
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷55。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 曆四

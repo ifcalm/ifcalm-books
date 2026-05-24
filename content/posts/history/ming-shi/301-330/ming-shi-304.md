@@ -1,5 +1,5 @@
 ---
-title: "明史 卷304 卷三百〇四 列傳第一百九十二 宦官一 鄭和 金英 王振 曹吉祥 懷恩 汪直 梁芳 何鼎 李廣 蔣琮 劉瑾 張永 谷大用"
+title: "明史 卷304"
 date: 2026-05-24
 weight: 304
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷304。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宦官

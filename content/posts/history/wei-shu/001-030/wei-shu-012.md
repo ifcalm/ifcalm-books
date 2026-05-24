@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷12 卷12 孝静紀"
+title: "魏书 卷12"
 date: 2026-05-24
 weight: 12
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷12。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝靜皇帝，諱善見，清河文宣王亶之世子也，母曰胡妃。永熙三年，拜通直散騎侍郎，八月，為驃騎大將軍、開府儀同三司。出帝既入關，齊獻武王奉迎不克，乃與百僚會議，推帝以奉肅宗之後，時年十一。

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷220 卷二百二十 表第十一 宗室世系六"
+title: "宋史 卷220"
 date: 2026-05-24
 weight: 220
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷220。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7220"
-source_license: "CC BY-SA 4.0"
 ---
 
 |  |  | 楚國公從信 | 康國公世顯 | 贈東平侯令典 |  |  |  |  |  |  |  |  |

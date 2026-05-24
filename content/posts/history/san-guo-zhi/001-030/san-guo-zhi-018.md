@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷18 卷十八 魏書十八 二李臧文呂許典二龐閻傳"
+title: "三国志 卷18"
 date: 2026-05-24
 weight: 18
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷18。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李典 李通 臧霸 文聘 吕虔 许褚 典韦 庞德 庞淯 阎温

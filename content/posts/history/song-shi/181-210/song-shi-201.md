@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷201 卷二百〇一 志第一百五十四 刑法三"
+title: "宋史 卷201"
 date: 2026-05-24
 weight: 201
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷201。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 天下疑獄，讞有不能決，則下兩制與大臣若臺諫雜議，視其事之大小，無常法，而有司建請論駮者，亦時有焉。

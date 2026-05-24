@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷130 卷一百三十 列傳第八十: 王璵 李泌 崔造 關播"
+title: "旧唐书 卷130"
 date: 2026-05-24
 weight: 130
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷130。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王玙 道士李國禎附

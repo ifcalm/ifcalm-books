@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷46 卷四六 補列傳第三八 循吏"
+title: "北齐书 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張華原　宋世良 弟世軌　郎基　孟業　崔伯謙　蘇瓊　房豹　路去病

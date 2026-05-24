@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷333 卷三百三十三 列傳第九十二 楊佐 李兌 沈立 張掞 張燾 俞充 劉瑾 閻詢 葛宮 張田 榮諲 李載 姚渙 朱景 李琮 朱壽隆 盧士宏 單煦 楊仲元 余良肱 潘夙"
+title: "宋史 卷333"
 date: 2026-05-24
 weight: 333
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷333。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊佐

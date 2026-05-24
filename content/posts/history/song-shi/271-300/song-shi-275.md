@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷275 卷二百七十五 列傳第三十四 劉福 安守忠 孔守正 譚延美 元達 常思德 尹繼倫 薛超 丁罕 趙瑫 郭密 傅思讓 李斌 田仁朗 劉謙"
+title: "宋史 卷275"
 date: 2026-05-24
 weight: 275
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷275。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉福

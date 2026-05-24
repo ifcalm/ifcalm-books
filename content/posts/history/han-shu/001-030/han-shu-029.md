@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷29 卷二十九 溝洫志"
+title: "汉书 卷29"
 date: 2026-05-24
 weight: 29
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷29。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 夏書：禹堙洪水十三年，過家不入門。陸行載車，水行乘舟，泥行乘毳，山行則梮，以別九州；隨山浚川，任土作貢；通九道，陂九澤，度九山。然河災之羨溢，害中國也尤甚。唯是為務，故道河自積石，歷龍門，南到華陰，東下底柱，及盟津、雒內，至于大伾。於是禹以為河所從來者高，水湍悍，難以行平地，數為敗，乃釃二渠以引其河，北載之高地，過洚水，至於大陸，播為九河，同為迎河，入于勃海。九川既疏，九澤既陂，諸夏乂安，功施乎三代。

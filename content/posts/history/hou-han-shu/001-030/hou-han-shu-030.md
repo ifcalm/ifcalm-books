@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷30 卷三十"
+title: "后汉书 卷30"
 date: 2026-05-24
 weight: 30
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷30。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷三十上 蘇竟楊厚列傳

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷295 卷二百九十五 列傳第一百八十三 忠義七"
+title: "明史 卷295"
 date: 2026-05-24
 weight: 295
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷295。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 何復〈（邵宗元等）〉張羅俊〈（弟羅彥等）〉金毓峒〈（韓東明等）〉湯文瓊〈（範箴聽等）〉許琰〈（曹肅等）〉王喬棟張繼孟〈（陳其赤等）〉劉士鬥〈（沈雲祚等）〉王勵精〈（劉三策等）〉尹伸〈（莊祖誥等）〉高其勛〈（王士傑等）〉張耀〈（吳子騏曾異撰等）〉米壽圖耿廷箓〈（馬乾）〉席上珍〈（孔師程等）〉徐道興〈（羅國瓛等）〉劉廷標〈（王運開王運閎）〉

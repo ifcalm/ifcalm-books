@@ -1,5 +1,5 @@
 ---
-title: "明史 卷37 卷三十七 志第十三 曆七"
+title: "明史 卷37"
 date: 2026-05-24
 weight: 37
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷37。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十三 歷七

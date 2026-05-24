@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷28 卷二十八 志第八: 音樂一"
+title: "旧唐书 卷28"
 date: 2026-05-24
 weight: 28
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷28。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第八音樂一

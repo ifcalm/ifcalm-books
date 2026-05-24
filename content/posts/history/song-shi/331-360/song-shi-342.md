@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷342 卷三百四十二 列傳第一百〇一 梁燾 王巖叟 鄭雍 孫永"
+title: "宋史 卷342"
 date: 2026-05-24
 weight: 342
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷342。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁燾 王岩叟 鄭雍 孫永

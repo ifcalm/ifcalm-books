@@ -1,5 +1,5 @@
 ---
-title: "明史 卷157 卷一百五十七 列傳第四十五 金純 張本 郭敦 郭璡 鄭辰 柴車 劉中敷 張鳳 周瑄 楊鼎 黃鎬 胡拱辰 陳俊 林鶚 潘榮 夏時正"
+title: "明史 卷157"
 date: 2026-05-24
 weight: 157
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷157。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 金純 張本 郭敦 郭璡 鄭辰 柴車 劉中敷 孫機 張鳳 周瑄 子紘 楊鼎 翁世資 黃鎬 胡拱辰 陳俊 林鶚 潘榮 夏時正

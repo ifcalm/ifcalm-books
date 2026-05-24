@@ -1,5 +1,5 @@
 ---
-title: "明史 卷177 卷一百七十七 列傳第六十五 王翱 年富 王竑 李秉 姚夔 王復 林聰 葉盛"
+title: "明史 卷177"
 date: 2026-05-24
 weight: 177
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷177。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王翺年富王竑李秉姚夔王復林聰葉盛

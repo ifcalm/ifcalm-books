@@ -1,5 +1,5 @@
 ---
-title: "南史 卷72 卷七十二 列傳第六十二 文學"
+title: "南史 卷72"
 date: 2026-05-24
 weight: 72
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷72。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 丘靈鞠檀超卞彬丘巨源王智深崔慰祖祖沖之賈希鏡袁峻劉昭鍾嶸周興嗣吳均劉勰何思澄任孝恭顏協紀少瑜杜之偉顏晃岑之敬何之元徐伯陽張正見阮卓

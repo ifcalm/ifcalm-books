@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷60 卷六十 吳書十五 賀全呂周鍾離傳"
+title: "三国志 卷60"
 date: 2026-05-24
 weight: 60
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷60。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 賀齊

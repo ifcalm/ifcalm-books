@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷100 卷100 高句麗 百濟 勿吉 失韋 豆莫婁 地豆于 庫莫奚 契丹 烏洛侯"
+title: "魏书 卷100"
 date: 2026-05-24
 weight: 100
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷100。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高句麗　百濟　勿吉　失韋　豆莫婁　地豆于　庫莫奚　契丹　烏洛侯

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷285 卷二百八十五 列傳第一百七十三 文苑一"
+title: "明史 卷285"
 date: 2026-05-24
 weight: 285
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷285。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊維楨附:陸居仁 錢惟善 胡翰 苏伯衡 王冕附:郭奎 劉炳 戴良附:王逢 丁鶴年 危素 張以寧附:石光霽 秦裕伯 趙壎附:宋僖 等 徐一夔 趙捴謙附:樂良 等 袁凱 高啟附:楊基 等 高啟附:楊基 等 孫蕡附:王佐 等 王蒙附:郭傳

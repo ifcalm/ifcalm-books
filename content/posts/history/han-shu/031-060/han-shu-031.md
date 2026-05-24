@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷31 卷三十一 陳勝項籍傳"
+title: "汉书 卷31"
 date: 2026-05-24
 weight: 31
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷31。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳勝 吳廣

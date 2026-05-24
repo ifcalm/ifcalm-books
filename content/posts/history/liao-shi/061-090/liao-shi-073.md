@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷73 卷七十三 列傳第三: 耶律曷魯 蕭敵魯 耶律斜涅赤 耶律欲穩 耶律海里"
+title: "辽史 卷73"
 date: 2026-05-24
 weight: 73
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷73。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律曷魯 蕭敵魯 耶律斜涅赤 耶律欲穩 耶律海里

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷180 卷一百八十 列傳第六十八 張寧 王徽 毛弘 丘弘 李森 魏元 强珍 王瑞 李俊 汪奎 湯鼐 姜綰 姜洪 曹璘 彭程 龐泮 呂獻 葉紳 胡獻 張弘至 屈伸 王獻臣"
+title: "明史 卷180"
 date: 2026-05-24
 weight: 180
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷180。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張寧王徽〈（王淵等）〉毛弘邱弘李森魏元〈（康永韶等）〉強珍王瑞〈（張稷）〉李俊汪奎〈（從子舜民崔升等）〉湯鼐〈（吉人劉槩董傑）〉姜綰〈（余濬等）〉姜洪〈（歐陽旦暢亨）〉曹璘彭程龐泮〈（呂獻）〉葉紳胡獻〈（武衢等）〉張弘至屈伸王獻臣〈（吳一貫余濂）〉

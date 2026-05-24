@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷185 卷一百八十五 志第一百三十八 食貨下七"
+title: "宋史 卷185"
 date: 2026-05-24
 weight: 185
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷185。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 食貨下七○酒坑冶礬香附

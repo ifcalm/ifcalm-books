@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷124 卷一百二十四 志第七十七 禮二十七"
+title: "宋史 卷124"
 date: 2026-05-24
 weight: 124
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷124。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮二十七〈（凶禮三）〉○外國喪禮及入吊儀諸臣喪葬等儀

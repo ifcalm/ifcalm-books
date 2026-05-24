@@ -1,5 +1,5 @@
 ---
-title: "金史 卷77 卷七十七 列傳第十五: 宗弼本名兀朮，子:亨(本名孛迭) 張邦昌 劉豫 昌本名撻懶"
+title: "金史 卷77"
 date: 2026-05-24
 weight: 77
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷77。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十五 ○宗弼本名兀朮，子:亨(本名孛迭) 張邦昌 劉豫 昌本名撻懶

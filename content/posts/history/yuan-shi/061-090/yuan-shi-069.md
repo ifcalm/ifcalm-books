@@ -1,5 +1,5 @@
 ---
-title: "元史 卷69 卷六十九 志第二十: 禮樂三"
+title: "元史 卷69"
 date: 2026-05-24
 weight: 69
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷69。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮樂三 ○郊祀樂章成宗大德六年，合祭天地五方帝樂章：降神，奏《乾寧之曲》，六成：

@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷2 卷二 補帝紀第二 神武帝下"
+title: "北齐书 卷2"
 date: 2026-05-24
 weight: 2
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷2。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 神武下

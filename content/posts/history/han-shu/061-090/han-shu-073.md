@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷73 卷七十三 韋賢傳"
+title: "汉书 卷73"
 date: 2026-05-24
 weight: 73
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷73。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韋賢字長孺。魯國鄒人也。其先韋孟，家本彭城，為楚元王傅，傅子夷王及孫王戊。戊荒淫不遵道，孟作詩風諫。後遂去位，徒家於鄒，又作一篇。其諫詩曰：

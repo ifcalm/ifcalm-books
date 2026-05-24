@@ -1,5 +1,5 @@
 ---
-title: "南史 卷31 卷三十一 列傳第二十一 張裕"
+title: "南史 卷31"
 date: 2026-05-24
 weight: 31
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷31。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張裕

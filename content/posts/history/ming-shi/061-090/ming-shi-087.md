@@ -1,5 +1,5 @@
 ---
-title: "明史 卷87 卷八十七 志第六十三 河渠五"
+title: "明史 卷87"
 date: 2026-05-24
 weight: 87
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷87。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 淮河泇河衛河漳河沁河滹沱河桑乾河膠萊河

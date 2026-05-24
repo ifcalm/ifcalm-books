@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷20 卷二十 列傳第十二 張瓊 斛律羌 堯雄 宋顯 王則 慕容紹宗 薛脩義 叱列平 步大汗薩 慕容儼"
+title: "北齐书 卷20"
 date: 2026-05-24
 weight: 20
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷20。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張瓊

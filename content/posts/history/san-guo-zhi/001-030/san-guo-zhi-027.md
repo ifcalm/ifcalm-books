@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷27 卷二十七 魏書二十七 徐胡二王傳"
+title: "三国志 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 徐邈 胡質 王昶 王基

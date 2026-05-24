@@ -1,5 +1,5 @@
 ---
-title: "明史 卷251 卷二百五十一 列傳第一百三十九 李標 劉鴻訓 錢龍錫 成基命 何如寵 徐光啟 文震孟 蔣德璟 方岳貢"
+title: "明史 卷251"
 date: 2026-05-24
 weight: 251
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷251。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李標〈（李國𣚴周道登）〉劉鴻訓錢龍錫〈（錢士升士晉）〉成基命何如寵〈（兄如申錢象坤）〉徐光啟〈（鄭以偉林釬）〉文震孟〈（周炳謨）〉蔣德璟〈（黃景昉）〉方岳貢〈（邱瑜瑜子之陶）〉

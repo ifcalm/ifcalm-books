@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷38 卷三十八 列傳第三十二 朱异 賀琛"
+title: "梁书 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第三十八 列傳第三十二

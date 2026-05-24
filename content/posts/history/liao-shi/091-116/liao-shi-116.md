@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷116 卷一百十六 國語解"
+title: "辽史 卷116"
 date: 2026-05-24
 weight: 116
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷116。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 史自遷、固，以迄晉、唐，其為書雄深浩博，讀者未能盡曉。於是裴　、顏師古、李賢、何超、董沖諸儒，訓詁音釋，然後制度、名物、方言、奇字，可以一覽而周知。其有助於後學多矣。

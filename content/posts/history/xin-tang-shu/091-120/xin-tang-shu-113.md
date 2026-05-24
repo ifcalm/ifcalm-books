@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷113 卷一百一十三 列傳第三十八 唐張徐"
+title: "新唐书 卷113"
 date: 2026-05-24
 weight: 113
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷113。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 唐張徐

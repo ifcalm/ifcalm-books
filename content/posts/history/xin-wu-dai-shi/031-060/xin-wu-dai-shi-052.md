@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷52 卷五十二 雜傳第四十: 杜重威 李守貞 張彥澤"
+title: "新五代史 卷52"
 date: 2026-05-24
 weight: 52
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷52。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 杜重威

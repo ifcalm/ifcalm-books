@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷17 卷十七 志第七 律曆中"
+title: "晋书 卷17"
 date: 2026-05-24
 weight: 17
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷17。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 律曆志中

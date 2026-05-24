@@ -1,5 +1,5 @@
 ---
-title: "史记 卷37 《衛康叔世家》"
+title: "史记 卷37"
 date: 2026-05-24
 weight: 37
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷37。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《衛康叔世家》

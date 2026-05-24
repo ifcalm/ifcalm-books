@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷171 卷一百七十一 列傳第一百二十一: 李渤 張仲方 裴潾 李中敏 李甘 高元裕 李漢 李景儉"
+title: "旧唐书 卷171"
 date: 2026-05-24
 weight: 171
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷171。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李渤，字浚之，後魏橫野將軍申國公發之後。祖玄珪，衛尉寺主簿。父鈞，殿中侍御史，以母喪不時舉，流於施州。渤恥其家汙，堅苦不仕；勵誌於文學，不從科舉，隱於嵩山，以讀書業文為事。

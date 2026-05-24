@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷22 卷二十二 魏書二十二 桓二陳徐衛盧傳"
+title: "三国志 卷22"
 date: 2026-05-24
 weight: 22
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷22。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 桓阶 陈群 陈矫 徐宣 卫臻 卢毓

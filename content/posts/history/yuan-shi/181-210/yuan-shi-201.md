@@ -1,5 +1,5 @@
 ---
-title: "元史 卷201 卷二百〇一 列傳第八十八: 列女二"
+title: "元史 卷201"
 date: 2026-05-24
 weight: 201
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷201。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 武用妻蘇氏，真定人，徙家京師。用疾，蘇氏刲股為粥以進，疾即愈。生子德政，四歲而寡。夫之兄利其資，欲逼而嫁之，不聽。未幾夫兄舉家死，惟餘三弱孫，蘇氏取而育之。德政長，事蘇氏至孝。蘇氏死時，天大旱，德政方掘地求水以供葬事，忽二蛇躍出，德政因默禱焉。二蛇一東一北，隨其地掘之，果得泉。有司上其事。旌復其家。

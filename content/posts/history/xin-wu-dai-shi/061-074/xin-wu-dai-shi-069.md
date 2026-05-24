@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷69 卷六十九 南平世家第九: 高季興"
+title: "新五代史 卷69"
 date: 2026-05-24
 weight: 69
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷69。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高季興，字貽孫，陜州硤石人也。本名季昌，避後唐獻祖廟諱，更名季興。季興少為汴州富人李讓家僮。梁太祖初鎮宣武，讓以入貲得幸，養為子，易其姓名曰朱友讓。季興以友讓故得進見，太祖奇其材，命友讓以子畜之，因冒姓朱氏，補制勝軍使，遷毅勇指揮使。

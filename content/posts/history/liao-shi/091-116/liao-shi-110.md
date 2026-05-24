@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷110 卷一百一十 列傳第四十: 姦臣上"
+title: "辽史 卷110"
 date: 2026-05-24
 weight: 110
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷110。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 奸臣上 ○耶律乙辛張孝傑耶律燕哥蕭十三

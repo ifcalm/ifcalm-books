@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷350 卷三百五十 列傳第一百〇九 苗授 王君萬 張守約 王文郁 周永清 劉紹能 王光祖 李浩 和斌 劉仲武 曲珍 劉闃 郭成 賈嵓 張整 張蘊 王恩 楊應詢 趙隆"
+title: "宋史 卷350"
 date: 2026-05-24
 weight: 350
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷350。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 苗授子:履 王君萬子:贍 張守約 王文郁 周永清 劉紹能 王光祖 李浩 和斌子:詵 劉仲武 曲珍 劉闃 郭成 賈岩 張整 張蘊 王恩 楊應詢 趙隆

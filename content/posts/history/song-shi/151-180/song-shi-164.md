@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷164 卷一百六十四 志第一百十七 職官四"
+title: "宋史 卷164"
 date: 2026-05-24
 weight: 164
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷164。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 御史臺　秘書省　殿中省　太常寺　宗正寺　大宗正司附　光祿寺　衛尉寺　太僕寺

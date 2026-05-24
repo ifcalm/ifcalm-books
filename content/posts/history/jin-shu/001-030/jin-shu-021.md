@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷21 卷二十一 志第十一 禮下"
+title: "晋书 卷21"
 date: 2026-05-24
 weight: 21
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷21。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮志下

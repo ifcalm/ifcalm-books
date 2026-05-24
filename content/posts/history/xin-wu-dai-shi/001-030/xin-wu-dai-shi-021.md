@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷21 卷二十一 梁臣傳第九: 敬翔 朱珍 龐師古 葛從周 霍存 張存敬 符道昭 劉捍 寇彥卿"
+title: "新五代史 卷21"
 date: 2026-05-24
 weight: 21
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷21。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 嗚呼！孟子謂「春秋無義戰」，予亦以謂五代無全臣。無者，非無一人，蓋僅有之耳，余得死節之士三人焉。其仕不及於二代者，各以其國系之，作梁、唐、晉、漢、周臣傳。其餘仕非一代，不可以國系之者，作《雜傳》。夫入於雜，誠君子之所羞，而一代之臣，未必皆可貴也，覽者詳其善惡焉。

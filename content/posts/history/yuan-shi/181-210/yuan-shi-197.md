@@ -1,5 +1,5 @@
 ---
-title: "元史 卷197 卷一百九十七 列傳第八十四: 孝友一"
+title: "元史 卷197"
 date: 2026-05-24
 weight: 197
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷197。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 世言先王沒，民無善俗。元有天下，其教化未必古若也，而民以孝義聞者，蓋不乏焉。豈非天理民彝之存於人心者，終不可泯歟！上之人苟能因其所不泯者，復加勸獎而興起之，則三代之治，亦可以漸復矣。

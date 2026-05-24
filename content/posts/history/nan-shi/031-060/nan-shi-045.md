@@ -1,5 +1,5 @@
 ---
-title: "南史 卷45 卷四十五 列傳第三十五 王敬則 陳顯達 張敬兒 崔慧景"
+title: "南史 卷45"
 date: 2026-05-24
 weight: 45
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷45。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王敬則

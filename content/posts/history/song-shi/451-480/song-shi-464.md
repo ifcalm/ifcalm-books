@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷464 卷四百六十四 列傳第二百二十三 外戚中 王貽永 李昭亮 李用和子:璋 瑋 珣 李遵勗子:端懿 端愿 端慤 (端愿子:評) 曹佾從弟:偕 子:評 誘 高遵裕從弟:遵惠 從姪:士林 士林子:公紀 公紀子:世則 向傳範從姪:經 綜 經子:宗回 宗良 張敦禮 任澤"
+title: "宋史 卷464"
 date: 2026-05-24
 weight: 464
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷464。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 外戚中

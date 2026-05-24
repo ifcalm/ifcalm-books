@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷72 卷七十二 唐書48: 列傳24 張承業 張居翰 馬紹宏 孟漢瓊"
+title: "旧五代史 卷72"
 date: 2026-05-24
 weight: 72
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷72。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張承業，字繼元，本姓康，同州人。咸通中，內常侍張泰畜為假子。光啟中，主郃陽軍事，賜紫，入為內供奉。武皇之討王行瑜，承業累奉使渭北，因留監武皇軍事，賊平，改酒坊使。三年，昭宗將幸太原，以承業與武皇善，用除為河東監軍，密令迎駕。既而昭宗幸華州，就加左監門衛將軍。駕在鳳翔，承業屢請出師晉、絳，以為岐人掎角。崔魏公之誅宦官也，武皇偽戮罪人首級以奉詔，匿承業於斛律寺，昭宗遇弑，乃復請為監軍。

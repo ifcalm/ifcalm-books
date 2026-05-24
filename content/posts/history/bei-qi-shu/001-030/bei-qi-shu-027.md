@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷27 卷二七 補列傳第十九 万俟普 劉豐 破六韓常 金祚 韋子粲"
+title: "北齐书 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 万俟普 子 洛 可朱渾元 劉豐 破六韓常 金祚 韋子粲

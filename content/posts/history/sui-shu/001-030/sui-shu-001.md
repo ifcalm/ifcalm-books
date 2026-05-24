@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷1 卷1 帝紀第1 高祖上"
+title: "隋书 卷1"
 date: 2026-05-24
 weight: 1
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷1。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高祖文皇帝姓楊氏，諱堅，弘農郡華陰人也。漢太尉震八代孫鉉，[1]仕燕為北平太守。鉉生元壽，後魏代為武川鎮司馬，子孫因家焉。元壽生太原太守惠嘏，嘏生平原太守烈，烈生寧遠將軍禎，禎生忠，忠即皇考也。皇考從周太祖起義關西，賜姓普六茹氏，位至柱國、大司空、隋國公。薨，贈太保，諡曰桓。

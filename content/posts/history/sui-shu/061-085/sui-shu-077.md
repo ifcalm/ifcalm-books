@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷77 卷77 列傳第42 隱逸"
+title: "隋书 卷77"
 date: 2026-05-24
 weight: 77
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷77。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷七十七列傳第四十二

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷233 卷二百三十三 列傳第一百二十一 姜應麟 陳登雲 羅大紘 李獻可 孟養浩 朱維京 王如堅 王學曾 張貞觀 樊玉衡 謝廷讚 楊天民 何選"
+title: "明史 卷233"
 date: 2026-05-24
 weight: 233
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷233。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 姜應麟〈（從子思睿）〉陳登雲羅大摐〈（黃正賓）〉李獻可〈（舒弘緒陳尚象丁懋遜吳之佳葉初春楊其休董嗣成賈名儒張棟）〉孟養浩朱維京王如堅王學曾〈（涂傑）〉張貞觀樊玉衡〈（子鼎遇維城孫自一）〉謝廷贊〈（兄廷諒）〉楊天民何選〈（馮生虞任彥蘗）〉

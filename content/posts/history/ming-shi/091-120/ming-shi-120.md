@@ -1,5 +1,5 @@
 ---
-title: "明史 卷120 卷一百二十 列傳第八 諸王五"
+title: "明史 卷120"
 date: 2026-05-24
 weight: 120
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷120。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 諸王五○世宗諸子

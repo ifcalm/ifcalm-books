@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷151 卷一百五十一 志第一百〇四 輿服三"
+title: "宋史 卷151"
 date: 2026-05-24
 weight: 151
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷151。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 輿服三○天子之服皇太子附後妃之服命婦附

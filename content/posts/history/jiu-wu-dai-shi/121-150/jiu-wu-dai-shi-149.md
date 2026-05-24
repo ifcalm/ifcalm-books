@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷149 卷一百四十九 志11: 職官志"
+title: "旧五代史 卷149"
 date: 2026-05-24
 weight: 149
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷149。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 職官誌

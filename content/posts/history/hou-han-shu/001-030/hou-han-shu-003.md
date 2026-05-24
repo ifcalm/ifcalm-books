@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷3 卷三 肅宗孝章帝紀"
+title: "后汉书 卷3"
 date: 2026-05-24
 weight: 3
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷3。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%BE%8C%E6%BC%A2%E6%9B%B8/%E5%8D%B73"
-source_license: "CC BY-SA 4.0"
 ---
 
 肅宗孝章皇帝諱炟，顯宗第五子也。〈《謚法》曰：「溫克令儀曰章。」《伏侯古今注》曰：「炟之字曰著，音丁達反。」〉母賈貴人。永平三年，立爲皇太子。少寬容，好儒術，顯宗器重之。

@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷51 卷五十一 吳書六 宗室傳"
+title: "三国志 卷51"
 date: 2026-05-24
 weight: 51
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷51。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孫靜

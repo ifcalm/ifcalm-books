@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷490 卷四百九十 列傳第二百四十九 外國六 天竺 于闐 高昌 回鶻 大食 層檀 龜茲 沙州 拂菻"
+title: "宋史 卷490"
 date: 2026-05-24
 weight: 490
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷490。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 外國六○天竺于闐高昌回鶻大食層檀龜茲沙州拂菻

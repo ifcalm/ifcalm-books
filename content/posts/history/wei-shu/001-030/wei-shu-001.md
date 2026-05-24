@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷1 卷1 序紀"
+title: "魏书 卷1"
 date: 2026-05-24
 weight: 1
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷1。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 昔黃帝有子二十五人，或內列諸華，或外分荒服，昌意少子，受封北土，國有大鮮卑山，因以為號。其後，世為君長，統幽都之北，廣漠之野，畜牧遷徙，射獵為業，淳樸為俗，簡易為化，不為文字，刻木紀契而已，世事遠近，人相傳授，如史官之紀錄焉。黃帝以土德王，北俗謂土為托，謂后為跋，故以為氏。其裔始均，入仕堯世，逐女魃於弱水之北，民賴其勤，帝舜嘉之，命為田祖。爰歷三代，以及秦漢，獯鬻、獫狁、山戎、匈奴之屬，累代殘暴，作害中州，而始均之裔，不交南夏，是以載籍無聞焉。

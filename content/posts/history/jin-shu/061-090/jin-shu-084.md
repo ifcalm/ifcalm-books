@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷84 卷八十四 列傳第五十四 王恭 庾楷 劉牢之 殷仲堪 楊佺期"
+title: "晋书 卷84"
 date: 2026-05-24
 weight: 84
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷84。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王恭

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷178 卷一百七十八 列傳第六十五: 梁曾 劉敏中 王約 王結 宋衜 張伯淳"
+title: "元史 卷178"
 date: 2026-05-24
 weight: 178
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷178。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁曾

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷89 卷八十九 志第三十九: 百官五"
+title: "元史 卷89"
 date: 2026-05-24
 weight: 89
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷89。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 百官五

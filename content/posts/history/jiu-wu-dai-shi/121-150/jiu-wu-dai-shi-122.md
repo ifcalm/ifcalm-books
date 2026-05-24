@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷122 卷一百二十二 周書13: 宗室列傳二"
+title: "旧五代史 卷122"
 date: 2026-05-24
 weight: 122
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷122。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宗室

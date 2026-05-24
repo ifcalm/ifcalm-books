@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷63 卷六十三 列傳第三十三 邵續 李矩 段匹磾 魏浚 郭默"
+title: "晋书 卷63"
 date: 2026-05-24
 weight: 63
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷63。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 邵續

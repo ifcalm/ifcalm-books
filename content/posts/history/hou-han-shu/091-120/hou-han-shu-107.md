@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷107 第十七 五行五 射妖 龍蛇孽 馬禍 人痾 人化 死復生 疫 投蜺"
+title: "后汉书 卷107"
 date: 2026-05-24
 weight: 107
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷107。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十七　　五行五

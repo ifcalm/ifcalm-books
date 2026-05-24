@@ -1,5 +1,5 @@
 ---
-title: "明史 卷332 卷三百三十二 列傳第二百二十 西域四"
+title: "明史 卷332"
 date: 2026-05-24
 weight: 332
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷332。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 撒馬兒罕

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷469 卷四百六十九 列傳第二百二十八 宦者四 邵成章 藍珪康履 馮益 張去爲 陳源 甘昪 王德謙 關禮 董宋臣"
+title: "宋史 卷469"
 date: 2026-05-24
 weight: 469
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷469。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宦者四

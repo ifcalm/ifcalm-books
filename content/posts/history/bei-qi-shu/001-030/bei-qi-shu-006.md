@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷6 卷六 補帝紀第六 孝昭帝"
+title: "北齐书 卷6"
 date: 2026-05-24
 weight: 6
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷6。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝昭

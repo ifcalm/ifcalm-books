@@ -1,5 +1,5 @@
 ---
-title: "明史 卷252 卷二百五十二 列傳第一百四十 楊嗣昌 吳甡"
+title: "明史 卷252"
 date: 2026-05-24
 weight: 252
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷252。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊嗣昌吳甡

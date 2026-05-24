@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷27 卷二十七 列傳第八 劉懷珍 李安民 王玄載"
+title: "南齐书 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉懷珍　李安民　王玄載

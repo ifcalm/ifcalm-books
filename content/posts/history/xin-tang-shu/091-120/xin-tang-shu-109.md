@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷109 卷一百零九 列傳第三十四 崔楊竇宗祝王"
+title: "新唐书 卷109"
 date: 2026-05-24
 weight: 109
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷109。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔楊竇宗祝王

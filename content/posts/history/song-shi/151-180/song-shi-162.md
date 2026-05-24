@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷162 卷一百六十二 志第一百十五 職官二"
+title: "宋史 卷162"
 date: 2026-05-24
 weight: 162
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷162。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 樞密院　宣徽院　三司使　翰林學士院　侍讀侍講　崇政殿說書 諸殿學士　諸閤學士　諸修撰直閤　東宮官　王府官

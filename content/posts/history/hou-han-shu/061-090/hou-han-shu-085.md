@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷85 卷八十五 東夷列傳"
+title: "后汉书 卷85"
 date: 2026-05-24
 weight: 85
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷85。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《王制》云：“東方曰夷。”夷者，柢也，言仁而好生，萬物柢地而出。故天性柔順，易以道御，至有君子、不死之國焉。夷有九種，曰畎夷、於夷、方夷、黄夷、白夷、赤夷、玄夷、風夷、陽夷。故孔子欲居九夷也。

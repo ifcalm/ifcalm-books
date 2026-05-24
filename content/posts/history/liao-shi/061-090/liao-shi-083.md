@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷83 卷八十三 列傳第十三: 耶律休哥 耶律斜軫 耶律奚低 耶律學古"
+title: "辽史 卷83"
 date: 2026-05-24
 weight: 83
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷83。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律休哥

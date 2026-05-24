@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷71 卷七十一 列傳第三十一 徐湛 江湛 王僧綽"
+title: "宋书 卷71"
 date: 2026-05-24
 weight: 71
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷71。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第三十一　　徐湛之江湛王僧綽

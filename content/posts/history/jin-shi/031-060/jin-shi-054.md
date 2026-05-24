@@ -1,5 +1,5 @@
 ---
-title: "金史 卷54 卷五十四 志第三十五: 選舉四 部選 省選 廉察 薦舉 功酬虧永"
+title: "金史 卷54"
 date: 2026-05-24
 weight: 54
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷54。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 部選

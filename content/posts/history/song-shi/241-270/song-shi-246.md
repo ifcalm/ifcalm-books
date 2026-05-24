@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷246 卷二百四十六 列傳第五 宗室三"
+title: "宋史 卷246"
 date: 2026-05-24
 weight: 246
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷246。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 英宗

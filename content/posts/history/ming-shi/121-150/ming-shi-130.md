@@ -1,5 +1,5 @@
 ---
-title: "明史 卷130 卷一百三十 列傳第十八 吳良 康茂才 丁德興 耿炳文 郭英 華雲龍 韓政 仇成 張龍 吳復 胡海 張赫 華高 張銓 何真"
+title: "明史 卷130"
 date: 2026-05-24
 weight: 130
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷130。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 吳良

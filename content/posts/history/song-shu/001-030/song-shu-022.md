@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷22 卷二十二 志第十二 樂四"
+title: "宋书 卷22"
 date: 2026-05-24
 weight: 22
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷22。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 漢《鼙舞歌》五篇

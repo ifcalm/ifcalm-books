@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷50 卷五十 列傳第四十四 文學下"
+title: "梁书 卷50"
 date: 2026-05-24
 weight: 50
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷50。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉峻　劉沼　謝幾卿　劉勰　王籍　何思澄　劉杳　謝徵　臧嚴　伏挺　庾仲容　陸雲公　任孝恭　顏協

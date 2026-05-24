@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷96 卷九十六 晉書22: 列傳11 孔崇弼 陳保極 王瑜 張繼祚 鄭阮 胡饒 劉遂清 房暠 孟承誨 劉繼勳 鄭受益 程遜 李郁 鄭玄素 馬重績 陳玄"
+title: "旧五代史 卷96"
 date: 2026-05-24
 weight: 96
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷96。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孔崇弼，初仕後唐，自吏部郎中授給事中，時族兄昭序繇給事中改左常侍，兄弟同居門下，時論榮之。崇弼，天福中遷左散騎常侍。無他才，但能談笑，戲玩人物，揚眉抵掌，取悅於人。五年，詔令泛海使於杭越。先是，浙中贈賄，每歲恒及萬緡，時議者曰：「孔常侍命奇薄，何消盈數，有命即無財，有財即無命。」明年使還，果海中船壞，空手而歸。〈（案：以下殘闕。）〉

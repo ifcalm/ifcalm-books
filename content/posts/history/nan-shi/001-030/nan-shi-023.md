@@ -1,5 +1,5 @@
 ---
-title: "南史 卷23 卷二十三 列傳第十三 王誕 王華 王惠 王彧"
+title: "南史 卷23"
 date: 2026-05-24
 weight: 23
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷23。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十三

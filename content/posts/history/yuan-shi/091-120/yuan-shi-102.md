@@ -1,5 +1,5 @@
 ---
-title: "元史 卷102 卷一百〇二 志第五十: 刑法一"
+title: "元史 卷102"
 date: 2026-05-24
 weight: 102
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷102。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 刑法一

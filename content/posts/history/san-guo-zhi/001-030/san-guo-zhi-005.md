@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷5 卷五 魏書五 后妃傳"
+title: "三国志 卷5"
 date: 2026-05-24
 weight: 5
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷5。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 易稱「男正位乎外，女正位乎內；男女正，天地之大義也」。古先哲王，莫不明后妃之制，順天地之德，故二妃嬪媯，虞道克隆，任、姒配姬，周室用熈，廢興存亡，恆此之由。春秋說云天子十二女，諸侯九女，考之情理，不易之典也。而末世奢縱，肆其侈欲，至使男女怨曠，感動和氣，惟色是崇，不本淑懿，故風教陵遲而大綱毀泯，豈不惜哉！嗚呼，有國有家者，其可以永鑒矣！

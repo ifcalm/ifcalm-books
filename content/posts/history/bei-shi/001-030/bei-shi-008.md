@@ -1,5 +1,5 @@
 ---
-title: "北史 卷8 卷八 齊本紀下第八: 世祖武成帝 後主 幼主"
+title: "北史 卷8"
 date: 2026-05-24
 weight: 8
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷8。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 世祖武成帝 後主 幼主

@@ -1,5 +1,5 @@
 ---
-title: "史记 卷81 《廉頗藺相如列傳》"
+title: "史记 卷81"
 date: 2026-05-24
 weight: 81
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷81。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《廉頗藺相如列傳》

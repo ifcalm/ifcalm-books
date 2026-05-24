@@ -1,5 +1,5 @@
 ---
-title: "南史 卷67 卷六十七 列傳第五十七 胡穎 徐度 杜稜 周鐵武 程靈洗 沈恪 陸子隆 錢道戢 駱文牙 孫瑒 徐世譜 周敷 荀朗 周炅 魯悉達 蕭摩訶 任忠 樊毅"
+title: "南史 卷67"
 date: 2026-05-24
 weight: 67
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷67。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第五十七

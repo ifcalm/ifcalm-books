@@ -1,5 +1,5 @@
 ---
-title: "金史 卷80 卷八十 列傳第十八: 熙宗二子濟安 道濟 斜卯阿里 突合速 烏延蒲盧渾 赤盞暉 大㚖本名撻不野 磐本名蒲速越 阿離補子:方"
+title: "金史 卷80"
 date: 2026-05-24
 weight: 80
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷80。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 熙宗二子

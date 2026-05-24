@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷46 卷46 列傳第11 趙煚 趙芬 楊尚希 長孫平 元暉 韋師 楊异 蘇孝慈 李雄 張煚"
+title: "隋书 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷四十六列傳第十一

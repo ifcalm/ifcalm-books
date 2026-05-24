@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷474 卷四百七十四 列傳第二百三十三 姦臣四 万俟禼 韓侂胄 丁大全 賈似道"
+title: "宋史 卷474"
 date: 2026-05-24
 weight: 474
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷474。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 万俟禼 韓侂胄 丁大全 賈似道

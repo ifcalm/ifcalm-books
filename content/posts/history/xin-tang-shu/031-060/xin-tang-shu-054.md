@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷54 卷五十四 志第四十四 食貨四"
+title: "新唐书 卷54"
 date: 2026-05-24
 weight: 54
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷54。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 食貨四

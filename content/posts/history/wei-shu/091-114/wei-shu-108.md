@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷108 卷108"
+title: "魏书 卷108"
 date: 2026-05-24
 weight: 108
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷108。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷108之一 禮志四之一

@@ -1,5 +1,5 @@
 ---
-title: "北史 卷30 卷三十 列傳第十八: 盧玄 盧柔 盧觀 盧同 盧誕"
+title: "北史 卷30"
 date: 2026-05-24
 weight: 30
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷30。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 盧玄 盧柔 盧觀 盧同 盧誕

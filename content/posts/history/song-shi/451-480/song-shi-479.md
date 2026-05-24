@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷479 卷四百七十九 列傳第二百三十八 世家二 西蜀孟氏孟昶(子:玄喆 玄珏 弟:仁贄 仁裕 仁操 附:伊審徵 韓保正 王昭遠 趙崇韜 高彥儔 趙彥韜 龍景昭 幸寅遜 李廷珪 李昊 毋守素 歐陽迥)"
+title: "宋史 卷479"
 date: 2026-05-24
 weight: 479
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷479。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 世家二○西蜀孟氏

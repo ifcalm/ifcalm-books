@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷163 卷一百六十三 列傳第一百十三: 孟簡 胡證 崔元略 杜元穎 崔弘禮 李虞仲 王質 盧簡辭"
+title: "旧唐书 卷163"
 date: 2026-05-24
 weight: 163
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷163。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孟簡，字幾道，平昌人。天後時同州刺史詵之孫。工詩有名。擢進士第，登宏辭科，累官至倉部員外郎。戶部侍郎王叔文竊政，簡為子司，多不附之；叔文惡之雖甚，亦不至擯斥。尋遷司封郎中。元和四年，超拜諫議大夫，知匭事。簡明於內典。六年，詔與給事中劉伯芻、工部侍郎歸登、右補闕蕭俛等，同就醴泉佛寺翻譯《大乘本生心地觀經》，簡最擅其理。

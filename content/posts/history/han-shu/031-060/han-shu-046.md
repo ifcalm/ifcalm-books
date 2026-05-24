@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷46 卷四十六 萬石衞直周張傳"
+title: "汉书 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷四十六 萬石衛直周張傳第十六

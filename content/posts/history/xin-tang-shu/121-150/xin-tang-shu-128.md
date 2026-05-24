@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷128 卷一百二十八 列傳第五十三 蘇尹畢李鄭王許潘倪席齊"
+title: "新唐书 卷128"
 date: 2026-05-24
 weight: 128
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷128。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蘇尹畢李鄭王許潘倪席齊

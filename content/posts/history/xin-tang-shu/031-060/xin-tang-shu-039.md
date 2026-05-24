@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷39 卷三十九 志第二十九 地理三"
+title: "新唐书 卷39"
 date: 2026-05-24
 weight: 39
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷39。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 河東道 河北道

@@ -1,5 +1,5 @@
 ---
-title: "金史 卷120 卷一百二十 列傳第五十八: 世戚 石家奴 裴滿達 忽睹 徒單恭 烏古論蒲魯虎 唐括德溫 烏古論粘沒曷 蒲察阿虎迭 烏林答暉 蒲察鼎壽 徒單思忠 徒單繹 烏林答復 烏古論元忠子:誼 唐括貢 烏林答琳 徒單公弼 徒單銘 徒單四喜"
+title: "金史 卷120"
 date: 2026-05-24
 weight: 120
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷120。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第五十八 世戚　○石家奴 裴滿達 忽睹 徒單恭 烏古論蒲魯虎 唐括德溫 烏古論粘沒曷 蒲察阿虎迭 烏林答暉 蒲察鼎壽 徒單思忠 徒單繹 烏林答復 烏古論元忠子誼 唐括貢 烏林答琳 徒單公弼 徒單銘 徒單四喜

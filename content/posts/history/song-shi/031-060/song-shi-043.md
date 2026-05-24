@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷43 卷四十三 本紀第四十三 理宗三"
+title: "宋史 卷43"
 date: 2026-05-24
 weight: 43
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷43。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 四年春正月壬寅朔，詔邊將毋擅興暴掠，虐殺無辜，以慰中原遺黎之望。帝制《訓廉》、《謹刑》二銘，戒飭中外。以李鳴復參知政事，杜範同知樞密院事，劉伯正簽書樞密院事，余玠華文閣待制、依舊四川安撫制置使、知重慶府兼四川總領財賦，李曾伯寶章閣直學士、依舊淮東安撫制置使、知揚州兼淮西制置使。戊午，樞密院言：「四川帥臣余玠，大小三十六戰，多有勞效，宜第功行賞。」詔玠趣上立功將士姓名等第，即與推恩。庚申，以余玠兼四川屯田使。

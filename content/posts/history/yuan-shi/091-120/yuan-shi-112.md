@@ -1,5 +1,5 @@
 ---
-title: "元史 卷112 卷一百十二 表第六上: 宰相年表一"
+title: "元史 卷112"
 date: 2026-05-24
 weight: 112
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷112。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宰相者，上承天子，下統百司，治體繫焉。元初，將相大臣，年月疏闊，簡牘未詳者則闕之。中統建元以來，宰執之官，其拜罷歲月之可考者，列而書之。作宰相年表。

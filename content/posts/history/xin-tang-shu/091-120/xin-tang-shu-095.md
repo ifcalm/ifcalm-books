@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷95 卷九十五 列傳第二十 高儉五世孫:重 竇威侄:軌 琮 抗 侄孫:靜 誕 侄:璡 從孫:德玄"
+title: "新唐书 卷95"
 date: 2026-05-24
 weight: 95
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷95。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高檢子:履行 審行 真行 五世孫:重 竇威侄:軌 琮 抗 侄孫:靜 誕 侄:璡 從孫:德玄

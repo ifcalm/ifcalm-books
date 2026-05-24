@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷188 卷一百八十八 列傳第一百十三 楊時朱孫"
+title: "新唐书 卷188"
 date: 2026-05-24
 weight: 188
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷188。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊時朱孫

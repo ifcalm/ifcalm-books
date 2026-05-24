@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷41 卷41 源賀"
+title: "魏书 卷41"
 date: 2026-05-24
 weight: 41
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷41。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 源賀

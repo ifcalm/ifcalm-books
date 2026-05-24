@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷19 卷十九 百官公卿表"
+title: "汉书 卷19"
 date: 2026-05-24
 weight: 19
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷19。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 師古曰：「漢制，三公號稱萬石，其俸月各三百五十斛穀。其稱中二千石者月各百八十斛，二千石者百二十斛，比二千石者百斛，千石者九十斛，比千石者八十斛，六百石者七十斛，比六百石者六十斛，四百石者五十斛，比四百石者四十五斛，三百石者四十斛，比三百石者三十七斛，二百石者三十斛，比二百石者二十七斛，一百石者十六斛。」〉

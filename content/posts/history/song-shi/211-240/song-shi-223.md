@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷223 卷二百二十三 表第十四 宗室世系九"
+title: "宋史 卷223"
 date: 2026-05-24
 weight: 223
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷223。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7223"
-source_license: "CC BY-SA 4.0"
 ---
 
 |  | 集慶軍節度觀察留後、南康郡公惟能 | 保靜軍節度使、同中書門下平章事、遂寧郡王從古 | 右領軍衞將軍世邁 | 太子右監門率府率令昶 |  |  |  |  |  |  |  |  |

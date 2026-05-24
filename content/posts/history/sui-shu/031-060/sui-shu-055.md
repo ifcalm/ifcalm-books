@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷55 卷55 列傳第20 杜彥 高勱 尒朱敞 周搖 獨孤揩 乞伏慧 張威 和洪 侯莫陳穎"
+title: "隋书 卷55"
 date: 2026-05-24
 weight: 55
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷55。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷五十五列傳第二十

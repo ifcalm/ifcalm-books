@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷31 卷三十一 列傳第二十五: 蕭摩訶 任忠 樊毅 魯廣達"
+title: "陈书 卷31"
 date: 2026-05-24
 weight: 31
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷31。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳書卷三十一

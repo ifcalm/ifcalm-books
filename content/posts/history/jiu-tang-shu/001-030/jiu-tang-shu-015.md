@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷15 卷十五 本紀第十五: 憲宗下"
+title: "旧唐书 卷15"
 date: 2026-05-24
 weight: 15
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷15。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 元和七年春正月辛酉朔，己巳，以刑部尚書趙宗儒檢校吏部尚書、興元尹、山南西道節度使。庚午，以兵部尚書王紹判戶部事。辛未，以京兆尹元義方為鄜州刺史、鄜坊丹延觀察使，以司農卿李銛為京兆尹。是夜，月掩熒惑。壬申，廢信州永豐縣、越州山陰縣、衢州盈川縣。癸酉，振武河溢，毀東受降城。

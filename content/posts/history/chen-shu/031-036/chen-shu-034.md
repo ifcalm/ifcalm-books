@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷34 卷三十四 列傳第二十八: 文學"
+title: "陈书 卷34"
 date: 2026-05-24
 weight: 34
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷34。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 易曰「觀乎人文以化成天下」，孔子曰「煥乎其有文章」也。自楚、漢以降，辭人世出，洛汭、江左，其流彌暢。莫不思侔造化，明並日月，大則憲章典謨，裨贊王道，小則文理清正，申紓性靈。至於經禮樂，綜人倫，通古今，述美惡，莫尚乎此。後主嗣業，雅尚文詞，傍求學藝，煥乎俱集。每臣下表疏及獻上賦頌者，躬自省覽，其有辭工，則神筆賞激，加其爵位，是以搢紳之徒，咸知自勵矣。若名位文學晃著者，別以功跡論。今綴杜之偉等學既兼文，備于此篇云爾。

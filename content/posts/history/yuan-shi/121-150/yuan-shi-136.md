@@ -1,5 +1,5 @@
 ---
-title: "元史 卷136 卷一百三十六 列傳第二十三: 哈剌哈孫 阿沙不花 拜住"
+title: "元史 卷136"
 date: 2026-05-24
 weight: 136
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷136。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 哈剌哈孫

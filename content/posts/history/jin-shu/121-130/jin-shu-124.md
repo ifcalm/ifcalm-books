@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷124 卷一百二十四 載記第二十四 慕容寶 慕容盛 慕容熙 慕容雲"
+title: "晋书 卷124"
 date: 2026-05-24
 weight: 124
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷124。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 慕容寶 慕容盛 慕容熙 慕容雲

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷131 卷一百三十一 志第八十四 樂六"
+title: "宋史 卷131"
 date: 2026-05-24
 weight: 131
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷131。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 樂六

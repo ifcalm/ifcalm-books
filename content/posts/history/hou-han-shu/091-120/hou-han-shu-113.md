@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷113 第二十三 郡國五 益州 涼州 并州 幽州 交州"
+title: "后汉书 卷113"
 date: 2026-05-24
 weight: 113
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷113。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十三　　郡国五

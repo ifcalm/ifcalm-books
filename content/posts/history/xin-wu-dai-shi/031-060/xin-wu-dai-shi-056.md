@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷56 卷五十六 雜傳第四十四: 和凝 趙瑩 馮玉 盧質 呂琦 薛融 何澤 王權 史圭 龍敏"
+title: "新五代史 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 和凝

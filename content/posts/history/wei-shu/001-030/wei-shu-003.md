@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷3 卷3 太宗紀"
+title: "魏书 卷3"
 date: 2026-05-24
 weight: 3
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷3。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 太宗明元皇帝，諱嗣，太祖長子也，母曰劉貴人，登國七年生於雲中宮。太祖晚有子，聞而大悅，乃大赦天下。帝明叡寬毅，非禮不動，太祖甚奇之。天興六年，封齊王，拜相國，加車騎大將軍。

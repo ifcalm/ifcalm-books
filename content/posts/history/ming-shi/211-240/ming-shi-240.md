@@ -1,5 +1,5 @@
 ---
-title: "明史 卷240 卷二百四十 列傳第一百二十八 葉向高 劉一燝 韓爌 朱國祚 何宗彥 孫如游"
+title: "明史 卷240"
 date: 2026-05-24
 weight: 240
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷240。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 葉向高

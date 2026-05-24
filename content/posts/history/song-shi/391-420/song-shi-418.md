@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷418 卷四百十八 列傳第一百七十七 吳潛 程元鳳 江萬里 王爚 章鑑 陳宜中 文天祥"
+title: "宋史 卷418"
 date: 2026-05-24
 weight: 418
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷418。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 吳潛 程元鳳 江萬里 王爚 章鑒 陳宜中 文天祥

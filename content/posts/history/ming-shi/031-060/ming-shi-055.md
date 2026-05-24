@@ -1,5 +1,5 @@
 ---
-title: "明史 卷55 卷五十五 志第三十一 禮九"
+title: "明史 卷55"
 date: 2026-05-24
 weight: 55
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷55。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 嘉禮三

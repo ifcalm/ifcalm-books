@@ -1,5 +1,5 @@
 ---
-title: "明史 卷265 卷二百六十五 列傳第一百五十三 范景文 倪元璐 李邦華 王家彥 孟兆祥 施邦曜 淩義渠"
+title: "明史 卷265"
 date: 2026-05-24
 weight: 265
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷265。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 範景文倪元璐李邦華王家彥孟兆祥〈（子章明）〉施邦曜淩義渠

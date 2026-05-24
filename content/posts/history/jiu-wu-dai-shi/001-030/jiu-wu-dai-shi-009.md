@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷9 卷九 梁書9: 末帝本紀中"
+title: "旧五代史 卷9"
 date: 2026-05-24
 weight: 9
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷9。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 貞明三年春正月戊午，以前淄州刺史高允奇為右羽林統軍。癸亥，以前天平軍馬步軍都指揮使、檢校太保朱為懷州刺史。癸酉，以右天武軍使石釗為密州刺史。戊寅，以前懷州刺史李建為安州刺史，仍賜名知節。己卯，以宣義軍節度副大使、知節度事、北面行營副招討等使、特進、檢校太傅霍彥威為天平軍節度副大使，知節度事。

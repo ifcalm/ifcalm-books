@@ -1,5 +1,5 @@
 ---
-title: "北史 卷38 卷三十八 列傳第二十六: 裴駿 裴延雋 裴佗 裴果 裴寬 裴俠 裴文舉 裴仁基"
+title: "北史 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 裴駿 裴延雋 裴佗 裴果 裴寬 裴俠 裴文舉 裴仁基

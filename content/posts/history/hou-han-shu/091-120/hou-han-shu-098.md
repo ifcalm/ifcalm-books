@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷98 第八 祭祀中 北郊 明堂 辟雍 靈臺 迎氣 增祀 六宗 老子"
+title: "后汉书 卷98"
 date: 2026-05-24
 weight: 98
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷98。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第八　　祭祀中

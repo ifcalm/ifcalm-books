@@ -1,5 +1,5 @@
 ---
-title: "元史 卷154 卷一百五十四 列傳第四十一: 洪福源 鄭鼎 李進 石抹按只 謁只里 鄭溫"
+title: "元史 卷154"
 date: 2026-05-24
 weight: 154
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷154。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 洪福源俊奇　君祥　萬

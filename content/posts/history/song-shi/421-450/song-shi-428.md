@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷428 卷四百二十八 列傳第一百八十七 道學二 程氏門人 劉絢 李籲 謝良佐 游酢 張繹 蘇昞 尹焞 楊時 羅從彥 李侗"
+title: "宋史 卷428"
 date: 2026-05-24
 weight: 428
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷428。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉絢 李吁 謝良佐 游酢 張繹 蘇昺 尹焞 楊時 羅從彥 李侗

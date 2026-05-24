@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷46 卷四十六 雜傳第三十四: 趙在禮 霍彥威 房知溫 王晏球 安重霸 王建立 康福 郭延魯"
+title: "新五代史 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙在禮

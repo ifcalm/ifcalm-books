@@ -1,5 +1,5 @@
 ---
-title: "明史 卷266 卷二百六十六 列傳第一百五十四 馬世奇 吳麟徵 周鳳翔 劉理順 汪偉 吳甘來 王章 陳良謨 陳純德 申佳胤 成德 許直 金鉉"
+title: "明史 卷266"
 date: 2026-05-24
 weight: 266
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷266。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 馬世奇吳麟征周鳳翔劉理順汪偉吳甘來王章陳良謨陳純德申佳允成德許直金鉉

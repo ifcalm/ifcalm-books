@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷46 卷四十六 列傳第四十 胡僧祐 徐文盛 杜崱 兄岸 弟幼安 兄子龕 陰子春"
+title: "梁书 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第四十六 列傳第四十

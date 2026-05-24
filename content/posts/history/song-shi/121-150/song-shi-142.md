@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷142 卷一百四十二 志第九十五 樂十七"
+title: "宋史 卷142"
 date: 2026-05-24
 weight: 142
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷142。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 樂十七○詩樂琴律燕樂教坊雲韶部鈞容直四夷樂

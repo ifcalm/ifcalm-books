@@ -1,5 +1,5 @@
 ---
-title: "明史 卷290 卷二百九十 列傳第一百七十八 忠義二"
+title: "明史 卷290"
 date: 2026-05-24
 weight: 290
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷290。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王冕〈（龔諒）〉陳聞詩〈（董倫）〉王鈇〈（錢泮）〉錢錞〈（唐一岑）〉朱裒〈（齊恩）〉孫鏜 杜槐 黃釧〈（陳見等）〉王德 〈叔沛〉 汪一中〈（王應鵬 唐鼎）〉蘇夢昜〈（韋宗孝 龍旌）〉張振德〈（章文炳等）〉董盡倫〈（李忠臣、高光等）〉龔萬祿〈（李世勛、翟英等）〉管良相〈（李應期等）〉徐朝綱〈（楊以成 孫克恕 鄭鼎）〉姬文胤〈（孟承光）〉朱萬年〈（秦三輔等）〉張瑤〈（王與夔等）〉何天衢〈（楊於陛）〉

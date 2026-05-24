@@ -1,5 +1,5 @@
 ---
-title: "北史 卷16 卷十六 列傳第四: 道武七王 明元六王 太武五王"
+title: "北史 卷16"
 date: 2026-05-24
 weight: 16
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷16。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 道武七王 明元六王 太武五王

@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷13 卷十三 志第三 天文下"
+title: "晋书 卷13"
 date: 2026-05-24
 weight: 13
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷13。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 天文下〈（月五星犯列舍經星變附見妖星客星星流隕雲氣）〉

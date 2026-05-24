@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷42 卷四十二 志第三十二 地理六"
+title: "新唐书 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劍南道

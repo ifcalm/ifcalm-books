@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷102 卷一百〇二 漢書4: 隱帝本紀中"
+title: "旧五代史 卷102"
 date: 2026-05-24
 weight: 102
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷102。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 乾祐二年春正月乙巳朔，制曰：

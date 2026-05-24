@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷88 卷八十八 列傳第十三 劉斐"
+title: "新唐书 卷88"
 date: 2026-05-24
 weight: 88
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷88。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉斐

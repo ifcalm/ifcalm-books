@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷102 卷一百〇二 載記第二 劉聰"
+title: "晋书 卷102"
 date: 2026-05-24
 weight: 102
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷102。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉聰

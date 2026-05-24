@@ -1,5 +1,5 @@
 ---
-title: "金史 卷36 卷三十六 志第十七: 禮九 國初即位儀 受尊號儀 元日聖誕上壽儀 朝參常朝儀 肆赦儀 臣下拜赦詔儀"
+title: "金史 卷36"
 date: 2026-05-24
 weight: 36
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷36。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 國初即位儀

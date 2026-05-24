@@ -1,5 +1,5 @@
 ---
-title: "元史 卷168 卷一百六十八 列傳第五十五: 陳祐 劉宣 何榮祖 陳思濟 秦長卿 趙與□ 姚天福 許國禎"
+title: "元史 卷168"
 date: 2026-05-24
 weight: 168
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷168。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳祐　天祥

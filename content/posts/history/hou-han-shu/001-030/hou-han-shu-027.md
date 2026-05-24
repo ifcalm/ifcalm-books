@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷27 卷二十七 宣張二王杜郭吳承鄭趙列傳"
+title: "后汉书 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宣秉字巨公，馮翊雲陽人也。少修高節，顯名三輔。哀、平際，見王氏據權專政，侵削宗室，有逆亂萌，遂隱遁深山，州郡連召，常稱疾不仕。王莽為宰衡，辟命不應。及莽篡位，又遣使者征之，秉固稱疾病。更始即位，征為侍中。建武元年，拜禦史中丞。光武特詔禦史中丞與司隸校尉、尚書令會同並專席而坐，故京師號曰『三獨坐』。明年，遷司隸校尉。務舉大綱，簡略苛細，百僚敬之。

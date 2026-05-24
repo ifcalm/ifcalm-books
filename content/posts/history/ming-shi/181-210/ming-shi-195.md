@@ -1,5 +1,5 @@
 ---
-title: "明史 卷195 卷一百九十五 列傳第八十三 王守仁"
+title: "明史 卷195"
 date: 2026-05-24
 weight: 195
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷195。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王守仁附:冀元亨

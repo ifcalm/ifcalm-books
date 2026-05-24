@@ -1,5 +1,5 @@
 ---
-title: "明史 卷198 卷一百九十八 列傳第八十六 楊一清 王瓊 彭澤 毛伯溫 翁萬達"
+title: "明史 卷198"
 date: 2026-05-24
 weight: 198
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷198。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊一清王瓊彭澤毛伯溫〈（汪文盛鮑象賢）〉翁萬達

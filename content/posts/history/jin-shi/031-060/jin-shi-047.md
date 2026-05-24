@@ -1,5 +1,5 @@
 ---
-title: "金史 卷47 卷四十七 志第二十八: 食貨二 田制 租賦 牛頭稅"
+title: "金史 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷47。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 田制

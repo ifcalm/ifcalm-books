@@ -1,5 +1,5 @@
 ---
-title: "北史 卷69 卷六十九 列傳第五十七: 申徽 陸通 厙狄峙 楊荐 王慶 趙剛 趙昶 王悅 趙文表 元定 楊摽"
+title: "北史 卷69"
 date: 2026-05-24
 weight: 69
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷69。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 申徽 陸通 厙狄峙 楊荐 王慶 趙剛 趙昶 王悅 趙文表 元定 楊摽

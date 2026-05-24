@@ -1,5 +1,5 @@
 ---
-title: "明史 卷314 卷三百十四 列傳第二百〇二 雲南土司二"
+title: "明史 卷314"
 date: 2026-05-24
 weight: 314
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷314。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 姚安鶴慶武定尋甸麗江元江永昌新化威遠北勝灣甸鎮康大侯瀾滄衛麓川

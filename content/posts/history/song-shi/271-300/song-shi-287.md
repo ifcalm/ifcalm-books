@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷287 卷二百八十七 列傳第四十六 楊礪 宋湜 王嗣宗 李昌齡 趙安仁 陳彭年"
+title: "宋史 卷287"
 date: 2026-05-24
 weight: 287
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷287。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊礪

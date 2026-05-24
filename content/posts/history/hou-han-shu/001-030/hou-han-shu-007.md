@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷7 卷七 孝桓帝紀"
+title: "后汉书 卷7"
 date: 2026-05-24
 weight: 7
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷7。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝桓皇帝諱志，肅宗曾孫也。祖父河間孝王開，父蠡吾侯翼，母匽氏。翼卒，帝襲爵為侯。

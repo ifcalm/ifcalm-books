@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷134 卷一百三十四 志第八十七 樂九"
+title: "宋史 卷134"
 date: 2026-05-24
 weight: 134
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷134。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 樂九〈（樂章三）〉○太廟常享禘袷加上徽號郊前朝享皇后別廟建隆以來祀享太廟一十六首迎神，《禮安》

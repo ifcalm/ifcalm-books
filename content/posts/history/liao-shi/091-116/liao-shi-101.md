@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷101 卷一百〇一 列傳第三十一: 蕭陶蘇斡 耶律阿息保 蕭乙薛 蕭胡篤"
+title: "辽史 卷101"
 date: 2026-05-24
 weight: 101
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷101。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭陶蘇斡耶律阿息保蕭乙薛蕭胡篤

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷200 卷二百 志第一百五十三 刑法二"
+title: "宋史 卷200"
 date: 2026-05-24
 weight: 200
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷200。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 律令者，有司之所守也。太祖以來，其所自斷，則輕重取舍，有法外之意焉。然其末流之弊，專用己私以亂祖宗之成憲者多矣。

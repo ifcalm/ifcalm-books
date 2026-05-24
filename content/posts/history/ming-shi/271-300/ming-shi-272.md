@@ -1,5 +1,5 @@
 ---
-title: "明史 卷272 卷二百七十二 列傳第一百六十 金國鳳 曹變蛟 劉肇基"
+title: "明史 卷272"
 date: 2026-05-24
 weight: 272
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷272。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 金國鳳〈（楊振楊國柱）〉曹變蛟〈（朱文德李輔明）〉劉肇基〈（乙邦才馬應魁莊子固）〉

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷89 卷八十九 列傳第三十九: 狄仁傑 王方慶 姚璹"
+title: "旧唐书 卷89"
 date: 2026-05-24
 weight: 89
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷89。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 狄仁傑（族曾孫兼謨）王方慶姚璹（弟班）

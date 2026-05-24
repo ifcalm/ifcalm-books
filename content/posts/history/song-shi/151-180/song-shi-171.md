@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷171 卷一百七十一 志第一百二十四 職官十一"
+title: "宋史 卷171"
 date: 2026-05-24
 weight: 171
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷171。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 職官十一〈（奉祿製上）〉○奉祿匹帛職錢祿粟傔人衣糧廚料薪炭諸物奉錄〈（自宰臣而下至嶽瀆廟令，凡四十一等。）〉

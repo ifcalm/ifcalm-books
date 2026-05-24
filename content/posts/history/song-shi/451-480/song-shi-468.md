@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷468 卷四百六十八 列傳第二百二十七 宦者三 李祥 陳衍 馮世寧 李繼和 高居簡 程昉 蘇利涉 雷允恭 閻文應 任守忠 童貫方臘 梁師成 楊戩"
+title: "宋史 卷468"
 date: 2026-05-24
 weight: 468
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷468。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宦者三

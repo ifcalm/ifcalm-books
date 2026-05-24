@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷16 卷16 道武七王"
+title: "魏书 卷16"
 date: 2026-05-24
 weight: 16
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷16。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 清河王　陽平王　河南王　河間王　長樂王　廣平王　京兆王

@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷104 卷一百零四 列傳第二十九 于志寧曾孫:休烈 四世孫:敖 五世孫:琮 高季輔 張行成族子:張易之 張昌宗"
+title: "新唐书 卷104"
 date: 2026-05-24
 weight: 104
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷104。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 于志寧曾孫:休烈 四世孫:敖 附:龐嚴 五世孫:琮 高季輔 張行成族子:易之 昌宗

@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷79 卷七十九 列傳第四 高祖諸子"
+title: "新唐书 卷79"
 date: 2026-05-24
 weight: 79
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷79。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高祖諸子

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷166 卷一百六十六 志第一百十九 職官六"
+title: "宋史 卷166"
 date: 2026-05-24
 weight: 166
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷166。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 職官六

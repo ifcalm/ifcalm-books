@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷439 卷四百三十九 列傳第一百九十八 文苑一 宋白 梁周翰 朱昂 趙鄰幾何承裕 鄭起 郭昱 馬應 和峴弟:㠓 馮吉"
+title: "宋史 卷439"
 date: 2026-05-24
 weight: 439
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷439。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文苑一

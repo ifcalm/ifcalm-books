@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷52 卷52 列傳第17 韓擒虎 賀若弼"
+title: "隋书 卷52"
 date: 2026-05-24
 weight: 52
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷52。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷五十二列傳第十七

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷61 卷六十一 列傳第十一: 溫大雅 陳叔達 竇威"
+title: "旧唐书 卷61"
 date: 2026-05-24
 weight: 61
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷61。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 溫大雅 子無隱　大雅弟彥博　子振　挺　大雅弟大有

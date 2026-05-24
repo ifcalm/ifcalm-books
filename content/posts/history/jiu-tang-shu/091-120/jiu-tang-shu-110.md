@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷110 卷一百一十 列傳第六十: 李光弼 王思禮 鄧景山 辛雲京"
+title: "旧唐书 卷110"
 date: 2026-05-24
 weight: 110
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷110。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李光弼，營州柳城人。其先，契丹之酋長。父楷洛，開元初，左羽林將軍同正、朔方節度副使，封薊國公，以驍果聞。光弼幼持節行，善騎射，能讀班氏《漢書》。少從戎，嚴毅有大略，起家左衛郎。丁父憂，終喪不入妻室。

@@ -1,5 +1,5 @@
 ---
-title: "南史 卷49 卷四十九 列傳第三十九 庾杲之 王諶 孔珪 劉懷珍"
+title: "南史 卷49"
 date: 2026-05-24
 weight: 49
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷49。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 庾杲之 王諶 孔珪 劉懷珍

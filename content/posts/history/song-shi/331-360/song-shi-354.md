@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷354 卷三百五十四 列傳第一百十三 沈銖 路昌衡 謝文瓘 陸蘊 黃寔 姚祐 樓异 沈積中 李伯宗 汪澥 何常 葉祖洽 時彥 霍端友 俞㮚 蔡薿"
+title: "宋史 卷354"
 date: 2026-05-24
 weight: 354
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷354。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 沈銖

@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷92 卷九十二 列傳第五十二 良吏"
+title: "宋书 卷92"
 date: 2026-05-24
 weight: 92
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷92。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第五十二　　良吏

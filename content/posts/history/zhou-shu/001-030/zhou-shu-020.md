@@ -1,5 +1,5 @@
 ---
-title: "周书 卷20 卷20 列傳第12 王盟 賀蘭祥 尉遲綱 叱列伏龜 閻慶"
+title: "周书 卷20"
 date: 2026-05-24
 weight: 20
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷20。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王盟

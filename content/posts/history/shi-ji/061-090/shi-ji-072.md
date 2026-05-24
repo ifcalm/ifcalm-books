@@ -1,5 +1,5 @@
 ---
-title: "史记 卷72 《穰侯列傳》 Biography of the Marquis of Rang"
+title: "史记 卷72"
 date: 2026-05-24
 weight: 72
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷72。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《穰侯列傳》 Biography of the Marquis of Rang

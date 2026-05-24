@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷177 卷一百七十七 列傳第一百二十七: 崔慎由 崔珙 盧鈞 裴休 楊收 韋保衡 路巖 夏侯孜 劉瞻 劉瑑 曹確 畢諴 杜審權 劉鄴 豆盧瑑"
+title: "旧唐书 卷177"
 date: 2026-05-24
 weight: 177
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷177。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔慎由

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷241 卷二百四十一 列傳第一百二十九 周嘉謨 張問達 汪應蛟 王紀 孫瑋 鍾羽正 陳道亨"
+title: "明史 卷241"
 date: 2026-05-24
 weight: 241
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷241。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 周嘉謨 張問達〈（陸夢龍 傅梅）〉汪應蛟 王紀〈（楊東明）〉孫瑋 鐘羽正 陳道亨〈（子弘緒）〉

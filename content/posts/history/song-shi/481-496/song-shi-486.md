@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷486 卷四百八十六 列傳第二百四十五 外國二 夏國下"
+title: "宋史 卷486"
 date: 2026-05-24
 weight: 486
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷486。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 夏國下

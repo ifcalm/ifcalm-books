@@ -1,5 +1,5 @@
 ---
-title: "元史 卷147 卷一百四十七 列傳第三十四: 張柔 史天倪 史天祥"
+title: "元史 卷147"
 date: 2026-05-24
 weight: 147
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷147。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張柔

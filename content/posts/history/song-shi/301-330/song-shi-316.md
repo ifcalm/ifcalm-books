@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷316 卷三百十六 列傳第七十五 包拯 吳奎 趙抃子:屼 唐介子:淑问 义问 孙:恕"
+title: "宋史 卷316"
 date: 2026-05-24
 weight: 316
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷316。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 包拯

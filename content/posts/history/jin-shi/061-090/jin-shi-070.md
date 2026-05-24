@@ -1,5 +1,5 @@
 ---
-title: "金史 卷70 卷七十 列傳第八: 撒改子:宗憲(本名阿懶) 習不失孫:宗亨(本名撻不也) 宗賢(本名賽里) 石土門弟:忠(本名迪古乃) 子:習室 思敬(本名撒改)"
+title: "金史 卷70"
 date: 2026-05-24
 weight: 70
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷70。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第八　○撒改子:宗憲(本名阿懶) 習不失孫:宗亨(本名撻不也) 宗賢(本名賽里) 石土門弟:忠(本名迪古乃) 子:習室 思敬(本名撒改)

@@ -1,5 +1,5 @@
 ---
-title: "金史 卷131 卷一百三十一 列傳第六十九: 宦者 梁珫 宋珪 潘守恆 方伎 劉完素 張從正 李慶嗣 紀天錫 張元素 馬貴中 武禎子:亢 李懋 胡德新"
+title: "金史 卷131"
 date: 2026-05-24
 weight: 131
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷131。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宦者

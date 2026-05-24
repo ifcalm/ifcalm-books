@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷466 卷四百六十六 列傳第二百二十五 宦者一 竇神寶 王仁睿 王繼恩 李神福弟:神祐 劉承規 閻承翰 秦翰 周懷政 張崇貴 張繼能 衛紹欽 石知顒孫:全彬 鄧守恩"
+title: "宋史 卷466"
 date: 2026-05-24
 weight: 466
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷466。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宦者一

@@ -1,5 +1,5 @@
 ---
-title: "周书 卷28 卷28 列傳第20 史寧 陸騰 賀若敦 權景宣"
+title: "周书 卷28"
 date: 2026-05-24
 weight: 28
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷28。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 史寧　陸騰　賀若敦　權景宣

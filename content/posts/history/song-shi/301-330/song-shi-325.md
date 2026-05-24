@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷325 卷三百二十五 列傳第八十四 劉平 任福 王珪 武英 桑懌 耿傅 王仲寶"
+title: "宋史 卷325"
 date: 2026-05-24
 weight: 325
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷325。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉平

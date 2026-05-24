@@ -1,5 +1,5 @@
 ---
-title: "元史 卷189 卷一百八十九 列傳第七十六: 儒學一"
+title: "元史 卷189"
 date: 2026-05-24
 weight: 189
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷189。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列传第七十六　　儒学一

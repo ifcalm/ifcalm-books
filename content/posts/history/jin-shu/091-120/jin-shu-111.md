@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷111 卷一百一十一 載記第十一 慕容暐"
+title: "晋书 卷111"
 date: 2026-05-24
 weight: 111
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷111。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 慕容暐 慕容恪 陽騖 皇甫真

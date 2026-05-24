@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷9 卷9 志第4 禮儀四"
+title: "隋书 卷9"
 date: 2026-05-24
 weight: 9
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷9。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮儀四

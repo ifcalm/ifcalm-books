@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷79 卷七十九 列傳第三十九 文五王"
+title: "宋书 卷79"
 date: 2026-05-24
 weight: 79
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷79。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第三十九　　文五王

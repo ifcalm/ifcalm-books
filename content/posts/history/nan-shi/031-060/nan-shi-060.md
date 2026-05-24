@@ -1,5 +1,5 @@
 ---
-title: "南史 卷60 卷六十 列傳第五十 范岫 傅昭 孔休源 江革 徐勉 許懋 殷鈞"
+title: "南史 卷60"
 date: 2026-05-24
 weight: 60
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷60。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第五十

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷59 卷五十九 列傳第九: 屈突通 任瓌 丘和 許紹 李襲志 姜謩"
+title: "旧唐书 卷59"
 date: 2026-05-24
 weight: 59
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷59。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 屈突通 子壽　少子詮　詮子仲翔

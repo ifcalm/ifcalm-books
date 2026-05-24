@@ -1,5 +1,5 @@
 ---
-title: "明史 卷90 卷九十 志第六十六 兵二"
+title: "明史 卷90"
 date: 2026-05-24
 weight: 90
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷90。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 衛所班軍

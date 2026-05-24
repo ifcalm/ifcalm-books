@@ -1,5 +1,5 @@
 ---
-title: "明史 卷7 卷七 本紀第七 成祖三"
+title: "明史 卷7"
 date: 2026-05-24
 weight: 7
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷7。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 十二年春正月庚寅，思州苗平。辛丑，發山東、山西、河南及鳳陽、淮安、徐、邳民十五萬，運糧赴宣府。二月己酉，大閱。庚戌，親征瓦剌，安遠侯柳升領大營，武安侯鄭亨領中軍，寧陽侯陳懋、豐城侯李彬領左、右哨，成山侯王通、都督譚青領左、右掖，都督劉江、硃榮為前鋒。庚申，振鳳翔、隴州饑，按長吏不言者罪。三月癸未，張輔俘陳季擴於老撾以獻，交阯平。庚寅，發北京，皇太孫從。

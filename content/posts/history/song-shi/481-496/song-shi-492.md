@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷492 卷四百九十二 列傳第二百五十一 外國八 吐蕃唃廝囉 董氊 阿里骨 瞎征 趙思忠"
+title: "宋史 卷492"
 date: 2026-05-24
 weight: 492
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷492。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 吐蕃 〈（唃廝囉 董氈 阿裏骨 瞎征 趙思忠）〉

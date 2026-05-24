@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷148 卷一百四十八 志10: 選舉志"
+title: "旧五代史 卷148"
 date: 2026-05-24
 weight: 148
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷148。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 選舉誌

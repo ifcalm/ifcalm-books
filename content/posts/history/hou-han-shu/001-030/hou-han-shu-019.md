@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷19 卷十九 耿弇列傳"
+title: "后汉书 卷19"
 date: 2026-05-24
 weight: 19
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷19。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耿弇

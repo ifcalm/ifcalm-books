@@ -1,5 +1,5 @@
 ---
-title: "明史 卷215 卷二百十五 列傳第一百〇三 王治 歐陽一敬 周弘祖 詹仰庇 駱問禮 鄭履淳 陳吾德 汪文輝 劉奮庸"
+title: "明史 卷215"
 date: 2026-05-24
 weight: 215
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷215。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王治歐陽一敬〈（胡應嘉）〉周弘祖〈（岑用賓鄧洪震）〉詹仰庇駱問禮〈（楊松張應治）〉鄭履淳陳吾德〈（李已胡涍）〉汪文輝劉奮庸〈（曹大埜）〉

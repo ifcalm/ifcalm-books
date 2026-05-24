@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷27 卷二十七"
+title: "汉书 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷二十七上 五行志

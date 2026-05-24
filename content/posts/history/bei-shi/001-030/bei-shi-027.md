@@ -1,5 +1,5 @@
 ---
-title: "北史 卷27 卷二十七 列傳第十五: 屈遵 張蒲 谷渾 公孫表 張濟 李先 賈彝 竇瑾 李訢 韓延之 袁式 毛脩之 唐和 寇讚 酈範 韓秀 堯暄 柳崇"
+title: "北史 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 屈遵 張蒲 谷渾 公孫表 張濟 李先 賈彝 竇瑾 李訢 韓延之 袁式 毛脩之 唐和 寇讚 酈範 韓秀 堯暄 柳崇

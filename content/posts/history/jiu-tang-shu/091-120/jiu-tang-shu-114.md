@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷114 卷一百十四 列傳第六十四: 魯炅 裴茙 來瑱 周智光"
+title: "旧唐书 卷114"
 date: 2026-05-24
 weight: 114
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷114。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 魯炅，范陽人也。身長七尺余，涉獵書史。天寶六年，隴右節度使哥舒翰引為別奏。顏真卿為監察御史，使至隴右，翰嘗設宴，真卿謂翰曰：「中丞自郎將授將軍，便登節制，後生可畏，得無人乎？」炅時立在階下，翰指炅曰：「此人後當為節度使矣。」後以隴右破吐蕃跳蕩功，累授右領軍大將軍同正員，賜紫金魚袋。

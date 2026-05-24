@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷92 第二 律曆中 賈逵論曆 永元論曆 延光論曆 漢安論曆 熹平論曆 論月食"
+title: "后汉书 卷92"
 date: 2026-05-24
 weight: 92
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷92。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 後漢書志第二　律歷中　賈逵論歷永元論歷延光論歷漢安論歷熹平論歷論月食

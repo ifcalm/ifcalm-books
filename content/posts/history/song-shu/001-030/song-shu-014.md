@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷14 卷十四 志第四 禮一"
+title: "宋书 卷14"
 date: 2026-05-24
 weight: 14
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷14。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第四　　禮一

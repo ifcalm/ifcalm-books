@@ -1,5 +1,5 @@
 ---
-title: "明史 卷239 卷二百三十九 列傳第一百二十七 張臣 董一元 杜桐 蕭如薰 達雲 官秉忠 柴國柱 李懷信"
+title: "明史 卷239"
 date: 2026-05-24
 weight: 239
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷239。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張臣 〈（子：承廕　孫：應昌　全昌　德昌）〉　董一元 〈（王保）〉　杜桐 〈（弟：松　子：文煥　孫：弘域）〉　蕭如薰　達雲 〈（尤繼先）〉　官秉忠　柴國柱　李懷信

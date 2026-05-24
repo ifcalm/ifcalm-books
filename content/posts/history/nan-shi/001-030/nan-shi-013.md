@@ -1,5 +1,5 @@
 ---
-title: "南史 卷13 卷十三 列傳第三 宋宗室及諸王上"
+title: "南史 卷13"
 date: 2026-05-24
 weight: 13
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷13。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第三宋宗室及諸王上

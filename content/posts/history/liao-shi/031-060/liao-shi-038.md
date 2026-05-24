@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷38 卷三十八 志第八: 地理志二"
+title: "辽史 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 東京道

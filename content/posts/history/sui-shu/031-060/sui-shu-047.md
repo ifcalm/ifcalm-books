@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷47 卷47 列傳第12 韋世康 柳機"
+title: "隋书 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷47。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韋世康

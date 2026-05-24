@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷109 卷一百〇九 列傳第五十九: 馮盎 阿史那社爾 契苾何力 黑齒常之 李多祚 李嗣業 白孝德"
+title: "旧唐书 卷109"
 date: 2026-05-24
 weight: 109
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷109。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 馮盎，高州良德人也。累代為本部大首領。盎少有武略，隋開皇中為宋康令。仁壽初，潮、成等五州獠叛，盎馳至京，請討之。文帝敕左僕射楊素與盎論賊形勢，素曰：「不意蠻夷中有此人，大可奇也。」即令盎發江、嶺兵擊之。賊平，授金紫光祿大夫，仍除漢陽太守。

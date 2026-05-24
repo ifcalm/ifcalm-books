@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷351 卷三百五十一 列傳第一百一十 趙挺之 張商英 劉正夫 何執中 鄭居中 安堯臣 張康國 朱諤 劉逵 林攄 管師仁 侯蒙"
+title: "宋史 卷351"
 date: 2026-05-24
 weight: 351
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷351。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙挺之

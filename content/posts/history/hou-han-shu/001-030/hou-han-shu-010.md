@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷10 卷十"
+title: "后汉书 卷10"
 date: 2026-05-24
 weight: 10
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷10。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷十上 皇后紀

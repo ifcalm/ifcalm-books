@@ -1,5 +1,5 @@
 ---
-title: "南史 卷14 卷十四 列傳第四 宋宗室及諸王下"
+title: "南史 卷14"
 date: 2026-05-24
 weight: 14
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷14。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第四宋宗室及諸王下

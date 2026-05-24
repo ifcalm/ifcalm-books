@@ -1,5 +1,5 @@
 ---
-title: "史记 卷124 《游俠列傳》"
+title: "史记 卷124"
 date: 2026-05-24
 weight: 124
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷124。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《游俠列傳》

@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷171 卷一百七十一 列傳第九十六 李烏王楊曹高劉石"
+title: "新唐书 卷171"
 date: 2026-05-24
 weight: 171
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷171。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李烏王楊曹高劉石

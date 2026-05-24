@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷396 卷三百九十六 列傳第一百五十五 史浩 王淮 趙雄 權邦彥 程松 陳謙 張巖"
+title: "宋史 卷396"
 date: 2026-05-24
 weight: 396
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷396。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 史浩

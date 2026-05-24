@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷15 卷十五 補列傳第七 竇泰 尉景 婁昭 兄子叡 厙狄干 子士文 韓軌 潘樂"
+title: "北齐书 卷15"
 date: 2026-05-24
 weight: 15
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷15。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 竇泰　尉景　婁昭 兄子叡　厙狄干 子士文　韓軌　潘樂

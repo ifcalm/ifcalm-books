@@ -1,5 +1,5 @@
 ---
-title: "金史 卷46 卷四十六 志第二十七: 食貨一 戶口 通檢推排"
+title: "金史 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 國之有食貨，猶人之有飲食也。人非飲食不生，國非食貨不立。然燧人、庖犧能為飲食之道以教人，而不能使人無飲食之疾。三王能為食貨之政以遺後世，而不能使後世無食貨之弊。唯善養生者如不欲食啖，而飲食自不闕焉，故能適饑飽之宜，可以疾少而長壽。善裕國者初不事貨殖，而食貨自不乏焉，故能制豐約之節，可以弊少而長治。

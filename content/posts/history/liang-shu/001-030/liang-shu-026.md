@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷26 卷二十六 列傳第二十 范岫 傅昭 弟映 蕭琛 陸杲"
+title: "梁书 卷26"
 date: 2026-05-24
 weight: 26
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷26。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第二十六 列傳第二十

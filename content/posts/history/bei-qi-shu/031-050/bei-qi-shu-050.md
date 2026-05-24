@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷50 卷五十 補列傳第四二 恩倖"
+title: "北齐书 卷50"
 date: 2026-05-24
 weight: 50
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷50。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 郭秀　和士開　穆提婆　高阿那肱　韓鳳　韓寶業等

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷124 卷一百二十四 列傳第十一: 塔本 哈剌亦哈赤北魯 塔塔統阿 岳璘帖穆爾 李楨 速哥 忙哥撒兒 孟速思"
+title: "元史 卷124"
 date: 2026-05-24
 weight: 124
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷124。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 塔本

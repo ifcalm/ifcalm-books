@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷348 卷三百四十八 列傳第一百〇七 傅楫 沈畸 蕭服 徐勣 張汝明 黃葆光 石公弼 張克公 毛注 洪彥昇 鍾傳 陶節夫 毛漸 王祖道 張莊 趙遹"
+title: "宋史 卷348"
 date: 2026-05-24
 weight: 348
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷348。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 傅楫

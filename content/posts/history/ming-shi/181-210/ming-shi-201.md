@@ -1,5 +1,5 @@
 ---
-title: "明史 卷201 卷二百〇一 列傳第八十九 陶琰 王縝 李充嗣 吳廷舉 方良永 王爌 王軏 徐問 張邦奇 韓邦奇 周金 吳嶽"
+title: "明史 卷201"
 date: 2026-05-24
 weight: 201
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷201。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陶琰〈（子滋）〉王縝李充嗣吳廷舉〈（弟廷弼）〉方良永〈（弟良節子重傑）〉王爌王軏徐問張邦奇〈（族父時徹）〉韓邦奇〈（弟邦靖）〉周金吳嶽〈（譚大初）〉

@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷36 卷36 李順"
+title: "魏书 卷36"
 date: 2026-05-24
 weight: 36
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷36。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李順

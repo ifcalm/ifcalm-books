@@ -1,5 +1,5 @@
 ---
-title: "元史 卷65 卷六十五 志第十七上: 河渠二"
+title: "元史 卷65"
 date: 2026-05-24
 weight: 65
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷65。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 河渠二 ○黃河

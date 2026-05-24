@@ -1,5 +1,5 @@
 ---
-title: "明史 卷206 卷二百〇六 列傳第九十四 馬錄 程啟充 張逵 鄭一鵬 唐樞 杜鸞 葉應驄 解一貴 陸粲 邵經邦 劉世揚 魏良弼"
+title: "明史 卷206"
 date: 2026-05-24
 weight: 206
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷206。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 馬錄〈（顏頤壽聶賢湯沐劉琦盧瓊沈漢王科）〉程啟充張逵鄭一鵬唐樞杜鸞葉應聰〈（藍田黃綰）〉解一貫〈（鄭洛書張錄）〉陸粲〈（劉希簡王準）〉邵經邦劉世揚〈（趙漢）〉魏良弼〈（秦鰲張寅葉洪）〉

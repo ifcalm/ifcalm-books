@@ -1,5 +1,5 @@
 ---
-title: "明史 卷104 卷一百〇四 表第五 諸王世表五"
+title: "明史 卷104"
 date: 2026-05-24
 weight: 104
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷104。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 英宗九子。憲宗外，庶三子見湜未封，殤。其得封者七王，曰德莊王見潾，曰許悼王見淳，曰秀懷王見澍，曰崇簡王見澤，曰吉簡王見浚，曰忻穆王見治，曰徽莊王見沛。

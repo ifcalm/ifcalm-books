@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷15 卷十五 唐明宗家人傳第三:"
+title: "新五代史 卷15"
 date: 2026-05-24
 weight: 15
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷15。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 明宗和武憲皇后曹氏昭懿皇后夏氏

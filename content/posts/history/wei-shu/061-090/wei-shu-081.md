@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷81 卷81 綦儁 山偉 劉仁之 宇文忠之"
+title: "魏书 卷81"
 date: 2026-05-24
 weight: 81
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷81。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 綦儁　山偉　劉仁之　宇文忠之

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷71 卷七十一 志第二十二: 禮樂五"
+title: "元史 卷71"
 date: 2026-05-24
 weight: 71
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷71。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮樂五 ○樂服樂正副四人，舒腳襆頭，紫羅公服，烏角帶，木笏，皂靴。照燭二人，服同前，無笏。

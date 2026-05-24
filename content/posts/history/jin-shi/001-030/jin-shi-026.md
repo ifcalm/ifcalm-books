@@ -1,5 +1,5 @@
 ---
-title: "金史 卷26 卷二十六 志第七: 地理下 大名府路 河東北路 河東南路 京兆府路 鳳翔路 鄜延路 慶原路 臨洮路"
+title: "金史 卷26"
 date: 2026-05-24
 weight: 26
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷26。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 大名府路

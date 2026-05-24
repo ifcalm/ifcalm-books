@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷39 卷三十九 志第二十九 百官上"
+title: "宋书 卷39"
 date: 2026-05-24
 weight: 39
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷39。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十九　　百官上

@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷87 卷八十七 列傳第五十七 涼武昭王李玄盛（李暠）"
+title: "晋书 卷87"
 date: 2026-05-24
 weight: 87
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷87。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 涼武昭王 李暠，字玄盛〈（子李歆，字士業）〉

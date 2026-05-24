@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷250 卷二百五十 列傳第九 石守信 王審琦 高懷德 韓重贇 張令鐸 羅彥瓌 王彥昇"
+title: "宋史 卷250"
 date: 2026-05-24
 weight: 250
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷250。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 石守信

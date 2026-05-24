@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷249 卷二百四十九 列傳第八 范質 王溥 魏仁浦"
+title: "宋史 卷249"
 date: 2026-05-24
 weight: 249
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷249。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 范質

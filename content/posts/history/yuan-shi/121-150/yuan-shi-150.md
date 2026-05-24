@@ -1,5 +1,5 @@
 ---
-title: "元史 卷150 卷一百五十 列傳第三十七: 石抹也先 何伯祥 李守賢 耶律阿海 何實 郝和尚拔都 趙瑨 石抹明安 張榮 劉亨安"
+title: "元史 卷150"
 date: 2026-05-24
 weight: 150
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷150。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 石抹也先

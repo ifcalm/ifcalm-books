@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷7 卷七 本紀第七: 中宗 睿宗"
+title: "旧唐书 卷7"
 date: 2026-05-24
 weight: 7
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷7。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 中宗

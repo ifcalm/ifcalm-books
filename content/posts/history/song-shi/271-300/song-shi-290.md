@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷290 卷二百九十 列傳第四十九 Cao Liyong, Sun JiYe, Zhang Qi, Yang Chongxun, Xia Shouen, Di Qing, Zhang Yu, Sun Jie, Guo Kui"
+title: "宋史 卷290"
 date: 2026-05-24
 weight: 290
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷290。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 曹利用

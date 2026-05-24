@@ -1,5 +1,5 @@
 ---
-title: "明史 卷76 卷七十六 志第五十二 職官五"
+title: "明史 卷76"
 date: 2026-05-24
 weight: 76
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷76。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 公侯伯駙馬都尉附儀賓五軍都督府京營京衛錦衣衛附旗手等衛南京守備南京五軍都督府南京衛王府護衛附儀衛司總兵官留守司都司附行都司各衛各所宣慰司宣撫司安撫司招討司長官司附蠻夷長官司軍民府附土州土縣

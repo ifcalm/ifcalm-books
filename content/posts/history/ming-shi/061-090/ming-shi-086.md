@@ -1,5 +1,5 @@
 ---
-title: "明史 卷86 卷八十六 志第六十二 河渠四"
+title: "明史 卷86"
 date: 2026-05-24
 weight: 86
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷86。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 運河下 海運

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷308 卷三百〇八 列傳第一百九十六 奸臣 胡惟庸 陳瑛 嚴嵩 周延儒 溫體仁 馬士英"
+title: "明史 卷308"
 date: 2026-05-24
 weight: 308
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷308。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 奸臣：胡惟庸 陳寧 陳瑛附:馬麟等 嚴嵩附:趙文華等 周延儒 溫體仁 馬士英〈（阮大鋮）〉

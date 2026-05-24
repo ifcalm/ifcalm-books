@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷495 卷四百九十五 列傳第二百五十四 蠻夷三 撫水州 廣源州 黎洞 環州"
+title: "宋史 卷495"
 date: 2026-05-24
 weight: 495
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷495。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 撫水州 廣源州 黎洞 環州

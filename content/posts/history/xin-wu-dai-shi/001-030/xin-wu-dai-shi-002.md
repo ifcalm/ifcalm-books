@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷2 卷二 梁本紀第二: 太祖下"
+title: "新五代史 卷2"
 date: 2026-05-24
 weight: 2
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷2。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 开平元年春正月壬寅，天子使御史大夫薛贻矩来劳军。宰相张文蔚率百官来 劝进。夏四月壬戌，更名晃。甲子，皇帝即位。戊辰，大赦，改元，国号梁。封 唐主为济阴王。升汴州为开封府，建为东都，以唐东都为西都。废京兆府为雍州。 赐东都酺一日。契丹阿保机使袍笏梅老来。

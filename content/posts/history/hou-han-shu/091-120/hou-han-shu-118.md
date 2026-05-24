@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷118 第二十八 百官五 州郡 縣鄉 亭里 匈奴中郎將 烏桓校尉 護羌校尉 王國 宋衛國 列侯 關內侯 四夷國 百官奉"
+title: "后汉书 卷118"
 date: 2026-05-24
 weight: 118
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷118。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十八　　百官五

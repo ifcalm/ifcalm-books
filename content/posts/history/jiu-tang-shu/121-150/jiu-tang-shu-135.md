@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷135 卷一百三十五 列傳第八十五: 盧杞 白志貞 裴延齡 韋渠牟 李齊運 李實 韋執誼 王叔文 程異 皇甫抃"
+title: "旧唐书 卷135"
 date: 2026-05-24
 weight: 135
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷135。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 盧杞，字子良，故相懷慎之孫。父奕，天寶末為東臺御史中丞；洛城為安祿山所陷，奕守司而遇害。杞以門廕，解褐清道率府兵曹。朔方節度使仆固懷恩辟為掌書記、試大理評事、監察御史，以病免。入補鴻臚丞，遷殿中侍御史、膳部員外郎，出為忠州刺史。至荊南，謁節度使衛伯玉，伯玉不悅。杞移病歸京師，歷刑部員外郎、金部吏部二郎中。

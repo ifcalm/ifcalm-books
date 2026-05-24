@@ -1,5 +1,5 @@
 ---
-title: "金史 卷5 卷五 本紀第五: 海陵"
+title: "金史 卷5"
 date: 2026-05-24
 weight: 5
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷5。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 廢帝海陵庶人亮，字元功，本諱迪古乃，遼王宗幹第二子也。母大氏。天輔六年壬寅歲生。天眷三年，年十八，以宗室子爲奉國上將軍，赴梁王宗弼軍前任使，以爲行軍萬戶，遷驃騎上將軍。皇統四年，加龍虎衛上將軍，爲中京留守，遷光祿大夫。爲人僄急，多猜忌，殘忍任數。初，熙宗以太祖嫡孫嗣位，亮意以爲宗幹太祖長子，而己亦太祖孫，遂懷覬覦。在中京，專務立威，以厭伏小人。猛安蕭裕傾險敢決，亮結納之，每與論天下事。裕揣知其意，因勸海陵舉大事，語在《裕傳》。

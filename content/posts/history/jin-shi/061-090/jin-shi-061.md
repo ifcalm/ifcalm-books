@@ -1,5 +1,5 @@
 ---
-title: "金史 卷61 卷六十一 表第三: 交聘表中"
+title: "金史 卷61"
 date: 2026-05-24
 weight: 61
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷61。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宋	夏	高麗

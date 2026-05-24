@@ -1,5 +1,5 @@
 ---
-title: "北史 卷47 卷四十七 列傳第三十五: 袁翻 陽尼 賈思伯 祖瑩"
+title: "北史 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷47。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 袁翻 陽尼 賈思伯 祖瑩

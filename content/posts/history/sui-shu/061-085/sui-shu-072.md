@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷72 卷72 列傳第37 孝義"
+title: "隋书 卷72"
 date: 2026-05-24
 weight: 72
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷72。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷七十二列傳第三十七

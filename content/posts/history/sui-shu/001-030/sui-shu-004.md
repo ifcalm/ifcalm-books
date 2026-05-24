@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷4 卷4 帝紀第4 煬帝下"
+title: "隋书 卷4"
 date: 2026-05-24
 weight: 4
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷4。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 八年春正月辛巳，大軍集于涿郡。以兵部尚書段文振為左候衞大將軍。壬午，下詔曰：

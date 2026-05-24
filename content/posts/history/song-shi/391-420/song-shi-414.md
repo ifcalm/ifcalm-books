@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷414 卷四百十四 列傳第一百七十三 史弥远 鄭清之 史嵩之 董槐 葉夢鼎 馬廷鸞"
+title: "宋史 卷414"
 date: 2026-05-24
 weight: 414
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷414。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 史彌遠 鄭清之 史嵩之 董槐 葉夢鼎 馬廷鸞

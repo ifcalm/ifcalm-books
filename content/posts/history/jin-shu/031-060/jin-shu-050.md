@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷50 卷五十 列傳第二十 曹志 庾峻 郭象 庾純 秦秀"
+title: "晋书 卷50"
 date: 2026-05-24
 weight: 50
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷50。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 曹志

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷28 卷二十八 志第四 五行一"
+title: "明史 卷28"
 date: 2026-05-24
 weight: 28
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷28。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第四 五行一（水）

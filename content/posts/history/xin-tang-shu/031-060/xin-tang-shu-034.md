@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷34 卷三十四 志第二十四 五行一"
+title: "新唐书 卷34"
 date: 2026-05-24
 weight: 34
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷34。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 木不曲直 常雨 服妖 龜孽 雞禍 下體生上之痾 青眚青祥 鼠妖 金沴木 火不炎上 常燠 草妖 羽蟲之孽 羊禍 赤眚赤祥 水沴火

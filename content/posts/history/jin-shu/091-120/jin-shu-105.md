@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷105 卷一百〇五 載記第五 石勒下"
+title: "晋书 卷105"
 date: 2026-05-24
 weight: 105
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷105。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 石勒（下）

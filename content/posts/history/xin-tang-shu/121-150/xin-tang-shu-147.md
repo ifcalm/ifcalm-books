@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷147 卷一百四十七 列傳第七十二 三王魯辛馮三李曲二盧"
+title: "新唐书 卷147"
 date: 2026-05-24
 weight: 147
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷147。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 三王魯辛馮三李曲二盧

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷412 卷四百十二 列傳第一百七十一 孟珙 杜杲 王登 楊掞 張惟孝 陳咸"
+title: "宋史 卷412"
 date: 2026-05-24
 weight: 412
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷412。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孟珙 杜杲子 庶 王登 楊掞 張惟孝 陳咸

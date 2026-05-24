@@ -1,5 +1,5 @@
 ---
-title: "周书 卷6 卷6 帝紀第6 武帝下"
+title: "周书 卷6"
 date: 2026-05-24
 weight: 6
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷6。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 武帝下

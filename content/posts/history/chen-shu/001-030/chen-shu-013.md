@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷13 卷十三 列傳第七: 徐世譜 魯悉達 周敷 荀朗 周炅"
+title: "陈书 卷13"
 date: 2026-05-24
 weight: 13
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷13。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳書卷十三

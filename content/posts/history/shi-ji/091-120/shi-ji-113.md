@@ -1,5 +1,5 @@
 ---
-title: "史记 卷113 《南越列傳》 Treatise on the Nanyue"
+title: "史记 卷113"
 date: 2026-05-24
 weight: 113
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷113。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《南越列傳》 Treatise on the Nanyue

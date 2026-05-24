@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷173 卷一百七十三 列傳第九十八 裴度"
+title: "新唐书 卷173"
 date: 2026-05-24
 weight: 173
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷173。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 裴度子:識 諗

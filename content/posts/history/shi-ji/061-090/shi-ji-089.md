@@ -1,5 +1,5 @@
 ---
-title: "史记 卷89 《張耳陳餘列傳》"
+title: "史记 卷89"
 date: 2026-05-24
 weight: 89
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷89。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《張耳陳餘列傳》

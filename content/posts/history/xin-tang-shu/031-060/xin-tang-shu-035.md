@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷35 卷三十五 志第二十五 五行二"
+title: "新唐书 卷35"
 date: 2026-05-24
 weight: 35
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷35。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 稼穡不成 常風 夜妖 華孽 臝蟲之孽 牛禍 黃眚黃祥 木火金水沴土 山摧 山鳴 土為變怪 金不從革 常暘 詩妖 訛言 毛蟲之孽 犬禍 白眚白祥 木沴金

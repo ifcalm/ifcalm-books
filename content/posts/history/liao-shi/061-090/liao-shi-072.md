@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷72 卷七十二 列傳第二: 宗室 義宗倍 章肅皇帝李胡 順宗濬 晉王敖盧斡"
+title: "辽史 卷72"
 date: 2026-05-24
 weight: 72
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷72。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宗室

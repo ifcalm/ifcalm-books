@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷18 卷十八 列傳第十 孫騰 高隆之 司馬子如"
+title: "北齐书 卷18"
 date: 2026-05-24
 weight: 18
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷18。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孫騰　高隆之　司馬子如

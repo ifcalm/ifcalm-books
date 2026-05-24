@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷223 卷二百二十三"
+title: "新唐书 卷223"
 date: 2026-05-24
 weight: 223
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷223。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷二百二十三上 列傳第一百四十八上 姦臣上

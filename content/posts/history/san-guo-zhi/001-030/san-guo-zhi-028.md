@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷28 卷二十八 魏書二十八 王毌丘諸葛鄧鍾傳"
+title: "三国志 卷28"
 date: 2026-05-24
 weight: 28
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷28。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王凌　毌丘儉　諸葛誕　鄧艾　鍾會

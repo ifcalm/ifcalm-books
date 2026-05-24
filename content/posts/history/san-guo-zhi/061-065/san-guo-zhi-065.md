@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷65 卷六十五 吳書二十 王樓賀韋華傳"
+title: "三国志 卷65"
 date: 2026-05-24
 weight: 65
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷65。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王蕃

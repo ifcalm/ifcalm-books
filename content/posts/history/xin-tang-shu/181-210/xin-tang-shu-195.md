@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷195 卷一百九十五 列傳第一百二十 孝友"
+title: "新唐书 卷195"
 date: 2026-05-24
 weight: 195
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷195。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝友

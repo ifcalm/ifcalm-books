@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷25 卷二十五 志第十五 天文三"
+title: "宋书 卷25"
 date: 2026-05-24
 weight: 25
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷25。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十五　　天文三

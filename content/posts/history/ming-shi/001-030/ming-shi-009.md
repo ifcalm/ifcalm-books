@@ -1,5 +1,5 @@
 ---
-title: "明史 卷9 卷九 本紀第九 宣宗"
+title: "明史 卷9"
 date: 2026-05-24
 weight: 9
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷9。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宣宗憲天崇道英明神聖欽文昌武寬仁純孝章皇帝，諱瞻基，仁宗長子也。母誠孝昭皇后。生之前夕，成祖夢太祖授以大圭曰：「傳之子孫，永世其昌。」即彌月，成祖見之曰：「兒英氣溢面，符吾夢矣。」比長，嗜書，智識傑出。

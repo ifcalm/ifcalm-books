@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷32 卷32 志第27 經籍一"
+title: "隋书 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書 隋書總目 隋書卷三十二志第二十七

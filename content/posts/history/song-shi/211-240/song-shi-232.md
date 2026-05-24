@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷232 卷二百三十二 表第二十三 宗室世系十八"
+title: "宋史 卷232"
 date: 2026-05-24
 weight: 232
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷232。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7232"
-source_license: "CC BY-SA 4.0"
 ---
 
 |  |  | 太師、建王、謚孝良宗藎 | 昌國公仲江 | 武功郎士謂 | 秉義郎不替 | 善性 | 汝磊 | 崇敏 | 必審 |  |  |  |

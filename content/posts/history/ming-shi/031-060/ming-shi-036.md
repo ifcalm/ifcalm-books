@@ -1,5 +1,5 @@
 ---
-title: "明史 卷36 卷三十六 志第十二 曆六"
+title: "明史 卷36"
 date: 2026-05-24
 weight: 36
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷36。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Hanchuan Caolu transcription"
-source_url: "https://www.sidneyluo.net/a/a24/036.htm"
-source_license: "Public domain source text"
 ---
 
 卷三十六 ‧ 志第十二

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷128 卷一百二十八 列傳第七十八: 段秀實 顏真卿"
+title: "旧唐书 卷128"
 date: 2026-05-24
 weight: 128
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷128。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 段秀實，字成公，隴州陽人也。祖達，左衛中郎。父行琛，洮州司馬，以秀實贈揚州大都督。秀實性至孝，六歲，母疾，水漿不入口七日，疾有間，然後飲食。及長，沈厚有斷。

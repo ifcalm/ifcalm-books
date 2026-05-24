@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷167 卷一百六十七 列傳第一百十七: 趙宗儒 竇易直 李逢吉 段文昌 宋申錫 李程"
+title: "旧唐书 卷167"
 date: 2026-05-24
 weight: 167
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷167。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙宗儒，字秉文。八代祖彤，仕後魏為征南將軍。父驊，為秘書少監。宗儒舉進士，初授弘文館校書郎。滿歲，又以書判入高等，補陸渾主簿。數月，征拜右拾遺，充翰林學士。時父驊秘書少監，與父並命，出於一日，當時榮之。建中四年，轉屯田員外郎，內職如故。居父憂，免喪，授司門、司勛二員外郎。

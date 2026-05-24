@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷80 卷八十 列傳第三十: 褚遂良 韓瑗 來濟 上官儀"
+title: "旧唐书 卷80"
 date: 2026-05-24
 weight: 80
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷80。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 褚遂良　韓瑗　來濟　上官儀

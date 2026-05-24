@@ -1,5 +1,5 @@
 ---
-title: "明史 卷183 卷一百八十三 列傳第七十一 何喬新 彭韶 周經 耿裕 倪岳 閔珪 戴珊"
+title: "明史 卷183"
 date: 2026-05-24
 weight: 183
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷183。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 何喬新彭韶周經耿裕倪嶽閔珪戴珊

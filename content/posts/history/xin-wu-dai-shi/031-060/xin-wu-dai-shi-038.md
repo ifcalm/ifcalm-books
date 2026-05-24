@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷38 卷三十八 宦者傳第二十六: 張承業 張居翰"
+title: "新五代史 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 嗚呼，自古宦、女之禍深矣！明者未形而知懼，暗者患及而猶安焉，至於亂亡而不可悔也。雖然，不可以不戒。作《宦者傳》。○張承業

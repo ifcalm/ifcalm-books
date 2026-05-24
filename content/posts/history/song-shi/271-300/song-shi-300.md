@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷300 卷三百 列傳第五十九 楊偕 王沿 杜杞 楊畋 周湛 徐的 姚仲孫 陳太素 馬尋 杜曾 李虛己 張傅 俞獻卿 陳從易 楊大雅"
+title: "宋史 卷300"
 date: 2026-05-24
 weight: 300
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷300。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊偕

@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷15 卷十五 王子侯表"
+title: "汉书 卷15"
 date: 2026-05-24
 weight: 15
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷15。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷十五 王子侯表 上

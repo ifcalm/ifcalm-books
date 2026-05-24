@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷37 卷三十七 本紀第三十七 寧宗一"
+title: "宋史 卷37"
 date: 2026-05-24
 weight: 37
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷37。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 寧宗法天備道純德茂功仁文哲武聖睿恭孝皇帝，諱擴，光宗第二子也，母曰慈懿皇后李氏。光宗爲恭王，慈懿夢日墜于庭，以手承之，已而有娠。乾道四年十月丙午，生于王邸，五年五月，賜今名。十一月乙丑，授右千牛衛大將軍。七年，光宗爲皇太子。淳熙五年十月戊午，遷明州觀察使，封英國公。七年二月，初就傅。

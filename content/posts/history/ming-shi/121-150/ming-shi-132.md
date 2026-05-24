@@ -1,5 +1,5 @@
 ---
-title: "明史 卷132 卷一百三十二 列傳第二十 朱亮祖 周德興 王弼 藍玉 謝成 李新"
+title: "明史 卷132"
 date: 2026-05-24
 weight: 132
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷132。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 硃亮祖

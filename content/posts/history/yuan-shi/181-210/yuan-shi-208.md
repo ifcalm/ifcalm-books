@@ -1,5 +1,5 @@
 ---
-title: "元史 卷208 卷二百〇八 列傳第九十五: 外夷一 高麗 耽羅 日本"
+title: "元史 卷208"
 date: 2026-05-24
 weight: 208
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷208。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高麗

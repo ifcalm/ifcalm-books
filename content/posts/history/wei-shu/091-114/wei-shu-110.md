@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷110 卷110 食貨志六"
+title: "魏书 卷110"
 date: 2026-05-24
 weight: 110
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷110。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 夫為國為家者，莫不以穀貨為本。故洪範八政，以食為首，其在易曰「聚人曰財」，周禮以九職任萬民，以九賦斂財賄。是以古先哲王莫不敬授民時，務農重穀，躬親千畝，貢賦九州。且一夫不耕，一女不織，或受其飢寒者。飢寒迫身，不能保其赤子，攘竊而犯法，以至於殺身。迹其所由，王政所陷也。夫百畝之內，勿奪其時，易其田疇，薄其稅斂，民可使富也。既飽且富，而仁義禮節生焉，亦所謂衣食足，識榮辱也。晉末，天下大亂，生民道盡，或死於干戈，或斃於飢饉，其幸而自存者蓋十五焉。

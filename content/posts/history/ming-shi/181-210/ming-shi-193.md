@@ -1,5 +1,5 @@
 ---
-title: "明史 卷193 卷一百九十三 列傳第八十一 費宏 翟鑾 李時 顧鼎臣 嚴訥 李春芳 陳以勤 趙貞吉 高儀"
+title: "明史 卷193"
 date: 2026-05-24
 weight: 193
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷193。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 費宏〈（弟寀從子懋中子懋賢世父瑄）〉翟鑾李時顧鼎臣嚴訥〈（袁煒）〉李春芳〈（孫思誠等）〉陳以勤趙貞吉〈（殷士儋）〉高儀

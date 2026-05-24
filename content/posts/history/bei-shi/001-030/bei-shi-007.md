@@ -1,5 +1,5 @@
 ---
-title: "北史 卷7 卷七 齊本紀中第七: 顯祖文宣帝 廢帝 孝昭帝"
+title: "北史 卷7"
 date: 2026-05-24
 weight: 7
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷7。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 顯祖文宣帝 廢帝 孝昭帝

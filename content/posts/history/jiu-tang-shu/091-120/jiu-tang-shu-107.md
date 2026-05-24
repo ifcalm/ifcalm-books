@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷107 卷一百〇七 列傳第五十七: 玄宗諸子"
+title: "旧唐书 卷107"
 date: 2026-05-24
 weight: 107
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷107。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 玄宗三十子：元獻楊皇后生肅宗，劉華妃生奉天皇帝琮、靖恭太子琬、儀王璲，趙麗妃生廢太子瑛，錢妃生棣王琰，皇甫德儀生鄂王瑤，劉才人生光王琚，貞順武皇后生夏悼王一、懷哀王敏、壽王瑁、盛王琦，高婕妤生潁王璬、郭順儀生永王璘，柳婕妤生延王玢，鐘美人生濟王環，盧美人生信王瑝，閻才人生義王玭，王美人生陳王珪，陳美人生豐王珙，鄭才人生恆王瑱，武賢儀生涼王璿，汴哀王璥，余七王早夭。

@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷29 卷29 奚斤 叔孫建"
+title: "魏书 卷29"
 date: 2026-05-24
 weight: 29
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷29。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 奚斤　叔孫建

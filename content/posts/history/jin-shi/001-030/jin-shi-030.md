@@ -1,5 +1,5 @@
 ---
-title: "金史 卷30 卷三十 志第十一: 禮三 宗廟 禘袷 朝享、時享儀"
+title: "金史 卷30"
 date: 2026-05-24
 weight: 30
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷30。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宗廟

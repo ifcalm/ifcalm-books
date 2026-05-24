@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷17 卷十七 景武昭宣元成功臣表"
+title: "汉书 卷17"
 date: 2026-05-24
 weight: 17
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷17。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 昔書稱「蠻夷帥服」，[1]詩云「徐方旣倈」，[2]春秋列潞子之爵，許其慕諸夏也。[3]漢興至于孝文時，乃有弓高、襄城之封，[4]雖自外倈，本功臣後。故至孝景始欲侯降者，丞相周亞夫守約而爭。[5]帝黜其議，初開封賞之科，[6]又有吳楚之事。武興胡越之伐，將帥受爵，應本約矣。[7]後世承平，頗有勞臣，輯而序之，續元功次云。[8]

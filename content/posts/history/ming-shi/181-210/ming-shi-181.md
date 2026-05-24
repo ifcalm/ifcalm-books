@@ -1,5 +1,5 @@
 ---
-title: "明史 卷181 卷一百八十一 列傳第六十九 徐溥 丘濬 劉健 謝遷 李東陽 王鏊 劉忠"
+title: "明史 卷181"
 date: 2026-05-24
 weight: 181
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷181。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 徐溥邱濬劉健謝遷李東陽王鏊劉忠

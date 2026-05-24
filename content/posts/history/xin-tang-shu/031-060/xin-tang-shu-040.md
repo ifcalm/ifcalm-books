@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷40 卷四十 志第三十 地理四"
+title: "新唐书 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 山南道東道採訪使 西道採訪使 隴右道

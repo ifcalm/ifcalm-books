@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷41 卷四十一 唐書17: 明宗本紀七"
+title: "旧五代史 卷41"
 date: 2026-05-24
 weight: 41
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷41。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 長興元年春正月丙寅朔，帝御明堂殿受朝賀，仗衛如常儀。乙亥，國子監請以監學生束修及光學錢備監中修葺公用，從之。丙子，帝謂宰臣曰：「時雪未降，如何？」馮道曰：「陛下恭行儉德，憂及蒸民，上合天心，必有春澤。」是夜，降雪。其夕，右散騎常侍蕭希甫封狀申樞密稱，得河堰衙官狀，告本都將校二十餘人欲謀不軌，至旦追問無狀，斬所告人。是日，幸至德宮。辛卯，中書奏，郊天有日，合差大內留守。詔以宣徽南院使朱宏昭充。

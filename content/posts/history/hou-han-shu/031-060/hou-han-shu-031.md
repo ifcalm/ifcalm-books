@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷31 卷三十一 郭杜孔張廉王蘇羊賈陸列傳"
+title: "后汉书 卷31"
 date: 2026-05-24
 weight: 31
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷31。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 郭伋

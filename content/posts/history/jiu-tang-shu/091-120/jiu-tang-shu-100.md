@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷100 卷一百 列傳第五十: 尹思貞 李傑 解琬 畢構 蘇珦 鄭惟忠 王志愔 盧從願 李朝隱 裴漼 王丘"
+title: "旧唐书 卷100"
 date: 2026-05-24
 weight: 100
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷100。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 尹思貞 李傑 解琬 畢構 蘇珦 子晉

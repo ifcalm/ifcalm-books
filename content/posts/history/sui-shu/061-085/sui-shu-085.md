@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷85 卷85 列傳第50 序言 宇文化及 司馬德戡 裴虔通 王充 段達"
+title: "隋书 卷85"
 date: 2026-05-24
 weight: 85
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷85。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷八十五列傳第五十

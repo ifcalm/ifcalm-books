@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷97 卷九十七 列傳第二十七: 耶律斡特剌 孩里 竇景庸 耶律引吉 楊績 趙徽 王觀 耶律喜孫"
+title: "辽史 卷97"
 date: 2026-05-24
 weight: 97
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷97。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律斡特剌孩裏竇景庸耶律引吉楊績趙徽王觀耶律喜孫

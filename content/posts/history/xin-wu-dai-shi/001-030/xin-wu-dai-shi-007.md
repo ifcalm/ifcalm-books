@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷7 卷七 唐本紀第七: 愍帝 廢帝"
+title: "新五代史 卷7"
 date: 2026-05-24
 weight: 7
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷7。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 湣皇帝，明宗第五子從厚也。為人形質豐厚，寡言好禮，明宗以其貌類己，特愛之。天成二年，以檢校司徒拜河南尹、判六軍諸衛事，加檢校太保、同中書門下平章事。從厚妃，孔循女也，安重誨怒循以女妻從厚，三年，罷循樞密使，出從厚為宣武軍節度使。明年，徙鎮河東。長興元年，封從厚宋王，徙鎮成德。二年，徙鎮天雄，累加兼中書令。

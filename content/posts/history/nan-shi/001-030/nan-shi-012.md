@@ -1,5 +1,5 @@
 ---
-title: "南史 卷12 卷十二 列傳第二 后妃下"
+title: "南史 卷12"
 date: 2026-05-24
 weight: 12
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷12。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁文獻張皇后　武德郗皇后　武丁貴嬪　武阮修容　簡文王皇后　元徐妃　敬夏太后　敬王皇后　陳武宣章皇后　文沈皇后　廢帝王皇后　宣柳皇后　後主沈皇后

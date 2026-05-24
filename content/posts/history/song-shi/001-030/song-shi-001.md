@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷1 卷一 本紀第一 太祖一"
+title: "宋史 卷1"
 date: 2026-05-24
 weight: 1
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷1。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 太祖啟運立極英武睿文神德聖功至明大孝皇帝諱匡胤字元朗，姓趙氏涿郡人也。高祖朓，是為僖祖，仕唐歷永清、文安、幽都令。朓生珽，是為順祖，歷藩鎮從事，累官兼御史中丞。珽生敬，是為翼祖，歷營、薊、涿三州刺史。敬生弘殷，是為宣祖。周顯德中，宣祖貴，贈敬左驍騎衛上將軍。

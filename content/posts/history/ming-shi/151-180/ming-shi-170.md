@@ -1,5 +1,5 @@
 ---
-title: "明史 卷170 卷一百七十 列傳第五十八 于謙"
+title: "明史 卷170"
 date: 2026-05-24
 weight: 170
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷170。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 于謙子:冕 附:吳寧 王偉

@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷96 卷九十六 列傳第二十六: 耶律仁先 耶律良 蕭韓家奴 蕭德 蕭惟信 蕭樂音奴 耶律敵烈 姚景行 耶律阿思"
+title: "辽史 卷96"
 date: 2026-05-24
 weight: 96
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷96。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律仁先〈（撻不也）〉耶律良蕭韓家奴蕭德蕭惟信蕭樂音奴耶律敵烈姚景行耶律阿思

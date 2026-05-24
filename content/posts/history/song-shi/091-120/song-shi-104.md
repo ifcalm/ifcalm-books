@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷104 卷一百〇四 志第五十七 禮七"
+title: "宋史 卷104"
 date: 2026-05-24
 weight: 104
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷104。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 封禪汾陰後土朝謁太清宮天書九鼎

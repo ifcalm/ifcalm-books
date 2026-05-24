@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷381 卷三百八十一 列傳第一百四十 范如圭 吳表臣 王居正 晏敦復 黃龜年 程瑀 張闡 洪擬 趙逵"
+title: "宋史 卷381"
 date: 2026-05-24
 weight: 381
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷381。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 范如圭

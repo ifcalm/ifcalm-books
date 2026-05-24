@@ -1,5 +1,5 @@
 ---
-title: "南史 卷41 卷四十一 列傳第三十一 齊宗室"
+title: "南史 卷41"
 date: 2026-05-24
 weight: 41
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷41。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第三十一齊宗室

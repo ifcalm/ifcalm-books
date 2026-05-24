@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷234 卷二百三十四 表第二十五 宗室世系二十"
+title: "宋史 卷234"
 date: 2026-05-24
 weight: 234
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷234。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7234"
-source_license: "CC BY-SA 4.0"
 ---
 
 魏王廷美十子，長高密郡王德恭、次廣平郡王德隆、次頴川郡王德彝、次廣陵郡王德雍、次鄖國公德鈞、次江國公德欽、次原國公德潤無子、次申王德文、次姑臧侯德願無子、次紀國公德存，分為八房。

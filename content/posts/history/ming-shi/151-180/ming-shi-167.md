@@ -1,5 +1,5 @@
 ---
-title: "明史 卷167 卷一百六十七 列傳第五十五 曹鼐 鄺埜 王佐 孫祥 袁彬"
+title: "明史 卷167"
 date: 2026-05-24
 weight: 167
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷167。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 曹鼐〈（張益鄺埜）〉王佐〈（丁鉉等）〉孫祥〈（謝澤）〉袁彬〈（哈銘袁敏）〉

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷196 卷一百九十六 列傳第八十四 張璁 桂萼 方獻夫 夏言"
+title: "明史 卷196"
 date: 2026-05-24
 weight: 196
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷196。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張璁〈（胡鐸）〉桂萼方獻夫夏言

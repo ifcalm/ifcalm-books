@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷146 卷一百四十六 列傳第九十六: 薛播 鮑防 李自良 李說 嚴綬 蕭昕 杜亞 王緯 李若初 于頎 盧徵 楊憑 鄭元 杜兼 裴玢 薛伾"
+title: "旧唐书 卷146"
 date: 2026-05-24
 weight: 146
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷146。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 薛播，河中寶鼎人，中書舍人文思曾孫也。父元暉，什邡令，以播贈工部郎中。播，天寶中舉進士，補校書郎，累授萬年縣丞、武功令、殿中侍御史、刑部員外郎、萬年令。播溫敏，善與人交，李棲筠、常袞、崔祐甫皆引擢之。及祐甫輔政，用為中書舍人。出汝州刺史，以公事貶泉州刺史。尋除晉州刺史，河南尹，遷尚書左丞，轉禮部侍郎。遇疾，貞元三年卒，贈禮部尚書。

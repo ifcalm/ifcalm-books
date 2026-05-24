@@ -1,5 +1,5 @@
 ---
-title: "金史 卷124 卷一百二十四 列傳第六十二: 忠義四 馬慶祥 商衡 朮甲脫魯灰 楊達夫 馮延登 烏古孫仲端 烏古孫奴申 蒲察琦 蔡八兒 溫敦昌孫 完顏絳山 畢資倫 郭蝦蟆"
+title: "金史 卷124"
 date: 2026-05-24
 weight: 124
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷124。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第六十二 忠義四 ○馬慶祥 商衡 朮甲脫魯灰 楊達夫 馮延登 烏古孫仲端 烏古孫奴申 蒲察琦 蔡八兒 溫敦昌孫 完顏絳山 畢資倫 郭蝦蟆

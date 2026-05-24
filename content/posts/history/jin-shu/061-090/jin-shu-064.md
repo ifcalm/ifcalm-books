@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷64 卷六十四 列傳第三十四 武十三王 元四王 簡文三子"
+title: "晋书 卷64"
 date: 2026-05-24
 weight: 64
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷64。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 武十三王

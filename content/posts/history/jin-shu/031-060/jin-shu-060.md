@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷60 卷六十 列傳第三十 解系 孫旂 孟觀 牽秀 繆播 皇甫重 張輔 李含 張方 閻鼎 索靖 賈疋"
+title: "晋书 卷60"
 date: 2026-05-24
 weight: 60
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷60。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 解系〈（弟結 結弟育）〉孫旂 孟觀 牽秀 繆播〈（從弟胤）〉皇甫重 張輔 李含 張方 閻鼎 索靖〈（子綝）〉賈疋

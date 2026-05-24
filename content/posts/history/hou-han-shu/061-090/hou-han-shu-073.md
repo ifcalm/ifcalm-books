@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷73 卷七十三 劉虞公孫瓚陶謙列傳"
+title: "后汉书 卷73"
 date: 2026-05-24
 weight: 73
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷73。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%BE%8C%E6%BC%A2%E6%9B%B8/%E5%8D%B773"
-source_license: "CC BY-SA 4.0"
 ---
 
 後漢書卷七十三　劉虞公孫瓚陶謙列傳　第六十三

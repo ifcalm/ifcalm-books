@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷45 卷四十五 列傳第五 王鎮惡 檀韶 向靖 劉懷慎 劉粹"
+title: "宋书 卷45"
 date: 2026-05-24
 weight: 45
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷45。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第五　　王鎮惡 檀韶 向靖 劉懷慎 劉粹

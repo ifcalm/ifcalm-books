@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷121 卷一百二十一 列傳第七十一: 僕固懷恩 梁崇義 李懷光"
+title: "旧唐书 卷121"
 date: 2026-05-24
 weight: 121
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷121。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 仆固懷恩梁崇義李懷光

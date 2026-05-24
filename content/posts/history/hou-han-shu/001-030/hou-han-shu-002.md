@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷2 卷二 顯宗孝明帝紀"
+title: "后汉书 卷2"
 date: 2026-05-24
 weight: 2
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷2。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 顯宗孝明皇帝諱莊，光武第四子也。母陰皇后。帝生而豐下，十歲能通《春秋》，光武奇之。建武十五年封東海公，十七年進爵為王，十九年立為皇太子。師事博士桓榮，學通《尚書》。

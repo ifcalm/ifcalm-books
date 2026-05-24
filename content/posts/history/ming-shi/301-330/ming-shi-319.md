@@ -1,5 +1,5 @@
 ---
-title: "明史 卷319 卷三百十九 列傳第二百〇七 廣西土司三"
+title: "明史 卷319"
 date: 2026-05-24
 weight: 319
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷319。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 泗城利州龍州歸順向武奉議江州思陵〈（廣東瓊州府附）〉

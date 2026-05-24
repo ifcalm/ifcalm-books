@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷129 卷一百二十九 載記第二十九 沮渠蒙遜"
+title: "晋书 卷129"
 date: 2026-05-24
 weight: 129
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷129。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 沮渠蒙遜

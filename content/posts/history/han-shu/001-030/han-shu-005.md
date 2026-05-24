@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷5 卷五 景帝紀"
+title: "汉书 卷5"
 date: 2026-05-24
 weight: 5
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷5。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝景皇帝，文帝太子也。母曰竇皇后。後七年六月，文帝崩。丁未，太子即皇帝位，尊皇太后薄氏曰太皇太后，皇后曰皇太后。

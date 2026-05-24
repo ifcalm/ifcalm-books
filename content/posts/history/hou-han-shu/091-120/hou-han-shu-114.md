@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷114 第二十四 百官一 太傅 太尉 司徒 司空 將軍"
+title: "后汉书 卷114"
 date: 2026-05-24
 weight: 114
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷114。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十四　　百官一

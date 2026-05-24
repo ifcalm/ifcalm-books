@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷467 卷四百六十七 列傳第二百二十六 宦者二 楊守珍 韓守英 藍繼宗 張惟吉養子:若水 甘昭吉 盧守懃 王守規 李憲 張茂則 宋用臣 王中正 李舜舉 石得一 梁從吉 劉惟簡"
+title: "宋史 卷467"
 date: 2026-05-24
 weight: 467
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷467。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宦者二

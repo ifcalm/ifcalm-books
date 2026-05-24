@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷262 卷二百六十二 列傳第二十一 李穀 昝居潤 竇貞固 李濤 王易簡 趙上交 張錫 張鑄 邊歸讜 劉溫叟 劉濤 邊光範 劉載 程羽"
+title: "宋史 卷262"
 date: 2026-05-24
 weight: 262
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷262。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李穀

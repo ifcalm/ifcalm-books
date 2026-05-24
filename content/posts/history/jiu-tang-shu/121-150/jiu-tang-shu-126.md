@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷126 卷一百二十六 列傳第七十六: 李揆 李涵 陳少游 盧鸑 裴諝"
+title: "旧唐书 卷126"
 date: 2026-05-24
 weight: 126
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷126。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李揆字端卿，隴西成紀人，而家於鄭州，代為冠族。秦府學士、給事中玄道玄孫，秘書監、贈吏部尚書成裕之子。少聰敏好學，善屬文。開元末，舉進士，補陳留尉，獻書闕下，詔中書試文章，擢拜右拾遺。改右補闕、起居郎，知宗子表疏。遷司勛員外郎、考功郎中，並知制誥。扈從劍南，拜中書舍人。

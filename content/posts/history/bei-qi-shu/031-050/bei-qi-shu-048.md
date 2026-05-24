@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷48 卷四八 補列傳第四十 外戚"
+title: "北齐书 卷48"
 date: 2026-05-24
 weight: 48
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷48。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 外戚

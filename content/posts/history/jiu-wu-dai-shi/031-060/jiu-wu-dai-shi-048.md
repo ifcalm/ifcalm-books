@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷48 卷四十八 唐書24: 末帝本紀下"
+title: "旧五代史 卷48"
 date: 2026-05-24
 weight: 48
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷48。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 清泰三年春正月辛卯朔，帝御文明殿受朝賀，仗衛如式。乙未，百濟遣使獻方物。戊戌，幸龍門佛寺祈雪。癸卯，以給事中、充樞密院直學士呂琦為端明殿學士；以六軍諸衛判官、尚書工部郎中薛文遇為樞密院直學士。乙巳，以上元夜京城張燈，帝微行，置酒於趙延壽之第。丁未，皇子河南尹、判六軍諸衛事重美封雍王。己未，以前司農卿王彥鎔為太僕卿。

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷39 卷三十九 志第十五 曆九"
+title: "明史 卷39"
 date: 2026-05-24
 weight: 39
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷39。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Hanchuan Caolu transcription"
-source_url: "https://www.sidneyluo.net/a/a24/039.htm"
-source_license: "Public domain source text"
 ---
 
 卷三十九 ‧ 志第十五

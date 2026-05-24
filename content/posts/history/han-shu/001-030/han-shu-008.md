@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷8 卷八 宣帝紀"
+title: "汉书 卷8"
 date: 2026-05-24
 weight: 8
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷8。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝宣皇帝，武帝曾孫，戾太子孫也。太子納史良娣，生史皇孫。皇孫納王夫人，生宣帝，號曰皇曾孫。生 數月，遭巫蠱事，太子、良娣、皇孫、王夫人皆遇害。語在太子傳。曾孫雖在襁褓，猶坐收繫郡邸獄。而邴吉為廷尉監，治巫蠱於郡邸，憐曾孫之亡辜，使女徒復作 淮陽趙徵卿、渭城胡組更乳養，私給衣食，視遇甚有恩。

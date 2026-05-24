@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷415 卷四百十五 列傳第一百七十四 傅伯成 葛洪 曾三復 黃疇若 袁韶 危稹 程公許 羅必元 王遂"
+title: "宋史 卷415"
 date: 2026-05-24
 weight: 415
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷415。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 傅伯成葛洪曾三復黃疇若袁韶危稹程公許羅必元王遂

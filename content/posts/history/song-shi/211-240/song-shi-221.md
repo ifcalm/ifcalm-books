@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷221 卷二百二十一 表第十二 宗室世系七"
+title: "宋史 卷221"
 date: 2026-05-24
 weight: 221
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷221。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7221"
-source_license: "CC BY-SA 4.0"
 ---
 
 |  |  |  | 少師、榮國公世闡 | 贈開府儀同三司令話 | 忠訓郎子璋 | 伯通 | 師農 |  |  |  |  |  |

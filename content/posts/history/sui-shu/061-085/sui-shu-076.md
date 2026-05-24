@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷76 卷76 列傳第41 文學"
+title: "隋书 卷76"
 date: 2026-05-24
 weight: 76
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷76。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷七十六列傳第四十一

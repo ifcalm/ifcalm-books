@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷431 卷四百三十一 列傳第一百九十 儒林一 聶崇義 邢昺 孫奭 王昭素 孔維 孔宜 崔頌子:曥 尹拙 田敏 辛文悅 李覺 崔頤正弟:偓佺 李之才"
+title: "宋史 卷431"
 date: 2026-05-24
 weight: 431
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷431。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 聶崇義

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷329 卷三百二十九 列傳第八十八 常秩 鄧綰 李定 舒亶 蹇周輔 徐鐸 王廣淵 王陶 王子韶 何正臣 陳繹"
+title: "宋史 卷329"
 date: 2026-05-24
 weight: 329
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷329。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 常秩

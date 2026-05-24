@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷47 卷四十七 志第三十七 百官二"
+title: "新唐书 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷47。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 門下省弘文館 中書省集賢殿書院 史館 祕書省著作局 司天臺 殿中省尚食局 尚藥局 尚衣局 尚舍局 尚乘局 尚輦局 內侍省掖庭局 宮闈局 奚官局 內僕局 內府局 太子內坊局 內官 宮官尚宮局 尚儀局

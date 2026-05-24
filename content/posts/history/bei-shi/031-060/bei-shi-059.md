@@ -1,5 +1,5 @@
 ---
-title: "北史 卷59 卷五十九 列傳第四十七: 寇洛 趙貴 李賢 梁禦"
+title: "北史 卷59"
 date: 2026-05-24
 weight: 59
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷59。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 寇洛 趙貴 李賢 梁禦

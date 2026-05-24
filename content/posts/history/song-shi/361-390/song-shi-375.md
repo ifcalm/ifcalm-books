@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷375 卷三百七十五 列傳第一百三十四 鄧肅 李邴 滕康 張守 富直柔 馮康國"
+title: "宋史 卷375"
 date: 2026-05-24
 weight: 375
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷375。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鄧肅 李邴 滕康 張守 富直柔 馮康國

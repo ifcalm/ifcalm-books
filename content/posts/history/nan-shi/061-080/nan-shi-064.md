@@ -1,5 +1,5 @@
 ---
-title: "南史 卷64 卷六十四 列傳第五十四 江子一 胡僧祐 徐文盛 陰子春 杜崱 王琳 張彪"
+title: "南史 卷64"
 date: 2026-05-24
 weight: 64
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷64。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第五十四

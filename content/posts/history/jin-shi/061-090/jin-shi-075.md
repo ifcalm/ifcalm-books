@@ -1,5 +1,5 @@
 ---
-title: "金史 卷75 卷七十五 列傳第十三: 盧彥倫子:璣(子:亨嗣) 毛子廉 李三錫 孔敬宗 李師夔 沈璋 左企弓 虞仲文 曹勇義 康公弼 左泌弟:淵(子:光慶)"
+title: "金史 卷75"
 date: 2026-05-24
 weight: 75
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷75。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十三 ○盧彥倫子:璣(子:亨嗣) 毛子廉 李三錫 孔敬宗 李師夔 沈璋 左企弓 虞仲文 曹勇義 康公弼 左泌弟:淵(子:光慶)

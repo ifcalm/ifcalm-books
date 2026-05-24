@@ -1,5 +1,5 @@
 ---
-title: "元史 卷115 卷一百十五 列傳第二: 睿宗 裕宗 顯宗 順宗"
+title: "元史 卷115"
 date: 2026-05-24
 weight: 115
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷115。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 拖雷

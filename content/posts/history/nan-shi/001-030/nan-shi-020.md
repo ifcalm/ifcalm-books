@@ -1,5 +1,5 @@
 ---
-title: "南史 卷20 卷二十 列傳第十 謝弘微"
+title: "南史 卷20"
 date: 2026-05-24
 weight: 20
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷20。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十

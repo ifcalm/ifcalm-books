@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷159 卷一百五十九 志第一百十二 選舉五"
+title: "宋史 卷159"
 date: 2026-05-24
 weight: 159
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷159。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 選舉五〈（銓法下）〉○遠州銓補蔭流外補

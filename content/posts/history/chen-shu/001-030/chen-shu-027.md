@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷27 卷二十七 列傳第二十一: 江總 姚察"
+title: "陈书 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 江總

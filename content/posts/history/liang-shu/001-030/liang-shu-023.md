@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷23 卷二十三 列傳第十七 長沙嗣王業 永陽嗣王伯游 衡陽嗣王元簡 桂陽嗣王象"
+title: "梁书 卷23"
 date: 2026-05-24
 weight: 23
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷23。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第二十三 列傳第十七

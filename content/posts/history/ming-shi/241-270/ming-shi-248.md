@@ -1,5 +1,5 @@
 ---
-title: "明史 卷248 卷二百四十八 列傳第一百三十六 梅之煥 劉策 李若星 耿如杞 顏繼祖 李繼貞 方震孺 徐從治"
+title: "明史 卷248"
 date: 2026-05-24
 weight: 248
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷248。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梅之煥劉策〈（徐縉芳陳一元）〉李若星耿如杞〈（胡士容）〉顏繼祖〈（王應豸等）〉李繼貞方震孺徐從治〈（謝璉余大成等）〉

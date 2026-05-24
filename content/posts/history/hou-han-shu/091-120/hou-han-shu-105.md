@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷105 第十五 五行三 大水 水變色 大寒 雹 冬雷 山鳴 魚孽 蝗"
+title: "后汉书 卷105"
 date: 2026-05-24
 weight: 105
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷105。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十五　　五行三

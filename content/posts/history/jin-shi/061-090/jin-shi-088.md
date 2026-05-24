@@ -1,5 +1,5 @@
 ---
-title: "金史 卷88 卷八十八 列傳第二十六: 紇石烈良弼 完顏守道本名習尼列 石琚 唐括安禮 移剌道本名趙三 子:光祖"
+title: "金史 卷88"
 date: 2026-05-24
 weight: 88
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷88。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 紇石烈良弼

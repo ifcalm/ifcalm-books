@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷12 卷十二 本紀第十二: 德宗上"
+title: "旧唐书 卷12"
 date: 2026-05-24
 weight: 12
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷12。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 德宗神武孝文皇帝諱適，代宗長子，母曰睿真皇后沈氏。天寶元年四月癸巳，生於長安大內之東宮。其年十二月，拜特進，封奉節郡王。代宗即位之年五月，以上為天下兵馬元帥，改封魯王。八月，改封雍王。時史朝義據東都，十月，遣上會諸軍於陝州，大舉討賊。十一月，破賊於洛陽，進收東都，河南平定。朝義走河北。分命諸將追之，俄而賊將懷仙斬朝義首以獻，河北平。以元帥功拜尚書令，食實封二千戶，與郭子儀等八人圖形淩煙閣。廣德二年二月，立為皇太子。

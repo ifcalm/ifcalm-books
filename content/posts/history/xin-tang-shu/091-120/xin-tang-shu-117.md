@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷117 卷一百一十七 列傳第四十二 裴劉魏李吉"
+title: "新唐书 卷117"
 date: 2026-05-24
 weight: 117
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷117。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 裴劉魏李吉

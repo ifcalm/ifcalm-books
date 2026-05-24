@@ -1,5 +1,5 @@
 ---
-title: "南史 卷58 卷五十八 列傳第四十八 韋叡 裴邃"
+title: "南史 卷58"
 date: 2026-05-24
 weight: 58
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷58。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第四十八

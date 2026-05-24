@@ -1,5 +1,5 @@
 ---
-title: "史记 卷107 《魏其武安侯列傳》"
+title: "史记 卷107"
 date: 2026-05-24
 weight: 107
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷107。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《魏其武安侯列傳》

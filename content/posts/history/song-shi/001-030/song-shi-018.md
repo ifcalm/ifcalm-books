@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷18 卷十八 本紀第十八 哲宗二"
+title: "宋史 卷18"
 date: 2026-05-24
 weight: 18
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷18。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 紹聖元年春正月癸酉朔，群臣詣西上閣門進名奉慰。丙申，夏人來貢。辛丑，遣中書舍人呂希純等行河。罷河東大銅錢。

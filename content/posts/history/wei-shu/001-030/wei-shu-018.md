@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷18 卷18 太武五王"
+title: "魏书 卷18"
 date: 2026-05-24
 weight: 18
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷18。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 晉王　東平王　臨淮王　廣陽王　南安王

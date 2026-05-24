@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷49 卷四十九 志第二十九: 食貨下"
+title: "旧唐书 卷49"
 date: 2026-05-24
 weight: 49
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷49。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十九食貨下

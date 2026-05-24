@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷93 卷九十三 列傳第四十三: 婁師德 王孝傑 唐休璟 張仁願 薛訥 王晙"
+title: "旧唐书 卷93"
 date: 2026-05-24
 weight: 93
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷93。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 婁師德王孝傑唐休璟張仁願薛訥王晙

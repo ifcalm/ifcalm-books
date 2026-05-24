@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷24 卷24 燕鳳 許謙 張衮 崔玄伯 鄧淵"
+title: "魏书 卷24"
 date: 2026-05-24
 weight: 24
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷24。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 燕鳳　許謙　張袞　崔玄伯　鄧淵

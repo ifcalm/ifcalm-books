@@ -1,5 +1,5 @@
 ---
-title: "明史 卷225 卷二百二十五 列傳第一百十三 張瀚 王國光 梁夢龍 楊巍 李戴 趙煥 鄭繼之"
+title: "明史 卷225"
 date: 2026-05-24
 weight: 225
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷225。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張瀚王國光梁夢龍楊巍李戴趙煥鄭繼之

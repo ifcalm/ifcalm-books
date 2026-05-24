@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷154 卷一百五十四 列傳第一百〇四: 孔巢父 許孟容 呂元膺 劉棲楚 張宿 熊望 柏耆"
+title: "旧唐书 卷154"
 date: 2026-05-24
 weight: 154
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷154。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孔巢父，冀州人，字弱翁。父如珪，海州司戶參軍，以巢父贈工部郎中。巢父早勤文史，少時與韓準、裴政、李白、張叔明、陶沔隱於徂來山，時號「竹溪六逸」。永王璘起兵江淮，聞其賢，以從事辟之。巢父知其必敗，側身潛遁，由是知名。

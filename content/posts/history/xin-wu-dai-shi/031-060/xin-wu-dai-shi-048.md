@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷48 卷四十八 雜傳第三十六: 盧文進 李金全 楊思權 尹暉 王弘贄 劉審交 王周 高行周 白再榮 安叔千"
+title: "新五代史 卷48"
 date: 2026-05-24
 weight: 48
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷48。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 盧文進

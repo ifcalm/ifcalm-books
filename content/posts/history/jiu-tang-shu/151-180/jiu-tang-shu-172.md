@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷172 卷一百七十二 列傳第一百二十二: 令狐楚 牛僧孺 蕭俛 李石"
+title: "旧唐书 卷172"
 date: 2026-05-24
 weight: 172
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷172。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 令狐楚

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷308 卷三百〇八 列傳第六十七 上官正 盧斌 周審玉 裴濟 李繼宣 張旦 張煦 張佶"
+title: "宋史 卷308"
 date: 2026-05-24
 weight: 308
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷308。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 上官正

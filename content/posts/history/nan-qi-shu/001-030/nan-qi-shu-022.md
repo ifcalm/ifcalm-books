@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷22 卷二十二 列傳第三 豫章文獻王"
+title: "南齐书 卷22"
 date: 2026-05-24
 weight: 22
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷22。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷二十二‧列傳第三

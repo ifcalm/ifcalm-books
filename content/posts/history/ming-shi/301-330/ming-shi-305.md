@@ -1,5 +1,5 @@
 ---
-title: "明史 卷305 卷三百〇五 列傳第一百九十三 宦官二 李芳 馮保 張鯨 陳增 梁永 陳矩 王安 魏忠賢 王體乾 崔文昇 張彝憲 高起潛 王承恩 方正化"
+title: "明史 卷305"
 date: 2026-05-24
 weight: 305
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷305。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李芳馮保張鯨陳增〈（陳奉高淮梁永楊榮）〉陳矩王安魏忠賢王體乾〈（李永貞等）〉崔文升張彜憲高起潛王承恩方正化

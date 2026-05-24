@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷19 卷十九 列傳第十一 賀拔允 蔡儁 韓賢 尉長命 王懷 劉貴 任延敬 莫多婁貸文 高市貴 厙狄迴洛 厙狄盛 薛孤延 張保洛 侯莫陳相"
+title: "北齐书 卷19"
 date: 2026-05-24
 weight: 19
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷19。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 賀拔允 蔡儁 韓賢 尉長命 王懷 劉貴 任延敬 莫多婁貸文 高市貴 厙狄迴洛 厙狄盛 薛孤延 張保洛 侯莫陳相

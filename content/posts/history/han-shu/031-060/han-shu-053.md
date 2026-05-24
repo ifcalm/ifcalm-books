@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷53 卷五十三 景十三王傳"
+title: "汉书 卷53"
 date: 2026-05-24
 weight: 53
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷53。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷五十三 景十三王傳第二十三

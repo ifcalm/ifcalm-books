@@ -1,5 +1,5 @@
 ---
-title: "元史 卷109 卷一百〇九 表第四: 諸公主表"
+title: "元史 卷109"
 date: 2026-05-24
 weight: 109
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷109。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 昔者史臣有言，婦人內夫家，雖天姬之貴，史氏猶外而弗詳。然元室之制，非勳臣世族及封國之君，則莫得尚主，是以世聯戚畹者，親視諸王，其藩翰屏垣之寄，蓋亦重矣。則其世次，顧可以弗之著耶？且秦漢以來，惟帝姬得號公主，而元則諸王之女亦概稱焉，是又不可不知也。惜乎記載弗備，所可見者，僅此而已。作諸公主表。

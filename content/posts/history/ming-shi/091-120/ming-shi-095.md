@@ -1,5 +1,5 @@
 ---
-title: "明史 卷95 卷九十五 志第七十一 刑法三"
+title: "明史 卷95"
 date: 2026-05-24
 weight: 95
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷95。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 刑法有創之自明，不衷古制者，廷杖、東西廠、錦衣衛、鎮撫司獄是已。是數者，殺人至慘，而不麗於法。踵而行之，至末造而極。舉朝野命，一聽之武夫、宦豎之手，良可歎也。

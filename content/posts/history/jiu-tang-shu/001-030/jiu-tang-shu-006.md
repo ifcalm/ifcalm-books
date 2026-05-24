@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷6 卷六 本紀第六: 則天皇后"
+title: "旧唐书 卷6"
 date: 2026-05-24
 weight: 6
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷6。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 則天皇后武氏，諱曌，并州文水人也。父士彠，隋大業末為鷹揚府隊正。高祖行軍于汾、晉，每休止其家。義旗初起，從平京城。貞觀中，累遷工部尚書、荊州都督，封應國公。

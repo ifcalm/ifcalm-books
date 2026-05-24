@@ -1,5 +1,5 @@
 ---
-title: "明史 卷204 卷二百〇四 列傳第九十二 陳九疇 翟鵬 孫繼魯 曾銑 丁汝夔 楊守謙 商大節 王忬 楊選"
+title: "明史 卷204"
 date: 2026-05-24
 weight: 204
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷204。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳九疇翟鵬〈（張漢）〉孫繼魯曾銑丁汝夔楊守謙商大節王抒楊選

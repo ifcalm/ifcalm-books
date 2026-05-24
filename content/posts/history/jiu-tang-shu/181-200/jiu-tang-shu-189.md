@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷189 卷一百八十九"
+title: "旧唐书 卷189"
 date: 2026-05-24
 weight: 189
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷189。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷一百八十九上 列傳第一百三十九上: 儒學上

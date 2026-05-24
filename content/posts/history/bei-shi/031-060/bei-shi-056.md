@@ -1,5 +1,5 @@
 ---
-title: "北史 卷56 卷五十六 列傳第四十四: 魏收 魏長賢 魏季景 魏蘭根"
+title: "北史 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 魏收 魏長賢 魏季景 魏蘭根

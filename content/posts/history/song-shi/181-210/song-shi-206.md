@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷206 卷二百〇六 志第一百五十九 藝文五"
+title: "宋史 卷206"
 date: 2026-05-24
 weight: 206
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷206。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 藝文五《燕丹子》三卷東方朔《神異經》二卷〈（晉張華傳）〉師曠《禽經》一卷〈（張華注）〉

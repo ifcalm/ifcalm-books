@@ -1,5 +1,5 @@
 ---
-title: "明史 卷226 卷二百二十六 列傳第一百十四 海瑞 丘橓 呂坤 郭正域"
+title: "明史 卷226"
 date: 2026-05-24
 weight: 226
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷226。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 海瑞附:何以尚 丘橓 呂坤 郭正域

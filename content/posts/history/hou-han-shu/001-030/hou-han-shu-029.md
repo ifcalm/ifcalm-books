@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷29 卷二十九 申屠剛鮑永郅惲列傳"
+title: "后汉书 卷29"
 date: 2026-05-24
 weight: 29
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷29。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 申屠剛

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷12 卷十二 本紀第十二 仁宗四"
+title: "宋史 卷12"
 date: 2026-05-24
 weight: 12
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷12。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 二年春正月癸卯，以歲饑，罷上元觀燈。壬子，命近臣同三司較天下財賦出入之數。

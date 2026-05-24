@@ -1,5 +1,5 @@
 ---
-title: "北史 卷46 卷四十六 列傳第三十四: 孫紹 張普惠 成淹 范紹 劉桃符 鹿悆 張燿 劉道斌 董紹 馮元興"
+title: "北史 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孫紹 張普惠 成淹 范紹 劉桃符 鹿悆 張燿 劉道斌 董紹 馮元興

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷174 卷一百七十四 列傳第六十一: 姚燧 郭貫 夾谷之奇 劉賡 耶律有尚 郝天挺 張孔孫"
+title: "元史 卷174"
 date: 2026-05-24
 weight: 174
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷174。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 姚燧

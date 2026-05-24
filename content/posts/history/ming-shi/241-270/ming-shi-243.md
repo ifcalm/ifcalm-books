@@ -1,5 +1,5 @@
 ---
-title: "明史 卷243 卷二百四十三 列傳第一百三十一 趙南星 鄒元標 孫慎行 高攀龍 馮從吾"
+title: "明史 卷243"
 date: 2026-05-24
 weight: 243
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷243。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙南星鄒元標孫慎行〈（盛以弘）〉高攀龍馮從吾

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷54 卷五十四 志第七 天文七"
+title: "宋史 卷54"
 date: 2026-05-24
 weight: 54
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷54。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 月犯列舍下

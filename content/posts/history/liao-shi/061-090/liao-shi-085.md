@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷85 卷八十五 列傳第十五: 蕭撻凜 蕭觀音奴 耶律題子 耶律諧理 耶律奴瓜 蕭柳 高勳 奚和朔奴 蕭塔列葛 耶律撒合"
+title: "辽史 卷85"
 date: 2026-05-24
 weight: 85
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷85。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭撻凜蕭觀音奴耶律題子耶律諧理耶律奴瓜蕭柳高勛奚和朔奴蕭塔列葛耶律撒合

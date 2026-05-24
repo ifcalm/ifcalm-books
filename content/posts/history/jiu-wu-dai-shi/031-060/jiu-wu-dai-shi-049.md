@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷49 卷四十九 唐書25: 后妃列傳一"
+title: "旧五代史 卷49"
 date: 2026-05-24
 weight: 49
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷49。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 后妃

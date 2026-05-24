@@ -1,5 +1,5 @@
 ---
-title: "周书 卷29 卷29 列傳第21 王傑 王勇 宇文虯 宇文盛 弟丘 耿豪 高琳 李和 伊婁穆 楊紹 王雅 達奚寔 劉雄 侯植"
+title: "周书 卷29"
 date: 2026-05-24
 weight: 29
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷29。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王傑

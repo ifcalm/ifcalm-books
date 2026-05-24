@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷57 卷五十七 列傳第三十八 魏虜"
+title: "南齐书 卷57"
 date: 2026-05-24
 weight: 57
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷57。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 魏虜，匈奴種也，姓托跋氏。晉永嘉六年，幷州刺史劉琨爲屠各胡劉聦所攻，索頭猗盧遣子曰利孫將兵救琨於太原，猗盧入居代郡，亦謂鮮卑。被髮左衽，故呼爲索頭。

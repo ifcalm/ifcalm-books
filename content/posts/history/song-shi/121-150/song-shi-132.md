@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷132 卷一百三十二 志第八十五 樂七"
+title: "宋史 卷132"
 date: 2026-05-24
 weight: 132
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷132。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 樂七〈（樂章一）〉○郊祀祈穀雩祀五方帝感生帝建隆郊祀八曲

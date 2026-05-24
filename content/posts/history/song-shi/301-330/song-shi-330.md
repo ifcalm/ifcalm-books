@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷330 卷三百三十 列傳第八十九 任顓 李參 郭申錫 傅求 張景憲 竇卞 張瓌 孫瑜 許遵 盧士宗 錢象先 韓璹 杜純 杜常 謝麟 王宗望 王吉甫"
+title: "宋史 卷330"
 date: 2026-05-24
 weight: 330
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷330。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 任顓

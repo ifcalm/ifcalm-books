@@ -1,5 +1,5 @@
 ---
-title: "元史 卷58 卷五十八 志第十: 地理一"
+title: "元史 卷58"
 date: 2026-05-24
 weight: 58
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷58。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 自封建變為郡縣，有天下者，漢、隋、唐、宋為盛，然幅員之廣，咸不逮元。漢梗于北狄，隋不能服東夷，唐患在西戎，宋患常在西北。若元，則起朔漠，併西域，平西夏，滅女真，臣高麗，定南詔，遂下江南，而天下為一，故其地北踰陰山，西極流沙，東盡遼左，南越海表。蓋漢，東西九千三百二里，南北一萬三千三百六十八里；唐，東西九千五百一十一里，南北一萬六千九百一十八里；元，東南所至不下漢、唐，而西北則過之，有難以里數限者矣。

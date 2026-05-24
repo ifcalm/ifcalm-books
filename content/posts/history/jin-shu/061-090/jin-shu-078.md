@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷78 卷七十八 列傳第四十八 孔愉 丁潭 陶回"
+title: "晋书 卷78"
 date: 2026-05-24
 weight: 78
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷78。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孔愉〈（子汪 安國 弟祗 從子坦嚴 從弟群 群子沉）〉 丁潭 張茂 陶回

@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷54 卷五十四 吳書九 周瑜魯肅呂蒙傳"
+title: "三国志 卷54"
 date: 2026-05-24
 weight: 54
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷54。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 周瑜

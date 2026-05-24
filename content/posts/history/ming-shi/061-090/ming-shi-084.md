@@ -1,5 +1,5 @@
 ---
-title: "明史 卷84 卷八十四 志第六十 河渠二"
+title: "明史 卷84"
 date: 2026-05-24
 weight: 84
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷84。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 黃河下

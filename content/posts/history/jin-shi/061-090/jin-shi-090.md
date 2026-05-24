@@ -1,5 +1,5 @@
 ---
-title: "金史 卷90 卷九十 列傳第二十八: 趙元 移剌道本名按 高德基 馬諷 完顏兀不喝 劉徽柔 賈少沖子:益 移剌斡里朵 阿勒根彥忠 張九思 高衎 楊邦基 丁暐仁"
+title: "金史 卷90"
 date: 2026-05-24
 weight: 90
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷90。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙元

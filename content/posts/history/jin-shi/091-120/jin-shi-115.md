@@ -1,5 +1,5 @@
 ---
-title: "金史 卷115 卷一百十五 列傳第五十三: 完顏奴申 崔立 李琦 聶天驥 赤盞尉忻"
+title: "金史 卷115"
 date: 2026-05-24
 weight: 115
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷115。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 完顏奴申

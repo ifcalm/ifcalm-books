@@ -1,5 +1,5 @@
 ---
-title: "明史 卷64 卷六十四 志第四十 儀衞"
+title: "明史 卷64"
 date: 2026-05-24
 weight: 64
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷64。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷六十四 志第四十

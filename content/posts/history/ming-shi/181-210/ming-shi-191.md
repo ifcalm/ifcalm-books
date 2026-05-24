@@ -1,5 +1,5 @@
 ---
-title: "明史 卷191 卷一百九十一 列傳第七十九 毛澄 汪俊 吳一鵬 朱希周 何孟春 豐熙 徐文華 薛蕙"
+title: "明史 卷191"
 date: 2026-05-24
 weight: 191
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷191。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 毛澄汪俊〈（弟偉）〉吳一鵬朱希周何孟春豐熙〈（子坊）〉徐文華薛蕙〈（胡侍王祿侯廷訓）〉

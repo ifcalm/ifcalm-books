@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷103 卷一百〇三 列傳第三十三: 文學上"
+title: "辽史 卷103"
 date: 2026-05-24
 weight: 103
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷103。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文學上 ○蕭韓家奴李澣

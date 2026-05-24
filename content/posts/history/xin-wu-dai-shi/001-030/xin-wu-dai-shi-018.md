@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷18 卷十八 漢家人傳第六:"
+title: "新五代史 卷18"
 date: 2026-05-24
 weight: 18
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷18。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高祖皇后李氏

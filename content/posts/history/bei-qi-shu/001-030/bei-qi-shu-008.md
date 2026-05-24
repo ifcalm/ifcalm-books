@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷8 卷八 補帝紀第八 後主 幼主"
+title: "北齐书 卷8"
 date: 2026-05-24
 weight: 8
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷8。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 後主　幼主

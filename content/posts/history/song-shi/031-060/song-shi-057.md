@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷57 卷五十七 志第十 天文十"
+title: "宋史 卷57"
 date: 2026-05-24
 weight: 57
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷57。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 流隕一

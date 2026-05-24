@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷47 卷四十七 志第二十七: 經籍下"
+title: "旧唐书 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷47。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 丙部子錄，十七家，七百五十三部，書一萬五千六百三十七卷。

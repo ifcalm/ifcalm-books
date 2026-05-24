@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷138 卷一百三十八 志第九十一 樂十三"
+title: "宋史 卷138"
 date: 2026-05-24
 weight: 138
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷138。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 樂十三〈（樂章七）〉○朝會禦樓肆赦恭上皇帝皇太后尊號上建隆乾德朝會樂章二十八首皇帝升坐，《隆安》

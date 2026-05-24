@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷30 卷三十 志第十: 音樂三"
+title: "旧唐书 卷30"
 date: 2026-05-24
 weight: 30
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷30。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十音樂三

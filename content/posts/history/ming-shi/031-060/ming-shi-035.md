@@ -1,5 +1,5 @@
 ---
-title: "明史 卷35 卷三十五 志第十一 曆五"
+title: "明史 卷35"
 date: 2026-05-24
 weight: 35
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷35。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Hanchuan Caolu transcription"
-source_url: "https://www.sidneyluo.net/a/a24/035.htm"
-source_license: "Public domain source text"
 ---
 
 卷三十五 ‧ 志第十一

@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷89 卷八十九 南匈奴列傳"
+title: "后汉书 卷89"
 date: 2026-05-24
 weight: 89
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷89。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南匈奴醢落尸逐鞮单于比者，呼韩邪单于之孙，乌珠留若鞮单于之子也。自呼韩邪后，诸子以次立，至比季父孝单于舆时，以比为右薁鞬日逐王，部领南边及乌桓。

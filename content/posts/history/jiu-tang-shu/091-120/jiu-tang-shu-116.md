@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷116 卷一百十六 列傳第六十六: 肅宗代宗諸子"
+title: "旧唐书 卷116"
 date: 2026-05-24
 weight: 116
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷116。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 肅宗皇帝十四子：章敬皇后生代宗皇帝，宮人孫氏生越王亻系，張氏生承天皇帝，王氏生衛王佖，陳婕妤生彭王僅，韋妃生兗王僴，張美人生涇王侹，裴昭儀生襄王僙，段婕妤生杞王倕，崔妃生召王偲，張皇后生恭懿太子佋、定王侗，宮人生鄆王榮、宋王僖。

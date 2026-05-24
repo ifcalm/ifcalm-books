@@ -1,5 +1,5 @@
 ---
-title: "明史 卷205 卷二百〇五 列傳第九十三 朱紈 張經 胡宗憲 曹邦輔 李遂 唐順之"
+title: "明史 卷205"
 date: 2026-05-24
 weight: 205
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷205。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 朱紈張經〈（李天寵周充楊宜彭黯等）〉胡宗憲〈（阮鶚宗禮）〉曹邦輔〈（任環吳成器）〉李遂〈（弟逢進）〉唐順之〈（子鶴征）〉

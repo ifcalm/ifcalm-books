@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷134 卷一百三十四 列傳第八十四: 馬燧 渾瑊"
+title: "旧唐书 卷134"
 date: 2026-05-24
 weight: 134
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷134。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 馬燧，字洵美，汝州郟城人，其先自右扶風徙焉。祖瑉，官至左玉鈐衛倉曹。父季龍，嘗舉明《孫》《吳》，俶儻善兵法，官至嵐州刺史、幽州經略軍使。燧少時，嘗與諸兄讀書，乃輟卷嘆曰：「天下將有事矣，丈夫當建功於代，以濟四海，安能矻矻為一儒哉！」燧姿度魁異，長六尺二寸，沈勇多智略，該涉群書，尤善兵法。

@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷46 卷四十六 志第三十六 百官一"
+title: "新唐书 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 唐之官制，其名號祿秩雖因時增損，而大抵皆沿隋故。其官司之別，曰省、曰台、曰寺、曰監、曰衛、曰府，各統其屬，以分職定位。其辯貴賤、敘勞能，則有品、有爵、有勳、有階，以時考核而升降之，所以任群材、治百事。其為法則精而密，其施于事則簡而易行，所以然者，由職有常守，而位有常員也。方唐之盛時，其制如此。蓋其始未嘗不欲立制度、明紀綱為萬世法，而常至於交侵紛亂者，由其時君不能慎守，而徇一切之苟且，故其事愈繁而官益冗，至失其職業而卒不能復。

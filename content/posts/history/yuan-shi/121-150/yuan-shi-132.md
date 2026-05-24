@@ -1,5 +1,5 @@
 ---
-title: "元史 卷132 卷一百三十二 列傳第十九: 杭忽思 步魯合答 玉哇失 麥里 探馬赤 拔都兒 昂吉兒 哈剌䚟 沙全 帖木兒不花"
+title: "元史 卷132"
 date: 2026-05-24
 weight: 132
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷132。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 杭忽思

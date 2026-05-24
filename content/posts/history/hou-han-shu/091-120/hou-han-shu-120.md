@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷120 第三十 輿服下 冕冠 長冠 委貌冠 皮弁冠 爵弁冠 通天冠 遠遊冠 高山冠...Volume 120: Travel and Dress Part Two"
+title: "后汉书 卷120"
 date: 2026-05-24
 weight: 120
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷120。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 冕冠 長冠 委貌冠 皮弁冠 爵弁冠 通天冠 遠湤冠 高山冠 進賢冠 法冠 武冠 建華冠 方山冠 巧士冠 卻非冠 卻敵冠 樊噲冠 術氏冠 鶡冠 幘 佩 刀 印 黃赤綬 赤綬 綠綬 紫綬 青綬 黑綬 黃綬 青紺綸 后夫人服

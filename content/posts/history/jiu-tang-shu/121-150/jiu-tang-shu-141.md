@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷141 卷一百四十一 列傳第九十一: 田承嗣 田弘正 張孝忠"
+title: "旧唐书 卷141"
 date: 2026-05-24
 weight: 141
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷141。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 田承嗣姪悅　子緒　緒子季安　田弘正子布　牟　布子在宥　張孝忠子茂昭　茂昭子克勤　弟茂宗　茂和　陳楚附

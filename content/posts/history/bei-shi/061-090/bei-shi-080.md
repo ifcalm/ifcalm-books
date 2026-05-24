@@ -1,5 +1,5 @@
 ---
-title: "北史 卷80 卷八十 列傳第六十八: 外戚"
+title: "北史 卷80"
 date: 2026-05-24
 weight: 80
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷80。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 夫左賢右戚，尚德尊功，有國者所以禦天下也。殷肇王基，不藉莘氏為佐；周成王業，未聞姒姓為輔。然曆觀累代外戚之家，乘母后之權以取高位厚秩者，多矣！而鮮能有克終之美，必罹顛覆之患，何哉？皆由乎居上不以至公任物，在下徒用私寵要榮。繭犢引大車，升質任厚棟，無德而尊，不知紀極，忽于滿盈之戒，罔念高危之咎。故鬼瞰其室，憂必及之，所以殺身傾族相繼於西京也。夫誠著艱難，功宣社稷，不以謙沖自牧，未免顛蹶之禍；而況道不足以濟時，仁不足以利物，自矜於己，以富貴驕人者乎！

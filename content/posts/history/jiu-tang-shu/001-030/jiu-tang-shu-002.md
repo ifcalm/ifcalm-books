@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷2 卷二 本紀第二: 太宗上"
+title: "旧唐书 卷2"
 date: 2026-05-24
 weight: 2
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷2。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 太宗文武大聖大廣孝皇帝諱世民，高祖第二子也。母曰太穆順聖皇后竇氏。隋開皇十八年十二月戊午，生於武功之別館。時有二龍戲於館門之外，三日而去。高祖之臨岐州，太宗時年四歲。有書生自言善相，謁高祖曰：“公貴人也，且有貴子。”見太宗，曰：“龍鳳之姿，天日之表，年將二十，必能濟世安民矣。”高祖懼其言泄，將殺之，忽失所在，因采“濟世安民”之義以為名焉。太宗幼聰睿，玄鑒深遠，臨機果斷，不拘小節，時人莫能測也。

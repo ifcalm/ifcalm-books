@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷133 卷一百三十三 志第八十六 樂八"
+title: "宋史 卷133"
 date: 2026-05-24
 weight: 133
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷133。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 樂八〈（樂章二）〉○明堂大饗皇地祇神州地祇朝日夕月高禖九宮貴神景祐大享明堂二首真宗配位奠幣，《誠安》

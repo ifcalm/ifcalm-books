@@ -1,5 +1,5 @@
 ---
-title: "明史 卷139 卷一百三十九 列傳第二十七 錢唐 韓宜可 蕭岐 馮堅 茹太素 李仕魯 葉伯巨 鄭士利 周敬心 王朴 張衡"
+title: "明史 卷139"
 date: 2026-05-24
 weight: 139
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷139。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 錢唐〈（程徐）〉韓宜可〈（周觀政歐陽韶）〉蕭岐〈（門克新）〉馮堅茹太素〈（曾秉正）〉李仕魯〈（陳汶輝）〉葉伯巨鄭士利〈（方徵）〉周敬心王樸

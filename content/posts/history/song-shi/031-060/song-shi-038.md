@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷38 卷三十八 本紀第三十八 寧宗二"
+title: "宋史 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 嘉泰元年春正月戊午，申嚴福建科鹽之禁。壬戌，謝深甫等薦士三十有五人，詔籍名中書，以待選擢。丁卯，命路鈐按閱諸州兵士，毋受饋遺及擅招軍。違者置諸法。庚午，以葛邲配饗光宗廟庭。丙子，金遣完顏充來弔祭。

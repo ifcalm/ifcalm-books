@@ -1,5 +1,5 @@
 ---
-title: "北史 卷19 卷十九 列傳第七: 文成五王 獻文六王 孝文六王"
+title: "北史 卷19"
 date: 2026-05-24
 weight: 19
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷19。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文成五王 獻文六王 孝文六王

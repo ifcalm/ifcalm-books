@@ -1,5 +1,5 @@
 ---
-title: "元史 卷167 卷一百六十七 列傳第五十四: 張立道 張庭珍 張惠 劉好禮 王國昌 姜彧 張礎 呂掞𡌳 譚資榮 王惲"
+title: "元史 卷167"
 date: 2026-05-24
 weight: 167
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷167。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張立道

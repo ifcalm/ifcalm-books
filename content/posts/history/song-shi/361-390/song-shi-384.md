@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷384 卷三百八十四 列傳第一百四十三 陳康伯 梁克家 汪澈 葉義問 蔣芾 葉顒 葉衡"
+title: "宋史 卷384"
 date: 2026-05-24
 weight: 384
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷384。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳康伯

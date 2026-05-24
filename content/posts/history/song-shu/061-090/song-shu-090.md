@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷90 卷九十 列傳第五十 明四王"
+title: "宋书 卷90"
 date: 2026-05-24
 weight: 90
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷90。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第五十　　明四王

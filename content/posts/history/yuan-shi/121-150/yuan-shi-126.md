@@ -1,5 +1,5 @@
 ---
-title: "元史 卷126 卷一百二十六 列傳第十三: 安童 廉希憲"
+title: "元史 卷126"
 date: 2026-05-24
 weight: 126
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷126。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 安童

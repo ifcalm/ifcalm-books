@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷445 卷四百四十五 列傳第二百〇四 文苑七 陳與義 汪藻 葉夢得 程俱 張嵲 韓駒 朱敦儒 葛勝仲 熊克 張即之趙蕃"
+title: "宋史 卷445"
 date: 2026-05-24
 weight: 445
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷445。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文苑七

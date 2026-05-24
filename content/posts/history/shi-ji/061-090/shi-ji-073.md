@@ -1,5 +1,5 @@
 ---
-title: "史记 卷73 《白起王翦列傳》"
+title: "史记 卷73"
 date: 2026-05-24
 weight: 73
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷73。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《白起王翦列傳》

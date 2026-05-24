@@ -1,5 +1,5 @@
 ---
-title: "南史 卷2 卷二 宋本紀中第二 文帝 孝武帝 前廢帝"
+title: "南史 卷2"
 date: 2026-05-24
 weight: 2
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷2。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宋本紀中第二

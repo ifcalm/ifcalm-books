@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷199 卷一百九十九 列傳第一百二十四 儒學中"
+title: "新唐书 卷199"
 date: 2026-05-24
 weight: 199
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷199。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 儒學中

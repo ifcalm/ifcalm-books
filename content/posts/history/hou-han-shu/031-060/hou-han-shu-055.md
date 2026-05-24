@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷55 卷五十五 章帝八王傳"
+title: "后汉书 卷55"
 date: 2026-05-24
 weight: 55
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷55。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 千乘貞王伉

@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷36 卷三十六 列傳第六 衞瓘 張華"
+title: "晋书 卷36"
 date: 2026-05-24
 weight: 36
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷36。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 衛瓘〈（子恆 恆子璪 璪弟玠）〉張華〈（子禕、韙）〉劉卞

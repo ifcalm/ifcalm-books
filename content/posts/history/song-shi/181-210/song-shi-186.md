@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷186 卷一百八十六 志第一百三十九 食貨下八"
+title: "宋史 卷186"
 date: 2026-05-24
 weight: 186
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷186。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 食貨下八○商稅市易均輸互市舶法

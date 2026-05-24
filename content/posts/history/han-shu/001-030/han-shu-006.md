@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷6 卷六 武帝紀"
+title: "汉书 卷6"
 date: 2026-05-24
 weight: 6
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷6。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝武皇帝，景帝中子也，母曰王美人。年四歲立為膠東王。七歲為皇太子，母為皇后。十六歲，後三年正月，景帝崩。甲子，太子即皇帝位，尊皇太后竇氏曰太皇太后，皇后曰皇太后。三月，封皇太后同母弟田蚡、勝皆為列侯。

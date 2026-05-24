@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷263 卷二百六十三 列傳第二十二 張昭 竇儀 呂餘慶 劉熙古 石熙載 李穆"
+title: "宋史 卷263"
 date: 2026-05-24
 weight: 263
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷263。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張昭

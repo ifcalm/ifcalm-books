@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷385 卷三百八十五 列傳第一百四十四 葛邲 錢端禮 魏杞 周葵 施師點 蕭燧 龔茂良"
+title: "宋史 卷385"
 date: 2026-05-24
 weight: 385
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷385。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 葛邲

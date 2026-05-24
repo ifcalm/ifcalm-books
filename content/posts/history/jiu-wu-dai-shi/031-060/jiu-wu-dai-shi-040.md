@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷40 卷四十 唐書16: 明宗本紀六"
+title: "旧五代史 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 天成四年春正月壬申朔，帝御崇元殿受朝賀，仗衛如儀。幽州節度使趙德鈞奏：「臣孫讚，年五歲，默念《論語》、《孝經》，舉童子，於汴州取解就試。」詔曰：「都尉之子，太尉之孫，能念儒書，備彰家訓，不勞就試，特與成名。宜賜別敕及第，附今年春榜。」戊子，放元年應欠秋稅。以左衛上將軍安崇阮為黔南節度使。壬辰，回鶻入朝使掣撥等五人各授懷化司戈放還。以北京副留守馮贇為宣徽使、判三司。戊戌，禁天下虛稱試攝銜。西川孟知祥奏：「支屬刺史乞臣本道自署。 」

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷3 卷三 本紀第三 太祖三"
+title: "明史 卷3"
 date: 2026-05-24
 weight: 3
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷3。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 十五年春正月辛巳，宴群臣於謹身殿，始用九奏樂。景川侯曹震、定遠侯王弼下威楚路。壬午，元曲靖宣慰司及中慶、澄江、武定諸路俱降，雲南平。己丑，減大辟囚。乙未，大祀天地於南郊。庚戌，命天下朝覲官各舉所知一人。二月壬子。河決河南，命駙馬都尉李祺振之。甲寅，以雲南平，詔天下。閏月癸卯，藍玉、沐英克大理，分兵徇鶴慶、麗江、金齒，俱下。三月庚午，河決朝邑。

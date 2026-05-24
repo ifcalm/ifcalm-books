@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷3 卷三 本紀第三 高宗"
+title: "新唐书 卷3"
 date: 2026-05-24
 weight: 3
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷3。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高宗天皇大聖大弘孝皇帝諱治，字為善，太宗第九子也。母曰文德皇后長孫氏。始封晉王，貞觀七年，遙領并州都督。十七年，太子承乾廢，而魏王泰次當立，亦以罪黜，乃立子治為皇太子。太宗嘗命皇太子遊觀習射，太子辭以非所好，願得奉至尊，居膝下。太宗大喜，乃營寢殿側為別院，使太子居之。太宗每視朝，皇太子常侍，觀決庶政。

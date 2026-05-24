@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷180 卷一百八十 列傳第一百三十: 朱克融 李載義 楊志誠 張仲武 張允伸 張公素 李可舉 李全忠"
+title: "旧唐书 卷180"
 date: 2026-05-24
 weight: 180
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷180。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 硃克融，賊泚之從孫也。祖滔，父洄。克融少為幽州軍校，事節度使劉總。總將歸朝，慮其有變，籍軍中素有異志者，薦之闕下，時克融亦在籍中。宰相崔植、杜元穎不知兵，且無遠略，謂兩河無虞，遂奏勒歸鎮。長慶初，幽州軍亂，囚其帥張弘靖。時洄廢疾於家，軍中素伏其謀略，至是眾欲立之。洄自以老且病，推克融統軍務焉。朝廷尋加檢校左散騎常侍，授以符節。

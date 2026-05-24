@@ -1,5 +1,5 @@
 ---
-title: "北史 卷12 卷十二 隋本紀下第十二: 煬帝 恭帝"
+title: "北史 卷12"
 date: 2026-05-24
 weight: 12
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷12。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 煬帝 恭帝

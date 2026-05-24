@@ -1,5 +1,5 @@
 ---
-title: "北史 卷4 卷四 魏本紀第四: 世宗宣武帝 肅宗孝明帝"
+title: "北史 卷4"
 date: 2026-05-24
 weight: 4
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷4。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 北魏

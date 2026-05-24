@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷114 卷一百一十四 列傳第三十九 崔融曾孫:從 曾孫:能 能從子:慎由 能從子:安潛 能子:彥曾 徐彥伯 蘇味道 豆盧欽望"
+title: "新唐书 卷114"
 date: 2026-05-24
 weight: 114
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷114。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔融曾孫:從 曾孫:能 能從子:慎由 能從子:安潛 能子:彥曾 徐彥伯 蘇味道 豆盧欽望史務滋 崔元綜 周允元

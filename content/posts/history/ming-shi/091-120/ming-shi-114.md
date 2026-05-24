@@ -1,5 +1,5 @@
 ---
-title: "明史 卷114 卷一百十四 列傳第二 后妃二"
+title: "明史 卷114"
 date: 2026-05-24
 weight: 114
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷114。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝宗孝康張皇后　　武宗孝靜夏皇后　　世宗孝潔陳皇后　張廢后　孝烈方皇后　孝恪杜太后　　穆宗孝懿李皇后　孝安陳皇后　孝定李太后　　神宗孝端王皇后　劉昭妃　孝靖王太后　鄭貴妃　　光宗孝元郭皇后　孝和王太后　孝純劉太后　李康妃　李莊妃　趙選侍　　熹宗懿安張皇后　張裕妃　　莊烈帝愍周皇后　田貴妃

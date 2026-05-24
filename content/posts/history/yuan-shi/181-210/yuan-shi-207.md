@@ -1,5 +1,5 @@
 ---
-title: "元史 卷207 卷二百〇七 列傳第九十四: 逆臣"
+title: "元史 卷207"
 date: 2026-05-24
 weight: 207
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷207。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 逆臣

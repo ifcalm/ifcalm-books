@@ -1,5 +1,5 @@
 ---
-title: "元史 卷123 卷一百二十三 列傳第十: 布智兒 召烈台抄兀兒 闊闊不花 拜延八都魯 阿朮魯 紹古兒 阿剌瓦而思 抄兒 也蒲甘卜 趙阿哥潘 純只海 苫徹拔都兒 怯怯里 塔不已兒 直脫兒 月里麻思 捏古剌 阿兒思蘭 哈八兒禿 艾貌"
+title: "元史 卷123"
 date: 2026-05-24
 weight: 123
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷123。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 布智兒

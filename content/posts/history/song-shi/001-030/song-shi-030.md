@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷30 卷三十 本紀第三十 高宗七"
+title: "宋史 卷30"
 date: 2026-05-24
 weight: 30
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷30。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 十二年春正月癸卯，罷樞密行府。庚申，孫近分司、漳州居住。

@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷115 卷一百一十五 列傳第四十 狄仁傑子:光嗣 族孫:兼謨 郝處俊孫:象賢 朱敬則兄:仁軌"
+title: "新唐书 卷115"
 date: 2026-05-24
 weight: 115
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷115。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 狄仁傑子:光嗣 族孫:兼謨 郝處俊孫:象賢 朱敬則兄:仁軌

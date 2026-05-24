@@ -1,5 +1,5 @@
 ---
-title: "金史 卷60 卷六十 表第二: 交聘表上"
+title: "金史 卷60"
 date: 2026-05-24
 weight: 60
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷60。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 天下之勢，曷有常哉。金人日尋干戈，撫制諸郡，保其疆圉，以求逞志於遼也，豈一日哉。及太祖再乘勝，已即帝位，遼乃招之使降，是猶能蒸虎變，欲誰何而止之。厥後使者八九往反，終不能定約束，何者，取天下者不徇小節，成算既定矣，終不為卑辭厚禮而輟攻。

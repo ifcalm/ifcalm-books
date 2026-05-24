@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷111 卷一百一十一 列傳第三十六 郭二張三王蘇薛程唐"
+title: "新唐书 卷111"
 date: 2026-05-24
 weight: 111
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷111。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 郭二張三王蘇薛程唐

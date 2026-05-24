@@ -1,5 +1,5 @@
 ---
-title: "元史 卷159 卷一百五十九 列傳第四十六: 宋子貞 商挺 趙良弼 趙璧"
+title: "元史 卷159"
 date: 2026-05-24
 weight: 159
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷159。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宋子貞

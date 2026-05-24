@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷10 卷十 本紀第十: 肅宗"
+title: "旧唐书 卷10"
 date: 2026-05-24
 weight: 10
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷10。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 肅宗文明武德大聖大宣孝皇帝諱亨，玄宗第三子，母曰元獻皇后楊氏。景雲二年乙亥生。初名嗣升，二歲封陝王，五歲拜安西大都護、河西四鎮諸蕃落大使。上仁愛英悟，得之天然；及長，聰敏強記，屬辭典麗，耳目之所聽覽，不復遺忘。

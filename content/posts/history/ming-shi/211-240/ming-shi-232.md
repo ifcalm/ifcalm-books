@@ -1,5 +1,5 @@
 ---
-title: "明史 卷232 卷二百三十二 列傳第一百二十 魏允貞 王國 余懋衡 李三才"
+title: "明史 卷232"
 date: 2026-05-24
 weight: 232
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷232。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 魏允貞〈（弟允中劉廷蘭）〉王國余懋衡李三才

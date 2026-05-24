@@ -1,5 +1,5 @@
 ---
-title: "明史 卷261 卷二百六十一 列傳第一百四十九 盧象昇 劉之綸 丘民仰"
+title: "明史 卷261"
 date: 2026-05-24
 weight: 261
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷261。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 盧象升〈（弟象晉象觀從弟象同）〉劉之綸邱民仰〈（邱禾嘉）〉

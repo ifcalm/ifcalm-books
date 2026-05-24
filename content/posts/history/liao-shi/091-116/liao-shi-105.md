@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷105 卷一百〇五 列傳第三十五: 能吏"
+title: "辽史 卷105"
 date: 2026-05-24
 weight: 105
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷105。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 能吏 ○大公鼎蕭文馬人望耶律鐸魯斡楊遵勖王棠

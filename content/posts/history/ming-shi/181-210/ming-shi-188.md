@@ -1,5 +1,5 @@
 ---
-title: "明史 卷188 卷一百八十八 列傳第七十六 劉荡 呂翀 鄄洍 趙佑 戴銑 陸崑 蔣欽 周璽 湯禮敬 許天錫 徐文溥 張士隆 張文明 范輅 張欽 周廣 石天柱"
+title: "明史 卷188"
 date: 2026-05-24
 weight: 188
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷188。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉抃（呂翀〈（艾洪葛嵩）〉趙佑〈（朱廷聲等）〉戴銑〈（李光翰等）〉陸昆〈（薄彥徽等）〉蔣欽周璽〈（塗禎）〉湯禮敬〈（王渙何紹正）〉許天錫〈（周鑰等）〉徐文溥〈（翟唐王鑾）〉張士隆張文明〈（陳鼎等）〉範輅張欽周廣〈（曹琥）〉石天柱

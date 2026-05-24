@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷336 卷三百三十六 列傳第九十五 司馬光子:康 呂公著子:希哲 希純"
+title: "宋史 卷336"
 date: 2026-05-24
 weight: 336
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷336。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 司馬光

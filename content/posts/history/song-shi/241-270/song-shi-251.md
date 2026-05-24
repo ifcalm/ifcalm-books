@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷251 卷二百五十一 列傳第十 韓令坤 慕容延釗 符彥卿"
+title: "宋史 卷251"
 date: 2026-05-24
 weight: 251
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷251。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韓令坤

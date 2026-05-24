@@ -1,5 +1,5 @@
 ---
-title: "周书 卷16 卷16 列傳第8 趙貴 獨孤信 侯莫陳崇 十二大將軍"
+title: "周书 卷16"
 date: 2026-05-24
 weight: 16
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷16。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙貴　獨孤信　侯莫陳崇

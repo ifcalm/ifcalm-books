@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷17 卷十七"
+title: "旧唐书 卷17"
 date: 2026-05-24
 weight: 17
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷17。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷十七上 本紀第十七上: 敬宗 文宗上

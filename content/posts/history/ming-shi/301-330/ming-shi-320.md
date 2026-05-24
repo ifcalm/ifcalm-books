@@ -1,5 +1,5 @@
 ---
-title: "明史 卷320 卷三百二十 列傳第二百〇八 外國一 朝鮮"
+title: "明史 卷320"
 date: 2026-05-24
 weight: 320
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷320。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 朝鮮，箕子所封國也。漢以前曰朝鮮。始為燕人衛滿所據，漢武帝平之，置真番、臨屯、樂浪、玄菟四郡。漢末，有扶余人高氏據其地，改國號曰高麗，又曰高句麗，居平壤，即樂浪也。已，為唐所破，東徙。後唐時，王建代高氏，兼併新羅、百濟地，徙居松岳，曰東京，而以平壤為西京。其國北鄰契丹，西則女直，南曰日本，元至元中，西京內屬，置東甯路總管府，盡慈嶺為界。

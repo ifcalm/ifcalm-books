@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷2 卷二 本紀第二: 高祖下"
+title: "陈书 卷2"
 date: 2026-05-24
 weight: 2
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷2。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳書卷二

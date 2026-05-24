@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷42 卷四十二 志第二十二: 職官一"
+title: "旧唐书 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十二職官一

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷425 卷四百二十五 列傳第一百八十四 劉應龍 潘牥 洪芹 趙景緯 馮去非 徐霖 徐宗仁 危昭德 陳塏 楊文仲 謝枋得"
+title: "宋史 卷425"
 date: 2026-05-24
 weight: 425
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷425。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉應龍潘方洪芹趙景緯馮去非徐霖徐宗仁危昭德陳塏楊文仲謝枋得

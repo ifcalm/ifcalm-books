@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷62 卷六十二 表第二 宰相中"
+title: "新唐书 卷62"
 date: 2026-05-24
 weight: 62
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷62。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 表第二 宰相中

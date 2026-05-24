@@ -1,5 +1,5 @@
 ---
-title: "金史 卷51 卷五十一 志第三十二: 選舉一 進士諸科律科 經童科 制舉 武舉 試學士院官 司天、醫學試科"
+title: "金史 卷51"
 date: 2026-05-24
 weight: 51
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷51。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 進士諸科

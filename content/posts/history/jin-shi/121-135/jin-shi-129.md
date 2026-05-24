@@ -1,5 +1,5 @@
 ---
-title: "金史 卷129 卷一百二十九 列傳第六十七: 酷吏 高閭山 蒲察合住 佞幸 蕭肄 張仲軻 李通 馬欽 高懷貞 蕭裕 胥持國"
+title: "金史 卷129"
 date: 2026-05-24
 weight: 129
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷129。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第六十七

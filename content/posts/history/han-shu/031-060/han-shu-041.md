@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷41 卷四十一 樊酈滕灌傅靳周傳"
+title: "汉书 卷41"
 date: 2026-05-24
 weight: 41
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷41。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 樊噲

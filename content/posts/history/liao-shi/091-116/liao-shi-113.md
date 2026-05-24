@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷113 卷一百十三 列傳第四十三: 逆臣中"
+title: "辽史 卷113"
 date: 2026-05-24
 weight: 113
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷113。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭翰耶律牒蠟耶律朗耶律劉哥〈（盆都）〉耶律海思耶律敵獵蕭革

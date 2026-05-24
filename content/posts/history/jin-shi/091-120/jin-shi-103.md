@@ -1,5 +1,5 @@
 ---
-title: "金史 卷103 卷一百〇三 列傳第四十一: 完顏仲元 完顏阿鄰 完顏霆 烏古論長壽 完顏佐+完顏齩住 石抹仲溫 烏古論禮 蒲察阿里 奧屯襄 完顏蒲剌都 夾谷石里哥 朮甲臣嘉 紇石烈桓端 完顏阿里不孫 完顏鐵哥 納蘭胡魯剌"
+title: "金史 卷103"
 date: 2026-05-24
 weight: 103
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷103。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 完顏仲元

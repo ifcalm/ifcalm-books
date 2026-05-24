@@ -1,5 +1,5 @@
 ---
-title: "明史 卷143 卷一百四十三 列傳第三十一 王艮 廖昇 周是修 程本立 黃觀 王叔英 黃鉞 王良 陳思賢 程通 黃希范 高巍 高賢寧 王璡 周縉 牛景先"
+title: "明史 卷143"
 date: 2026-05-24
 weight: 143
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷143。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王艮〈（高遜誌）〉廖升〈（魏冕鄒瑾龔泰）〉周是修程本立黃觀王叔英〈（林英）〉黃鉞〈（曾鳳韶）〉王良陳思賢〈（龍溪六生臺溫二樵）〉程通〈（黃希範葉惠仲黃彥清蔡運石允常）〉高巍〈（韓郁）〉高賢寧王琎周縉牛景先〈（程濟等。）〉

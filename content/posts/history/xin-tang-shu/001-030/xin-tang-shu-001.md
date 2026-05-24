@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷1 卷一 本紀第一 高祖"
+title: "新唐书 卷1"
 date: 2026-05-24
 weight: 1
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷1。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高祖神堯大聖大光孝皇帝諱淵，字叔德，姓李氏，隴西成紀人也。其七世祖暠，當晉末，據秦、涼以自王，是為涼武昭王。暠生歆，歆為沮渠蒙遜所滅。歆生重耳，魏弘農太守。重耳生熙，金門鎮將，戍于武川，因留家焉。熙生天賜，為幢主。天賜生虎，西魏時，賜姓大野氏，官至太尉，與李弼等八人佐周代魏有功，皆為柱國，號「八柱國家」。周閔帝受魏禪，虎已卒，乃追錄其功，封唐國公，謚曰襄。襄公生昞，襲封唐公，周安州總管、柱國大將軍，卒，謚曰仁。

@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷58 卷五十八 列傳第三十九 蠻 東南夷"
+title: "南齐书 卷58"
 date: 2026-05-24
 weight: 58
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷58。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蠻

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷298 卷二百九十八 列傳第五十七 彭乘 嵇穎 梅摯 司馬池 李及 燕肅 蔣堂 劉夔 馬亮 陳希亮"
+title: "宋史 卷298"
 date: 2026-05-24
 weight: 298
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷298。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 彭乘

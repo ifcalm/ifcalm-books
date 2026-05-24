@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷22 卷二十二 本紀第二十二: 道宗二"
+title: "辽史 卷22"
 date: 2026-05-24
 weight: 22
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷22。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 道宗二

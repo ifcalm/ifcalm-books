@@ -1,5 +1,5 @@
 ---
-title: "周书 卷32 卷32 列傳第24 申徽 陸通 弟逞 柳敏 盧柔 唐瑾"
+title: "周书 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 申徽　陸通 弟逞　柳敏　盧柔　唐瑾

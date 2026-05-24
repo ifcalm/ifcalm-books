@@ -1,5 +1,5 @@
 ---
-title: "南史 卷40 卷四十 列傳第三十 魯爽 薛安都 鄧琬 宗越 吳喜 黃回"
+title: "南史 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 魯爽

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷83 卷八十三 志第三十三: 選舉三"
+title: "元史 卷83"
 date: 2026-05-24
 weight: 83
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷83。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 選舉三 ○銓法中

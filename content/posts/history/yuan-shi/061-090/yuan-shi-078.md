@@ -1,5 +1,5 @@
 ---
-title: "元史 卷78 卷七十八 志第二十八: 輿服一"
+title: "元史 卷78"
 date: 2026-05-24
 weight: 78
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷78。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 輿服一〈（儀衛附）〉

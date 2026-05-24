@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷131 卷一百三十一 列傳第八十一: 李勉 李皋 子像古 道古"
+title: "旧唐书 卷131"
 date: 2026-05-24
 weight: 131
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷131。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李勉

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷125 卷一百二十五 列傳第十三 徐達 常遇春"
+title: "明史 卷125"
 date: 2026-05-24
 weight: 125
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷125。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 徐達 常遇春

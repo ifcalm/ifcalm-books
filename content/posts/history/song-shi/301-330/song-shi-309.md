@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷309 卷三百〇九 列傳第六十八 王延德 常延信 程德玄 王延德 魏震 張質 楊允恭 秦羲 謝德權 閻日新 靳懷德"
+title: "宋史 卷309"
 date: 2026-05-24
 weight: 309
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷309。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王延德

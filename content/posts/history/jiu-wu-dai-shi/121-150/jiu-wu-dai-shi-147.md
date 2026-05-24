@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷147 卷一百四十七 志9: 刑法志"
+title: "旧五代史 卷147"
 date: 2026-05-24
 weight: 147
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷147。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 刑法志〈（案：《刑法志序》，《永樂大典》原闕。）〉

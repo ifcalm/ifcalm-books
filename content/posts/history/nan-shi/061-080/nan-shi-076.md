@@ -1,5 +1,5 @@
 ---
-title: "南史 卷76 卷七十六 列傳第六十六 隱逸下"
+title: "南史 卷76"
 date: 2026-05-24
 weight: 76
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷76。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 臧榮緒 吳苞 徐伯珍 沈麟士 阮孝緒 鄧郁 陶弘景 諸葛璩 劉慧斐 范元琰 庾詵 張孝秀 庾承先 馬樞

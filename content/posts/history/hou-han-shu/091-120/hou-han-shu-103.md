@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷103 第十三 五行一 貌不恭 淫雨 服妖 雞禍 青眚 屋自壞 訛言 旱 謠 狼食人"
+title: "后汉书 卷103"
 date: 2026-05-24
 weight: 103
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷103。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十三　　五行一

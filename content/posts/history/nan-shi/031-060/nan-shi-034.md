@@ -1,5 +1,5 @@
 ---
-title: "南史 卷34 卷三十四 列傳第二十四 顏延之 沈懷文 周朗"
+title: "南史 卷34"
 date: 2026-05-24
 weight: 34
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷34。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 顏延之

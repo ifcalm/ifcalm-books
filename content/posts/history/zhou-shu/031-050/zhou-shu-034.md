@@ -1,5 +1,5 @@
 ---
-title: "周书 卷34 卷34 列傳第26 趙善 元定 楊摽 裴寬 楊敷"
+title: "周书 卷34"
 date: 2026-05-24
 weight: 34
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷34。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙善

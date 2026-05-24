@@ -1,5 +1,5 @@
 ---
-title: "明史 卷263 卷二百六十三 列傳第一百五十一 宋一鶴 馮師孔 林日瑞 蔡懋德 衞景瑗 朱之馮 陳士奇 龍文光 劉佳引 劉之勃"
+title: "明史 卷263"
 date: 2026-05-24
 weight: 263
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷263。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宋一鶴〈（沈壽崇蕭漢）〉馮師孔〈（黃絅等）〉林日瑞〈（郭天吉等）〉蔡懋德〈（趙建極等）〉衛景瑗〈（朱家仕等）〉朱之馮〈（朱敏泰等）〉陳士奇〈（陳纁等）〉龍文光〈（劉佳引）〉劉之勃〈（劉鎮藩）〉

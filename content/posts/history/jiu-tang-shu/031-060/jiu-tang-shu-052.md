@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷52 卷五十二 列傳第二: 后妃下"
+title: "旧唐书 卷52"
 date: 2026-05-24
 weight: 52
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷52。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 玄宗元獻皇后楊氏

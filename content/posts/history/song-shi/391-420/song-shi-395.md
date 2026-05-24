@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷395 卷三百九十五 列傳第一百五十四 樓鑰 李大性 任希夷 徐應龍 莊夏 王阮 王質 陸游 方信孺 王柟"
+title: "宋史 卷395"
 date: 2026-05-24
 weight: 395
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷395。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 樓鑰

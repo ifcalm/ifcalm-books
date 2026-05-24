@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷22 卷二十二 志第十二 禮樂十二"
+title: "新唐书 卷22"
 date: 2026-05-24
 weight: 22
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷22。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 自周、陳以上，雅鄭淆雜而無別，隋文帝始分雅、俗二部，至唐更曰「部當」。

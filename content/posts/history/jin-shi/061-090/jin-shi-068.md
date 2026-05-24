@@ -1,5 +1,5 @@
 ---
-title: "金史 卷68 卷六十八 列傳第六: 歡都子:謀演 冶訶子:阿魯補 骨赧 訛古乃 蒲查"
+title: "金史 卷68"
 date: 2026-05-24
 weight: 68
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷68。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第六 ○歡都子 謀演 冶訶子 阿魯補 骨赧 訛古乃 蒲查

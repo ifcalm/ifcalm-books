@@ -1,5 +1,5 @@
 ---
-title: "元史 卷160 卷一百六十 列傳第四十七: 王磐 王鶚 高鳴 李冶 李昶 劉肅 王思廉 李謙 徐世隆 孟祺 閻復"
+title: "元史 卷160"
 date: 2026-05-24
 weight: 160
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷160。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王磐

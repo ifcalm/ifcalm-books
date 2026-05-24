@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷244 卷二百四十四 列傳第三 宗室一"
+title: "宋史 卷244"
 date: 2026-05-24
 weight: 244
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷244。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 魏王廷美 燕王德昭 秦王德芳 秀王子侢附

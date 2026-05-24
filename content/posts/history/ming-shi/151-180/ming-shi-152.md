@@ -1,5 +1,5 @@
 ---
-title: "明史 卷152 卷一百五十二 列傳第四十 董倫 儀智 鄒濟 周述 陳濟 王英 錢習禮 周敍 柯潛 孔公恂"
+title: "明史 卷152"
 date: 2026-05-24
 weight: 152
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷152。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 董倫〈（王景）〉儀智〈（子銘）〉鄒濟〈（徐善述王汝玉梁潛）〉周述〈（弟孟簡）〉陳濟〈（陳繼楊翥俞山俞綱潘辰）〉王英錢習禮周敘〈（劉儼）〉柯潛〈（羅璟）〉孔公恂〈（司馬恂）〉

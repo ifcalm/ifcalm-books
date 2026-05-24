@@ -1,5 +1,5 @@
 ---
-title: "北史 卷43 卷四十三 列傳第三十一: 郭祚 張彝 邢巒 李崇"
+title: "北史 卷43"
 date: 2026-05-24
 weight: 43
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷43。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 郭祚 張彝 邢巒 李崇

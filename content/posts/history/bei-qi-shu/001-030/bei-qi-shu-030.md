@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷30 卷三十 補列傳第二二 崔暹 高德政 崔昂"
+title: "北齐书 卷30"
 date: 2026-05-24
 weight: 30
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷30。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔暹　高德政　崔昂

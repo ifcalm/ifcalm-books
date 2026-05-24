@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷458 卷四百五十八 列傳第二百十七 隱逸中 王樵 張愈 黃晞 周啟明 代淵 陳烈 孫侔 劉易 姜潛 連庶 章詧 俞汝尚 陽孝本 鄧考甫 宇文之邵 吳瑛 松江漁翁 杜生 順昌山人 南安翁 張𡒊"
+title: "宋史 卷458"
 date: 2026-05-24
 weight: 458
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷458。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隱逸中

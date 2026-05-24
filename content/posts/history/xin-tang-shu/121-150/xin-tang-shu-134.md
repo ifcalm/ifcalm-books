@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷134 卷一百三十四 列傳第五十九 宇文韋楊王"
+title: "新唐书 卷134"
 date: 2026-05-24
 weight: 134
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷134。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宇文、韋、楊、王

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷124 卷一百二十四 列傳第十二 擴廓帖木兒 陳友定 把匝剌瓦爾密"
+title: "明史 卷124"
 date: 2026-05-24
 weight: 124
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷124。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 擴廓帖木兒附:蔡子英 陳友定附:伯顏子中 等 把匝剌瓦爾密

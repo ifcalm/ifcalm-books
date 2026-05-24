@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷85 卷85 文苑：袁躍 裴敬憲 盧觀 封肅 邢臧 裴伯茂 邢昕"
+title: "魏书 卷85"
 date: 2026-05-24
 weight: 85
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷85。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 袁躍　裴敬憲　盧觀　封肅　邢臧　裴伯茂　邢昕　溫子昇

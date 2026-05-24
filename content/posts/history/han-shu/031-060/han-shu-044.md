@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷44 卷四十四 淮南衡山濟北王傳"
+title: "汉书 卷44"
 date: 2026-05-24
 weight: 44
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷44。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 淮南厲王長，高帝少子也，其母故趙王張敖美人。高帝八年，從東垣過趙，趙王獻美人，厲王母也，幸，有身。趙王不敢內宮，為築外宮捨之。及貫高等謀反事覺，並逮治王，盡捕王母兄弟美人，系之河內。厲王母亦系，告吏曰：「日得幸上，有子。」吏以聞，上方怒趙，未及理厲王母。厲王母弟趙兼因辟陽侯言呂後，呂後妒，不肯白，辟陽侯不強爭。厲王母已生厲生，恚，即自殺。吏奉厲王詣上，上悔，令呂後母之，而葬其母真定。真定，厲王母家縣也。

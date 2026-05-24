@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷168 卷一百六十八 志第一百二十一 職官八"
+title: "宋史 卷168"
 date: 2026-05-24
 weight: 168
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷168。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 職官八〈（合班之制）〉○建隆以後合班之制

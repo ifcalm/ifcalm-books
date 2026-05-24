@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷58 卷五十八 列傳第二十八 周處 周訪"
+title: "晋书 卷58"
 date: 2026-05-24
 weight: 58
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷58。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 周處〈（子玘 玘子勰 玘弟劄 劄兄子筵）〉周訪〈（子撫 撫子楚 楚子瓊 瓊子虓 撫弟光 光子仲孫）〉

@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷2 卷2 帝紀第2 高祖下"
+title: "隋书 卷2"
 date: 2026-05-24
 weight: 2
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷2。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 八年春正月乙亥，陳遣散騎常侍袁雅、兼通直散騎常侍周止水來聘。

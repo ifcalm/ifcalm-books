@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷55 卷五十五 列傳第三十六 孝義"
+title: "南齐书 卷55"
 date: 2026-05-24
 weight: 55
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷55。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷第五十五‧列傳第三十六　 孝義

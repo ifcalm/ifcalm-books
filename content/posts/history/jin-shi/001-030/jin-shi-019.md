@@ -1,5 +1,5 @@
 ---
-title: "金史 卷19 卷十九 本紀第十九: 世紀補 景宣帝宗峻 睿宗宗堯 顯宗允恭"
+title: "金史 卷19"
 date: 2026-05-24
 weight: 19
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷19。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 景宣帝

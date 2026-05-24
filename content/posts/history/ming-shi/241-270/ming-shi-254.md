@@ -1,5 +1,5 @@
 ---
-title: "明史 卷254 卷二百五十四 列傳第一百四十二 喬允升 曹于汴 孫居相 曹珖 陳于庭 鄭三俊 李日宣 張瑋"
+title: "明史 卷254"
 date: 2026-05-24
 weight: 254
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷254。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 喬允升〈（易應昌等）〉曹於汴孫居相〈（弟鼎相）〉曹光陳於廷鄭三俊李日宣張瑋〈（金光辰）〉

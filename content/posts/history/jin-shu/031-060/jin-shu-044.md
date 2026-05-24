@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷44 卷四十四 列傳第十四 鄭袤 李胤 盧欽 華表 石鑒 溫羨"
+title: "晋书 卷44"
 date: 2026-05-24
 weight: 44
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷44。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鄭袤

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷316 卷三百十六 列傳第二百〇四 貴州土司"
+title: "明史 卷316"
 date: 2026-05-24
 weight: 316
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷316。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 貴州，古羅施鬼國。漢西南夷牂牁、武陵諸傍郡地。元置八番、順元諸軍民宣慰使司，以羈縻之。明太祖既克陳友諒，兵威遠振，思南宣慰、思州宣撫率先歸附，即令以故官世守之，時至正二十五年也。及洪武五年，貴州宣慰靄翠與宋蒙古歹及普定府女總管適爾等先後來歸，皆予以原官世襲。帝方北伐中原，未遑經理南荒。又田仁智等歲修職貢，最恭順，乃以衛指揮僉事顧成築城以守，賦稅聽自輸納，未置郡縣。

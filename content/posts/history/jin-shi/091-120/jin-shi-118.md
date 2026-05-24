@@ -1,5 +1,5 @@
 ---
-title: "金史 卷118 卷一百十八 列傳第五十六: 苗道潤 王福 移剌眾家奴 武仙 張甫+張進 靖安民 郭文振 胡天作 張開 燕寧"
+title: "金史 卷118"
 date: 2026-05-24
 weight: 118
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷118。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 苗道潤

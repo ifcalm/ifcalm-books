@@ -1,5 +1,5 @@
 ---
-title: "金史 卷66 卷六十六 列傳第四: 始祖以下諸子 勗本名烏野，子:宗秀 隈可 宗室 胡十門 合住曾孙:布輝 摑保 衷本名醜漢 齊本名掃合 朮魯 胡石改 宗賢本名阿魯 撻懶 卞本名吾母 膏本名阿里刺 弈本名三寶 阿喜"
+title: "金史 卷66"
 date: 2026-05-24
 weight: 66
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷66。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 始祖以下諸子

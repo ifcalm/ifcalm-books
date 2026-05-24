@@ -1,5 +1,5 @@
 ---
-title: "明史 卷199 卷一百九十九 列傳第八十七 李鉞 王憲 胡世寧 李承勛 王以旂 范鏓 王邦瑞 鄭曉"
+title: "明史 卷199"
 date: 2026-05-24
 weight: 199
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷199。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李鉞〈（子惠）〉王憲胡世寧〈（子純）〉（繼）李承勛王以旂范鏓掞王邦瑞〈（子正國）〉鄭曉

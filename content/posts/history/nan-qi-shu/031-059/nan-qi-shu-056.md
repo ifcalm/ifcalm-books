@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷56 卷五十六 列傳第三十七 倖臣"
+title: "南齐书 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷第五十六 列傳第三十七

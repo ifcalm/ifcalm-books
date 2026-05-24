@@ -1,5 +1,5 @@
 ---
-title: "明史 卷131 卷一百三十一 列傳第十九 顧時 吳楨 薛顯 郭興 陳德 王志 梅思祖 金朝興 唐勝宗 陸仲亨 費聚 陸聚 鄭遇春 黃彬 葉昇"
+title: "明史 卷131"
 date: 2026-05-24
 weight: 131
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷131。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 顧時

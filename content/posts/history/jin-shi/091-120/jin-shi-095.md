@@ -1,5 +1,5 @@
 ---
-title: "金史 卷95 卷九十五 列傳第三十三: 移剌履 張萬公 蒲察通 粘割斡特剌 程輝 劉瑋 董師中 王蔚 馬惠迪 馬琪 楊伯通 尼厖古鑑"
+title: "金史 卷95"
 date: 2026-05-24
 weight: 95
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷95。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 移剌履

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷184 卷一百八十四 列傳第七十一: 王都中 王克敬 任速哥 陳思謙 韓元善 崔敬"
+title: "元史 卷184"
 date: 2026-05-24
 weight: 184
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷184。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王都中

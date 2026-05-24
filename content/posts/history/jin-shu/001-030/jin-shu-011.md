@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷11 卷十一 志第一 天文上"
+title: "晋书 卷11"
 date: 2026-05-24
 weight: 11
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷11。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 天文上〈（天體儀象天文經星二十八舍二十八宿外星天漢起沒十二次度數州郡躔次）〉

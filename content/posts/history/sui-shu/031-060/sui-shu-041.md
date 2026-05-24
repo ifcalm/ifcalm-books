@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷41 卷41 列傳第6 高熲 蘇威"
+title: "隋书 卷41"
 date: 2026-05-24
 weight: 41
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷41。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高熲

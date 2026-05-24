@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷40 卷四十 本紀第四十 寧宗四"
+title: "宋史 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 十年春正月癸巳，雨土。乙未，大風。庚子，遣錢撫賀金主生辰。

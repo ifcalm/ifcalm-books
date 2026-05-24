@@ -1,5 +1,5 @@
 ---
-title: "元史 卷198 卷一百九十八 列傳第八十五: 孝友二"
+title: "元史 卷198"
 date: 2026-05-24
 weight: 198
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷198。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王庸，字伯常，雄州歸信人。事母李氏以孝聞。母有疾，庸夜禱北辰，至叩頭出血，母疾遂愈。及母卒，哀毀幾絕，露處墓前，旦夕悲號。一夕，雷雨暴至，鄰人持寢席往，欲蔽之，見庸所坐臥之地獨不沾濕，咸嘆異而去。復有蜜蜂數十房，來止其家，歲得蜜蠟，以供祭祀。

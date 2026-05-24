@@ -1,5 +1,5 @@
 ---
-title: "周书 卷26 卷26 列傳第18 長孫儉 長孫紹遠 弟澄 兄子兕 斛斯徵"
+title: "周书 卷26"
 date: 2026-05-24
 weight: 26
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷26。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 長孫儉　長孫紹遠 弟澄 兄子兕　斛斯徵

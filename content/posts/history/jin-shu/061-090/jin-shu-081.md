@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷81 卷八十一 列傳第五十一 王遜 蔡豹 羊鑒 劉胤 桓宣 朱伺 毛寶 劉遐 鄧嶽 朱序"
+title: "晋书 卷81"
 date: 2026-05-24
 weight: 81
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷81。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王遜 蔡豹 羊鑒 劉胤 桓宣〈（族子伊）〉 硃伺 毛寶〈（子穆之）〉 劉遐 鄧嶽〈（子遐）〉 硃序

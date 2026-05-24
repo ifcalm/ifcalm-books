@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷9 卷九 元帝紀"
+title: "汉书 卷9"
 date: 2026-05-24
 weight: 9
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷9。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝元皇帝，宣帝太子也。母曰共哀許皇后，宣帝微時生民間。年二歲，宣帝即位。八歲，立為太子。壯大，柔仁好儒。見宣帝所用多文法吏，以刑名繩下，大臣楊惲、盍寬饒等坐刺譏辭語為罪而誅，嘗侍燕從容言：「

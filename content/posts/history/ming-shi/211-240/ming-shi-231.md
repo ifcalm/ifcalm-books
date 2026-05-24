@@ -1,5 +1,5 @@
 ---
-title: "明史 卷231 卷二百三十一 列傳第一百十九 顧憲成 顧允成 錢一本 于孔兼 史孟麟 薛敷教 安希范 劉元珍 葉茂才"
+title: "明史 卷231"
 date: 2026-05-24
 weight: 231
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷231。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 顧憲成〈（歐陽東鳳吳炯）〉顧允成〈（張納陛賈巖諸壽賢彭遵古）〉錢一本〈（子春）〉於孔兼〈（陳泰來）〉史孟麟薛敷教安希範〈（吳弘濟譚一召孫繼有）〉劉元珍〈（龐時雍）〉葉茂才

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷122 卷一百二十二 列傳第九: 巴而朮阿而忒的斤 鐵邁赤 按扎兒 雪不台 唵木海 昔里鈐部 槊直腯魯華 昔兒吉思 哈散納"
+title: "元史 卷122"
 date: 2026-05-24
 weight: 122
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷122。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 巴而術阿而忒的斤

@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷64 卷六十四 後蜀世家第四: 孟知祥"
+title: "新五代史 卷64"
 date: 2026-05-24
 weight: 64
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷64。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孟知祥，字保胤，邢州龍岡人也。其叔父遷，當唐之末，據邢、洺、磁三州，為晉所虜。晉王以遷守澤潞，梁兵攻晉，遷以澤潞降梁。知祥父道，獨留事晉而不顯。及知祥壯，晉王以其弟克讓女妻之，以為左教練使。莊宗為晉王，以知祥為中門使。前此為中門使者多以罪誅，知祥懼，求他職，莊宗命知祥薦可代己者，知祥因薦郭崇韜自代，崇韜德之，知祥遷馬步軍都虞候。莊宗建號，以太原為北京，以知祥為太原尹、北京留守。

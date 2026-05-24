@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷456 卷四百五十六 列傳第二百十五 孝義 李璘甄婆兒 徐承珪 劉孝忠 呂升王翰 羅居通黃德輿 齊得一 李罕澄 邢神留沈正 許祚李琳等 胡仲堯弟:仲容 陳兢 洪文撫 易延慶 董道明 郭琮畢贊 顧忻李瓊 朱泰 成象 陳思道 方綱 龐天祐 劉斌 樊景溫榮恕旻 祁暐 何保之 李玭 侯義 王光濟李祚 周善敏 江白 裘承詢孫浦等 常眞子:晏 王洤等 杜誼 姚宗明 鄧中和 毛安輿 李訪 朱壽昌 侯可 申積中 郝戭 支漸 鄧宗古 沈宣 蘇慶文臺亨 仰忻 趙伯深 彭瑜 毛洵李籌 楊芾 楊慶 陳宗 郭義 申世寧 苟與齡 王珠 顏詡 張伯威 蔡定 鄭綺鮑宗巌"
+title: "宋史 卷456"
 date: 2026-05-24
 weight: 456
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷456。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝義

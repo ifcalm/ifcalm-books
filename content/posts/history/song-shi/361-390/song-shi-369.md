@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷369 卷三百六十九 列傳第一百二十八 張俊 張宗顏 劉光世 王淵 解元 曲端"
+title: "宋史 卷369"
 date: 2026-05-24
 weight: 369
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷369。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張俊從子:子蓋 張宗顏 劉光世 王淵 解元 曲端

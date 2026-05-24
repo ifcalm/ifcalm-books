@@ -1,5 +1,5 @@
 ---
-title: "明史 卷286 卷二百八十六 列傳第一百七十四 文苑二"
+title: "明史 卷286"
 date: 2026-05-24
 weight: 286
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷286。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 林鴻附:鄭定 等 王紱附:夏昶 沈度弟:粲 附:滕用亨 等 聶大年 劉溥附:蘇平 等 張弼 張泰〈（陸釴 陸容）〉 程敏政 羅 儲巏 李夢陽附:康海 王九思 王維楨 何景明 徐禎卿〈（楊循吉 祝允明 唐寅 桑悅）〉 邊貢 顧璘弟:瑮 附:陳沂 等 鄭善夫附:殷雲霄 方豪 等 陸深附:王圻 王廷陳 李濂

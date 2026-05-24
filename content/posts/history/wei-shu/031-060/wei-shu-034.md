@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷34 卷34 王洛兒 車路頭 盧魯元 陳建 萬安國"
+title: "魏书 卷34"
 date: 2026-05-24
 weight: 34
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷34。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王洛兒　車路頭　盧魯元　陳建　萬安國

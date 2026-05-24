@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷2 卷二 本紀第二 高帝下"
+title: "南齐书 卷2"
 date: 2026-05-24
 weight: 2
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷2。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷第二 本紀第二

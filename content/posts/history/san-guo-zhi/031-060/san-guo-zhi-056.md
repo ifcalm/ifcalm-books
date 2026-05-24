@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷56 卷五十六 吳書十一 朱治朱然呂範朱桓傳"
+title: "三国志 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 朱治

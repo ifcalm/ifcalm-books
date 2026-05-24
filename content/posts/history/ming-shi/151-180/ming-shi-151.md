@@ -1,5 +1,5 @@
 ---
-title: "明史 卷151 卷一百五十一 列傳第三十九 茹瑺 嚴震直 張紞 王鈍 鄭賜 郭資 呂震 李至剛 方賓 吳中 劉觀"
+title: "明史 卷151"
 date: 2026-05-24
 weight: 151
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷151。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 茹常嚴震直張紞〈（毛泰亨）〉王鈍鄭賜郭資呂震李至剛方賓吳中劉觀

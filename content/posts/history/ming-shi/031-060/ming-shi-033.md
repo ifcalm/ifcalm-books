@@ -1,5 +1,5 @@
 ---
-title: "明史 卷33 卷三十三 志第九 曆三"
+title: "明史 卷33"
 date: 2026-05-24
 weight: 33
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷33。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Hanchuan Caolu transcription"
-source_url: "https://www.sidneyluo.net/a/a24/033.htm"
-source_license: "Public domain source text"
 ---
 
 卷三十三 ‧ 志第九

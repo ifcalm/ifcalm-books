@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷13 卷13 皇后列傳"
+title: "魏书 卷13"
 date: 2026-05-24
 weight: 13
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷13。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 漢因秦制，帝之祖母曰太皇太后，母曰皇太后，妃曰皇后，餘則多稱夫人，隨世增損，非如周禮有夫人、嬪婦、御妻之定數焉。魏晉相因，時有昇降，前史言之具矣。

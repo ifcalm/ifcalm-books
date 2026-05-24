@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷243 卷二百四十三 列傳第二 后妃下"
+title: "宋史 卷243"
 date: 2026-05-24
 weight: 243
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷243。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 神宗欽聖獻肅向皇后、欽成朱皇后、欽慈陳皇后、林賢妃、武賢妃 哲宗昭慈孟皇后、昭懷劉皇后 徽宗顯恭王皇后、鄭皇后、王貴妃、韋賢妃、喬貴妃、劉貴妃 欽宗朱皇后 高宗憲節邢皇后、憲聖慈烈吳皇后、潘賢妃、張賢妃、劉貴妃、劉婉儀、張貴妃 孝宗成穆郭皇后、成恭夏皇后、成肅謝皇后、蔡貴妃、李賢妃 光宗慈懿李皇后、黃貴妃 甯宗恭淑韓皇后、恭聖仁烈楊皇后 理宗謝皇后 度宗全皇后、楊淑妃

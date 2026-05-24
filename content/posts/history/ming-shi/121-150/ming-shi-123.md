@@ -1,5 +1,5 @@
 ---
-title: "明史 卷123 卷一百二十三 列傳第十一 陳友諒 張士誠 方國珍 明玉珍"
+title: "明史 卷123"
 date: 2026-05-24
 weight: 123
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷123。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳友諒 張士誠 方國珍 明玉珍

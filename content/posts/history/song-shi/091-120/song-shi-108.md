@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷108 卷一百〇八 志第六十一 禮十一"
+title: "宋史 卷108"
 date: 2026-05-24
 weight: 108
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷108。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮十一〈（吉禮十一）〉○時享薦新加上祖宗諡號廟諱

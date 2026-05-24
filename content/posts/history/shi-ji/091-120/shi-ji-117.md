@@ -1,5 +1,5 @@
 ---
-title: "史记 卷117 《司馬相如列傳》 Biography of Sima Xiangru"
+title: "史记 卷117"
 date: 2026-05-24
 weight: 117
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷117。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《司馬相如列傳》 Biography of Sima Xiangru

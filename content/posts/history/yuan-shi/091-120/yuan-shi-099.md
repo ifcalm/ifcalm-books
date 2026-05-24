@@ -1,5 +1,5 @@
 ---
-title: "元史 卷99 卷九十九 志第四十七: 兵二"
+title: "元史 卷99"
 date: 2026-05-24
 weight: 99
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷99。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 兵二

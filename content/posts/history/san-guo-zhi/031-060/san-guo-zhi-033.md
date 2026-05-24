@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷33 卷三十三 蜀書三 後主傳"
+title: "三国志 卷33"
 date: 2026-05-24
 weight: 33
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷33。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 後主 劉禪

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷160 卷一百六十 列傳第四十八 王彰 魏源 金濂 石璞 羅通 羅綺 張瑄 張鵬 李裕"
+title: "明史 卷160"
 date: 2026-05-24
 weight: 160
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷160。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王彰 魏源 金濂 石璞 王巹 羅通 羅綺 張固 張瑄 張鵬 李裕

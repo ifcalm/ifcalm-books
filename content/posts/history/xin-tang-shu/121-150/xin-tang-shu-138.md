@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷138 卷一百三十八 列傳第六十三 李嗣業 馬璘 李抱玉從父弟:抱真 抱真子:緘 路嗣恭子:應"
+title: "新唐书 卷138"
 date: 2026-05-24
 weight: 138
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷138。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李嗣業 馬璘 李抱玉從父弟:抱真 抱真子:緘 路嗣恭子:應 恕

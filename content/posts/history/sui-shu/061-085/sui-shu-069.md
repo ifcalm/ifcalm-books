@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷69 卷69 列傳第34 王劭 袁充"
+title: "隋书 卷69"
 date: 2026-05-24
 weight: 69
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷69。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷六十九列傳第三十四

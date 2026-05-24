@@ -1,5 +1,5 @@
 ---
-title: "元史 卷145 卷一百四十五 列傳第三十二: 亦憐真班 廉惠山海牙 月魯不花 達禮麻識理"
+title: "元史 卷145"
 date: 2026-05-24
 weight: 145
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷145。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 亦憐真班

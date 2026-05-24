@@ -1,5 +1,5 @@
 ---
-title: "元史 卷175 卷一百七十五 列傳第六十二: 張珪 李孟 張養浩 敬儼"
+title: "元史 卷175"
 date: 2026-05-24
 weight: 175
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷175。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張珪

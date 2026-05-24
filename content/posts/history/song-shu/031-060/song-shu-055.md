@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷55 卷五十五 列傳第十五 臧燾 徐廣 傅隆"
+title: "宋书 卷55"
 date: 2026-05-24
 weight: 55
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷55。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十五　　臧燾徐廣傅隆

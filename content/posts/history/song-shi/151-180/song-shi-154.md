@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷154 卷一百五十四 志第一百〇七 輿服六"
+title: "宋史 卷154"
 date: 2026-05-24
 weight: 154
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷154。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 輿服六○寶印符券宮室制度臣庶室屋制度

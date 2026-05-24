@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷15 卷十五 本紀第十五 神宗二"
+title: "宋史 卷15"
 date: 2026-05-24
 weight: 15
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷15。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 三年春正月癸丑，錄唐李氏、周柴氏後。乙卯，詔諸路散青苗錢禁抑配。戊午，判尚書省張方平罷知陳州。

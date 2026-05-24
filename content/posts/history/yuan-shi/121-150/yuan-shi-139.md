@@ -1,5 +1,5 @@
 ---
-title: "元史 卷139 卷一百三十九 列傳第二十六: 乃蠻台 朵兒只 朵爾直班 阿魯圖 紐的該"
+title: "元史 卷139"
 date: 2026-05-24
 weight: 139
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷139。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 乃蛮台

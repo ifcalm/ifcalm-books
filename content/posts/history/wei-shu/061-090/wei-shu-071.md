@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷71 卷71 裴叔業 夏侯道遷 李元護 席法友 王世弼 江悦之 淳于誕 李苗"
+title: "魏书 卷71"
 date: 2026-05-24
 weight: 71
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷71。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 裴叔業　夏侯道遷　李元護　席法友　王世弼　江悅之　淳于誕　李苗

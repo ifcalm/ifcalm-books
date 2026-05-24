@@ -1,5 +1,5 @@
 ---
-title: "南史 卷8 卷八 梁本紀下第八 簡文帝 元帝 敬帝"
+title: "南史 卷8"
 date: 2026-05-24
 weight: 8
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷8。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁本紀下第八

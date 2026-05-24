@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷104 卷一百〇四 列傳第五十四: 高仙芝 封常清 哥舒翰"
+title: "旧唐书 卷104"
 date: 2026-05-24
 weight: 104
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷104。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高仙芝，本高麗人也。父舍雞，初從河西軍，累勞至四鎮十將、諸衛將軍。仙芝美姿容，善騎射，勇決驍果。少隨父至安西，以父有功授遊擊將軍。年二十餘即拜將軍，與父同班秩。事節度使田仁琬、蓋嘉運，未甚任用，後夫蒙靈察累拔擢之。開元末，為安西副都護、四鎮都知兵馬使。

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷259 卷二百五十九 列傳第一百四十七 楊鎬 袁應泰 熊廷弼 袁崇煥 趙光抃"
+title: "明史 卷259"
 date: 2026-05-24
 weight: 259
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷259。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊鎬附:李維翰 周永春 袁應泰附:薛國用 熊廷弼〈（王化貞）〉 袁崇煥〈（毛文龍）〉 趙光抃附:範志完

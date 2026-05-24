@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷7 卷七 本紀第七 東昏侯"
+title: "南齐书 卷7"
 date: 2026-05-24
 weight: 7
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷7。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷第七‧本紀第七

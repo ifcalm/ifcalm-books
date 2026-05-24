@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷432 卷四百三十二 列傳第一百九十一 儒林二 胡旦 賈同 劉顏 高弁 孫復 石介 胡瑗 劉羲叟 林㮣 李覯 何涉 王回弟:向 周堯卿 王當 陳暘"
+title: "宋史 卷432"
 date: 2026-05-24
 weight: 432
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷432。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 儒林二

@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷54 卷五十四 列傳第二十四 陸機 陸雲"
+title: "晋书 卷54"
 date: 2026-05-24
 weight: 54
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷54。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陸機

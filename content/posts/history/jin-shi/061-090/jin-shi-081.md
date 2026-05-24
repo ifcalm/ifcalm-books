@@ -1,5 +1,5 @@
 ---
-title: "金史 卷81 卷八十一 列傳第十九: 鶻謀琶 迪姑迭 阿徒罕 夾谷謝奴 阿勒根沒都魯 黃摑敵古本 蒲察胡盞 夾穀吾里補 王伯龍 高彪 溫蒂罕蒲里特 伯德特離補 耶律懷義 蕭王家奴 田顥 趙隇"
+title: "金史 卷81"
 date: 2026-05-24
 weight: 81
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷81。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十九 ○鶻謀琶 迪姑迭 阿徒罕 夾谷謝奴 阿勒根沒都魯 黃摑敵古本 蒲察胡盞 夾穀吾里補 王伯龍 高彪 溫蒂罕蒲里特 伯德特離補 耶律懷義 蕭王家奴 田顥 趙隇

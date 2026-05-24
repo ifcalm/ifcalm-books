@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷190 卷一百九十 志第一百四十三 兵四"
+title: "宋史 卷190"
 date: 2026-05-24
 weight: 190
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷190。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鄉兵一

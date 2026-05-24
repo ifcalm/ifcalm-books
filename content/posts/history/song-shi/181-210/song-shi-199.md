@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷199 卷一百九十九 志第一百五十二 刑法一"
+title: "宋史 卷199"
 date: 2026-05-24
 weight: 199
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷199。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 夫天有五氣以育萬物，木德以生，金德以殺，亦甚盭矣，而始終之序，相成之道也。先天有刑罰以糾其民，則必溫慈惠和以行之，蓋裁之以義，推之以仁，則震殺戮之威，非求民之死，所以求其生也。書曰：「士制百姓于刑之中，以教祗德。」言刑以弼教，使之畏威遠罪，導以之善爾。唐、虞之治，固不能廢刑也；惟禮以防之，有弗及，則刑以輔之而已。王道陵遲，禮制隳廢，始專任法以罔其民，於是作為 刑書，欲民無犯，而亂獄滋豐，由其本末無序，不足相成故也。

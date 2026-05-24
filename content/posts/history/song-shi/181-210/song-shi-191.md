@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷191 卷一百九十一 志第一百四十四 兵五"
+title: "宋史 卷191"
 date: 2026-05-24
 weight: 191
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷191。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 兵五〈（鄉兵二）〉

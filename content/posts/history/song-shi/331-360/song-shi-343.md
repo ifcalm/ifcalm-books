@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷343 卷三百四十三 列傳第一百〇二 元絳 許將 鄧潤甫 林希 蔣之奇 陸佃 吳居厚 溫益"
+title: "宋史 卷343"
 date: 2026-05-24
 weight: 343
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷343。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 元絳

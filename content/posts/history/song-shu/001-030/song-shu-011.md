@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷11 卷十一 志第一 律志序"
+title: "宋书 卷11"
 date: 2026-05-24
 weight: 11
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷11。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 左史記言，右史記事，事則春秋是也，言則尚書是也。至於楚書、鄭志、晉乘、楚杌之篇，皆所以昭述前史，俾不泯於後。

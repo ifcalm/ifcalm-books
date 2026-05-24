@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷56 卷五十六 志第二十五: 儀衞志二"
+title: "辽史 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 儀衛誌二 ○國服

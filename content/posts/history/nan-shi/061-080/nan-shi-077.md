@@ -1,5 +1,5 @@
 ---
-title: "南史 卷77 卷七十七 列傳第六十七 恩倖"
+title: "南史 卷77"
 date: 2026-05-24
 weight: 77
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷77。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 戴法興 徐爰 阮佃夫 紀僧真 劉系宗 茹法亮 呂文顯 茹法珍 周石珍 陸驗 司馬申 施文慶 沈客卿 孔範

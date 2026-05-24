@@ -1,5 +1,5 @@
 ---
-title: "周书 卷44 卷44 列傳第36 泉企 李遷哲 楊乾運 扶猛 陽雄 席固 任果"
+title: "周书 卷44"
 date: 2026-05-24
 weight: 44
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷44。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 泉企　李遷哲　楊乾運　扶猛　陽雄　席固　任果

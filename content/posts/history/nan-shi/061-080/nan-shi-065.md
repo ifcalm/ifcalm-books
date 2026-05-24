@@ -1,5 +1,5 @@
 ---
-title: "南史 卷65 卷六十五 列傳第五十五 陳宗室諸王"
+title: "南史 卷65"
 date: 2026-05-24
 weight: 65
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷65。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第五十五

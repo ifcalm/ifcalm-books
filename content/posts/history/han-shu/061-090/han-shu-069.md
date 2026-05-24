@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷69 卷六十九 趙充國辛慶忌傳"
+title: "汉书 卷69"
 date: 2026-05-24
 weight: 69
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷69。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙充國字翁孫，隴西上邽人也，後徙金城鄰居。始為騎士，以六郡良家子善騎射補羽林。為人沉勇有大略，少好將帥之節，而學兵法，通知四夷事。

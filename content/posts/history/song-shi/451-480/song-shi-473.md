@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷473 卷四百七十三 列傳第二百三十二 姦臣三 黃潛善 汪伯彥 秦檜"
+title: "宋史 卷473"
 date: 2026-05-24
 weight: 473
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷473。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 黃潛善 汪伯彥 秦檜

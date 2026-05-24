@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷236 卷二百三十六 表第二十七 宗室世系二十二"
+title: "宋史 卷236"
 date: 2026-05-24
 weight: 236
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷236。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7236"
-source_license: "CC BY-SA 4.0"
 ---
 
 |  | 贈宮苑使、宜州刺史承漠 | 新平侯克構 | 馮翊侯叔璨 | 太子右內率府副率持之 |  |  |  |  |  |  |  |  |

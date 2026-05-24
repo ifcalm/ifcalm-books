@@ -1,5 +1,5 @@
 ---
-title: "明史 卷234 卷二百三十四 列傳第一百二十二 盧洪春 李懋檜 李沂 雒于仁 馬經綸 劉綱 戴士衡 曹學程 翁憲祥 徐大相"
+title: "明史 卷234"
 date: 2026-05-24
 weight: 234
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷234。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 盧洪春〈（範俊董基王就學等）〉李懋檜李沂〈（周弘禴潘士藻）〉雒於仁馬經綸〈（林熙春林培）〉劉綱戴士衡曹學程〈（子正儒郭實）〉翁憲祥徐大相

@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷101 卷一百〇一 載記第一 劉元海（劉渊）"
+title: "晋书 卷101"
 date: 2026-05-24
 weight: 101
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷101。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E6%99%89%E6%9B%B8/%E5%8D%B7101"
-source_license: "CC BY-SA 4.0"
 ---
 
 劉元海〈（子和）〉 劉宣

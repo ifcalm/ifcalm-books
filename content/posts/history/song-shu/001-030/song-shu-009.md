@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷9 卷九 本紀第九 後廢帝"
+title: "宋书 卷9"
 date: 2026-05-24
 weight: 9
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷9。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 廢帝諱昱，字德融，小字慧震，明帝長子也。大明七年正月辛丑，生於衞尉府。太宗諸子在孕，皆以周易筮之，即以所得之卦為小字，故帝字慧震，其餘皇子亦如之。泰始二年，立為皇太子。三年，始制太子改名昱。安車乘象輅。六年，出東宮。又制太子元正朝賀，服袞冕九章衣。

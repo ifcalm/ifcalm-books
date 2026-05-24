@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷255 卷二百五十五 列傳第十四 郭崇 楊廷璋 宋偓 向拱 王彥超 張永德 王全斌 康延澤 王繼濤 高彥暉"
+title: "宋史 卷255"
 date: 2026-05-24
 weight: 255
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷255。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 郭崇

@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷13 卷十三 志第三 歷下"
+title: "宋书 卷13"
 date: 2026-05-24
 weight: 13
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷13。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E6%9B%B8/%E5%8D%B713"
-source_license: "CC BY-SA 4.0"
 ---
 
 元嘉曆法

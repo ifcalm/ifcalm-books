@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷460 卷四百六十 列傳第二百十九 列女 朱娥 張氏 彭列女 郝節娥 朱氏 崔氏 趙氏 丁氏 項氏 王氏二婦 徐氏 榮氏 何氏 董氏 譚氏 劉氏 張氏 師氏 陳堂前 節婦廖氏 劉當可母 曾氏婦 王袤妻 涂端友妻 詹氏女 劉生妻 謝泌妻 謝枋得妻 王貞婦 趙淮妾 譚氏婦 吳中孚妻 呂仲洙女 林老女 童氏女 韓氏女 王氏婦 劉仝子妻毛惜惜"
+title: "宋史 卷460"
 date: 2026-05-24
 weight: 460
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷460。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列女

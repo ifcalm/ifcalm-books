@@ -1,5 +1,5 @@
 ---
-title: "明史 卷14 卷十四 本紀第十四 憲宗二"
+title: "明史 卷14"
 date: 2026-05-24
 weight: 14
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷14。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 成化十二年

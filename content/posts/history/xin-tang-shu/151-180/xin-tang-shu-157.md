@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷157 卷一百五十七 列傳第八十二 陸贄"
+title: "新唐书 卷157"
 date: 2026-05-24
 weight: 157
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷157。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陸贄

@@ -1,5 +1,5 @@
 ---
-title: "金史 卷86 卷八十六 列傳第二十四: 李石子:獻可 完顏福壽 獨吉義 烏延蒲離黑 烏延蒲轄奴 烏延查剌 李師雄 尼厖古鈔兀 孛朮魯定方 夾谷胡剌 蒲察斡論 夾谷查剌"
+title: "金史 卷86"
 date: 2026-05-24
 weight: 86
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷86。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李石

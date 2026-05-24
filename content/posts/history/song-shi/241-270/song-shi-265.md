@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷265 卷二百六十五 列傳第二十四 李昉 呂蒙正 張齊賢 賈黃中"
+title: "宋史 卷265"
 date: 2026-05-24
 weight: 265
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷265。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李昉

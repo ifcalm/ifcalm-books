@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷20 卷二十 志第十 禮樂十"
+title: "新唐书 卷20"
 date: 2026-05-24
 weight: 20
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷20。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 凶禮

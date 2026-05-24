@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷105 卷一百〇五 志第五十八 禮八"
+title: "宋史 卷105"
 date: 2026-05-24
 weight: 105
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷105。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文宣王廟武成王廟先代陵廟諸神祠

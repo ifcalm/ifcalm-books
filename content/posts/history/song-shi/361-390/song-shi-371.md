@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷371 卷三百七十一 列傳第一百三十 白時中 徐處仁 馮澥 王倫 宇文虛中 湯思退"
+title: "宋史 卷371"
 date: 2026-05-24
 weight: 371
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷371。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 白時中 徐處仁 馮澥 王倫 宇文虛中 湯思退

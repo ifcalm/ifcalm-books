@@ -1,5 +1,5 @@
 ---
-title: "明史 卷186 卷一百八十六 列傳第七十四 韓文 張敷華 楊守隨 許進 雍泰 陳壽 樊瑩 熊繡 潘蕃 胡富 張泰 張鼐 王璟 朱欽"
+title: "明史 卷186"
 date: 2026-05-24
 weight: 186
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷186。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韓文〈（顧佐陳仁）〉張敷華楊守隨〈（弟守隅）〉許進〈（子誥贊論）〉雍泰〈（張津）〉陳壽樊瑩熊繡潘蕃胡富張泰〈（吳文度）〉張鼐〈（冒政）〉王璟朱欽

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷213 卷二百十三 列傳第一百〇一 徐階 高拱 張居正"
+title: "明史 卷213"
 date: 2026-05-24
 weight: 213
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷213。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 徐階弟:陟 子:璠 等 高拱附:郭樸 張居正曾孫:同敞

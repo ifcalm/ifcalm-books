@@ -1,5 +1,5 @@
 ---
-title: "金史 卷132 卷一百三十二 列傳第七十: 逆臣 秉德本名乙辛 唐括辯 烏帶 大興國 徒單阿里出虎 僕散師恭本名忽土 徒單貞 李老僧 完顏元宜 紇石烈執中本名胡沙虎"
+title: "金史 卷132"
 date: 2026-05-24
 weight: 132
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷132。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第七十 逆臣 ○秉德本名乙辛 唐括辯 烏帶 大興國 徒單阿里出虎 僕散師恭本名忽土 徒單貞 李老僧 完顏元宜 紇石烈執中本名胡沙虎

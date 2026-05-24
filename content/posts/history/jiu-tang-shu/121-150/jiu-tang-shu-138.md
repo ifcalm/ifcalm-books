@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷138 卷一百三十八 列傳第八十八: 趙憬 韋倫 賈耽 姜公輔"
+title: "旧唐书 卷138"
 date: 2026-05-24
 weight: 138
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷138。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙憬

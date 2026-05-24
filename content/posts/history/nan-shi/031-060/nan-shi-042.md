@@ -1,5 +1,5 @@
 ---
-title: "南史 卷42 卷四十二 列傳第三十二 齊高帝諸子上"
+title: "南史 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第三十二齊高帝諸子上

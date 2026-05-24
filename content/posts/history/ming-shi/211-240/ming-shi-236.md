@@ -1,5 +1,5 @@
 ---
-title: "明史 卷236 卷二百三十六 列傳第一百二十四 李植 江東之 湯兆京 金士衡 王元翰 孫振基 丁元薦 李朴 夏嘉遇"
+title: "明史 卷236"
 date: 2026-05-24
 weight: 236
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷236。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李植〈（羊可立）〉江東之湯兆京金士衡王元翰孫振基〈（子必顯）〉丁元薦〈（于玉立）〉李樸夏嘉遇

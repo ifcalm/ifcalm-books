@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷60 卷六十 志第二十九: 食貨下"
+title: "辽史 卷60"
 date: 2026-05-24
 weight: 60
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷60。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 食貨志下

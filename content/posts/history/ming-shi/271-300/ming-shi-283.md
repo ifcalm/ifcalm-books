@@ -1,5 +1,5 @@
 ---
-title: "明史 卷283 卷二百八十三 列傳第一百七十一 儒林二"
+title: "明史 卷283"
 date: 2026-05-24
 weight: 283
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷283。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳獻章〈（李承箕張詡）〉婁諒〈（夏尚樸）〉賀欽陳茂烈湛若水〈（蔣信等）〉鄒守益〈（子善等）〉錢德洪〈（徐愛等）〉王畿〈（王艮等）〉歐陽德〈（族人瑜）〉羅洪先〈（程文德）〉吳悌〈（子仁度）〉何廷仁〈（劉邦采魏良政等）〉王時槐許孚遠尤時熙〈（張後覺等）〉鄧以贊〈（張元忄卞）〉孟化鯉〈（孟秋）〉來知德鄧元錫〈（劉元卿章潢）〉

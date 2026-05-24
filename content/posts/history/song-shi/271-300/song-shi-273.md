@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷273 卷二百七十三 列傳第三十二 李進卿 楊美 何繼筠 李漢超 郭進 牛思進 李謙溥 姚內斌 董遵誨 賀惟忠 馬仁瑀"
+title: "宋史 卷273"
 date: 2026-05-24
 weight: 273
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷273。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李進卿

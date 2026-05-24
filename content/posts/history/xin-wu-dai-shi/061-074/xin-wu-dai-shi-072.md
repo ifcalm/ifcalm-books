@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷72 卷七十二 四夷附錄第一: 契丹"
+title: "新五代史 卷72"
 date: 2026-05-24
 weight: 72
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷72。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 嗚呼，夷狄居處飲食，隨水草寒暑徙遷，有君長部號而無世族、文字記別，至於弦弓毒矢，強弱相並，國地大小，興滅不常，是皆烏足以考述哉！惟其服叛去來，能為中國利害者，此不可以不知也。自古夷狄之於中國，有道未必服，無道未必不來，蓋自因其衰盛。雖嘗置之治外，而羈縻制馭恩威之際，不可失也。其得之未必為利，失之有足為患，可不慎哉！作《四夷附錄》。

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷129 卷一百二十九 列傳第七十九: 韓滉 張延賞"
+title: "旧唐书 卷129"
 date: 2026-05-24
 weight: 129
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷129。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韓滉，字太沖，太子少師休之子也。少貞介好學，以廕解褐左威衛騎曹參軍，出為同官主簿。至德初，青齊節度鄧景山辟為判官，授監察御史、兼北海郡司馬，以道路阻絕，因避地山南。采訪使李承昭奏充判官，授通州長史、彭王府諮議參軍。鄧景山移鎮淮南，又表為賓佐，未行，除殿中侍御史，追赴京師。先是，滉兄法知制誥，草王玙拜官之詞，不加虛美，玙頗銜之。及其秉政，諸使奏滉兄弟者，必以冗官授之。玙免相，群議稱其屈，累遷至祠部、孝功、吏部三員外郎。

@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷113 卷113 官氏志九"
+title: "魏书 卷113"
 date: 2026-05-24
 weight: 113
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷113。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 百姓不能以自治，故立君以司牧；元首不可以獨斷，乃命臣以佐之。然則安海內，正國家，非一人之力也。書契已外，其事蔑聞，至於羲、軒、昊、頊之間，龍、火、鳥、人之職，頗可知矣。唐虞六十，夏商倍之，周過三百，是為大備。而秦、漢、魏、晉代有加減，罷置盛衰，隨時適務。且國異政，家殊俗，設官命職，何常之有。帝王為治，禮樂不相沿；海內作家，物色非一用。其由來尚矣。

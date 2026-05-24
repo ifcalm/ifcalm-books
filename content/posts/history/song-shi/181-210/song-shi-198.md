@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷198 卷一百九十八 志第一百五十一 兵十二"
+title: "宋史 卷198"
 date: 2026-05-24
 weight: 198
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷198。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 馬政

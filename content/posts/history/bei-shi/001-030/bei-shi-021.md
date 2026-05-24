@@ -1,5 +1,5 @@
 ---
-title: "北史 卷21 卷二十一 列傳第九: 燕鳳 許謙 崔宏 張袞 鄧彥海"
+title: "北史 卷21"
 date: 2026-05-24
 weight: 21
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷21。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 燕鳳 許謙 崔宏 張袞 鄧彥海

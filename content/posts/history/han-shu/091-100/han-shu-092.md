@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷92 卷九十二 游俠傳"
+title: "汉书 卷92"
 date: 2026-05-24
 weight: 92
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷92。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷九十二 遊俠傳第六十二

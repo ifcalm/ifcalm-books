@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷322 卷三百二十二 列傳第八十一 何郯 吳中復 陳薦 王獵 孫思恭 周孟陽 齊恢 楊繪 劉庠 朱京"
+title: "宋史 卷322"
 date: 2026-05-24
 weight: 322
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷322。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 何郯

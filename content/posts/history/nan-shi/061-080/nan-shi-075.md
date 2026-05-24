@@ -1,5 +1,5 @@
 ---
-title: "南史 卷75 卷七十五 列傳第六十五 隱逸上"
+title: "南史 卷75"
 date: 2026-05-24
 weight: 75
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷75。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陶潛 宗少文 沈道虔 孔淳之 周續之 戴顒 翟法賜 雷次宗 郭希林 劉凝之 龔祈 朱百年 關康之 漁父 褚伯玉 顧歡 杜京產

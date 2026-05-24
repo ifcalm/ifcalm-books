@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷112 卷一百十二 列傳第四十二: 逆臣上"
+title: "辽史 卷112"
 date: 2026-05-24
 weight: 112
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷112。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 逆臣上

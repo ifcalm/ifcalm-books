@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷470 卷四百七十 列傳第二百二十九 佞幸 弭德超 侯莫陳利用 趙贊 王黼 朱勔 王繼先 曾覿龍大淵 張說 王抃 姜特立譙熙載"
+title: "宋史 卷470"
 date: 2026-05-24
 weight: 470
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷470。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 弭德超 侯莫陳利用 趙贊 王黼 朱勔 王繼先 曾覿龍大淵 附 張說 王抃 姜特立譙熙載 附

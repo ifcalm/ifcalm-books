@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷219 卷二百一十九 列傳第一百四十四 北狄"
+title: "新唐书 卷219"
 date: 2026-05-24
 weight: 219
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷219。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 契丹 奚 室韋 靺鞨渤海

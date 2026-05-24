@@ -1,5 +1,5 @@
 ---
-title: "周书 卷49 卷49 列傳第41 異域上（高句麗・百濟・蠻・獠・宕昌・鄧至・白蘭・氐・稽胡・庫莫奚）"
+title: "周书 卷49"
 date: 2026-05-24
 weight: 49
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷49。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 異域上

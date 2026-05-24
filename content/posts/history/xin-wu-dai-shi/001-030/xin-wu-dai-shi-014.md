@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷14 卷十四 唐太祖家人傳第二:"
+title: "新五代史 卷14"
 date: 2026-05-24
 weight: 14
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷14。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 太祖劉太妃貞簡皇后曹氏

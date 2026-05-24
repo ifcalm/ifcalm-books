@@ -1,5 +1,5 @@
 ---
-title: "金史 卷76 卷七十六 列傳第十四: 太宗諸子 宗磐(本名蒲魯虎) 宗固(本名胡魯) 宗本(本名阿魯，附:蕭玉) 杲本名斜也 子:宗義(本名孛吉) 阿虎里 宗幹本名斡本 子:充(本名神土懣 子:永元(本名元奴)) 兗(本名梧桐) 襄(本名永慶) 袞(本名蒲甲)"
+title: "金史 卷76"
 date: 2026-05-24
 weight: 76
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷76。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十四 ○太宗諸子宗磐(本名蒲魯虎) 宗固(本名胡魯) 宗本(本名阿魯，附:蕭玉) 杲本名斜也 子:宗義(本名孛吉) 阿虎里 宗幹本名斡本 子:充(本名神土懣 子:檀奴 永元(本名元奴)) 兗(本名梧桐) 襄(本名永慶) 袞(本名蒲甲)

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷153 卷一百五十三 列傳第四十: 劉敏 王檝 王守道 高宣 王玉汝 焦德裕 石天麟 李邦瑞 楊奐 賈居貞"
+title: "元史 卷153"
 date: 2026-05-24
 weight: 153
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷153。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉敏

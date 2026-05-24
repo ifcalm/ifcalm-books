@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷157 卷一百五十七 志第一百一十 選舉三"
+title: "宋史 卷157"
 date: 2026-05-24
 weight: 157
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷157。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 選舉三〈（學校試律學等試附）〉

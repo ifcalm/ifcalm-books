@@ -1,5 +1,5 @@
 ---
-title: "北史 卷49 卷四十九 列傳第三十七: 朱瑞 叱列延慶 斛斯椿 賈顯度 樊子鵠 侯深 賀拔允 侯莫陳悅 念賢 梁覽 雷紹 毛遐 乙弗朗"
+title: "北史 卷49"
 date: 2026-05-24
 weight: 49
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷49。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 朱瑞 叱列延慶 斛斯椿 賈顯度 樊子鵠 侯深 賀拔允 侯莫陳悅 念賢 梁覽 雷紹 毛遐 乙弗朗

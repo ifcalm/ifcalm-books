@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷27 卷27 志第22 百官中"
+title: "隋书 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷二十七　　志第二十二

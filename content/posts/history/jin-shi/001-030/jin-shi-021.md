@@ -1,5 +1,5 @@
 ---
-title: "金史 卷21 卷二十一 志第二: 曆上 步氣朔第一 步卦候第二 步日躔第三"
+title: "金史 卷21"
 date: 2026-05-24
 weight: 21
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷21。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Kanseki Repository/Kanripo"
-source_url: "https://github.com/kanripo/KR2a0035"
-source_license: "CC BY-SA 4.0"
 ---
 
 金史卷二十一

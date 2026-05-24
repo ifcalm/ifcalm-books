@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷26 卷二十六 列傳第七 王敬則 陳顯達"
+title: "南齐书 卷26"
 date: 2026-05-24
 weight: 26
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷26。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王敬則　陳顯達

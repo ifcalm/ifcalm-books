@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷453 卷四百五十三 列傳第二百十二 忠義八 高永年 鞠嗣復宋旅 丁仲脩 項德 孫昭遠 曾孝序 趙伯振 王士言祝公明 薛慶 孫暉李靚 楊照 丁元 宋昌祚 李政 姜綬 劉宣 屈堅王琦 韋永壽 鄭覃 姚興 張玘 陳亨祖 王拱 劉泰 孫逢李熙靖 趙俊 劉化源 胡唐老 王儔朱嗣孟 劉晏 鄭振 孟彥卿 高談 連萬夫謝皋 王大壽 薛良顯 唐敏求 王師道"
+title: "宋史 卷453"
 date: 2026-05-24
 weight: 453
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷453。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 忠義八

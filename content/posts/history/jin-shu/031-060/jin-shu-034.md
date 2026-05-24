@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷34 卷三十四 列傳第四 羊祜 杜預"
+title: "晋书 卷34"
 date: 2026-05-24
 weight: 34
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷34。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 羊祜 杜預〈（杜錫）〉

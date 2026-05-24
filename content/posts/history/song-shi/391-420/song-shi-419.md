@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷419 卷四百十九 列傳第一百七十八 宣繒 薛極 陳貴誼 曾從龍 鄭性之 李鳴復 鄒應龍 余天錫 許應龍 林略 徐榮叟 別之傑 劉伯正 金淵 李性傳 陳韡 崔福"
+title: "宋史 卷419"
 date: 2026-05-24
 weight: 419
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷419。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宣繒薛極陳貴誼曾從龍鄭性之李鳴復鄒應龍餘天錫許應龍林略徐榮叟別之傑劉伯正金淵李性傳陳韡〈（崔福附）〉

@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷18 卷十八 列傳第十二: 沈眾 袁泌 劉仲威 陸山才 王質 韋載"
+title: "陈书 卷18"
 date: 2026-05-24
 weight: 18
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷18。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳書卷十八

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷433 卷四百三十三 列傳第一百九十二 儒林三 邵伯溫 喻樗 洪興祖 高閌 程大昌 林之奇 林光朝 楊萬里"
+title: "宋史 卷433"
 date: 2026-05-24
 weight: 433
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷433。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 邵伯溫 喻樗 洪興祖 高閌 程大昌 林之奇 林光朝 楊萬里

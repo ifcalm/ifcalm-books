@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷52 卷五十二 竇田灌韓傳"
+title: "汉书 卷52"
 date: 2026-05-24
 weight: 52
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷52。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷五十二 竇田灌韓傳第二十二

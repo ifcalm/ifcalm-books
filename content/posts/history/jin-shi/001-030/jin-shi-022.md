@@ -1,5 +1,5 @@
 ---
-title: "金史 卷22 卷二十二 志第三: 曆下 步月離第五 步交會第六 步五星第七"
+title: "金史 卷22"
 date: 2026-05-24
 weight: 22
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷22。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Kanseki Repository/Kanripo"
-source_url: "https://github.com/kanripo/KR2a0035"
-source_license: "CC BY-SA 4.0"
 ---
 
 金史卷二十二

@@ -1,5 +1,5 @@
 ---
-title: "史记 卷57 《絳侯周勃世家》"
+title: "史记 卷57"
 date: 2026-05-24
 weight: 57
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷57。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《絳侯周勃世家》

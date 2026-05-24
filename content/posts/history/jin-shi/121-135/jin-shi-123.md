@@ -1,5 +1,5 @@
 ---
-title: "金史 卷123 卷一百二十三 列傳第六十一: 忠義三 徒單航 完顏陳和尚 楊沃衍 烏古論黑漢 陀滿胡土門 姬汝作 愛申附:馬肩龍 禹顯 張邦憲 劉全"
+title: "金史 卷123"
 date: 2026-05-24
 weight: 123
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷123。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第六十一 忠義三 ○徒單航 完顏陳和尚 楊沃衍 烏古論黑漢 陀滿胡土門 姬汝作 愛申馬肩龍(附) 禹顯 張邦憲 劉全

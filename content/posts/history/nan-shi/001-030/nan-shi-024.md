@@ -1,5 +1,5 @@
 ---
-title: "南史 卷24 卷二十四 列傳第十四 王裕之 王鎮之 王韶之 王悅之 王准之"
+title: "南史 卷24"
 date: 2026-05-24
 weight: 24
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷24。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十四

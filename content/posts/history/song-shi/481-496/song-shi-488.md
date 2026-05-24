@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷488 卷四百八十八 列傳第二百四十七 外國四 交阯 大理"
+title: "宋史 卷488"
 date: 2026-05-24
 weight: 488
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷488。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 交趾 大理

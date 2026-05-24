@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷38 卷38 列傳第3 劉昉 鄭譯 柳裘 皇甫績 盧賁"
+title: "隋书 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷三十八列傳第三

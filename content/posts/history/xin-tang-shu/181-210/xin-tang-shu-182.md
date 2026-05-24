@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷182 卷一百八十二 列傳第一百零七 二李崔蕭二鄭視盧韋周二裴劉趙王"
+title: "新唐书 卷182"
 date: 2026-05-24
 weight: 182
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷182。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 二李崔蕭二鄭二盧韋周二裴劉趙王

@@ -1,5 +1,5 @@
 ---
-title: "北史 卷22 卷二十二 列傳第十: 長孫嵩 長孫道生 長孫肥"
+title: "北史 卷22"
 date: 2026-05-24
 weight: 22
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷22。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 長孫嵩 長孫道生 長孫肥

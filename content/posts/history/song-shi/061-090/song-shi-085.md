@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷85 卷八十五 志第三十八 地理一"
+title: "宋史 卷85"
 date: 2026-05-24
 weight: 85
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷85。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 京城京畿路京東路京西路

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷364 卷三百六十四 列傳第一百二十三 韓世忠"
+title: "宋史 卷364"
 date: 2026-05-24
 weight: 364
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷364。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韓世忠子:彥直

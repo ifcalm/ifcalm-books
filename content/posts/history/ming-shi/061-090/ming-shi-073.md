@@ -1,5 +1,5 @@
 ---
-title: "明史 卷73 卷七十三 志第四十九 職官二"
+title: "明史 卷73"
 date: 2026-05-24
 weight: 73
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷73。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 都察院 附總督 巡撫

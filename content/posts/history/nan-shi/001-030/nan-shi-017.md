@@ -1,5 +1,5 @@
 ---
-title: "南史 卷17 卷十七 列傳第七 劉敬宣 劉懷肅 劉粹 孫處 蒯恩 向靖 劉鍾 虞丘進 孟懷玉 胡藩 劉康祖"
+title: "南史 卷17"
 date: 2026-05-24
 weight: 17
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷17。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第七

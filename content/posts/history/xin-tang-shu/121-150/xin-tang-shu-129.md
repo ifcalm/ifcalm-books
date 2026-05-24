@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷129 卷一百二十九 列傳第五十四 裴崔盧李王嚴"
+title: "新唐书 卷129"
 date: 2026-05-24
 weight: 129
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷129。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 裴崔盧李王嚴

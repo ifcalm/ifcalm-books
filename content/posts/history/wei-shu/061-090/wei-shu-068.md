@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷68 卷68 甄琛 高聰"
+title: "魏书 卷68"
 date: 2026-05-24
 weight: 68
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷68。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 甄琛　高聰

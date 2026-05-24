@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷160 卷一百六十 列傳第八十五 徐呂孟劉楊潘崔韋"
+title: "新唐书 卷160"
 date: 2026-05-24
 weight: 160
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷160。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 徐呂孟劉楊潘崔韋

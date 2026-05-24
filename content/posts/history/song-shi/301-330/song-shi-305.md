@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷305 卷三百〇五 列傳第六十四 楊億 晁迥 劉筠 薛映"
+title: "宋史 卷305"
 date: 2026-05-24
 weight: 305
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷305。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊億

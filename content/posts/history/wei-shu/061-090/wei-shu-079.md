@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷79 卷79 成淹 範紹 劉桃符 劉道斌 董紹 馮元興 鹿悆 張熠"
+title: "魏书 卷79"
 date: 2026-05-24
 weight: 79
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷79。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 成淹　范紹　劉桃符　劉道斌　董紹　馮元興　鹿悆　張熠

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷18 卷十八"
+title: "旧唐书 卷18"
 date: 2026-05-24
 weight: 18
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷18。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷十八上 本紀第十八上: 武宗

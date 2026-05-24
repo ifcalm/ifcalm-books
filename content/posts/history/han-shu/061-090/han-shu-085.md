@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷85 卷八十五 谷永杜鄴傳"
+title: "汉书 卷85"
 date: 2026-05-24
 weight: 85
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷85。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷八十五 谷永杜鄴傳第五十五

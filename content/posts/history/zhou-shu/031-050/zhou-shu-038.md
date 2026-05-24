@@ -1,5 +1,5 @@
 ---
-title: "周书 卷38 卷38 列傳第30 蘇亮 柳虯 呂思禮 薛憕 薛寘 李昶 元偉"
+title: "周书 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蘇亮 弟湛　柳虯　呂思禮　薛憕　薛寘　李昶　元偉

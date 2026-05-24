@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷56 卷五十六 列傳第五十 侯景"
+title: "梁书 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第五十六 列傳第五十

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷78 卷七十八 志第五十四 食貨二"
+title: "明史 卷78"
 date: 2026-05-24
 weight: 78
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷78。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 賦役

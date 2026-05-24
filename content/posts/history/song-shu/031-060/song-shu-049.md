@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷49 卷四十九 列傳第九 孫處 蒯恩 劉鍾 虞丘進"
+title: "宋书 卷49"
 date: 2026-05-24
 weight: 49
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷49。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第九　　孫處 蒯恩 劉鐘[1] 虞丘進

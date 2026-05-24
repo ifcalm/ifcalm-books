@@ -1,5 +1,5 @@
 ---
-title: "北史 卷9 卷九 周本紀上第九: 太祖文帝 孝閔帝 世宗明帝"
+title: "北史 卷9"
 date: 2026-05-24
 weight: 9
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷9。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 太祖文帝 孝閔帝 世宗明帝

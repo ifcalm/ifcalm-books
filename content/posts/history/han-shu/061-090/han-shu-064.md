@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷64 卷六十四"
+title: "汉书 卷64"
 date: 2026-05-24
 weight: 64
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷64。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷六十四上 嚴朱吾丘主父徐嚴終王賈傳

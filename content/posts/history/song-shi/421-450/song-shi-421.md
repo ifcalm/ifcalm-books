@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷421 卷四百二十一 列傳第一百八十 楊棟 姚希得 包恢 常挺 陳宗禮 常楙 家鉉翁 李庭芝"
+title: "宋史 卷421"
 date: 2026-05-24
 weight: 421
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷421。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊棟　姚希得　包恢　常挺　陳宗禮　常楙　家鉉翁　李庭芝

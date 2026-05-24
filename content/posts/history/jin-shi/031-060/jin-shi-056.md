@@ -1,5 +1,5 @@
 ---
-title: "金史 卷56 卷五十六 志第三十七: 百官二 殿前都點檢司 宣徽院 秘書監 國子監 太府監 少府監 軍器監 都水監 諫院 大理寺 弘文院 登聞鼓院 登聞檢院 記注院 集賢院 益政院 武衛軍都指揮使司 衛尉司 戶禮兵刑工部所轄諸司 三路檢察及外路倉庫牧圉等職"
+title: "金史 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 殿前都點檢司

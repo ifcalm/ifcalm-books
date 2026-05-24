@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷59 卷五十九 志第十二 天文十二"
+title: "宋史 卷59"
 date: 2026-05-24
 weight: 59
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷59。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 流隕三

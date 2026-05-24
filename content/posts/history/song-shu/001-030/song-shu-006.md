@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷6 卷六 本紀第六 孝武帝"
+title: "宋书 卷6"
 date: 2026-05-24
 weight: 6
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷6。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 世祖孝武皇帝諱駿，字休龍，小字道民，文帝第三子也。元嘉七年秋八月庚午生。十二年，立為武陵王，食邑二千戶。十六年，都督湘州諸軍事、征虜將軍、湘州刺史，領石頭戍事。十七年，遷使持節、都督南豫豫司雍并五州諸軍事、南豫州刺史，將軍如故，猶戍石頭。二十一年，加督秦州，進號撫軍將軍。明年，徙都督雍梁南北秦四州荊州之襄陽竟陵南陽順陽新野隨六郡諸軍事、[1]寧蠻校尉、雍州刺史，持節、將軍如故。自晉氏江左以來，襄陽未有皇子重鎮，時太祖欲經略關、河，故有此授。尋給鼓吹一部。

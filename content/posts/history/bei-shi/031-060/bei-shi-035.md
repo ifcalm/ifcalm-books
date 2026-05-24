@@ -1,5 +1,5 @@
 ---
-title: "北史 卷35 卷三十五 列傳第二十三: 王慧龍 鄭羲"
+title: "北史 卷35"
 date: 2026-05-24
 weight: 35
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷35。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王慧龍 鄭羲

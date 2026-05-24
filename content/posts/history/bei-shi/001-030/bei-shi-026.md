@@ -1,5 +1,5 @@
 ---
-title: "北史 卷26 卷二十六 列傳第十四: 宋隱 許彥 刁雍 辛紹先 韋閬 杜銓"
+title: "北史 卷26"
 date: 2026-05-24
 weight: 26
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷26。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宋隱 許彥 刁雍 辛紹先 韋閬 杜銓

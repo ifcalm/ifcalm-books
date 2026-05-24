@@ -1,5 +1,5 @@
 ---
-title: "南史 卷5 卷五 齊本紀下第五 廢帝鬱林王 廢帝海陵恭王 高宗明皇帝 廢帝東昏侯 和帝"
+title: "南史 卷5"
 date: 2026-05-24
 weight: 5
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷5。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 廢帝郁林王

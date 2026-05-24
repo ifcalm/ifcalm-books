@@ -1,5 +1,5 @@
 ---
-title: "南史 卷69 卷六十九 列傳第五十九 沈炯 虞荔 傅縡 顧野王 姚察"
+title: "南史 卷69"
 date: 2026-05-24
 weight: 69
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷69。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第五十九

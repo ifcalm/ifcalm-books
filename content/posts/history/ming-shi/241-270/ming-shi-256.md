@@ -1,5 +1,5 @@
 ---
-title: "明史 卷256 卷二百五十六 列傳第一百四十四 崔景榮 黃克纘 畢自嚴 李長庚 劉之鳳"
+title: "明史 卷256"
 date: 2026-05-24
 weight: 256
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷256。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔景榮黃克纘畢自嚴李長庚〈（王誌道）〉劉之鳳

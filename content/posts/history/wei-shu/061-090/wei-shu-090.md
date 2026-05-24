@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷90 卷90 逸士:眭誇 馮亮 李謐 鄭修"
+title: "魏书 卷90"
 date: 2026-05-24
 weight: 90
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷90。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 眭夸　馮亮　李謐　鄭脩

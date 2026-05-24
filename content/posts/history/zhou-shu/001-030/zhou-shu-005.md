@@ -1,5 +1,5 @@
 ---
-title: "周书 卷5 卷5 帝紀第5 武帝上"
+title: "周书 卷5"
 date: 2026-05-24
 weight: 5
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷5。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 武帝上

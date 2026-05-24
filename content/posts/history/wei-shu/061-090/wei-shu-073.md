@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷73 卷73 奚康生 楊大眼 崔延伯"
+title: "魏书 卷73"
 date: 2026-05-24
 weight: 73
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷73。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 奚康生　楊大眼　崔延伯

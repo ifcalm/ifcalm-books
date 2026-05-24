@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷74 卷七十四 四夷附錄第三: 奚 吐渾 達靼 党項 突厥 吐蕃 回鶻 于闐 高麗 渤海 新羅 黑水靺鞨 南詔蠻 牂牁 昆明 占城"
+title: "新五代史 卷74"
 date: 2026-05-24
 weight: 74
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷74。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 奚 吐渾 達靼 党項 突厥 吐蕃 回鶻 于闐 高麗 渤海 新羅 黑水靺鞨 南詔蠻 牂牁 昆明 占城

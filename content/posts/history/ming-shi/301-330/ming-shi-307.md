@@ -1,5 +1,5 @@
 ---
-title: "明史 卷307 卷三百〇七 列傳第一百九十五 佞倖 紀綱 門達 李孜省 繼曉 江彬 錢寧 陸炳 邵元節 陶仲文 顧可學"
+title: "明史 卷307"
 date: 2026-05-24
 weight: 307
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷307。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 佞幸

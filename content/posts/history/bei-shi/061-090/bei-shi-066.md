@@ -1,5 +1,5 @@
 ---
-title: "北史 卷66 卷六十六 列傳第五十四: 王傑 王勇 宇文虯 耿豪 高琳 李和 伊婁穆 達奚寔 劉雄 侯植 李延孫 韋祐 陳欣 魏玄 泉仚 李遷哲 楊乾運 扶猛 陽雄 席固 任果"
+title: "北史 卷66"
 date: 2026-05-24
 weight: 66
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷66。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王傑 王勇 宇文虯 耿豪 高琳 李和 伊婁穆 達奚寔 劉雄 侯植 李延孫 韋祐 陳欣 魏玄 泉仚 李遷哲 楊乾運 扶猛 陽雄 席固 任果

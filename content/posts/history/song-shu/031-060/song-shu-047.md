@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷47 卷四十七 列傳第七 趙倫之 王懿 張邵"
+title: "宋书 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷47。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第七　　劉懷肅 孟懷玉〈弟龍符〉 劉敬宣 檀祗

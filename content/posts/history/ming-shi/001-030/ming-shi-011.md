@@ -1,5 +1,5 @@
 ---
-title: "明史 卷11 卷十一 本紀第十一 景帝"
+title: "明史 卷11"
 date: 2026-05-24
 weight: 11
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷11。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 序言

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷124 卷一百二十四 列傳第七十四: 薛嵩 令狐彰 田神功 侯希逸 李正己"
+title: "旧唐书 卷124"
 date: 2026-05-24
 weight: 124
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷124。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 薛嵩

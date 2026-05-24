@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷38 卷38 刁雍 王慧龍 韓延之 袁式"
+title: "魏书 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 刁雍　王慧龍　韓延之　袁式

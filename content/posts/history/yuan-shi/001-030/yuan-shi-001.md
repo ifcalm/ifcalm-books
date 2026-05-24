@@ -1,5 +1,5 @@
 ---
-title: "元史 卷1 卷一 本紀第一: 太祖"
+title: "元史 卷1"
 date: 2026-05-24
 weight: 1
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷1。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 太祖

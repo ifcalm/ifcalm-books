@@ -1,5 +1,5 @@
 ---
-title: "北史 卷34 卷三十四 列傳第二十二: 游雅 高閭 趙逸 胡叟 胡方回 張湛 段承根 闞駰 劉延明 趙柔 索敞 宋繇 江式"
+title: "北史 卷34"
 date: 2026-05-24
 weight: 34
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷34。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 游雅 高閭 趙逸 胡叟 胡方回 張湛 段承根 闞駰 劉延明 趙柔 索敞 宋繇 江式

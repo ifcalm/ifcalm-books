@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷411 卷四百十一 列傳第一百七十 湯璹 蔣重珍 牟子才 朱貔孫 歐陽守道"
+title: "宋史 卷411"
 date: 2026-05-24
 weight: 411
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷411。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊棟姚希得包恢常挺陳宗禮常家鉉翁李庭芝

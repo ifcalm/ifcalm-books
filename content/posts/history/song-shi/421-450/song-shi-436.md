@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷436 卷四百三十六 列傳第一百九十五 儒林六 陳亮 鄭樵林霆 李道傳"
+title: "宋史 卷436"
 date: 2026-05-24
 weight: 436
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷436。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳亮

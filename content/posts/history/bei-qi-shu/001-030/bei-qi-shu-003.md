@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷3 卷三 補帝紀第三 文襄帝"
+title: "北齐书 卷3"
 date: 2026-05-24
 weight: 3
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷3。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文襄

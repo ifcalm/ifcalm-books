@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷88 卷88 良吏:張恂 鹿生 張應 宋世景 路邕 閻慶胤 明亮"
+title: "魏书 卷88"
 date: 2026-05-24
 weight: 88
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷88。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張恂　鹿生　張應[1]　宋世景　路邕　閻慶胤　明亮　杜纂　裴佗　竇瑗　羊敦　蘇淑

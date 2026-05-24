@@ -1,5 +1,5 @@
 ---
-title: "元史 卷172 卷一百七十二 列傳第五十九: 程鉅夫 趙孟頫 鄧文原 袁桷 曹元用 齊履謙"
+title: "元史 卷172"
 date: 2026-05-24
 weight: 172
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷172。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 程鉅夫

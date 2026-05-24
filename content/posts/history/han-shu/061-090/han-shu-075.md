@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷75 卷七十五 眭兩夏侯京翼李傳"
+title: "汉书 卷75"
 date: 2026-05-24
 weight: 75
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷75。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 眭弘字孟，魯國蕃人也。少時好俠，鬥雞走馬，長乃變節，從嬴公受《春秋》。以明經為議郎，至符節令。

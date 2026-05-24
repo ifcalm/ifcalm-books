@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷400 卷四百 列傳第一百五十九 王信 汪大猷 袁燮 吳柔勝 游仲鴻 李祥 王介 宋德之 楊大全"
+title: "宋史 卷400"
 date: 2026-05-24
 weight: 400
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷400。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王信

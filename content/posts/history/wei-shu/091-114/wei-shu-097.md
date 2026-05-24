@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷97 卷97 島夷桓玄 海夷馮跋 島夷劉裕"
+title: "魏书 卷97"
 date: 2026-05-24
 weight: 97
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷97。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 島夷桓玄　海夷馮跋　島夷劉裕

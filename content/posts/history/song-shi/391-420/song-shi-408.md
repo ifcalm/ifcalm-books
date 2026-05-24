@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷408 卷四百〇八 列傳第一百六十七 吳昌裔 汪綱 陳宓 王霆"
+title: "宋史 卷408"
 date: 2026-05-24
 weight: 408
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷408。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 吳昌裔汪綱陳宓王霆

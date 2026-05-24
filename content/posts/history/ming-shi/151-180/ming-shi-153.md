@@ -1,5 +1,5 @@
 ---
-title: "明史 卷153 卷一百五十三 列傳第四十一 宋禮 陳瑄 周忱"
+title: "明史 卷153"
 date: 2026-05-24
 weight: 153
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷153。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宋禮〈（藺芳）〉陳瑄〈（王瑜）〉周忱

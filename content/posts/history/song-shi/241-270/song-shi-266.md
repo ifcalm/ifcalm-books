@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷266 卷二百六十六 列傳第二十五 錢若水 蘇易簡 郭贄 李至 辛仲甫 王沔 溫仲舒 王化基"
+title: "宋史 卷266"
 date: 2026-05-24
 weight: 266
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷266。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 錢若水

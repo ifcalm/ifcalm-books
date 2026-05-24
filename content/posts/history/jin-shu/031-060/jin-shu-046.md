@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷46 卷四十六 列傳第十六 劉頌 李重"
+title: "晋书 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉頌

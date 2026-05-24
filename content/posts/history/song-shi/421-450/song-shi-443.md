@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷443 卷四百四十三 列傳第二百〇二 文苑五 梅堯臣 江休復 蘇洵 章望之 王逢 孫唐卿黃庠 楊寘 唐庚兄:伯虎 文同 楊傑 賀鑄 劉涇 鮑由 黃伯思"
+title: "宋史 卷443"
 date: 2026-05-24
 weight: 443
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷443。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第二百二 文苑五

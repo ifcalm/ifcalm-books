@@ -1,5 +1,5 @@
 ---
-title: "元史 卷163 卷一百六十三 列傳第五十: 李德輝 張雄飛 張德輝 馬亨 程思廉 烏古孫澤 趙炳"
+title: "元史 卷163"
 date: 2026-05-24
 weight: 163
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷163。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李德輝

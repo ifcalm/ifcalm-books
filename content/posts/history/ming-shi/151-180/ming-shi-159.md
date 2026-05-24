@@ -1,5 +1,5 @@
 ---
-title: "明史 卷159 卷一百五十九 列傳第四十七 熊概 陳鎰 李儀 陳泰 李棠 賈銓 王宇 崔恭 劉孜 李侃 原傑 彭誼 牟俸 夏壎 高明 楊繼宗"
+title: "明史 卷159"
 date: 2026-05-24
 weight: 159
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷159。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 熊概〈（葉春）〉陳鎰李儀〈（丁璿）〉陳泰李棠〈（曾翚）〉賈銓王宇崔恭劉孜〈（宋傑邢宥）〉李侃〈（雷復李綱）〉原傑彭誼牟俸夏壎〈（子鍭）〉高明楊繼宗

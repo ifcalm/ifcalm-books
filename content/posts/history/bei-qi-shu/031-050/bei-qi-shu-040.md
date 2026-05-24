@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷40 卷四十 補列傳第三二 尉瑾 馮子琮 赫連子悅 唐邕 白建"
+title: "北齐书 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 尉瑾　馮子琮　赫連子悅　唐邕　白建

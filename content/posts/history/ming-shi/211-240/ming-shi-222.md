@@ -1,5 +1,5 @@
 ---
-title: "明史 卷222 卷二百二十二 列傳第一百一十 譚綸 王崇古 方逢時 吳兌 鄭洛 張學顏 張佳胤 殷正茂 凌雲翼"
+title: "明史 卷222"
 date: 2026-05-24
 weight: 222
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷222。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 譚綸徐〈（甫宰王化李佑）〉王崇古〈（子謙孫之楨之采李棠）〉方逢時吳兌〈（孫孟明孟明子邦輔）〉鄭洛張學顏張佳胤殷正茂〈（李遷）〉淩雲翼

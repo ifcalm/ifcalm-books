@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷409 卷四百〇九 列傳第一百六十八 高定子 高斯得 張忠恕 唐璘"
+title: "宋史 卷409"
 date: 2026-05-24
 weight: 409
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷409。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高定子高斯得張忠恕唐璘

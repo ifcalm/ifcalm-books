@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷193 卷一百九十三 列傳第一百十八 忠義下"
+title: "新唐书 卷193"
 date: 2026-05-24
 weight: 193
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷193。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 忠義下

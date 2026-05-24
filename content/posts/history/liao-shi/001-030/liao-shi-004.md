@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷4 卷四 本紀第四: 太宗下"
+title: "辽史 卷4"
 date: 2026-05-24
 weight: 4
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷4。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 太宗下

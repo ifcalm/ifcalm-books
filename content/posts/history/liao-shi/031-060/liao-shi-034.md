@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷34 卷三十四 志第四: 兵衞志上"
+title: "辽史 卷34"
 date: 2026-05-24
 weight: 34
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷34。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 兵衛誌上

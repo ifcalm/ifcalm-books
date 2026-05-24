@@ -1,5 +1,5 @@
 ---
-title: "金史 卷98 卷九十八 列傳第三十六: 完顏匡 完顏綱弟:定奴"
+title: "金史 卷98"
 date: 2026-05-24
 weight: 98
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷98。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 完顏匡

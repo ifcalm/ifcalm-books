@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷426 卷四百二十六 列傳第一百八十五 循吏 陳靖 張綸 邵曄 崔立 魯有開 張逸 吳遵路 趙尚寬 高賦 程師孟 韓晉卿 葉康直 宋慈"
+title: "宋史 卷426"
 date: 2026-05-24
 weight: 426
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷426。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 循吏

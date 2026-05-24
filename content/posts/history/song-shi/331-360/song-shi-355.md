@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷355 卷三百五十五 列傳第一百十四 賈易 董敦逸 上官均 來之邵 葉濤 楊畏 崔台符 楊汲 呂嘉問 李南公 董必 虞策 郭知章"
+title: "宋史 卷355"
 date: 2026-05-24
 weight: 355
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷355。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 賈易

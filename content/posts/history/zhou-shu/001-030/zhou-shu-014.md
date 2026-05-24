@@ -1,5 +1,5 @@
 ---
-title: "周书 卷14 卷14 列傳第6 賀拔勝 弟岳 兄允 侯莫陳悅 念賢"
+title: "周书 卷14"
 date: 2026-05-24
 weight: 14
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷14。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 賀拔勝 弟岳 兄允　念賢

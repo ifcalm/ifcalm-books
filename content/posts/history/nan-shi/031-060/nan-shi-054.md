@@ -1,5 +1,5 @@
 ---
-title: "南史 卷54 卷五十四 列傳第四十四 梁簡文帝諸子 元帝諸子"
+title: "南史 卷54"
 date: 2026-05-24
 weight: 54
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷54。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第四十四

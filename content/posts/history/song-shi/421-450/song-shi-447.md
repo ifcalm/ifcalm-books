@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷447 卷四百四十七 列傳第二百〇六 忠義二 霍安國 李涓 李邈劉翊 徐揆 陳遘 趙不試 趙令峸 唐重郭忠孝 程迪 徐徽言 向子韶 楊邦乂"
+title: "宋史 卷447"
 date: 2026-05-24
 weight: 447
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷447。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 霍安國 李涓 李邈 劉翊 徐揆 陳遘 趙不試 趙令峸 唐重 郭忠孝 程迪 徐徽言 向子韶 楊邦乂

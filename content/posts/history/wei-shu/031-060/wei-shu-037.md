@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷37 卷37 司馬休之 司馬楚之 司馬景之 司馬叔璠 司馬天助"
+title: "魏书 卷37"
 date: 2026-05-24
 weight: 37
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷37。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 司馬休之　司馬楚之　司馬景之　司馬叔璠　司馬天助

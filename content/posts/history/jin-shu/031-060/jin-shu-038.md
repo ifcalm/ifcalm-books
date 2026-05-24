@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷38 卷三十八 列傳第八 宣五王 文六王"
+title: "晋书 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宣五王 文六王

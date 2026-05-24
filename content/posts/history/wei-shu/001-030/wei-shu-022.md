@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷22 卷22 孝文五王"
+title: "魏书 卷22"
 date: 2026-05-24
 weight: 22
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷22。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 廢太子　京兆王　清河王　廣平王　汝南王

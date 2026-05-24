@@ -1,5 +1,5 @@
 ---
-title: "周书 卷25 卷25 列傳第17 李賢 弟遠"
+title: "周书 卷25"
 date: 2026-05-24
 weight: 25
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷25。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李賢 弟遠

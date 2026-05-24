@@ -1,5 +1,5 @@
 ---
-title: "明史 卷287 卷二百八十七 列傳第一百七十五 文苑三"
+title: "明史 卷287"
 date: 2026-05-24
 weight: 287
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷287。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文徵明附:蔡羽 等 黄佐附:歐大任 黎民表 柯維騏 王慎中附:屠應埈 等 高叔嗣附:蔡汝楠 陳束附:任瀚 熊過 李開先 田汝成子:藝蘅 皇甫涍弟:沖 汸 濂 茅坤子:维 謝榛附:盧柟 李攀龍附:梁有譽 等 王世貞附:汪道昆 胡應麟 弟:世懋 歸有光子:子慕 附:胡友信

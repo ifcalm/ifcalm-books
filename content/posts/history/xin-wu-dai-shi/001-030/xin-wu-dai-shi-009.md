@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷9 卷九 晉本紀第九: 出帝"
+title: "新五代史 卷9"
 date: 2026-05-24
 weight: 9
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷9。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 出帝父敬儒，高祖兄也，為唐莊宗騎將，早卒，高祖以其子重貴為子。高祖六子，五皆早死，而重睿幼，故重貴得立。

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷284 卷二百八十四 列傳第一百七十二 儒林三"
+title: "明史 卷284"
 date: 2026-05-24
 weight: 284
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷284。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孔希學〈（孔彥繩）〉顏希惠曾質粹孔聞禮孟希文仲於陛周冕程接道程克仁張文運邵繼祖朱梴朱墅

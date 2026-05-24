@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷216 卷二百十六 表第七 宗室世系二"
+title: "宋史 卷216"
 date: 2026-05-24
 weight: 216
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷216。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楚國公守巽	太師虢王世清	太子內率府副率令璿

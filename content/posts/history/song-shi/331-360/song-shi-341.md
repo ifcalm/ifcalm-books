@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷341 卷三百四十一 列傳第一百 王存 孫固 趙瞻 傅堯俞"
+title: "宋史 卷341"
 date: 2026-05-24
 weight: 341
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷341。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王存 孫固 趙瞻 傅堯俞

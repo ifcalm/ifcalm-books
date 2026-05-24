@@ -1,5 +1,5 @@
 ---
-title: "北史 卷75 卷七十五 列傳第六十三: 趙煚 趙芬 王韶 元巖 宇文㢸 伊婁謙 李圓通 郭榮 龐晃 李安 楊尚希 張煚 蘇孝慈 元壽"
+title: "北史 卷75"
 date: 2026-05-24
 weight: 75
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷75。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙煚 趙芬 王韶 元巖 宇文㢸 伊婁謙 李圓通 郭榮 龐晃 李安 楊尚希 張煚 蘇孝慈 元壽

@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷38 卷三十八 列傳第十九 蕭景先 蕭赤斧 子穎冑"
+title: "南齐书 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷三十八‧列傳第十九

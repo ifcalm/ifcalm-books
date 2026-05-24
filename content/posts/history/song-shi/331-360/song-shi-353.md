@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷353 卷三百五十三 列傳第一百十二 何㮚 孫傅 陳過庭 張叔夜 聶昌 張閣 張近 鄭僅 宇文昌齡子:常 許幾 程之邵 龔原 崔公度 蒲卣"
+title: "宋史 卷353"
 date: 2026-05-24
 weight: 353
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷353。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 何㮚 孫傅 陳過庭 張叔夜 聶昌 張閣 張近 鄭僅 宇文昌齡子:常 許幾 程之邵 龔原 崔公度 蒲卣

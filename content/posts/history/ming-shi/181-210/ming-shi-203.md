@@ -1,5 +1,5 @@
 ---
-title: "明史 卷203 卷二百〇三 列傳第九十一 鄭岳 劉玉 汪元錫 寇天敍 唐冑 潘珍 李中 歐陽鐸 陶諧 潘塤 呂經 歐陽重 朱裳 陳察 孫懋 王儀 曾鈞"
+title: "明史 卷203"
 date: 2026-05-24
 weight: 203
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷203。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鄭嶽劉玉〈（子愨）〉汪元錫〈（邢寰）〉寇天敘唐胄潘珍〈（族子旦余光）〉李中〈（李楷）〉歐陽鐸陶諧〈（孫大順大臨）〉潘塤〈（呂經）〉歐陽重朱裳陳察孫懋王儀〈（子緘王學夔）〉曾鈞

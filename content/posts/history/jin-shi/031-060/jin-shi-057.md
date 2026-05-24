@@ -1,5 +1,5 @@
 ---
-title: "金史 卷57 卷五十七 志第三十八: 百官三 內命婦 宮人女職 東宮官屬 親王府屬 太后兩宮官屬 大興府 諸京留守司諸京城宮苑提舉等職 按察司 諸路總管府、諸府、諸節鎮、防禦、刺史、縣鎮等職 諸轉運泉谷等職 諸府鎮兵馬等職 諸猛安部族及群牧等職"
+title: "金史 卷57"
 date: 2026-05-24
 weight: 57
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷57。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 內命婦品

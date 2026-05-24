@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷440 卷四百四十 列傳第一百九十九 文苑二 高頔 李度 韓溥 鞠常 宋準 柳開 夏侯嘉正 羅處約 安德裕 錢熙"
+title: "宋史 卷440"
 date: 2026-05-24
 weight: 440
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷440。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文苑二

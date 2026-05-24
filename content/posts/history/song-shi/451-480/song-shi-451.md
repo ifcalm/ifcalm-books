@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷451 卷四百五十一 列傳第二百一十 忠義六 趙良淳徐道隆 姜才 馬塈 密佑 張世傑 陸秀夫 徐應鑣 陳文龍 鄧得遇 張珏"
+title: "宋史 卷451"
 date: 2026-05-24
 weight: 451
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷451。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 忠義六

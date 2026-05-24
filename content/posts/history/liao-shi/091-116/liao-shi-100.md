@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷100 卷一百 列傳第三十: 耶律棠古 蕭得里底 蕭酬斡 耶律章奴 耶律朮者"
+title: "辽史 卷100"
 date: 2026-05-24
 weight: 100
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷100。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律棠古蕭得裏底蕭酬斡耶律章奴耶律術者

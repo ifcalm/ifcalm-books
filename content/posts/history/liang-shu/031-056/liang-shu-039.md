@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷39 卷三十九 列傳第三十三 元法僧 元樹 元願達 王神念 楊華 羊侃 子鶤 羊鴉仁"
+title: "梁书 卷39"
 date: 2026-05-24
 weight: 39
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷39。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第三十九 列傳第三十三

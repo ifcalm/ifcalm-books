@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷410 卷四百一十 列傳第一百六十九 婁機 沈煥 舒璘 曹彥約 范應鈴 徐經孫"
+title: "宋史 卷410"
 date: 2026-05-24
 weight: 410
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷410。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 婁機沈煥〈（舒璘附）〉曹彥約範應鈴徐經孫

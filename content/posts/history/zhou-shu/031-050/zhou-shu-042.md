@@ -1,5 +1,5 @@
 ---
-title: "周书 卷42 卷42 列傳第34 蕭撝 蕭世怡 蕭圓肅 蕭大圜 宗懍 劉璠 柳霞"
+title: "周书 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭撝　蕭世怡　蕭圓肅　蕭大圜　宗懍　劉璠　柳霞

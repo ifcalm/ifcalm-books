@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷154 卷一百五十四 列傳第七十九 李晟子:愿 憲 愬 聽"
+title: "新唐书 卷154"
 date: 2026-05-24
 weight: 154
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷154。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李晟子:愿 憲 愬 聽 聽子:琢 甥:王佖

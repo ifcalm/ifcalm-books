@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷114 卷114 釋老志十"
+title: "魏书 卷114"
 date: 2026-05-24
 weight: 114
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷114。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 大人有作，司牧生民，結繩以往，書契所絕，故靡得而知焉。自羲軒已還，至於三代，其神言秘策，蘊圖緯之文，範世率民，垂墳典之迹。秦肆其毒，滅於灰燼；漢採遺籍，復若丘山。司馬遷區別異同，有陰陽、儒、墨、名、法、道德六家之義。劉歆著七略，班固志藝文，釋氏之學，所未曾紀。案漢武元狩中，遣霍去病討匈奴，至臯蘭，過居延，斬首大獲。昆邪王殺休屠王，將其眾五萬來降。獲其金人，帝以為大神，列於甘泉宮。金人率長丈餘，不祭祀，但燒香禮拜而已。此則佛道流通之漸也。

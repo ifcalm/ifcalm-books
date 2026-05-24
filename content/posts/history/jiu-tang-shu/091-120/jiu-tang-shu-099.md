@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷99 卷九十九 列傳第四十九: 崔日用 張嘉貞 蕭嵩 張九齡 李適之 嚴挺之"
+title: "旧唐书 卷99"
 date: 2026-05-24
 weight: 99
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷99。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 崔日用

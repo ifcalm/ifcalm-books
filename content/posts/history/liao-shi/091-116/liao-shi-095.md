@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷95 卷九十五 列傳第二十五: 耶律弘古 耶律馬六 蕭滴冽 耶律適祿 耶律陳家奴 耶律特麼 耶律仙童 蕭素颯 耶律大悲奴"
+title: "辽史 卷95"
 date: 2026-05-24
 weight: 95
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷95。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律弘古耶律馬六蕭滴冽耶律適祿耶律陳家奴耶律特麼耶律仙童蕭素颯耶律大悲奴

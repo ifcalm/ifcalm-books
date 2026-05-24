@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷128 卷一百二十八 周書19: 列傳八 王朴 楊凝式 薛仁謙 蕭愿 盧損 王仁裕 裴羽 段希堯 司徒詡 邊蔚 王敏"
+title: "旧五代史 卷128"
 date: 2026-05-24
 weight: 128
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷128。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王朴

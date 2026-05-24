@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷380 卷三百八十 列傳第一百三十九 何鑄 王次翁 范同 楊愿 樓炤 勾龍如淵 薛弼 羅汝楫 蕭振"
+title: "宋史 卷380"
 date: 2026-05-24
 weight: 380
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷380。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 何鑄

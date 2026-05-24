@@ -1,5 +1,5 @@
 ---
-title: "南史 卷38 卷三十八 列傳第二十八 柳元景"
+title: "南史 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第二十八

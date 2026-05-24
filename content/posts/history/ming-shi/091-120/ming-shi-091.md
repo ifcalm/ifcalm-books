@@ -1,5 +1,5 @@
 ---
-title: "明史 卷91 卷九十一 志第六十七 兵三"
+title: "明史 卷91"
 date: 2026-05-24
 weight: 91
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷91。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 邊防 海防江防 民壯 士兵 鄉兵

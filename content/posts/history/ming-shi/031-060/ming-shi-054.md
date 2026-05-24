@@ -1,5 +1,5 @@
 ---
-title: "明史 卷54 卷五十四 志第三十 禮八"
+title: "明史 卷54"
 date: 2026-05-24
 weight: 54
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷54。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 嘉禮二

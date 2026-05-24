@@ -1,5 +1,5 @@
 ---
-title: "金史 卷130 卷一百三十 列傳第六十八: 列女 阿鄰妻 李寶信妻 韓慶民妻 雷婦師氏 康住住 李文妻 李英妻 相琪妻 阿魯真 撒合輦妻 許古妻 馮妙真 蒲察氏 烏古論氏 素蘭妻 忙哥妻 尹氏 白氏 聶孝女 仲德妻 寶符李氏 張鳳奴"
+title: "金史 卷130"
 date: 2026-05-24
 weight: 130
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷130。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第六十八 列女 ○阿鄰妻 李寶信妻 韓慶民妻 雷婦師氏 康住住 李文妻 李英妻 相琪妻 阿魯真 撒合輦妻 許古妻 馮妙真 蒲察氏 烏古論氏 素蘭妻 忙哥妻 尹氏 白氏 聶孝女 仲德妻 寶符李氏 張鳳奴

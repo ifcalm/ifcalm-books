@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷288 卷二百八十八 列傳第四十七 任中正 周起 程琳 姜遵 范雍 趙稹 任布 高若訥 孫沔"
+title: "宋史 卷288"
 date: 2026-05-24
 weight: 288
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷288。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 任中正

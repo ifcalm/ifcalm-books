@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷259 卷二百五十九 列傳第十八 張美 郭守文 尹崇珂 劉廷讓 袁繼忠 崔彥進 張廷翰 皇甫繼明 張瓊"
+title: "宋史 卷259"
 date: 2026-05-24
 weight: 259
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷259。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張美

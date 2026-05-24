@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷203 卷二百零三 列傳第一百二十八 文藝下 李華子:翰 孟浩然附:王昌齡 崔顥 劉太真 邵說 于邵 崔元翰 于公異 李益 盧綸 歐陽詹從子:秬 李賀 吳武陵 李商隱 薛逢 李頻 吳融"
+title: "新唐书 卷203"
 date: 2026-05-24
 weight: 203
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷203。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李華子:翰 從子:觀 孟浩然附:王昌齡 崔顥 劉太真 邵說 于邵 崔元翰 于公異 李益 盧綸 歐陽詹從子:秬 李賀 吳武陵 李商隱 薛逢 李頻 吳融

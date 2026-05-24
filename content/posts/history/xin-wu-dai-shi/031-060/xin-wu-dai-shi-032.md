@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷32 卷三十二 死節傳第二十: 王彥章"
+title: "新五代史 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 語曰：「世亂識忠臣。」誠哉！五代之際，不可以為無人，吾得全節之士三人焉，作《死節傳》。

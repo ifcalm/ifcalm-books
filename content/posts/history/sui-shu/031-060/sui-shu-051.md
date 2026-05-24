@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷51 卷51 列傳第16 長孫覽"
+title: "隋书 卷51"
 date: 2026-05-24
 weight: 51
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷51。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 長孫覽

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷210 卷二百一十 列傳第九十八 桑喬 謝瑜 何維柏 徐學詩 厲汝進 王宗茂 周冕 趙錦 吳時來 張翀 董傳策 鄒應龍 林潤"
+title: "明史 卷210"
 date: 2026-05-24
 weight: 210
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷210。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 桑喬〈（胡汝霖）〉謝瑜〈（王曄伊敏生童漢臣等）〉何維柏徐學詩〈（葉經陳紹）〉厲汝進〈（查秉彜等）〉王宗茂周冕趙錦吳時來張翀董傳策鄒應龍〈（張槚）〉林潤

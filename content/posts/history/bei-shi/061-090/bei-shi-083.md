@@ -1,5 +1,5 @@
 ---
-title: "北史 卷83 卷八十三 列傳第七十一: 文苑"
+title: "北史 卷83"
 date: 2026-05-24
 weight: 83
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷83。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文苑

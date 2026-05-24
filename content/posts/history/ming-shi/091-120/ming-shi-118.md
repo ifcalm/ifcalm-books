@@ -1,5 +1,5 @@
 ---
-title: "明史 卷118 卷一百十八 列傳第六 諸王三"
+title: "明史 卷118"
 date: 2026-05-24
 weight: 118
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷118。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 太祖諸子三

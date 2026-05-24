@@ -1,5 +1,5 @@
 ---
-title: "明史 卷8 卷八 本紀第八 仁宗"
+title: "明史 卷8"
 date: 2026-05-24
 weight: 8
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷8。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 仁宗敬天體道純誠至德弘文欽武章聖達孝昭皇帝，諱高熾，成祖長子也。母仁孝文皇后，夢冠冕執圭者上謁。寤而生帝。幼端重沉靜，言動有經。稍長習射，發無不中。好學問，從儒臣講論不輟。

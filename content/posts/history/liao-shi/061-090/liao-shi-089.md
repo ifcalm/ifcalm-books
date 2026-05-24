@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷89 卷八十九 列傳第十九: 耶律庶成 楊佶 耶律韓留 楊佶 耶律和尚"
+title: "辽史 卷89"
 date: 2026-05-24
 weight: 89
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷89。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 耶律庶成〈（庶箴 蒲魯）〉楊皙 耶 律韓留 楊佶 耶律和尚

@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷7 卷7 志第2 禮儀二"
+title: "隋书 卷7"
 date: 2026-05-24
 weight: 7
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷7。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮儀二

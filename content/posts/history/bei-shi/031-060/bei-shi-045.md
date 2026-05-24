@@ -1,5 +1,5 @@
 ---
-title: "北史 卷45 卷四十五 列傳第三十三: 裴叔業 夏侯道遷 李元護 席法友 王世弼 江悅之 淳于誕 沈文秀 張讜 李苗 劉藻 傅永 傅竪眼 張烈 李叔彪 路恃慶 房亮 曹世表 潘永基 朱元旭"
+title: "北史 卷45"
 date: 2026-05-24
 weight: 45
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷45。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 裴叔業 夏侯道遷 李元護 席法友 王世弼 江悅之 淳于誕 沈文秀 張讜 李苗 劉藻 傅永 傅竪眼 張烈 李叔彪 路恃慶 房亮 曹世表 潘永基 朱元旭

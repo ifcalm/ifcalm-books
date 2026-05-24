@@ -1,5 +1,5 @@
 ---
-title: "元史 卷70 卷七十 志第二十一: 禮樂四"
+title: "元史 卷70"
 date: 2026-05-24
 weight: 70
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷70。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮樂四 ○郊祀樂舞降神文舞，〈（崇德之舞。）〉《乾寧之曲》六成。

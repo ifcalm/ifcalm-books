@@ -1,5 +1,5 @@
 ---
-title: "明史 卷66 卷六十六 志第四十二 輿服二"
+title: "明史 卷66"
 date: 2026-05-24
 weight: 66
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷66。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 皇帝冕服 后妃冠服 皇太子親王以下冠服

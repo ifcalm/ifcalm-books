@@ -1,5 +1,5 @@
 ---
-title: "北史 卷98 卷九十八 列傳第八十六: 蠕蠕 匈奴宇文莫槐 徒何段就六眷 高車"
+title: "北史 卷98"
 date: 2026-05-24
 weight: 98
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷98。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蠕蠕 匈奴宇文莫槐 徒何段就六眷 高車

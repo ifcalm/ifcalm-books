@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷70 卷七十 志第二十三 律曆三"
+title: "宋史 卷70"
 date: 2026-05-24
 weight: 70
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷70。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 步五星

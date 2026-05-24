@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷65 卷六十五 表第三: 公主表"
+title: "辽史 卷65"
 date: 2026-05-24
 weight: 65
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷65。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 公主表

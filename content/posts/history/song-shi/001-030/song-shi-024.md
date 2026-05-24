@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷24 卷二十四 本紀第二十四 高宗一"
+title: "宋史 卷24"
 date: 2026-05-24
 weight: 24
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷24。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高宗受命中興全功至德聖神武文昭仁憲孝皇帝，諱構，字德基，徽宗第九子，母曰顯仁皇后韋氏。大觀元年五月乙巳生東京之大內，赤光照室。八月丁丑，賜名，授定武軍節度使、檢校太尉，封蜀國公。二年正月庚申，封廣平郡王。宣和三年十二月壬子，進封康王。資性朗悟，博學強記，讀書日誦千餘言，挽弓至一石五鬥。宣和四年，始冠，出就外第。

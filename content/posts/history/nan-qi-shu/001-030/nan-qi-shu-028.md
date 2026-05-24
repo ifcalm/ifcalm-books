@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷28 卷二十八 列傳第九 崔祖思 劉善明 蘇侃 垣榮祖"
+title: "南齐书 卷28"
 date: 2026-05-24
 weight: 28
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷28。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷二十八‧列傳第九

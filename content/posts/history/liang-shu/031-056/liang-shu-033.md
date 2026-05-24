@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷33 卷三十三 列傳第二十七 王僧孺 張率 劉孝綽 王筠"
+title: "梁书 卷33"
 date: 2026-05-24
 weight: 33
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷33。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第三十三 列傳第二十七

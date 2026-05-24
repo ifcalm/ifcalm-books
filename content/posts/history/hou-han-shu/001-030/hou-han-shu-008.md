@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷8 卷八 孝靈帝紀"
+title: "后汉书 卷8"
 date: 2026-05-24
 weight: 8
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷8。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝靈皇帝諱宏，肅宗玄孫也。曾祖河間孝王開，祖淑，父萇。世封解瀆亭侯，帝襲侯爵。母董夫人。桓帝崩，無子，皇太后與父城門校尉竇武定策禁中，使守光祿大夫劉儵持節，將左右羽林至河間奉迎。

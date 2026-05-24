@@ -1,5 +1,5 @@
 ---
-title: "元史 卷170 卷一百七十 列傳第五十七: 尚文 申屠致遠 雷膺 胡祗遹 王利用 暢師文 張炤 袁裕 張昉 郝彬 高源 楊湜 吳鼎 梁德珪"
+title: "元史 卷170"
 date: 2026-05-24
 weight: 170
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷170。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 尚文

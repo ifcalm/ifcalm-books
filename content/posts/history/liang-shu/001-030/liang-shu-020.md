@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷20 卷二十 列傳第十四 劉季連 陳伯之"
+title: "梁书 卷20"
 date: 2026-05-24
 weight: 20
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷20。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第二十 列傳第十四

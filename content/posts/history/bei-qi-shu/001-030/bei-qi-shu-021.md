@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷21 卷二一 列傳第十三 高乾 封隆之"
+title: "北齐书 卷21"
 date: 2026-05-24
 weight: 21
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷21。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高乾 弟慎　弟昂　弟季式　封隆之 子子繪　從子孝琬　孝琰

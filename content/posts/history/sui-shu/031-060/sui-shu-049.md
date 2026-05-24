@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷49 卷49 列傳第14 牛弘"
+title: "隋书 卷49"
 date: 2026-05-24
 weight: 49
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷49。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷四十九列傳第十四

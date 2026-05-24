@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷2 卷二 本紀第二 武帝中"
+title: "梁书 卷2"
 date: 2026-05-24
 weight: 2
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷2。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第二 本紀第二

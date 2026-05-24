@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷58 卷58 列傳第23 明克讓 魏澹 陸爽 杜臺卿 辛德源 柳䛒 許善心 李文博"
+title: "隋书 卷58"
 date: 2026-05-24
 weight: 58
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷58。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 明克讓

@@ -1,5 +1,5 @@
 ---
-title: "南史 卷52 卷五十二 列傳第四十二 梁宗室下"
+title: "南史 卷52"
 date: 2026-05-24
 weight: 52
 tags: ["南史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "南史卷52。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第四十二梁宗室下

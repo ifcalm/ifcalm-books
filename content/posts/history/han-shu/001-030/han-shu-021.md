@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷21 卷二十一 律曆志"
+title: "汉书 卷21"
 date: 2026-05-24
 weight: 21
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷21。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《虞書》曰「乃同律度量衡」，所以齊遠近立民信也。自伏戲畫八卦，由數起，至黃帝、堯、舜而大備。三代稽古，法度章焉。周衰官失，孔子陳後王之法，曰：「謹權量，審法度，修廢官，舉逸民，四方之政行矣。」漢興，北平侯張蒼首律曆事，孝武帝時樂官考正。至元始中王莽秉政，欲燿名譽，徵天下通知鐘律者百餘餘人，使羲和劉歆等典領條奏，言之最詳。故刪其偽辭，取正義，著于篇。

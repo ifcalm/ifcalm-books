@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷52 卷52 趙逸 胡方回 胡叟 宋繇 張湛 宗欽 段承根 闞駰 劉昞 趙柔 索敞 陰仲達"
+title: "魏书 卷52"
 date: 2026-05-24
 weight: 52
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷52。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙逸　胡方回　胡叟　宋繇　張湛　宗欽　段承根　闞駰　劉昞　趙柔　索敞　陰仲達

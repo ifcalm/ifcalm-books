@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷74 卷七十四 列傳第四十四 桓彝"
+title: "晋书 卷74"
 date: 2026-05-24
 weight: 74
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷74。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 桓彝〈（子云 云弟豁 豁子石虔 虔子振 虔弟石秀 石民 石生 石綏 石康 豁弟秘 秘弟衝 衝子嗣 嗣子胤 嗣弟謙 謙弟修 徐 甯）〉

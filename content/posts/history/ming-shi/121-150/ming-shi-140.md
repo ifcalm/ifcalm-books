@@ -1,5 +1,5 @@
 ---
-title: "明史 卷140 卷一百四十 列傳第二十八 魏觀 陶垕仲 劉仕貆 王宗顯 呂文燧 王觀 道同 盧熙 青文勝"
+title: "明史 卷140"
 date: 2026-05-24
 weight: 140
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷140。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 魏觀陶垕仲〈（王佑）〉劉仕貆〈（王溥徐均）〉王宗顯〈（王興宗呂文燧王興福蘇恭讓趙庭蘭）〉王觀〈（楊卓羅性）〉道同〈（歐陽銘）〉盧熙〈（兄熊王士弘倪孟賢郎敏）〉青文勝

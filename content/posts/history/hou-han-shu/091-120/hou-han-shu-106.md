@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷106 第十六 五行四 地震 山崩 地陷 大風拔樹 螟 牛疫"
+title: "后汉书 卷106"
 date: 2026-05-24
 weight: 106
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷106。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十六　　五行四

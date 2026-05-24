@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷449 卷四百四十九 列傳第二百〇八 忠義四 崔縱吳安國 林沖之子:郁 從子:震 霆 滕茂實 魏行可郭元邁 閻進朱績 趙師檟 易青 胡斌 范旺 馬俊 楊震仲史次秦 郭靖 高稼 曹友聞 陳寅賈子坤 劉銳 蹇彝 何充 許彪孫張桂 金文德 曹贛 胡世全 龐彥海 江彥清 陳隆之史季儉 王翊 李誠之秦鉅"
+title: "宋史 卷449"
 date: 2026-05-24
 weight: 449
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷449。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 忠義四

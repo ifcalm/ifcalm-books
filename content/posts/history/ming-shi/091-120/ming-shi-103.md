@@ -1,5 +1,5 @@
 ---
-title: "明史 卷103 卷一百〇三 表第四 諸王世表四"
+title: "明史 卷103"
 date: 2026-05-24
 weight: 103
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷103。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 建文初，封弟允熥爲吳王，允熞爲衡王，允熙爲徐王，皆懿文太子子也。福王時，追諡吳王曰悼，衡王曰愍，徐王曰哀，見福王傳。

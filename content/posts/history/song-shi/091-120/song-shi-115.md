@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷115 卷一百十五 志第六十八 禮十八"
+title: "宋史 卷115"
 date: 2026-05-24
 weight: 115
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷115。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮十八〈（嘉禮六）

@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷112 卷112"
+title: "魏书 卷112"
 date: 2026-05-24
 weight: 112
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷112。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷112上 靈徵志八上

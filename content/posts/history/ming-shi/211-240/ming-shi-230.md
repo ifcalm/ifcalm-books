@@ -1,5 +1,5 @@
 ---
-title: "明史 卷230 卷二百三十 列傳第一百十八 蔡時鼎 萬國欽 饒伸 湯顯祖 逯中立 楊恂 姜士昌 馬孟禎 汪若霖"
+title: "明史 卷230"
 date: 2026-05-24
 weight: 230
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷230。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蔡時鼎萬國欽〈（王教）〉饒伸〈（兄位劉元震元霖）〉湯顯祖〈（李琯）〉瑽中立〈（盧明諏）〉楊恂〈（冀體朱爵）〉姜士昌〈（宋燾）〉馬孟禎汪若霖

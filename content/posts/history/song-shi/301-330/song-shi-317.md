@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷317 卷三百十七 列傳第七十六 邵亢 馮京 錢惟演"
+title: "宋史 卷317"
 date: 2026-05-24
 weight: 317
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷317。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 邵亢從父:必 馮京 錢惟演從弟:易 易子:彥遠 明逸 諸孫 諸孫:景諶 勰 即

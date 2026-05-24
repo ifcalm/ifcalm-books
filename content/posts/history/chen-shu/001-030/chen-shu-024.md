@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷24 卷二十四 列傳第十八: 周弘正 袁憲"
+title: "陈书 卷24"
 date: 2026-05-24
 weight: 24
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷24。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳書卷二十四

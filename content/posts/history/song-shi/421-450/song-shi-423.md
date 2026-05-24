@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷423 卷四百二十三 列傳第一百八十二 吳泳 徐範 李韶 王邁 史彌鞏 陳塤 趙與𥲅 李大同 黃㽦 楊大異"
+title: "宋史 卷423"
 date: 2026-05-24
 weight: 423
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷423。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 吳泳徐範李韶王邁史彌鞏陳塤〈（子蒙）〉趙與[B170]李大同黃┿楊大異

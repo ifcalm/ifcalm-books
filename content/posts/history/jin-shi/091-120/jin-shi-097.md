@@ -1,5 +1,5 @@
 ---
-title: "金史 卷97 卷九十七 列傳第三十五: 裴滿亨 斡勒忠 張大節子:岩叟 張亨 韓錫 鄧儼 巨構 賀揚庭 閻公貞 焦旭 劉仲洙 李完 馬百祿 楊伯元 劉璣兄:珫 康元弼 移剌益"
+title: "金史 卷97"
 date: 2026-05-24
 weight: 97
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷97。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 裴滿亨

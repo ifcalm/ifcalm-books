@@ -1,5 +1,5 @@
 ---
-title: "明史 卷75 卷七十五 志第五十一 職官四"
+title: "明史 卷75"
 date: 2026-05-24
 weight: 75
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷75。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南京宗人府吏部戶部附總督糧儲禮部兵部刑部工部都察院附提督操江通政司大理寺詹事府翰林院國子監太常寺光祿寺太僕寺鴻臚寺尚寶司六科行人司欽天監太醫院五城兵馬司應天府附上元江寧二縣已上南京官王府長史司布政司按察司各道行太僕寺苑馬寺都轉運鹽使司鹽課提舉司市舶提舉司茶馬司府州縣儒學巡檢司驛稅課司倉庫織染局河泊所附閘壩官批驗所遞運所鐵冶所醫學陰陽學僧綱司道紀司

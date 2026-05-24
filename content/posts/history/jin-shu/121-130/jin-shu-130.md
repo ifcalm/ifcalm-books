@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷130 卷一百三十 載記第三十 赫連勃勃"
+title: "晋书 卷130"
 date: 2026-05-24
 weight: 130
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷130。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 赫連勃勃

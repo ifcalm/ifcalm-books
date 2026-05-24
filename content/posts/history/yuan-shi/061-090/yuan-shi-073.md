@@ -1,5 +1,5 @@
 ---
-title: "元史 卷73 卷七十三 志第二十四: 祭祀二"
+title: "元史 卷73"
 date: 2026-05-24
 weight: 73
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷73。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 祭祀二 ○郊祀下儀註之節，其目有十：

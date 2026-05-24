@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷241 卷二百四十一 表第三十二 宗室世系二十七"
+title: "宋史 卷241"
 date: 2026-05-24
 weight: 241
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷241。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7241"
-source_license: "CC BY-SA 4.0"
 ---
 
 申王房

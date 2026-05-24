@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷100 卷一百〇 列傳第七十 王彌 張昌 陳敏 王如 杜曾 杜弢 王機 祖約 蘇峻 孫恩 盧循 譙縱"
+title: "晋书 卷100"
 date: 2026-05-24
 weight: 100
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷100。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王彌

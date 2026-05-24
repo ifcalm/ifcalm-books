@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷378 卷三百七十八 列傳第一百三十七 衞膚敏 劉珏 胡舜陟 沈晦 劉一止 胡交修 綦崇禮"
+title: "宋史 卷378"
 date: 2026-05-24
 weight: 378
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷378。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 衛膚敏

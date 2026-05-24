@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷363 卷三百六十三 列傳第一百二十二 李光 許翰 許景衡 張愨 張所 陳禾 蔣猷"
+title: "宋史 卷363"
 date: 2026-05-24
 weight: 363
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷363。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李光 許翰 許景衡 張愨 張所 陳禾 蔣猷

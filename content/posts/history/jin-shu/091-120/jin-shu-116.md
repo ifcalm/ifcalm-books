@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷116 卷一百一十六 載記第十六 姚弋仲 姚襄 姚萇"
+title: "晋书 卷116"
 date: 2026-05-24
 weight: 116
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷116。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 姚弋仲 姚襄 姚萇

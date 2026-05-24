@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷260 卷二百六十 列傳第十九 曹翰 楊嗣 党進 李漢瓊 劉遇 李懷忠 米信 田重進 劉廷翰 崔翰"
+title: "宋史 卷260"
 date: 2026-05-24
 weight: 260
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷260。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 曹翰

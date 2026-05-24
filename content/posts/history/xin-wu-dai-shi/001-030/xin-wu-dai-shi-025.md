@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷25 卷二十五 唐臣傳第十三: 周德威 符存審 史建瑭 王建及 元行欽 安金全 袁建豐 西方鄴"
+title: "新五代史 卷25"
 date: 2026-05-24
 weight: 25
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷25。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 周德威

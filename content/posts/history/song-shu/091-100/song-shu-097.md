@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷97 卷九十七 列傳第五十七 夷蠻"
+title: "宋书 卷97"
 date: 2026-05-24
 weight: 97
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷97。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南夷、西南夷，大抵在交州之南及西南，居大海中洲上，相去或三五千里，遠者二三萬里，乘舶舉帆，道里不可詳知。外國諸夷雖言里數，非定實也。

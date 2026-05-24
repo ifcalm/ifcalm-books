@@ -1,5 +1,5 @@
 ---
-title: "明史 卷74 卷七十四 志第五十 職官三"
+title: "明史 卷74"
 date: 2026-05-24
 weight: 74
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷74。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 太常寺附提督四夷館光祿寺太僕寺鴻臚寺尚寶司六科中書舍人行人司欽天監太醫院上林苑監五城兵馬司順天府附宛平大興二縣武學僧道錄司教坊司宦官女官

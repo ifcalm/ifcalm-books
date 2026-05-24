@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷257 卷二百五十七 列傳第十六 吳廷祚 李崇矩 王仁贍 楚昭輔 李處耘"
+title: "宋史 卷257"
 date: 2026-05-24
 weight: 257
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷257。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 吳廷祚

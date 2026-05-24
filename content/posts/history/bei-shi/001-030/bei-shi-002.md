@@ -1,5 +1,5 @@
 ---
-title: "北史 卷2 卷二 魏本紀第二: 世祖太武帝 恭宗景穆帝 高宗文成帝 顯祖獻文帝"
+title: "北史 卷2"
 date: 2026-05-24
 weight: 2
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷2。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 世祖太武皇帝諱燾，明元皇帝之長子也。母曰杜貴嬪。天賜五年，生於東宮。

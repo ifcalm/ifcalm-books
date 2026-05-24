@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷87 卷八十七 晉書13: 宗室列傳二"
+title: "旧五代史 卷87"
 date: 2026-05-24
 weight: 87
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷87。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宗室〈（案：《晉宗室列傳》，《永樂大典》僅存四篇，余多殘闕。）〉

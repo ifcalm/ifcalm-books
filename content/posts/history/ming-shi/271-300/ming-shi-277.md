@@ -1,5 +1,5 @@
 ---
-title: "明史 卷277 卷二百七十七 列傳第一百六十五 袁繼咸 金聲 丘祖德 沈猶龍 陳子龍 侯峒曾 楊文驄 陳潛夫 沈廷揚 林汝翥 鄭為虹"
+title: "明史 卷277"
 date: 2026-05-24
 weight: 277
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷277。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 袁繼鹹〈（張亮）〉金聲〈（江天一）〉丘祖德〈（溫璜吳應箕尹民興等）〉沈猶龍〈（李待問章簡）〉陳子龍〈（夏允彜徐孚遠）〉侯峒曾〈（閻應元等朱集璜等）〉楊文驄〈（孫臨等）〉陳潛夫〈（陸培）〉沈廷揚林汝翥〈（林惣）〉鄭為虹〈（黃大鵬王士和胡上琛熊緯）〉

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷11 卷十一 本紀第十一: 代宗"
+title: "旧唐书 卷11"
 date: 2026-05-24
 weight: 11
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷11。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 代宗睿文孝武皇帝諱豫，肅宗長子，母曰章敬皇太后吳氏。以開元十四年十二月十三日生於東都上陽宮。初名俶，年十五封廣平王。玄宗諸孫百余，上為嫡皇孫。宇量弘深，寬而能斷。喜懼不形於色。仁孝溫恭，動必由禮。幼而好學，尤專《禮》、《易》，玄宗鍾愛之。

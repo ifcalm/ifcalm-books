@@ -1,5 +1,5 @@
 ---
-title: "明史 卷47 卷四十七 志第二十三 禮一"
+title: "明史 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷47。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十三 禮一〈（吉禮一）〉

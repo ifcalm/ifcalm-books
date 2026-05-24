@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷155 卷一百五十五 列傳第八十 馬燧子:暢 渾瑊子:鎬 鐬"
+title: "新唐书 卷155"
 date: 2026-05-24
 weight: 155
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷155。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 馬燧子:暢 兄:炫 渾瑊子:鎬 鐬

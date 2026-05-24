@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷345 卷三百四十五 列傳第一百〇四 劉安世 鄒浩 田晝 王回 曾誕 陳瓘 任伯雨"
+title: "宋史 卷345"
 date: 2026-05-24
 weight: 345
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷345。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉安世

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷196 卷一百九十六 志第一百四十九 兵十"
+title: "宋史 卷196"
 date: 2026-05-24
 weight: 196
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷196。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 遷補之制

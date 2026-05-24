@@ -1,5 +1,5 @@
 ---
-title: "北史 卷5 卷五 魏本紀第五: 敬宗孝莊帝 節閔帝 廢帝 孝武帝 西魏文帝 西魏廢帝 西魏恭帝 東魏孝靜帝"
+title: "北史 卷5"
 date: 2026-05-24
 weight: 5
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷5。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 北魏

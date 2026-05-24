@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷148 卷一百四十八 列傳第七十三 令狐張康李劉田王牛史"
+title: "新唐书 卷148"
 date: 2026-05-24
 weight: 148
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷148。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 令狐張康李劉田王牛史

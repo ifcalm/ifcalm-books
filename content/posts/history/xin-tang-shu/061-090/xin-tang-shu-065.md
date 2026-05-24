@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷65 卷六十五 表第五 方鎮二"
+title: "新唐书 卷65"
 date: 2026-05-24
 weight: 65
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷65。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 表第五 方鎮表二

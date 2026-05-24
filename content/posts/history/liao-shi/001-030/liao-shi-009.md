@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷9 卷九 本紀第九: 景宗下"
+title: "辽史 卷9"
 date: 2026-05-24
 weight: 9
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷9。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 景宗下九年春正月丙寅，女直遣使來貢。二月庚子，宋遣使致其先帝遺物。甲寅，以青牛白馬祭天地。

@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷106 卷一百〇六 列傳第三十六: 卓行"
+title: "辽史 卷106"
 date: 2026-05-24
 weight: 106
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷106。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卓行 ○蕭劄剌耶律官奴蕭蒲離不

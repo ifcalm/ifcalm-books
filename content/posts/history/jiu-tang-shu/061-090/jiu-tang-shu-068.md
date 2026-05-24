@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷68 卷六十八 列傳第十八: 尉遲敬德 秦叔寶 程知節 段志玄 張公謹"
+title: "旧唐书 卷68"
 date: 2026-05-24
 weight: 68
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷68。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 尉遲敬德　秦叔寶　程知節　段志玄　張公謹 子大素　大安

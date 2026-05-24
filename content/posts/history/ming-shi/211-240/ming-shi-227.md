@@ -1,5 +1,5 @@
 ---
-title: "明史 卷227 卷二百二十七 列傳第一百十五 龐尚鵬 宋儀望 張岳 李材 陸樹德 蕭廩 賈三近 李頤 朱鴻謨 蕭彥 孫維城 謝杰 郭惟賢 萬象春 鍾化民 吳達可"
+title: "明史 卷227"
 date: 2026-05-24
 weight: 227
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷227。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 龐尚鵬宋儀望張嶽李材陸樹德蕭廩賈三近李頤朱鴻謨蕭彥〈（弟雍查鐸）〉孫維城謝傑郭惟賢萬象春鐘化民吳達可

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷162 卷一百六十二 列傳第一百十二: 潘孟陽 李翛 王遂 曹華 韋綬 鄭權 盧士玫 韓全義 高霞寓 高瑀 崔戎 陸亙 張正甫"
+title: "旧唐书 卷162"
 date: 2026-05-24
 weight: 162
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷162。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 潘孟陽，禮部侍郎炎之子也。孟陽以父廕進，登博學宏辭科。累遷殿中侍御史，降為司議郎。孟陽母，劉晏女也。公卿多父友及外祖賓從，故得薦用，累至兵部郎中。

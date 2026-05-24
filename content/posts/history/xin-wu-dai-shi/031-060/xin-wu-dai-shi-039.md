@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷39 卷三十九 雜傳第二十七: 王鎔 羅紹威 王處直 劉守光"
+title: "新五代史 卷39"
 date: 2026-05-24
 weight: 39
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷39。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王镕

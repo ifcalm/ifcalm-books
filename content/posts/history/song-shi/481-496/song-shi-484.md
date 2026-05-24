@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷484 卷四百八十四 列傳第二百四十三 周三臣 韓通 李筠 李重進"
+title: "宋史 卷484"
 date: 2026-05-24
 weight: 484
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷484。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 周三臣○韓通李筠李重進

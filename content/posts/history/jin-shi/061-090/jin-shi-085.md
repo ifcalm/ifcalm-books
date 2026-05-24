@@ -1,5 +1,5 @@
 ---
-title: "金史 卷85 卷八十五 列傳第二十三: 世宗諸子 永中 永蹈 永功子:璹(本名壽孫) 永德 永成 永升"
+title: "金史 卷85"
 date: 2026-05-24
 weight: 85
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷85。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 世宗昭德皇后生顯宗、趙王孰輦、越王斜魯。元妃張氏生鄗王允中、越王允功。元妃李氏生鄭王允蹈、衛紹王允濟、潞王允德。昭儀梁氏生豫王允成。才人石抹氏生夔王允升。孰輦、斜魯皆早卒。

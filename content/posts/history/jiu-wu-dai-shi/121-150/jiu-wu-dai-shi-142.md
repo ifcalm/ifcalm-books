@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷142 卷一百四十二 志4: 禮志上"
+title: "旧五代史 卷142"
 date: 2026-05-24
 weight: 142
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷142。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮志上〈（案：《禮志序》，原本闕佚。）〉

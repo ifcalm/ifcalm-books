@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷116 第二十六 百官三 宗正 大司農 少府"
+title: "后汉书 卷116"
 date: 2026-05-24
 weight: 116
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷116。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十六　　百官三

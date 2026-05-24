@@ -1,5 +1,5 @@
 ---
-title: "元史 卷100 卷一百 志第四十八: 兵三"
+title: "元史 卷100"
 date: 2026-05-24
 weight: 100
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷100。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 兵三 ○馬政

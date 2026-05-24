@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷52 卷五十二 志第二十一: 禮志五"
+title: "辽史 卷52"
 date: 2026-05-24
 weight: 52
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷52。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮志五〈（嘉儀上）〉

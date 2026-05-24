@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷393 卷三百九十三 列傳第一百五十二 彭龜年 黃裳 羅點 黃度 周南 林大中 陳騤 黃黼 詹體仁"
+title: "宋史 卷393"
 date: 2026-05-24
 weight: 393
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷393。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 彭龜年

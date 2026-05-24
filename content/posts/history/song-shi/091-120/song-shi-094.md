@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷94 卷九十四 志第四十七 河渠四"
+title: "宋史 卷94"
 date: 2026-05-24
 weight: 94
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷94。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 汴河　下洛河　蔡河　廣濟河　金水河　白溝河　京畿溝渠　白河　三白渠　鄧許諸渠附

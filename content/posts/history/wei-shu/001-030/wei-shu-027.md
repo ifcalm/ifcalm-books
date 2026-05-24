@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷27 卷27 穆崇"
+title: "魏书 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 穆崇

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷352 卷三百五十二 列傳第一百十一 唐恪 李邦彥 余深 薛昂 吳敏 王安中 王襄 趙野 曹輔 耿南仲 王㝢"
+title: "宋史 卷352"
 date: 2026-05-24
 weight: 352
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷352。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 唐恪 李邦彥附:余深 薛昂 吳敏 王安中 王襄 趙野 曹輔 耿南仲 王㝢

@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷57 卷五十七 列傳第二十七 羅憲 滕脩 馬隆 胡奮 陶璜 吾彥 張光 趙誘"
+title: "晋书 卷57"
 date: 2026-05-24
 weight: 57
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷57。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 羅憲

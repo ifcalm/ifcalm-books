@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷10 卷10 孝莊紀"
+title: "魏书 卷10"
 date: 2026-05-24
 weight: 10
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷10。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝莊皇帝，諱子攸，彭城王勰之第三子，母曰李妃。肅宗初，以勰有魯陽翼衞之勳，封武城縣開國公。幼侍肅宗書於禁內。及長，風神秀慧，姿貌甚美。拜中書侍郎、城門校尉、兼給事黃門侍郎，雅為肅宗所親待，長直禁中。遷散騎常侍、御史中尉。孝昌二年八月，進封長樂王。轉侍中、中軍將軍。三年十月，以兄彭城王劭事，轉為衞將軍、左光祿大夫、中書監，實見出也。

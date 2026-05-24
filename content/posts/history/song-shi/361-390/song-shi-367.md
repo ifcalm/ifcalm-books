@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷367 卷三百六十七 列傳第一百二十六 李顯忠 楊存中 郭浩 楊政"
+title: "宋史 卷367"
 date: 2026-05-24
 weight: 367
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷367。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李顯忠 楊存中 郭浩 楊政

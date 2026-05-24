@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷457 卷四百五十七 列傳第二百十六 隱逸上 戚同文 陳摶 种放 萬適 李瀆 魏野 邢敦 林逋 高懌 徐復 孔旼 何羣"
+title: "宋史 卷457"
 date: 2026-05-24
 weight: 457
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷457。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隱逸上

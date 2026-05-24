@@ -1,5 +1,5 @@
 ---
-title: "明史 卷235 卷二百三十五 列傳第一百二十三 王汝訓 余懋學 張養蒙 孟一脈 何士晉 王德完 蔣允儀 鄒維璉"
+title: "明史 卷235"
 date: 2026-05-24
 weight: 235
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷235。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王汝訓余懋學張養蒙孟一脈何士晉〈（陸大受張庭李俸）〉王德完蔣允儀鄒維璉〈（吳羽文）〉

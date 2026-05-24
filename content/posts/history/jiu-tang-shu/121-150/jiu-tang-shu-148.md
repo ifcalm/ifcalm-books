@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷148 卷一百四十八 列傳第九十八: 裴垍 李吉甫 李籓 權德輿"
+title: "旧唐书 卷148"
 date: 2026-05-24
 weight: 148
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷148。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 裴垍字弘中，河東聞喜人。垂拱中宰相居道七代孫。垍弱冠舉進士。貞元中，制舉賢良極諫，對策第一，授美原縣尉。秩滿，籓府交辟，皆不就。拜監察御史，轉殿中侍御史、尚書禮部考功二員外郎。時吏部侍郎鄭珣瑜請垍考詞判，垍守正不受請托，考核皆務才實。

@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷83 卷八十三 列傳第五十三 顧和 袁瑰 江逌 車胤 殷顗 王雅"
+title: "晋书 卷83"
 date: 2026-05-24
 weight: 83
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷83。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 顧和 袁瑰〈（子喬 喬孫松 瑰弟猷 從祖准 准孫耽 耽子質 質子湛 豹）〉 江逌〈（從弟灌 灌子績）〉 車胤 殷顗 王雅

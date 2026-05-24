@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷11 卷十一 補列傳第三 文襄六王"
+title: "北齐书 卷11"
 date: 2026-05-24
 weight: 11
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷11。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 北齊書卷十一[1]

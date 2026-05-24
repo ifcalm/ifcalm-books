@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷73 卷七十三 四夷附錄第二: 契丹"
+title: "新五代史 卷73"
 date: 2026-05-24
 weight: 73
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷73。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 兀欲，東丹王突欲子也。突欲奔于唐，兀欲留不從，號永康王。契丹好飲人血，突欲左右姬妾，多刺其臂吮之，其小過輒挑目、刲灼，不勝其毒。然喜賔客，好飲酒，工畫，頗知書。其自契丹歸中國，載書數千卷，樞密使趙延壽每假其異書、醫經，皆中國所無者。明宗時，自滑州朝京師，遙領武信軍節度使，食其俸，賜甲第一區，宮女數人。契丹兵助晉于太原，唐廢帝遣宦者秦繼旻、皇城使李彥紳殺突欲于其第。晉高祖追封突欲為燕王。

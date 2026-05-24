@@ -1,5 +1,5 @@
 ---
-title: "明史 卷166 卷一百六十六 列傳第五十四 韓觀 山雲 蕭授 方瑛 李震 王信 彭倫 歐磐 張祐"
+title: "明史 卷166"
 date: 2026-05-24
 weight: 166
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷166。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韓觀山雲蕭授〈（吳亮）〉方瑛〈（陳友）〉李震王信〈（都勝郭鋐）〉彭倫歐磐張祐

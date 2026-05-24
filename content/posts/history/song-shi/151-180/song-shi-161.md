@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷161 卷一百六十一 志第一百十四 職官一"
+title: "宋史 卷161"
 date: 2026-05-24
 weight: 161
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷161。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 三師 三公 宰執 門下省 中書省 尚書省

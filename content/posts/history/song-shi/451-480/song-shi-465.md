@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷465 卷四百六十五 列傳第二百二十四 外戚下 孟忠厚 韋淵 錢忱 邢煥 潘永思 吳益弟:蓋 益子:琚 李道 鄭興裔 楊次山"
+title: "宋史 卷465"
 date: 2026-05-24
 weight: 465
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷465。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 外戚下

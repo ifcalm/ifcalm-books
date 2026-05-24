@@ -1,5 +1,5 @@
 ---
-title: "明史 卷25 卷二十五 志第一 天文一"
+title: "明史 卷25"
 date: 2026-05-24
 weight: 25
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷25。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Hanchuan Caolu transcription"
-source_url: "https://www.sidneyluo.net/a/a24/025.htm"
-source_license: "Public domain source text"
 ---
 
 卷二十五 ‧ 志第一

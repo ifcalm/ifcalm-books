@@ -1,5 +1,5 @@
 ---
-title: "明史 卷83 卷八十三 志第五十九 河渠一"
+title: "明史 卷83"
 date: 2026-05-24
 weight: 83
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷83。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 黃河上

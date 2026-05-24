@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷279 卷二百七十九 列傳第三十八 王繼忠 傅潛 張昭允 戴興 王漢忠 王能 張凝 魏能 陳興 許均 張進 李重貴 呼延贊 劉用 耿全斌 周仁美"
+title: "宋史 卷279"
 date: 2026-05-24
 weight: 279
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷279。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王繼忠

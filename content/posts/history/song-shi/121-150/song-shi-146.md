@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷146 卷一百四十六 志第九十九 儀衞四"
+title: "宋史 卷146"
 date: 2026-05-24
 weight: 146
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷146。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 儀衛四○政和大駕鹵簿並宣和增減小駕附

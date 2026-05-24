@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷106 卷一百零六 列傳第三十一 杜正倫 崔知溫 高智周附:石仲覽 郭正一 趙弘智 崔敦禮 楊弘禮族父:纂 盧承慶 劉祥道 李敬玄 劉德威子:審禮 孫處約 邢文偉"
+title: "新唐书 卷106"
 date: 2026-05-24
 weight: 106
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷106。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 杜正倫從子:求仁 從孫:咸 崔知溫兄:知悌 高智周附:石仲覽 郭正一 趙弘智來章 崔敦禮 楊弘禮弟:弘武 侄:元禧 族父:纂 盧承慶侄:齊卿 劉祥道子:齊賢 從一 李敬玄弟:元素 劉德威子:審禮 延景 易從 昇 侄:延嗣 孫處約子:佺 邢文偉附:高子貢

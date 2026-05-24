@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷209 卷二百〇九 志第一百六十二 藝文八"
+title: "宋史 卷209"
 date: 2026-05-24
 weight: 209
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷209。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 藝文八孔逭《文苑》十九卷蕭統《文選》六十卷〈（李善注）〉庚自直《類文》三百六十二卷

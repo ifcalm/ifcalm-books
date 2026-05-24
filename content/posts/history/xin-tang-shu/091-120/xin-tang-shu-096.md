@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷96 卷九十六 列傳第二十一 房玄齡 杜如晦弟:楚客 叔父:淹 五世孫:元穎 六世孫:審權 七世孫:讓能"
+title: "新唐书 卷96"
 date: 2026-05-24
 weight: 96
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷96。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 房玄齡子:遺愛 杜如晦弟:楚客 叔父:淹 五世孫:元穎 六世孫:審權 七世孫:讓能

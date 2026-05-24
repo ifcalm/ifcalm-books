@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷105 卷一百零五 列傳第三十 長孫無忌從父:敞 從父弟:操 子:詮 族叔:順德 褚遂良 韓瑗 來濟 李義琰從祖弟:義琛 上官儀"
+title: "新唐书 卷105"
 date: 2026-05-24
 weight: 105
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷105。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 長孫無忌從父:敞 從父弟:操 子:詮 族叔:順德 褚遂良曾孫:璆 韓瑗 來濟異母兄:恒 李義琰子:巢 從祖弟:義琛 上官儀

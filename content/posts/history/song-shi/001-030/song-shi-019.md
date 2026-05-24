@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷19 卷十九 本紀第十九 徽宗一"
+title: "宋史 卷19"
 date: 2026-05-24
 weight: 19
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷19。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 徽宗體神合道駿烈遜功聖文仁德憲慈顯孝皇帝，諱佶，神宗第十一子也，母曰欽慈皇后陳氏。元豐五年十月丁巳生於宮中。明年正月賜名，十月授鎮甯軍節度使、封甯國公。哲宗即位，封遂甯郡王。紹聖三年，以平江、鎮江軍節度使封端王，出就傅。五年，加司空，改昭德、彰信軍節度。

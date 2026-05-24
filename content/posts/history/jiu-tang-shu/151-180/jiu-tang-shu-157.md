@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷157 卷一百五十七 列傳第一百〇七: 王翃 郗士美 李鄘 辛秘 馬摠 韋弘景 王彥威"
+title: "旧唐书 卷157"
 date: 2026-05-24
 weight: 157
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷157。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王翃，太原晉陽人也。兄翊，乾元中累官至京兆少尹。性謙柔，淡於聲利。自商州刺史遷襄州刺史、山南東道節度觀察等使。入朝，充北蕃宣慰使，稱職。代宗素重之，及即位，目為純臣。遷刑部侍郎、御史中丞。居憲司，雖不能舉振綱條，然以謹重知名。大歷二年卒。

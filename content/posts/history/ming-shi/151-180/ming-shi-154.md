@@ -1,5 +1,5 @@
 ---
-title: "明史 卷154 卷一百五十四 列傳第四十二 張輔 黃福 劉儁 呂毅 陳洽 李彬 柳升 梁銘 王通"
+title: "明史 卷154"
 date: 2026-05-24
 weight: 154
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷154。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張輔〈（高士文 徐政）〉 黃福 劉俊〈（呂毅 劉昱）〉 陳洽〈（侯保 馮貴伍雲 陳忠 李任等）〉 李彬 柳升〈（崔聚 史安 陳鏞 李宗昉 潘禋）〉梁銘 王通〈（陶季容 陳汀）〉

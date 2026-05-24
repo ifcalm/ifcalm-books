@@ -1,5 +1,5 @@
 ---
-title: "明史 卷242 卷二百四十二 列傳第一百三十 陳邦瞻 畢懋康 蕭近高 白瑜 程紹 翟鳳翀 洪文衡 陳伯友 董應舉 林材 朱吾弼 張光前"
+title: "明史 卷242"
 date: 2026-05-24
 weight: 242
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷242。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳邦瞻畢懋康〈（兄懋良）〉蕭近高白瑜程紹翟鳳翀〈（郭尚賓）〉洪文衡〈（何喬遠）〉陳伯友〈（李成名）〉董應舉林材朱吾弼〈（林秉漢）〉張光前

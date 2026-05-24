@@ -1,5 +1,5 @@
 ---
-title: "周书 卷13 卷13 列傳第5 文閔明武宣諸子"
+title: "周书 卷13"
 date: 2026-05-24
 weight: 13
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷13。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 文閔明武宣諸子

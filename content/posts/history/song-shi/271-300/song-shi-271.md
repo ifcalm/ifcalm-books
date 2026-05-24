@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷271 卷二百七十一 列傳第三十 馬令琮 杜漢徽 張廷翰 吳虔裕 蔡審廷 周廣 張勳 石曦 張藏英 陸萬友 解暉 李韜 王晉卿 郭廷謂 趙延進 輔超"
+title: "宋史 卷271"
 date: 2026-05-24
 weight: 271
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷271。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 馬令琮

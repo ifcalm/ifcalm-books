@@ -1,5 +1,5 @@
 ---
-title: "明史 卷328 卷三百二十八 列傳第二百十六 外國九 瓦剌 兀良哈"
+title: "明史 卷328"
 date: 2026-05-24
 weight: 328
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷328。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 瓦剌

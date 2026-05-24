@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷493 卷四百九十三 列傳第二百五十二 蠻夷一 西南溪峒諸蠻上"
+title: "宋史 卷493"
 date: 2026-05-24
 weight: 493
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷493。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 西南溪峒諸蠻上

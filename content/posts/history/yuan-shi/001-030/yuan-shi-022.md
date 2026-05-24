@@ -1,5 +1,5 @@
 ---
-title: "元史 卷22 卷二十二 本紀第二十二: 武宗一"
+title: "元史 卷22"
 date: 2026-05-24
 weight: 22
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷22。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 武宗仁惠宣孝皇帝，諱海山，順宗答剌麻八剌之長子也。母曰興聖皇太后，弘吉剌氏。至元十八年七月十九日生。

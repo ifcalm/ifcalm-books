@@ -1,5 +1,5 @@
 ---
-title: "元史 卷202 卷二百〇二 列傳第八十九: 釋老"
+title: "元史 卷202"
 date: 2026-05-24
 weight: 202
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷202。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 釋、老之教，行乎中國也千數百年，而其盛衰每系乎時君之好惡。是故佛於晉、宋、梁、陳，黃、老於漢、魏、唐、宋，而其效可睹矣。元興，崇尚釋氏，而帝師之盛，尤不可與古昔同語。維道家方士之流，假禱祠之說，乘時以起，曾不及其什一焉。宋舊史嘗志老、釋，厥有旨哉。乃本其意，作《釋老傳》。

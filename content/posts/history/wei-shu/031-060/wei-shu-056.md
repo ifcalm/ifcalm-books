@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷56 卷56 鄭羲 崔辯"
+title: "魏书 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鄭羲　崔辯

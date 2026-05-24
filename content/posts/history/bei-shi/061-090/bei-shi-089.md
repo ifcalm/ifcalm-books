@@ -1,5 +1,5 @@
 ---
-title: "北史 卷89 卷八十九 列傳第七十七: 藝術上"
+title: "北史 卷89"
 date: 2026-05-24
 weight: 89
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷89。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 藝術上

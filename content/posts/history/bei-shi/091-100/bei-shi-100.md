@@ -1,5 +1,5 @@
 ---
-title: "北史 卷100 卷一百 列傳第八十八: 序傳"
+title: "北史 卷100"
 date: 2026-05-24
 weight: 100
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷100。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李氏序傳

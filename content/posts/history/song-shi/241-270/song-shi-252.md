@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷252 卷二百五十二 列傳第十一 王景 王晏 郭從義 李洪信 武行德 楊承信 侯章"
+title: "宋史 卷252"
 date: 2026-05-24
 weight: 252
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷252。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王景

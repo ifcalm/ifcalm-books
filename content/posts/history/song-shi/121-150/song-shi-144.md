@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷144 卷一百四十四 志第九十七 儀衞二"
+title: "宋史 卷144"
 date: 2026-05-24
 weight: 144
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷144。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 儀衛二○宮中導從行幸儀衛太上皇儀衛後妃儀衛

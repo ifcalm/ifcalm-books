@@ -1,5 +1,5 @@
 ---
-title: "明史 卷141 卷一百四十一 列傳第二十九 齊泰 黃子澄 方孝孺 練子寧 茅大芳 卓敬 陳迪 景清 連楹 胡閏 王度"
+title: "明史 卷141"
 date: 2026-05-24
 weight: 141
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷141。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 齊泰 黃子澄 方孝孺〈（盧原質 鄭公智 林嘉猷 胡子昭 鄭居貞 劉政 方法 樓璉）〉練子寧〈（宋徵 葉希賢）〉茅大芳〈（周嵒）〉卓敬〈（郭任 盧迥）〉陳迪〈（黃魁 巨敬）〉景清〈（連楹）〉胡閏〈（高翔）〉王度〈（戴德彜 謝升 丁誌方 甘霖 董鏞 陳繼之 韓永 葉福）〉

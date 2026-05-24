@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷82 卷八十二 列傳第五十二 陳壽 王長文 虞溥 司馬彪 王隱 虞預 孫盛 干寶 鄧粲 謝沈 習鑿齒 徐廣"
+title: "晋书 卷82"
 date: 2026-05-24
 weight: 82
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷82。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳壽

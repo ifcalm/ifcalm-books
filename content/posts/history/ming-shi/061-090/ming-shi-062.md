@@ -1,5 +1,5 @@
 ---
-title: "明史 卷62 卷六十二 志第三十八 樂二"
+title: "明史 卷62"
 date: 2026-05-24
 weight: 62
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷62。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第三十八 樂二

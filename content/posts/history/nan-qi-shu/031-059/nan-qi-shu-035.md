@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷35 卷三十五 列傳第十六 高祖十二王"
+title: "南齐书 卷35"
 date: 2026-05-24
 weight: 35
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷35。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高帝十九男：昭皇后生武帝、豫章文獻王嶷；謝貴嬪生臨川獻王映、長沙威王晃；羅太妃生武陵昭王曄；任太妃生安成恭王暠；陸修儀生鄱陽王鏘、晉熙王 銶；袁修容生桂陽王鑠；何太妃生始興簡王鑒、宜都王鏗；區貴人生衡陽王鈞；張淑妃生江夏王鋒、河東王鉉；李美人生南平王銳；第九、第十三、第十四、第 十七皇子早亡。衡陽王鈞出繼元王后。

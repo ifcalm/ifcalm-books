@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷180 卷一百八十 志第一百三十三 食貨下二"
+title: "宋史 卷180"
 date: 2026-05-24
 weight: 180
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷180。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 食貨下二〈（錢幣）〉錢幣

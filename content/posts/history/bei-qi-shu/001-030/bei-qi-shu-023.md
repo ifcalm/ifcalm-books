@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷23 卷二三 列傳第十五 魏蘭根 崔悛"
+title: "北齐书 卷23"
 date: 2026-05-24
 weight: 23
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷23。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 魏蘭根 崔悛 子瞻

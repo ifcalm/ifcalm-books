@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷6 卷六 本紀第六 真宗一"
+title: "宋史 卷6"
 date: 2026-05-24
 weight: 6
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷6。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 真宗應符稽古神功讓德文明武定章聖元孝皇帝，諱恆，太宗第三子也。母曰元德皇后李氏。初，乾德五年，五星從鎮星聚奎。明年正月，后夢以裾承日，有娠，十二月二日生于開封府第，赤光照室，左足指有文成「天」字。

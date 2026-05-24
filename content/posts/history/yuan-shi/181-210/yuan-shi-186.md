@@ -1,5 +1,5 @@
 ---
-title: "元史 卷186 卷一百八十六 列傳第七十三: 張楨 歸暘 陳祖仁 成遵 曹鑑 張翥"
+title: "元史 卷186"
 date: 2026-05-24
 weight: 186
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷186。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張楨

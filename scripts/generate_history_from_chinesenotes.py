@@ -292,7 +292,6 @@ def write_frontmatter(
     tags: list[str],
     body: str = "",
     categories: list[str] | None = None,
-    source_info: SourceInfo | None = None,
 ) -> None:
     categories = categories or ["史部"]
     lines = [
@@ -308,14 +307,6 @@ def write_frontmatter(
         "tocOpen: false",
         "ShowShareButtons: false",
     ]
-    if source_info:
-        lines.extend(
-            [
-                f"source: {yaml_string(source_info.name)}",
-                f"source_url: {yaml_string(source_info.url)}",
-                f"source_license: {yaml_string(source_info.license)}",
-            ]
-        )
     lines.extend(["---", "", body.rstrip()])
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
@@ -592,19 +583,12 @@ def generate_history(source_dir: Path, hist: dict, use_wikisource_fallback: bool
                 bodies.append(text)
 
         body = "\n\n".join(bodies).strip()
-        source_info = SourceInfo("Chinese Notes corpus", SOURCE_URL, SOURCE_LICENSE)
         if use_wikisource_fallback and (body_issue(body) or source_issue):
             fallback = find_fallback_body(hist, vol)
             if fallback:
-                replacement_body, fallback_source = fallback
+                replacement_body, _fallback_source = fallback
                 body = replacement_body
-                source_info = fallback_source
-        title_piece = parts[0].part_title
-        if len(parts) > 1:
-            title_piece = re.sub(r"(上|中|下|之一|之二|之三|之四|之五|之六).*$", "", title_piece).strip()
         title = f"{hist['title']} 卷{vol}"
-        if title_piece:
-            title = f"{title} {title_piece}"
         rel_dir = volume_group_dir(vol, total)
         out = OUT_BASE / hist["slug"] / rel_dir / f"{hist['slug']}-{vol:03d}.md"
         write_frontmatter(
@@ -614,7 +598,6 @@ def generate_history(source_dir: Path, hist: dict, use_wikisource_fallback: bool
             vol,
             [hist["title"], hist["dynasty"], hist["author"]],
             body=body,
-            source_info=source_info,
         )
         written += 1
 

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷155 卷一百五十五 列傳第一百〇四: 穆寧 崔邠 竇群 李遜 薛戎"
+title: "旧唐书 卷155"
 date: 2026-05-24
 weight: 155
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷155。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 穆寧，懷州河內人也。父元休，以文學著。撰《洪範外傳》十篇，開元中獻之。玄宗賜帛，授偃師縣丞、安陽令。

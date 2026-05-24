@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷153 卷一百五十三 列傳第一百〇三: 姚南仲 劉乃 袁高 段平仲 薛存誠 盧坦"
+title: "旧唐书 卷153"
 date: 2026-05-24
 weight: 153
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷153。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 姚南仲，華州下邽人。乾元初，制科登第，授太子校書，歷高陵、昭應、萬年三縣尉。遷右拾遺，轉右補闕。大歷十三年，貞懿皇后獨孤氏崩，代宗悼惜不已，令於近城為陵墓，冀朝夕臨望於目前。南仲上疏諫曰：

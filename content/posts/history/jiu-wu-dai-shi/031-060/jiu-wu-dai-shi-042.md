@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷42 卷四十二 唐書18: 明宗本紀八"
+title: "旧五代史 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 長興二年春正月庚申朔，帝御明堂殿受朝賀，仗衛如儀。乙丑，詔曰：「故天策上將軍、守太師、尚書令、楚國王馬殷，品位俱高，封崇已極，無官可贈，宜賜諡及神道碑文，仍以王禮葬。」壬申，契丹東丹王突欲自渤海國率眾到闕，帝慰勞久之，錫賚加等，百僚稱賀。丙子，以沙州節度使曹義金兼中書令。丁丑，東丹王托雲進本國印三紐。庚辰，以靜江軍節度使馬賓卒廢朝，贈尚書令。丙戌，荊南節度使高從誨落起復，加兼中書令。

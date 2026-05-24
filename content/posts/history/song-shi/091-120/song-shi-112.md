@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷112 卷一百十二 志第六十五 禮十五"
+title: "宋史 卷112"
 date: 2026-05-24
 weight: 112
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷112。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮十五〈（嘉禮三）〉○聖節諸慶節

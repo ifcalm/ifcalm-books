@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷76 卷七十六 列傳第四十六 王舒 王廙 虞潭 顧眾 張闓"
+title: "晋书 卷76"
 date: 2026-05-24
 weight: 76
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷76。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王舒〈（子允之）〉王廙〈（弟彬 彬子彪之 彬從兄棱）〉虞潭〈（孫嘯父 兄子？斐）〉顧眾 張闓

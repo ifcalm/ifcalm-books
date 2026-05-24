@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷45 卷四十五 志第三十五 選舉志下"
+title: "新唐书 卷45"
 date: 2026-05-24
 weight: 45
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷45。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 凡選有文、武，文選吏部主之，武選兵部主之，皆為三銓，尚書、侍郎分主之。

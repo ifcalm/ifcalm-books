@@ -1,5 +1,5 @@
 ---
-title: "元史 卷127 卷一百二十七 列傳第十四: 伯顏"
+title: "元史 卷127"
 date: 2026-05-24
 weight: 127
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷127。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十四

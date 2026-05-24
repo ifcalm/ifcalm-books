@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷51 卷五十一 列傳第三十二 裴叔業 崔慧景 張欣泰"
+title: "南齐书 卷51"
 date: 2026-05-24
 weight: 51
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷51。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷五十一‧列傳第三十二

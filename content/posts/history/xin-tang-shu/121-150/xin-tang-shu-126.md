@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷126 卷一百二十六 列傳第五十一 魏盧李杜張韓"
+title: "新唐书 卷126"
 date: 2026-05-24
 weight: 126
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷126。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 魏盧李杜張韓

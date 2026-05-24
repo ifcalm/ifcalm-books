@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷136 卷一百三十六 志第八十九 樂十一"
+title: "宋史 卷136"
 date: 2026-05-24
 weight: 136
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷136。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 樂十一〈（樂章五）〉○祀嶽鎮海瀆祀大火祀大辰大中祥符五嶽加帝號祭告八首迎神，《靜安》

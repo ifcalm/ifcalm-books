@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷91 卷91 術藝:晁崇 張淵 殷紹 王早 耿玄 劉靈助 江式等"
+title: "魏书 卷91"
 date: 2026-05-24
 weight: 91
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷91。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 晁崇　張淵　殷紹　王早　耿玄　劉靈助　江式　周澹　李脩　徐謇　王顯　崔彧　蔣少游[1]

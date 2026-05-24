@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷91 卷九十一 貨殖傳"
+title: "汉书 卷91"
 date: 2026-05-24
 weight: 91
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷91。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷九十一 貨殖傳第六十一

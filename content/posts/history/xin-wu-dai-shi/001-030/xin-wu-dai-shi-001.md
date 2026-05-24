@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷1 卷一 梁本紀第一: 太祖上"
+title: "新五代史 卷1"
 date: 2026-05-24
 weight: 1
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷1。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 新五代史卷一 梁本紀第一

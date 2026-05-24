@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷65 卷六十五 東方朔傳"
+title: "汉书 卷65"
 date: 2026-05-24
 weight: 65
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷65。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷六十五 東方朔傳第三十五

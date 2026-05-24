@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷119 卷一百一十九 載記第十九 姚泓"
+title: "晋书 卷119"
 date: 2026-05-24
 weight: 119
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷119。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 姚泓

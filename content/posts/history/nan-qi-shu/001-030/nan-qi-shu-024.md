@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷24 卷二十四 列傳第五 柳世隆 張瑰"
+title: "南齐书 卷24"
 date: 2026-05-24
 weight: 24
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷24。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷二十四‧列傳第五

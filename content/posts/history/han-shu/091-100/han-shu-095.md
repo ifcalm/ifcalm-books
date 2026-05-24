@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷95 卷九十五 西南夷兩粵朝鮮傳"
+title: "汉书 卷95"
 date: 2026-05-24
 weight: 95
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷95。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南夷君長以十數，夜郎最大。其西，靡莫之屬以十數，滇最大。自滇以北，君長以十數，邛都最大。此皆椎結，耕田，有邑聚。其外，西自桐師以東，北至葉榆，名爲巂、昆明、編發，隨畜移徙，亡常處，亡君長，地方可數千里。自巂以東北，君長以十數，徙、莋都最大。自莋以東北，君長以十數，冉駹最大。其俗，或土著，或移徙。在蜀之西。自駹以東北，君長以十數，白馬最大，皆氐類也。此皆巴、蜀西南外蠻夷也。

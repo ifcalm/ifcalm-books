@@ -1,5 +1,5 @@
 ---
-title: "元史 卷26 卷二十六 本紀第二十六: 仁宗三"
+title: "元史 卷26"
 date: 2026-05-24
 weight: 26
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷26。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 四年春正月庚子，帝謂左右曰：「中書比奏百姓乏食，宜加賑恤。朕默思之，民饑若此，豈政有過差以致然歟？向詔百司務遵世祖成憲，宜勉力奉行，輔朕不逮，然嘗思之，唯省刑薄賦，庶使百姓各遂其生也。」乙卯，諸王脫脫駐雲南，擾害軍民，以按灰代之。丙辰，以知樞密院事完者為雲南行省平章政事。己未，給帝師寺廩食鈔萬錠。壬戌，冀寧路地震。戊辰，給諸王也速也不幹、明安答兒部糧三月。

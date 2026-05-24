@@ -1,5 +1,5 @@
 ---
-title: "明史 卷184 卷一百八十四 列傳第七十二 周洪謨 楊守陳 張元禎 傅瀚 張昇 吳寬 傅珪 劉春 吳儼 顧清 劉瑞"
+title: "明史 卷184"
 date: 2026-05-24
 weight: 184
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷184。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 周洪謨楊守陳〈（弟守阯子茂元茂仁）〉張元禎〈（陳音）〉傅瀚張昇吳寬傅珪劉春吳儼顧清劉瑞

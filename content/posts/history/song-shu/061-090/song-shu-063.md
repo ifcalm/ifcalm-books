@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷63 卷六十三 列傳第二十三 王華 王曇首 殷景仁 沈演之"
+title: "宋书 卷63"
 date: 2026-05-24
 weight: 63
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷63。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第二十三　　王華王曇首殷景仁沈演之

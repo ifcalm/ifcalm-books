@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷71 卷七十一 志第二十四 律曆四"
+title: "宋史 卷71"
 date: 2026-05-24
 weight: 71
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷71。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 道體為一，天地之元，萬物之祖也。散而為氣，則有陰有陽；動而為數，則有奇有偶；凝而為形，則有剛有柔；發而為聲，則有清有濁，其著見而為器，則有律、有呂。凡禮樂、刑法、權衡、度量皆出於是。自周衰樂壞，而律呂候氣之法不傳。西漢劉歆、揚雄之徒，僅存其說。京房作準以代律，分六十聲，始于南事，終於去滅。然聲細而難分，世不能用。曆晉及隋、唐，律法微隱。《宋史》止載律呂大數，不獲其詳。今掇仁宗論律及諸儒言鐘律者記於篇，以補續舊學之闕。

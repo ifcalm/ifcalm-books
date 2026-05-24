@@ -1,5 +1,5 @@
 ---
-title: "明史 卷208 卷二百〇八 列傳第九十六 張芹 汪應軫 蕭鳴鳳 齊之鸞 袁宗儒 許相卿 顧濟 章僑 余珊 韋商臣 黎貫 彭汝實 鄭自璧 戚賢 劉繪 錢薇 洪垣 周思兼 顏鯨"
+title: "明史 卷208"
 date: 2026-05-24
 weight: 208
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷208。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張芹汪應軫蕭鳴鳳〈（高公韶）〉齊之鸞袁宗儒許相卿顧濟〈（子章誌）〉章僑余珊〈（汪珊）〉韋商臣黎貫〈（王汝梅）〉彭汝實鄭自璧戚賢劉繪〈（子黃裳）〉錢薇洪垣〈（方瓘）〉（呂懷）周思兼顏鯨

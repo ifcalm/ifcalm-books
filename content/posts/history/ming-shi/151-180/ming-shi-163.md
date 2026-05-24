@@ -1,5 +1,5 @@
 ---
-title: "明史 卷163 卷一百六十三 列傳第五十一 李時勉 陳敬宗 劉鉉 邢讓 林瀚 謝鐸 魯鐸"
+title: "明史 卷163"
 date: 2026-05-24
 weight: 163
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷163。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李時勉陳敬宗劉鉉〈（薩琦）〉邢讓〈（李紹）〉林瀚〈（子庭昂庭機孫燫烴）〉謝鐸魯鐸〈（趙永）〉

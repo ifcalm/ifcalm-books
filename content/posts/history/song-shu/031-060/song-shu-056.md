@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷56 卷五十六 列傳第十六 謝瞻 孔琳之"
+title: "宋书 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第十六　　謝瞻孔琳之

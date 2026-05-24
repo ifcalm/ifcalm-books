@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷7 卷七 昭帝紀"
+title: "汉书 卷7"
 date: 2026-05-24
 weight: 7
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷7。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝昭皇帝，武帝少子也。母曰趙婕妤，本以有奇異得幸，及生帝，亦奇異。語在外戚傳。武帝末，戾太子 敗，燕王旦、廣陵王胥行驕嫚，後元二年二月上疾病，遂立昭帝為太子，年八歲。以侍中奉車都尉霍光為大司馬大將軍，受遺詔輔少主。明日，武帝崩。戊辰，太子 即皇帝位，謁高廟。帝姊鄂邑公主益湯沐邑，為長公主，共養省中。大將軍光秉政，領尚書事，車騎將軍金日磾、左將軍上官桀副焉。

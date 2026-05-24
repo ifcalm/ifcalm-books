@@ -1,5 +1,5 @@
 ---
-title: "明史 卷262 卷二百六十二 列傳第一百五十 傅宗龍 汪喬年 楊文岳 孫傳庭"
+title: "明史 卷262"
 date: 2026-05-24
 weight: 262
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷262。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 傅宗龍汪喬年〈（張國欽等）〉楊文嶽〈（傅汝為等）〉孫傳庭

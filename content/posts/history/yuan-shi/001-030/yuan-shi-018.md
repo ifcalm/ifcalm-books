@@ -1,5 +1,5 @@
 ---
-title: "元史 卷18 卷十八 本紀第十八: 成宗一"
+title: "元史 卷18"
 date: 2026-05-24
 weight: 18
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷18。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 成宗欽明廣孝皇帝，諱鐵穆耳，世祖之孫，裕宗真金第三子也。母曰徽仁裕聖皇后，弘吉烈氏。至元二年九月庚子生。

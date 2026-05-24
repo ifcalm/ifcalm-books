@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷103 卷一百零三 列傳第二十八 蘇世長子:良嗣 從孫:弁 韋雲起孫:方質 孫伏伽 張玄素"
+title: "新唐书 卷103"
 date: 2026-05-24
 weight: 103
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷103。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蘇世長子:良嗣 從孫:弁 韋雲起孫:方質 孫伏伽 張玄素

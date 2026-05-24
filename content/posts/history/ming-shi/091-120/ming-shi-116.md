@@ -1,5 +1,5 @@
 ---
-title: "明史 卷116 卷一百十六 列傳第四 諸王一"
+title: "明史 卷116"
 date: 2026-05-24
 weight: 116
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷116。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宗室十五王 太祖諸子一

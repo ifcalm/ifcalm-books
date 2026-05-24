@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷84 卷八十四 列傳第四十四 鄧琬 袁顗 孔覬"
+title: "宋书 卷84"
 date: 2026-05-24
 weight: 84
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷84。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 鄧琬

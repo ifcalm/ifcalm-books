@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷405 卷四百〇五 列傳第一百六十四 李宗勉 袁甫 劉黻 王居安"
+title: "宋史 卷405"
 date: 2026-05-24
 weight: 405
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷405。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李宗勉 袁甫 劉黻 王居安

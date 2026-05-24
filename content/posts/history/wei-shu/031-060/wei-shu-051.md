@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷51 卷51 韓茂 皮豹子 封敕文 吕羅漢 孔伯恭"
+title: "魏书 卷51"
 date: 2026-05-24
 weight: 51
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷51。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韓茂　皮豹子　封敕文　呂羅漢　孔伯恭

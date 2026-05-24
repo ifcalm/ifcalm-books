@@ -1,5 +1,5 @@
 ---
-title: "金史 卷106 卷一百〇六 列傳第四十四: 張暐子:行簡 賈益謙 劉炳 朮虎高琪 移剌塔不也"
+title: "金史 卷106"
 date: 2026-05-24
 weight: 106
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷106。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張暐

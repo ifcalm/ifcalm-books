@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷16 卷十六 本紀第十六 神宗三"
+title: "宋史 卷16"
 date: 2026-05-24
 weight: 16
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷16。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 三年春正月乙丑朔，以大行太皇太后在殯，不視朝。癸酉，升許州爲潁昌府。丙子，降潁昌囚罪一等，徒以下釋之。戊寅，上太皇太后諡曰慈聖光獻。戊子，詔審刑院、刑部斷議官失入者，歲具數罰之。己丑，高麗國遣使來貢。白虹貫日。辛卯，于闐國大首領阿令顛顙溫等來貢。癸巳，白虹貫日。

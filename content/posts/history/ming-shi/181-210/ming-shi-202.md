@@ -1,5 +1,5 @@
 ---
-title: "明史 卷202 卷二百〇二 列傳第九十 廖紀 王時中 周期雍 唐龍 王杲 周用 聞淵 劉訒 孫應奎 聶豹 李默 周延 賈應春 張永明 胡松 趙炳然"
+title: "明史 卷202"
 date: 2026-05-24
 weight: 202
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷202。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 廖紀王時中周期雍唐龍〈（子汝楫）〉王杲〈（王暐）〉周用〈（宋景屠僑）〉聞淵劉讱〈（胡纘宗）〉孫應奎〈（余姚孫應奎方鈍）〉聶豹李默〈（萬鏜）〉周延〈（潘恩）〉賈應春張永明胡松〈（績溪胡松）〉趙炳然

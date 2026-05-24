@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷172 卷一百七十二 列傳第九十七 于王二杜范"
+title: "新唐书 卷172"
 date: 2026-05-24
 weight: 172
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷172。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 于王二杜範

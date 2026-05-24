@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷93 卷93 恩幸:王叡 王仲興 寇猛 趙修 茹皓 趙邕 侯剛等"
+title: "魏书 卷93"
 date: 2026-05-24
 weight: 93
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷93。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王叡　王仲興　寇猛　趙脩　茹晧　趙邕　侯剛　鄭儼　徐紇

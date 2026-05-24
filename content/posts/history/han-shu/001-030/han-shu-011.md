@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷11 卷十一 哀帝紀"
+title: "汉书 卷11"
 date: 2026-05-24
 weight: 11
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷11。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孝哀皇帝，元帝庶孫，定陶恭王子也。母曰丁姬。年三歲嗣立為王，長好文辭法律。元延四年入朝，盡從傅、相、中尉。時成帝少弟中山孝王亦來朝，獨從傅。上怪之，以問定陶王，對曰：「令，諸侯王朝，得從其國二千石。傅、相、中尉皆國二千石，故盡從之。」上令誦詩，通習，能說。他日問中山王：「

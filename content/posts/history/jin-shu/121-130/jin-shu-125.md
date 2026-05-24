@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷125 卷一百二十五 載記第二十五 乞伏國仁 乞伏乾歸 乞伏熾磐 馮跋"
+title: "晋书 卷125"
 date: 2026-05-24
 weight: 125
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷125。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 乞伏國仁 乞伏乾歸 乞伏熾磐 馮跋〈（馮素弗）〉

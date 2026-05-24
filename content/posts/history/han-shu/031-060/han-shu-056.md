@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷56 卷五十六 董仲舒傳"
+title: "汉书 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卷五十六 董仲舒傳第二十六

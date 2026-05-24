@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷54 卷五十四 唐書30: 列傳六 王鎔 王昭誨 王處直"
+title: "旧五代史 卷54"
 date: 2026-05-24
 weight: 54
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷54。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王鎔，其先回鶻部人也。遠祖沒諾幹，唐至德中，事鎮州節度使王武俊為騎將。武俊嘉其勇幹，畜為假子，號王五哥，其後子孫以王為氏。四代祖廷湊，事鎮帥王承宗為牙將。長慶初，承宗卒，穆宗命田宏正為成德軍節度使。既而鎮人殺宏正，推廷湊為留後，朝廷不能制，因以旄鉞授之。廷湊卒，子元逵尚文宗女壽安公主。元逵卒，子紹鼎立。紹鼎卒，子景崇立。皆世襲鎮州節度使，並前史有傳。景崇位至太尉、中書令，封常山王，中和二年卒。

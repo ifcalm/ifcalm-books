@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷25 卷二十五 本紀第二十五: 道宗五"
+title: "辽史 卷25"
 date: 2026-05-24
 weight: 25
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷25。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 道宗五

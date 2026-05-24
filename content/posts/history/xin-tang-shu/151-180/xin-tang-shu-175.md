@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷175 卷一百七十五 列傳第一百 竇劉二張楊熊柏"
+title: "新唐书 卷175"
 date: 2026-05-24
 weight: 175
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷175。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 竇劉二張楊熊柏

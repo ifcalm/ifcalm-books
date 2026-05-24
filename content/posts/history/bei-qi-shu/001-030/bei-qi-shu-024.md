@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷24 卷二四 列傳第十六 孫搴 陳元康 杜弼"
+title: "北齐书 卷24"
 date: 2026-05-24
 weight: 24
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷24。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孫搴　陳元康　杜弼

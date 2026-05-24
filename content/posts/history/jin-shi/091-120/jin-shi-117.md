@@ -1,5 +1,5 @@
 ---
-title: "金史 卷117 卷一百十七 列傳第五十五: 徒單益都 粘哥荊山附:劉均 王賓附:王進等 國用安 時青"
+title: "金史 卷117"
 date: 2026-05-24
 weight: 117
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷117。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 徒單益都

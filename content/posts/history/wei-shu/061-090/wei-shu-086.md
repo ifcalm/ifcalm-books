@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷86 卷86 孝感:趙琰 長孫慮 乞伏保 孫益德 董洛生 楊引"
+title: "魏书 卷86"
 date: 2026-05-24
 weight: 86
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷86。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 趙琰　長孫慮　乞伏保　孫益德　董洛生　楊引　閻元明　吳悉達　王續生　李顯達　張昇　倉跋　王崇　郭文恭

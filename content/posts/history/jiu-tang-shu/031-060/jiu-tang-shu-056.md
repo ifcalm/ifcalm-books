@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷56 卷五十六 列傳第六: 蕭銑 杜伏威 輔公祏 沈法興 李子通 羅藝 梁師都"
+title: "旧唐书 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷56。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 蕭銑

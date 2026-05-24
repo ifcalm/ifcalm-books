@@ -1,5 +1,5 @@
 ---
-title: "周书 卷33 卷33 列傳第25 厙狄峙 楊荐 趙剛 王慶 趙昶 王悅 趙文表"
+title: "周书 卷33"
 date: 2026-05-24
 weight: 33
 tags: ["周书", "唐", "令狐德棻等"]
@@ -9,9 +9,6 @@ summary: "周书卷33。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 厙狄峙　楊荐　趙剛　王慶　趙昶　王悅　趙文表

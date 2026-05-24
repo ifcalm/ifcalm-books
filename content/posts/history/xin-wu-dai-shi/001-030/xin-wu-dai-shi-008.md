@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷8 卷八 晉本紀第八: 高祖"
+title: "新五代史 卷8"
 date: 2026-05-24
 weight: 8
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷8。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高祖聖文章武明德孝皇帝，其父臬捩雞，本出於西夷，自朱邪歸唐，從朱邪入居陰山。其後，晉王李克用起於雲、朔之間，臬捩雞以善騎射，常從晉王征伐有功，官至洺州刺史。臬捩雞生敬瑭，其姓石氏，不知其得姓之始也。

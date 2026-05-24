@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷81 卷八十一 列傳第六 三宗諸子"
+title: "新唐书 卷81"
 date: 2026-05-24
 weight: 81
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷81。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 三宗諸子

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷7 卷七 本紀第七 真宗二"
+title: "宋史 卷7"
 date: 2026-05-24
 weight: 7
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷7。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 六年春二月戊寅，幸飛山雄武營，觀發機石、連弩，遂宴射潛龍園。己卯，以京東西、淮南水災，遣使振恤貧民，平決獄訟。幸北宅視德潤疾。庚辰，以西涼府六谷首領潘羅支為朔方軍節度、靈州西面都巡檢使。甲申，封賢懿長公主為鄭國長公主。蕃部葉市族囉埋等內附。己丑，德潤卒。庚寅，屯田員外郎盛梁坐受賕枉法，流崖州。

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷138 卷一百三十八 列傳第二十五: 康里脫脫 燕鐵木兒 伯顏 馬札兒台 脫脫"
+title: "元史 卷138"
 date: 2026-05-24
 weight: 138
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷138。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 康里脱脱

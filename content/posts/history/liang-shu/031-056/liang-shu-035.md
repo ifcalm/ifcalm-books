@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷35 卷三十五 列傳第二十九 蕭子恪 弟子範 子顯 子雲"
+title: "梁书 卷35"
 date: 2026-05-24
 weight: 35
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷35。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第三十五 列傳第二十九

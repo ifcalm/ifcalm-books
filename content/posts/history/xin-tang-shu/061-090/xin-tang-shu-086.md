@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷86 卷八十六 列傳第十一 薛李二劉高徐"
+title: "新唐书 卷86"
 date: 2026-05-24
 weight: 86
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷86。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 薛李二劉高徐

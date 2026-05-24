@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷398 卷三百九十八 列傳第一百五十七 余端禮 李壁 丘崈 倪思 宇文紹節 李蘩"
+title: "宋史 卷398"
 date: 2026-05-24
 weight: 398
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷398。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 余端禮

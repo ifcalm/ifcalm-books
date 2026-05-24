@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷38 卷三十八 高五王傳"
+title: "汉书 卷38"
 date: 2026-05-24
 weight: 38
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷38。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高皇帝八男：呂后生孝惠帝，曹夫人生齊悼惠王肥，薄姬生孝文帝，戚夫人生趙隱王如意，趙姬生淮南厲王長，諸姬生趙幽王友、趙共王恢、燕靈王建。淮南厲王長自有傳。

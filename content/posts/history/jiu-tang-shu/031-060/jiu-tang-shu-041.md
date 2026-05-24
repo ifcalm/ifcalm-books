@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷41 卷四十一 志第二十一: 地理四"
+title: "旧唐书 卷41"
 date: 2026-05-24
 weight: 41
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷41。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十一地理四

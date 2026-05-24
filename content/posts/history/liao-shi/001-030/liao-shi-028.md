@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷28 卷二十八 本紀第二十八: 天祚皇帝二"
+title: "辽史 卷28"
 date: 2026-05-24
 weight: 28
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷28。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 五年春正月，下詔親征，遣僧家奴持書約和，斥阿骨打名。阿骨打遣賽剌復書，〈一〉若歸叛人阿疏，遷黃龍府於別地，然後議之。都統耶律斡里朵等與女直兵戰于達魯古城，敗績。

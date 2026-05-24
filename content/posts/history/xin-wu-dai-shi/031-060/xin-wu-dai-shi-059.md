@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷59 卷五十九 司天考第二"
+title: "新五代史 卷59"
 date: 2026-05-24
 weight: 59
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷59。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 昔孔子作《春秋》而天人備。予述本紀，書人而不書天，予何敢異於聖人哉！其文雖異，其意一也。

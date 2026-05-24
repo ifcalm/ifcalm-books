@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷26 卷二十六 唐臣傳第十四: 符習 烏震 孔謙 張延朗 李嚴 李仁矩 毛璋"
+title: "新五代史 卷26"
 date: 2026-05-24
 weight: 26
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷26。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 符習

@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷68 卷68 列傳第33 宇文愷 閻毗 何稠"
+title: "隋书 卷68"
 date: 2026-05-24
 weight: 68
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷68。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷六十八列傳第三十三

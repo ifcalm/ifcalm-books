@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷349 卷三百四十九 列傳第一百〇八 郝質 賈逵 竇舜卿 劉昌祚 盧政 燕達 姚兕弟:麟 子:雄 古 楊燧 劉舜卿 宋守約子:球"
+title: "宋史 卷349"
 date: 2026-05-24
 weight: 349
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷349。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 郝質 賈逵 竇舜卿 劉昌祚 盧政 燕達 姚兕弟:麟 子:雄 古 楊燧 劉舜卿 宋守約子:球

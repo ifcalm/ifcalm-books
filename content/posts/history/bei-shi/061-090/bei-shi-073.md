@@ -1,5 +1,5 @@
 ---
-title: "北史 卷73 卷七十三 列傳第六十一: 梁士彥 元諧 虞慶則 元冑 達奚長儒 賀婁子幹 史萬歲 劉方 杜彥 周搖 獨孤楷 乞伏慧 張威 和洪 陰壽 楊義臣"
+title: "北史 卷73"
 date: 2026-05-24
 weight: 73
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷73。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁士彥 元諧 虞慶則 元冑 達奚長儒 賀婁子幹 史萬歲 劉方 杜彥 周搖 獨孤楷 乞伏慧 張威 和洪 陰壽 楊義臣

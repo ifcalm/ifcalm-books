@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷27 卷二十七"
+title: "新唐书 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷27。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷二十七上 志第十七上 曆三上

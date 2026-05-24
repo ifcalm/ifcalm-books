@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷51 卷五十一 唐書27: 宗室列傳三"
+title: "旧五代史 卷51"
 date: 2026-05-24
 weight: 51
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷51。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宗室

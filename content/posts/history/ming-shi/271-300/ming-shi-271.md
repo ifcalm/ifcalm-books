@@ -1,5 +1,5 @@
 ---
-title: "明史 卷271 卷二百七十一 列傳第一百五十九 賀世賢 童仲揆 羅一貫 滿桂 趙率教 官惟賢 何可綱 黃龍 金日觀"
+title: "明史 卷271"
 date: 2026-05-24
 weight: 271
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷271。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 賀世賢〈（尤世功）〉童仲揆〈（陳策周敦吉等張神武等）〉羅一貫〈（劉渠祁秉忠）〉滿桂〈（孫祖壽）〉趙率教〈（朱國彥）〉官惟賢〈（張奇化）〉何可綱黃龍〈（李惟鸞）〉金日觀〈（楚繼功等）〉

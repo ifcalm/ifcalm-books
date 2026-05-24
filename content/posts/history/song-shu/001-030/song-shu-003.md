@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷3 卷三 本紀第三 武帝下"
+title: "宋书 卷3"
 date: 2026-05-24
 weight: 3
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷3。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 永初元年夏六月丁卯，設壇於南郊，即皇帝位，柴燎告天。策曰：

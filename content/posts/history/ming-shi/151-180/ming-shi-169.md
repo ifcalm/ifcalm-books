@@ -1,5 +1,5 @@
 ---
-title: "明史 卷169 卷一百六十九 列傳第五十七 高穀 胡濙 王直"
+title: "明史 卷169"
 date: 2026-05-24
 weight: 169
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷169。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高谷胡濙王直

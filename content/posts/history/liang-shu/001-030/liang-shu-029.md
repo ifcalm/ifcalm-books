@@ -1,5 +1,5 @@
 ---
-title: "梁书 卷29 卷二十九 列傳第二十三 高祖三王"
+title: "梁书 卷29"
 date: 2026-05-24
 weight: 29
 tags: ["梁书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "梁书卷29。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 梁書卷第二十九 列傳第二十三

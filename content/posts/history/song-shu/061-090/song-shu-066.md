@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷66 卷六十六 列傳第二十六 王敬弘 何尚之"
+title: "宋书 卷66"
 date: 2026-05-24
 weight: 66
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷66。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第二十六　　王敬弘 何尚之

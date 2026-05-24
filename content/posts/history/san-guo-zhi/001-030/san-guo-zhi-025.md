@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷25 卷二十五 魏書二十五 辛毗楊阜高堂隆傳"
+title: "三国志 卷25"
 date: 2026-05-24
 weight: 25
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷25。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 辛毗 楊阜 高堂隆

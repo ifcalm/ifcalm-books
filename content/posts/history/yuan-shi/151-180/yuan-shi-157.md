@@ -1,5 +1,5 @@
 ---
-title: "元史 卷157 卷一百五十七 列傳第四十四: 劉秉忠 張文謙 郝經"
+title: "元史 卷157"
 date: 2026-05-24
 weight: 157
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷157。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 劉秉忠

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷233 卷二百三十三 表第二十四 宗室世系十九"
+title: "宋史 卷233"
 date: 2026-05-24
 weight: 233
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷233。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7233"
-source_license: "CC BY-SA 4.0"
 ---
 
 鎮王房

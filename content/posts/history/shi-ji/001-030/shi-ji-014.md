@@ -1,5 +1,5 @@
 ---
-title: "史记 卷14 《十二諸侯年表》"
+title: "史记 卷14"
 date: 2026-05-24
 weight: 14
 tags: ["史记", "西汉", "司马迁"]
@@ -9,9 +9,6 @@ summary: "史记卷14。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《十二諸侯年表》

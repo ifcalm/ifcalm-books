@@ -1,5 +1,5 @@
 ---
-title: "金史 卷135 卷一百三十五 列傳第七十三: 外國下 高麗 金國語解 官稱 人事 物象 物類 姓氏"
+title: "金史 卷135"
 date: 2026-05-24
 weight: 135
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷135。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 外國下

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷190 卷一百九十 列傳第七十八 楊廷和 梁儲 蔣冕 毛紀 石九珤"
+title: "明史 卷190"
 date: 2026-05-24
 weight: 190
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷190。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊廷和梁儲蔣冕毛紀石缶〈（兄玠）〉

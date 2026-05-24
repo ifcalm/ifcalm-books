@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷4 卷四 本紀第四 鬱林王"
+title: "南齐书 卷4"
 date: 2026-05-24
 weight: 4
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷4。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷第四 本紀第四

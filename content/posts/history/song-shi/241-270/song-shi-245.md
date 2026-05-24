@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷245 卷二百四十五 列傳第四 宗室二"
+title: "宋史 卷245"
 date: 2026-05-24
 weight: 245
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷245。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 宗室二

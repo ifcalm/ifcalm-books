@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷9 卷9 肅宗紀"
+title: "魏书 卷9"
 date: 2026-05-24
 weight: 9
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷9。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 肅宗孝明皇帝，諱詡，世宗宣武皇帝之第二子，母曰胡充華。永平三年三月丙戌，帝生于宣光殿之東北，有光照于庭中。延昌元年十月乙亥，立為皇太子。

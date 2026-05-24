@@ -1,5 +1,5 @@
 ---
-title: "宋书 卷76 卷七十六 列傳第三十六 朱脩之 宗愨 王玄謨"
+title: "宋书 卷76"
 date: 2026-05-24
 weight: 76
 tags: ["宋书", "南朝梁", "沈约"]
@@ -9,9 +9,6 @@ summary: "宋书卷76。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第三十六　　朱脩之 宗愨 王玄謨

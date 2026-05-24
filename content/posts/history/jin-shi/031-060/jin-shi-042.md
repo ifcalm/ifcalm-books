@@ -1,5 +1,5 @@
 ---
-title: "金史 卷42 卷四十二 志第二十三: 儀衞下 大駕鹵簿 皇太后皇后鹵簿 皇太子鹵簿 親王傔從 諸妃嬪導從 百官儀從"
+title: "金史 卷42"
 date: 2026-05-24
 weight: 42
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷42。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 大駕鹵簿

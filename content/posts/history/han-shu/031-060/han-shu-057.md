@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷57 卷五十七"
+title: "汉书 卷57"
 date: 2026-05-24
 weight: 57
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷57。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷五十七上 司馬相如傳

@@ -1,5 +1,5 @@
 ---
-title: "三国志 卷36 卷三十六 蜀書六 關張馬黃趙傳"
+title: "三国志 卷36"
 date: 2026-05-24
 weight: 36
 tags: ["三国志", "西晋", "陈寿"]
@@ -9,9 +9,6 @@ summary: "三国志卷36。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 關羽

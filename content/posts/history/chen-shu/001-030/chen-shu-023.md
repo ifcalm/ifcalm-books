@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷23 卷二十三 列傳第十七: 沈君理 王瑒 陸繕"
+title: "陈书 卷23"
 date: 2026-05-24
 weight: 23
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷23。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Wikisource rendered page"
-source_url: "https://zh.wikisource.org/wiki/%E9%99%B3%E6%9B%B8/%E5%8D%B723"
-source_license: "CC BY-SA 4.0"
 ---
 
 沈君理　王瑒　陸繕

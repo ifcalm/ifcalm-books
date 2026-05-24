@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷10 卷十 梁書10: 末帝本紀下"
+title: "旧五代史 卷10"
 date: 2026-05-24
 weight: 10
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷10。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 貞明六年春正月戊子，以曹州刺史朱漢賓為安州宣威軍節度使；以許州匡國軍節度觀察留後、充散指揮都軍使、檢校太傅王彥章為匡國軍節度使，進封開國侯，軍職如故。

@@ -1,5 +1,5 @@
 ---
-title: "元史 卷144 卷一百四十四 列傳第三十一: 答里麻 月魯帖木兒 卜顏鐵木兒 星吉 福壽 道童"
+title: "元史 卷144"
 date: 2026-05-24
 weight: 144
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷144。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 答里麻

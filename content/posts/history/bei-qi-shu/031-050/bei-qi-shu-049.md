@@ -1,5 +1,5 @@
 ---
-title: "北齐书 卷49 卷四九 補列傳第四一 方伎"
+title: "北齐书 卷49"
 date: 2026-05-24
 weight: 49
 tags: ["北齐书", "唐", "李百药"]
@@ -9,9 +9,6 @@ summary: "北齐书卷49。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 《易》曰：定天下之吉兇，成天下之亹亹，莫善於蓍龜。是故天生神物，聖人則之。又神農、桐君論《本草》藥性，黃帝、岐伯說病候治方，皆聖人之所重也。故太史公著《龜策》、《日者》及《扁鵲倉公傳》，皆所以廣其聞見，昭示後昆。齊氏作霸以來，招引英俊，但有藝能，無不畢策，今並錄之以備《方伎》云。

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷237 卷二百三十七 列傳第一百二十五 傅好禮 姜志禮 包見捷 田大益 馮應京 吳宗堯 吳寶秀 華鈺"
+title: "明史 卷237"
 date: 2026-05-24
 weight: 237
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷237。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 傅好禮姜誌禮包見捷田大益馮應京〈（何棟如王之翰卞孔時）〉吳宗堯吳寶秀華鈺〈（王正誌）〉

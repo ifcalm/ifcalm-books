@@ -1,5 +1,5 @@
 ---
-title: "金史 卷65 卷六十五 列傳第三: 始祖以下諸子 斡魯 輩魯 謝庫德孫:拔達 謝夷保子:盆納 謝里忽 烏古出 跋黑 崇成本名僕灰 劾孫子:浦家奴 麻頗子:謾都本 弟:謾都訶 子:蠻睹(蠻睹曾孫惟鎔，本名沒烈) 斡帶 斡賽子:宗永 斡者孫:璋 昂本名吾都補，子:鄭家"
+title: "金史 卷65"
 date: 2026-05-24
 weight: 65
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷65。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第三 始祖以下諸子 ○斡魯 輩魯 謝庫德孫拔達 謝夷保子盆納 謝里忽 烏古出 跋黑 崇成本名僕灰 劾孫子浦家奴 麻頗子謾都本 弟謾都訶 子蠻睹(蠻睹孫惟鎔，本名沒烈) 斡帶 斡賽子宗永 斡者孫璋 昂本名吾都補，子鄭家

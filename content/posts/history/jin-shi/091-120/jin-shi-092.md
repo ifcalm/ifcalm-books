@@ -1,5 +1,5 @@
 ---
-title: "金史 卷92 卷九十二 列傳第三十: 毛碩 李上達 曹望之 大懷貞 盧孝儉 盧庸 李偲 徒單克寧本名習顯"
+title: "金史 卷92"
 date: 2026-05-24
 weight: 92
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷92。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 毛碩

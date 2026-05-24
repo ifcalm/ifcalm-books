@@ -1,5 +1,5 @@
 ---
-title: "明史 卷93 卷九十三 志第六十九 刑法一"
+title: "明史 卷93"
 date: 2026-05-24
 weight: 93
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷93。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 自漢以來，刑法沿革不一。隋更五刑之條，設三奏之令。唐撰律令，一準乎禮，以為出入。宋採用之，而所重者敕。律所不載者，則聽之於敕。故時輕時重，無一是之歸。元制，取所行一時之例為條格而已。明初，丞相李善長等言：「歷代之律，皆以漢《九章》為宗，至唐始集其成。今制宜遵唐舊。」太祖從其言。

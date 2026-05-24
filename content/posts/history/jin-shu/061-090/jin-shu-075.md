@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷75 卷七十五 列傳第四十五 王湛 荀崧 范汪 劉惔 張憑 韓伯"
+title: "晋书 卷75"
 date: 2026-05-24
 weight: 75
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷75。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 王湛〈（子承 承子述 述子坦之 禕之 坦之子愷 愉 國寶 忱 愉子綏 族子嶠）〉袁悅之〈（祖台之）〉荀崧〈（子蕤 蕤弟羨）〉范汪〈（子寧 寧甥王國寶 寧子堅）〉劉惔 張憑 韓伯

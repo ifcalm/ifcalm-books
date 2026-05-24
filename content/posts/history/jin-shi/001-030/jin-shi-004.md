@@ -1,5 +1,5 @@
 ---
-title: "金史 卷4 卷四 本紀第四: 熙宗"
+title: "金史 卷4"
 date: 2026-05-24
 weight: 4
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷4。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 熙宗弘基纘武莊靖孝成皇帝，諱亶，本諱合剌，太祖孫，景宣皇帝子。母蒲察氏。天輔三年己亥歲生。天會八年，諳班勃極烈杲薨，太宗意久未決。十年，左副元帥宗翰、右副元帥宗輔、左監軍完顏希尹入朝，與宗幹議曰：「諳班勃極烈虛位已久，今不早定，恐授非其人。合剌，先帝嫡孫，當立。」相與請于太宗者再三，乃從之。四月庚午，詔曰：「爾爲太祖之嫡孫，故命爾爲諳班勃極烈，其無自謂沖幼，狎于童戲，惟敬厥德。」諳班勃極烈者，太宗嘗居是官，及登大位，以命弟杲。杲薨，帝定議爲儲嗣，故以是命焉。

@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷74 卷七十四 魏相丙吉傳"
+title: "汉书 卷74"
 date: 2026-05-24
 weight: 74
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷74。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 魏相字弱翁，濟陰定陶人也，徙平陵。少學《易》，為郡卒史，舉賢良，以對策高第，為茂陵令。頃之，御史大夫桑弘羊客詐稱御史止傳，丞不以時謁，客怒縛丞。相疑其有奸，收捕，案致其罪，論棄客市，茂陵大治。

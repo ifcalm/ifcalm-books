@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷277 卷二百七十七 列傳第三十六 張鑑 姚坦 索湘 宋太初 盧之翰 鄭文寶 王子輿 劉綜 卞袞 許驤 裴莊 牛冕 張適 欒崇吉 袁逢吉 韓國華 何蒙 慎知禮"
+title: "宋史 卷277"
 date: 2026-05-24
 weight: 277
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷277。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張鑒

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷110 卷一百一十 志第六十三 禮十三"
+title: "宋史 卷110"
 date: 2026-05-24
 weight: 110
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷110。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 禮十三〈（嘉禮一）〉○上尊號儀高宗內禪儀上皇太后皇太妃冊寶儀

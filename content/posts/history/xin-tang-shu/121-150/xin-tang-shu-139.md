@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷139 卷一百三十九 列傳第六十四 房琯子:孺復 孫:啟 族孫:式 張鎬 李泌子:繁"
+title: "新唐书 卷139"
 date: 2026-05-24
 weight: 139
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷139。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 房琯子:孺復 孫:啟 族孫:式 張鎬 李泌子:繁

@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷478 卷四百七十八 列傳第二百三十七 世家一 南唐李氏李景(子:煜 從善 從誧 從弟:季操 孫:仲寓 附:舒元 韓熙載 馮謐 潘佑 皇甫繼勳 周惟簡)"
+title: "宋史 卷478"
 date: 2026-05-24
 weight: 478
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷478。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 世家一○南唐李氏

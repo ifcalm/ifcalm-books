@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷29 卷二十九 晉臣傳第十七: 桑維翰 景延廣 吳巒"
+title: "新五代史 卷29"
 date: 2026-05-24
 weight: 29
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷29。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 桑维翰

@@ -1,5 +1,5 @@
 ---
-title: "隋书 卷70 卷70 列傳第35 楊玄感 李子雄 趙元淑 斛斯政 劉元進 李密 裴仁基"
+title: "隋书 卷70"
 date: 2026-05-24
 weight: 70
 tags: ["隋书", "唐", "魏徵等"]
@@ -9,9 +9,6 @@ summary: "隋书卷70。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 隋書卷七十列傳第三十五

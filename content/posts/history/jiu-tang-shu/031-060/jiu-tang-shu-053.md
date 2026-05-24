@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷53 卷五十三 列傳第三: 李密 單雄信"
+title: "旧唐书 卷53"
 date: 2026-05-24
 weight: 53
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷53。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李密

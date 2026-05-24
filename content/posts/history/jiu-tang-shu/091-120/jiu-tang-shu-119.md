@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷119 卷一百十九 列傳第六十九: 楊綰 崔祐甫 常袞"
+title: "旧唐书 卷119"
 date: 2026-05-24
 weight: 119
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷119。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 楊綰崔祐甫子植植再從兄俊

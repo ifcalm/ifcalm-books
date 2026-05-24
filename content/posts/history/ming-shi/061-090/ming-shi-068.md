@@ -1,5 +1,5 @@
 ---
-title: "明史 卷68 卷六十八 志第四十四 輿服四"
+title: "明史 卷68"
 date: 2026-05-24
 weight: 68
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷68。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 皇帝寶璽皇后冊寶皇妃以下冊印皇太子冊寶皇太子妃冊寶親王以下冊寶冊印鐵券印信符節宮室制度臣庶室屋制度器用

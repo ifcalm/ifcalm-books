@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷121 卷一百二十一 載記第二十一 李雄 李班 李期 李壽 李勢"
+title: "晋书 卷121"
 date: 2026-05-24
 weight: 121
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷121。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李雄 李班 李期 李壽 李勢

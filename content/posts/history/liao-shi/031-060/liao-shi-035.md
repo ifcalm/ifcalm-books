@@ -1,5 +1,5 @@
 ---
-title: "辽史 卷35 卷三十五 志第五: 兵衞志中"
+title: "辽史 卷35"
 date: 2026-05-24
 weight: 35
 tags: ["辽史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "辽史卷35。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 兵衛誌中 ○禦帳親軍

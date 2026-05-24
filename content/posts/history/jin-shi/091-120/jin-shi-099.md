@@ -1,5 +1,5 @@
 ---
-title: "金史 卷99 卷九十九 列傳第三十七: 徒單鎰 賈鉉 孫鐸 孫即康 李革"
+title: "金史 卷99"
 date: 2026-05-24
 weight: 99
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷99。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 徒單鎰

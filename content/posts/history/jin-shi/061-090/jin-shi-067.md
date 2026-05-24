@@ -1,5 +1,5 @@
 ---
-title: "金史 卷67 卷六十七 列傳第五: 石顯 桓赧弟:散達 烏春附:溫敦蒲刺 臘醅弟麻產 鈍恩 留可 阿疏 奚王回離保"
+title: "金史 卷67"
 date: 2026-05-24
 weight: 67
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷67。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第五 ○石顯 桓赧弟散達 烏春溫敦蒲刺(附) 臘醅弟麻產 鈍恩 留可 阿疏 奚王回離保

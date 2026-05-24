@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷145 卷一百四十五 列傳第七十 元王黎楊嚴竇"
+title: "新唐书 卷145"
 date: 2026-05-24
 weight: 145
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷145。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 元王黎楊嚴竇

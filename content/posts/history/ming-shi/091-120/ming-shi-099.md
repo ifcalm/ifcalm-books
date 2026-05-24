@@ -1,5 +1,5 @@
 ---
-title: "明史 卷99 卷九十九 志第七十五 藝文四"
+title: "明史 卷99"
 date: 2026-05-24
 weight: 99
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷99。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 集類三：一曰別集類，二曰總集類，三曰文史類。

@@ -1,5 +1,5 @@
 ---
-title: "晋书 卷24 卷二十四 志第十四 職官"
+title: "晋书 卷24"
 date: 2026-05-24
 weight: 24
 tags: ["晋书", "唐", "房玄龄等"]
@@ -9,9 +9,6 @@ summary: "晋书卷24。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 職官

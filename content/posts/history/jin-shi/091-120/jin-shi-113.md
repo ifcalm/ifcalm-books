@@ -1,5 +1,5 @@
 ---
-title: "金史 卷113 卷一百十三 列傳第五十一: 完顏賽不 內族:完顏白撒一名承裔 赤盞合喜"
+title: "金史 卷113"
 date: 2026-05-24
 weight: 113
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷113。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 完顏賽不

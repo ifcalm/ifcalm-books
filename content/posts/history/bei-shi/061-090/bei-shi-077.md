@@ -1,5 +1,5 @@
 ---
-title: "北史 卷77 卷七十七 列傳第六十五: 裴政 李諤 鮑宏 高構 榮毗 陸知命 梁毗 柳彧 趙綽 杜整"
+title: "北史 卷77"
 date: 2026-05-24
 weight: 77
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷77。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 裴政 李諤 鮑宏 高構 榮毗 陸知命 梁毗 柳彧 趙綽 杜整

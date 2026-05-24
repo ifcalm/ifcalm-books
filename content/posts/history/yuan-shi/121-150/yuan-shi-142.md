@@ -1,5 +1,5 @@
 ---
-title: "元史 卷142 卷一百四十二 列傳第二十九: 答失八都魯 慶童 也速 徹里帖木兒 納麟"
+title: "元史 卷142"
 date: 2026-05-24
 weight: 142
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷142。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 答失八都鲁

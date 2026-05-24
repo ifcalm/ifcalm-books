@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷119 卷一百一十九 列傳第四十四 武平一 李乂 賈曾子:至 白居易弟:敏中"
+title: "新唐书 卷119"
 date: 2026-05-24
 weight: 119
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷119。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 武平一 李乂 賈曾子:至 白居易弟:行簡 敏中

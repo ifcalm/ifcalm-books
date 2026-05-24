@@ -1,5 +1,5 @@
 ---
-title: "明史 卷313 卷三百十三 列傳第二百〇一 雲南土司一"
+title: "明史 卷313"
 date: 2026-05-24
 weight: 313
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷313。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 明洪武十四年，大軍至滇，梁王走死，遂置雲南府。自是，諸郡以次來歸，垂及累世，規制鹹定。統而稽之，大理、臨安以下，元江、永昌以上，皆府治也。孟艮、孟定等處則為司，新化、北勝等處則為州，或設流官，或仍土職。今以諸府州概列之土司者，從其始也。蓋滇省所屬，多蠻夷雜處，即正印為流官，亦必以土司佐之。而土司名目淆雜，難以縷析，故系之府州，以括其所轄。而於土司事跡，止摭其大綱有關乎治亂興亡者載之，俾控馭者識所鑒焉。

@@ -1,5 +1,5 @@
 ---
-title: "金史 卷29 卷二十九 志第十: 禮二 方丘儀 朝日夕月儀 高禖"
+title: "金史 卷29"
 date: 2026-05-24
 weight: 29
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷29。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 方丘儀

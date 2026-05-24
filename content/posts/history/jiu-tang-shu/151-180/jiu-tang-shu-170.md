@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷170 卷一百七十 列傳第一百二十: 裴度"
+title: "旧唐书 卷170"
 date: 2026-05-24
 weight: 170
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷170。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 裴度，字中立，河東聞喜人。祖有鄰，濮州濮陽令。父漵，河南府澠池丞。度，貞元五年進士擢第，登宏辭科。應制舉賢良方正、能直言極諫科，對策高等，授河陰縣尉。遷監察御史，密疏論權幸，語切忤旨，出為河南府功曹。遷起居舍人。元和六年，以司封員外郎知制誥，尋轉本司郎中。

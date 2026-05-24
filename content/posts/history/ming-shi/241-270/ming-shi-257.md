@@ -1,5 +1,5 @@
 ---
-title: "明史 卷257 卷二百五十七 列傳第一百四十五 張鶴鳴 董漢儒 趙彥 王洽 梁廷棟 熊明遇 張鳳翼 陳新甲 馮元飇"
+title: "明史 卷257"
 date: 2026-05-24
 weight: 257
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷257。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 張鶴鳴〈（弟鶴騰）〉董漢儒〈（汪泗論）〉趙彥王洽〈（王在晉高第）〉梁廷棟熊明遇張鳳翼陳新甲馮元飆〈（兄元飏）〉

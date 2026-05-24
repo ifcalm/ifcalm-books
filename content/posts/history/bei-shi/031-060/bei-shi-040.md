@@ -1,5 +1,5 @@
 ---
-title: "北史 卷40 卷四十 列傳第二十八: 韓麒麟 程駿 李彪 高道悅 甄琛 張纂 高聰"
+title: "北史 卷40"
 date: 2026-05-24
 weight: 40
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷40。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 韓麒麟 程駿 李彪 高道悅 甄琛 張纂 高聰

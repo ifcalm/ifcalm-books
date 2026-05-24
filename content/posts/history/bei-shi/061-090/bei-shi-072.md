@@ -1,5 +1,5 @@
 ---
-title: "北史 卷72 卷七十二 列傳第六十: 高熲 牛弘 李德林"
+title: "北史 卷72"
 date: 2026-05-24
 weight: 72
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷72。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 高熲 牛弘 李德林

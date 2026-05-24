@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷407 卷四百〇七 列傳第一百六十六 杜範 楊簡 錢時 張虙 呂午"
+title: "宋史 卷407"
 date: 2026-05-24
 weight: 407
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷407。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 杜範楊簡〈（錢時附）〉張虙呂午〈（子沆）〉

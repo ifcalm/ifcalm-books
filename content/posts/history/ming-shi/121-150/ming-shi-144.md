@@ -1,5 +1,5 @@
 ---
-title: "明史 卷144 卷一百四十四 列傳第三十二 盛庸 平安 何福 顧成"
+title: "明史 卷144"
 date: 2026-05-24
 weight: 144
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷144。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 盛庸平安何福顧成

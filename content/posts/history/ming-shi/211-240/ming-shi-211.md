@@ -1,5 +1,5 @@
 ---
-title: "明史 卷211 卷二百十一 列傳第九十九 馬永 梁震 王效 周尚文 馬芳 何卿 沈希儀 石邦憲"
+title: "明史 卷211"
 date: 2026-05-24
 weight: 211
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷211。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 馬永梁震〈（祝雄）〉王效〈（劉文）〉周尚文〈（趙國忠）〉馬芳〈（子林孫炯爌飈）〉何卿沈希儀石邦憲

@@ -1,5 +1,5 @@
 ---
-title: "金史 卷83 卷八十三 列傳第二十一: 張通古 張浩子:汝霖 張玄素 張汝弼 耶律安禮 納合椿年 祁宰"
+title: "金史 卷83"
 date: 2026-05-24
 weight: 83
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷83。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第二十一 ○張通古 張浩子:汝霖 張玄素 張汝弼 耶律安禮 納合椿年 祁宰

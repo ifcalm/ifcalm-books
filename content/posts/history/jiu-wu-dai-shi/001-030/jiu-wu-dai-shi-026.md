@@ -1,5 +1,5 @@
 ---
-title: "旧五代史 卷26 卷二十六 唐書2: 武皇本紀下"
+title: "旧五代史 卷26"
 date: 2026-05-24
 weight: 26
 tags: ["旧五代史", "北宋", "薛居正等"]
@@ -9,9 +9,6 @@ summary: "旧五代史卷26。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 景福元年正月，鎮州王鎔恃燕人之援，率兵十餘萬攻邢州之堯山。武皇遣李存信將兵應援，李存孝素與存信不協，遞相猜貳，留兵不進。武皇又遣李嗣勳、李存審將兵援之，大破燕、趙之眾，斬首三萬，收其軍實。三月，武皇進軍渡滹沱，攻欒城，下鼓城、槁城。四月，燕軍寇雲、代，武皇班師。

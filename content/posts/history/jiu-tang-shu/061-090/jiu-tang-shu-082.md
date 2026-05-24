@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷82 卷八十二 列傳第三十二: 許敬宗 李義府"
+title: "旧唐书 卷82"
 date: 2026-05-24
 weight: 82
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷82。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 許敬宗

@@ -1,5 +1,5 @@
 ---
-title: "明史 卷281 卷二百八十一 列傳第一百六十九 循吏"
+title: "明史 卷281"
 date: 2026-05-24
 weight: 281
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷281。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 【列傳第一百六十九循吏】

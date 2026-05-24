@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷163 卷一百六十三 志第一百十六 職官三"
+title: "宋史 卷163"
 date: 2026-05-24
 weight: 163
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷163。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 吏部　戶部　禮部　兵部　刑部　工部六部監門　六部架閤。

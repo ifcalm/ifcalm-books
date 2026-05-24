@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷209 卷二百零九 列傳第一百三十四 酷吏"
+title: "新唐书 卷209"
 date: 2026-05-24
 weight: 209
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷209。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 酷吏

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷32 卷三十二 志第十二: 曆一"
+title: "旧唐书 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷32。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第十二曆一

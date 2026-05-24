@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷202 卷二百零二 列傳第一百二十七 文藝中 李適子:季卿 劉允濟 宋之問 劉憲 李邕 呂向 孫逖曾孫:簡 李白附:張旭 裴旻 王維 鄭虔 蕭穎士 蘇源明"
+title: "新唐书 卷202"
 date: 2026-05-24
 weight: 202
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷202。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 李適子:季卿 韋元旦 劉允濟 沈佺期 宋之問 閻朝隱 尹元凱附:富嘉謨 吳少微 劉憲 李邕 呂向 王翰 孫逖子:成 曾孫:簡 李白附:張旭 裴旻 王維 鄭虔 蕭穎士子:存 附:陸據 柳並 皇甫冉 蘇源明附:梁肅

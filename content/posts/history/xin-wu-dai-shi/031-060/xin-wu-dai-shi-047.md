@@ -1,5 +1,5 @@
 ---
-title: "新五代史 卷47 卷四十七 雜傳第三十五: 華溫琪 萇從簡 張筠 楊彥詢 李周 劉處讓 李承約 張希崇 相里金 張廷蘊 馬全節 皇甫遇 安彥威 李瓊 劉景巖"
+title: "新五代史 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["新五代史", "北宋", "欧阳修"]
@@ -9,9 +9,6 @@ summary: "新五代史卷47。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 華溫琪

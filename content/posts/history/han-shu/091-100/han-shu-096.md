@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷96 卷九十六"
+title: "汉书 卷96"
 date: 2026-05-24
 weight: 96
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷96。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 ## 卷九十六上 西域傳

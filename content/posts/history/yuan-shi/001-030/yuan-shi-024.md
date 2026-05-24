@@ -1,5 +1,5 @@
 ---
-title: "元史 卷24 卷二十四 本紀第二十四: 仁宗一"
+title: "元史 卷24"
 date: 2026-05-24
 weight: 24
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷24。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 仁宗聖文欽孝皇帝，諱愛育黎拔力八達，順宗次子，武宗之弟也。母曰興聖太后，弘吉剌氏。至元二十二年三月丙子生。

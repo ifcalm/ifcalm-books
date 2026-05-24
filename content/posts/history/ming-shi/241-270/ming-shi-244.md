@@ -1,5 +1,5 @@
 ---
-title: "明史 卷244 卷二百四十四 列傳第一百三十二 楊漣 左光斗 魏大中 周朝瑞 袁化中 顧大章 王之寀"
+title: "明史 卷244"
 date: 2026-05-24
 weight: 244
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷244。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 杨涟，字文孺，应山人。为人磊落负奇节。万历三十五年成进士，除常熟知县。举廉吏第一，擢户科给事中，转兵科右给事中。

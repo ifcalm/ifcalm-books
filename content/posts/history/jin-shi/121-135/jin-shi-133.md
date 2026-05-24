@@ -1,5 +1,5 @@
 ---
-title: "金史 卷133 卷一百三十三 列傳第七十一: 叛臣 張覺子:僅言 耶律餘睹 窩斡"
+title: "金史 卷133"
 date: 2026-05-24
 weight: 133
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷133。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 古書「畔」與「叛」通，畔之為言界也。《左氏》曰，政猶「農之有畔」，是也。君臣上下之定分，猶此疆彼界之截然，違此向彼，即為叛矣。善惡判于跬步，禍患極於懷襄，吁，可畏哉！作《叛臣傳》。

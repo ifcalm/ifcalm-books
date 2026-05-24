@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷76 卷七十六 列傳第一 后妃上"
+title: "新唐书 卷76"
 date: 2026-05-24
 weight: 76
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷76。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 唐制：皇后而下，有貴妃、淑妃、德妃、賢妃，是為夫人。昭儀、昭容、昭媛、修儀、修容、修媛、充儀、充容、充媛，是為九嬪。婕妤、美人、才人各九，合二十七，是代世婦。寶林、御女、采女各二十七，合八十一，是代御妻。自餘六尚，分典乘輿服御，皆有員次。後世改復不常。開元時，以後下復有四妃非是，乃置惠、麗、華三妃，六儀，四美人，七才人，而尚宮、尚儀、尚服各二，參合前號，大抵踵《周官》相損益云，然則尚矣。

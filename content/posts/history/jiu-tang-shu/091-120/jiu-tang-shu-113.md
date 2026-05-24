@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷113 卷一百十三 列傳第六十三: 苗晉卿 裴冕 裴遵慶"
+title: "旧唐书 卷113"
 date: 2026-05-24
 weight: 113
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷113。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 苗晉卿裴冕裴遵慶子向向子寅寅子樞

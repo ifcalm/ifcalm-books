@@ -1,5 +1,5 @@
 ---
-title: "明史 卷92 卷九十二 志第六十八 兵四"
+title: "明史 卷92"
 date: 2026-05-24
 weight: 92
 tags: ["明史", "清", "张廷玉等"]
@@ -9,9 +9,6 @@ summary: "明史卷92。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 清理軍伍訓練賞功火器車船馬政

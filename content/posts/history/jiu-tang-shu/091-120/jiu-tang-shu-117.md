@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷117 卷一百十七 列傳第六十七: 嚴武 郭英乂 崔寧 嚴震 嚴礪"
+title: "旧唐书 卷117"
 date: 2026-05-24
 weight: 117
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷117。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 嚴武

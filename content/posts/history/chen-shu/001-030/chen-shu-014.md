@@ -1,5 +1,5 @@
 ---
-title: "陈书 卷14 卷十四 列傳第八: 衡陽獻王昌 南康愍王曇朗"
+title: "陈书 卷14"
 date: 2026-05-24
 weight: 14
 tags: ["陈书", "唐", "姚思廉"]
@@ -9,9 +9,6 @@ summary: "陈书卷14。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 陳書卷十四

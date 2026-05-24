@@ -1,5 +1,5 @@
 ---
-title: "汉书 卷58 卷五十八 公孫弘卜式兒寬傳"
+title: "汉书 卷58"
 date: 2026-05-24
 weight: 58
 tags: ["汉书", "东汉", "班固"]
@@ -9,9 +9,6 @@ summary: "汉书卷58。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 公孫弘

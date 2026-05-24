@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷36 卷三十六 列傳第十七 謝超宗 劉祥"
+title: "南齐书 卷36"
 date: 2026-05-24
 weight: 36
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷36。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 南齊書卷三十六‧列傳第十七

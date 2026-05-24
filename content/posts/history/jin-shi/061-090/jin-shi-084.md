@@ -1,5 +1,5 @@
 ---
-title: "金史 卷84 卷八十四 列傳第二十二: 杲本名撒離喝 耨碗溫敦思忠子:謙，侄:兀帶 昂 高楨 白彥敬 張景仁"
+title: "金史 卷84"
 date: 2026-05-24
 weight: 84
 tags: ["金史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "金史卷84。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 列傳第二十二 ○杲本名撒離喝 耨碗溫敦思忠子:謙，侄:兀帶 昂 高楨 白彥敬 張景仁

@@ -1,5 +1,5 @@
 ---
-title: "魏书 卷87 卷87 節義:于什門 段進 石文德 汲固 王玄威 婁提 劉渴侯"
+title: "魏书 卷87"
 date: 2026-05-24
 weight: 87
 tags: ["魏书", "北齐", "魏收"]
@@ -9,9 +9,6 @@ summary: "魏书卷87。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 于什門　段進　石文德　汲固　王玄威　婁提　劉渴侯　朱長生　于提　馬八龍　門文愛　晁清　劉侯仁　石祖興　邵洪哲　王榮世　胡小虎　孫道登　李几　張安祖　王閭

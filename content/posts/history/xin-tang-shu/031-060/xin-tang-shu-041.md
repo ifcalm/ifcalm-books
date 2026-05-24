@@ -1,5 +1,5 @@
 ---
-title: "新唐书 卷41 卷四十一 志第三十一 地理五"
+title: "新唐书 卷41"
 date: 2026-05-24
 weight: 41
 tags: ["新唐书", "北宋", "欧阳修、宋祁"]
@@ -9,9 +9,6 @@ summary: "新唐书卷41。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 淮南道 江南道東道採訪使 西道採訪使 黔中採訪使

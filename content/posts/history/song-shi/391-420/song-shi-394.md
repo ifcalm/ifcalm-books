@@ -1,5 +1,5 @@
 ---
-title: "宋史 卷394 卷三百九十四 列傳第一百五十三 胡紘 何澹 林栗 高文虎 陳自強 鄭丙 京鏜 謝深甫 許及之 梁汝嘉"
+title: "宋史 卷394"
 date: 2026-05-24
 weight: 394
 tags: ["宋史", "元", "脱脱等"]
@@ -9,9 +9,6 @@ summary: "宋史卷394。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 胡紘

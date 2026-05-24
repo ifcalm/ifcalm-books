@@ -1,5 +1,5 @@
 ---
-title: "北史 卷55 卷五十五 列傳第四十三: 孫搴 陳元康 杜弼 子臺卿 房謨 子恭懿 張纂 張亮 趙起 徐遠 張曜 王峻 王紘 敬顯雋 平鑒 唐邕 白建 元文遙 趙彥深 赫連 子悅 馮子琮 子慈明 郎基 子茂"
+title: "北史 卷55"
 date: 2026-05-24
 weight: 55
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷55。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 孫搴 陳元康 杜弼 子臺卿 房謨 子恭懿 張纂 張亮 趙起 徐遠 張曜 王峻 王紘 敬顯雋 平鑒 唐邕 白建 元文遙 趙彥深 赫連 子悅 馮子琮 子慈明 郎基 子茂

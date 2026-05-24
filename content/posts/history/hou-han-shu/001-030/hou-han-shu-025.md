@@ -1,5 +1,5 @@
 ---
-title: "后汉书 卷25 卷二十五 卓魯魏劉列傳"
+title: "后汉书 卷25"
 date: 2026-05-24
 weight: 25
 tags: ["后汉书", "南朝宋", "范晔"]
@@ -9,9 +9,6 @@ summary: "后汉书卷25。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 卓茂字子康，南陽宛人也。父祖皆至郡守。茂，元帝時學於長安，事博士江生，習《詩》、《禮》及歷算。究極師法，稱為通儒。性寬仁恭愛。鄉黨故舊，雖行能與茂不同，而皆愛慕欣欣焉。

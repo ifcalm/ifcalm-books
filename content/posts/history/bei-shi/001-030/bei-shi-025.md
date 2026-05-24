@@ -1,5 +1,5 @@
 ---
-title: "北史 卷25 卷二十五 列傳第十三: 古弼 張黎 劉潔 丘堆 娥清 伊珝 乙瑰 周幾 豆代田 車伊洛 王洛兒 車路頭 盧魯元 陳建 來大干 宿石 萬安國 周觀 尉撥 陸真 呂洛拔 薛彪子 尉元 慕容白曜 和其奴 苟頹 宇文福"
+title: "北史 卷25"
 date: 2026-05-24
 weight: 25
 tags: ["北史", "唐", "李延寿"]
@@ -9,9 +9,6 @@ summary: "北史卷25。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 古弼 張黎 劉潔 丘堆 娥清 伊珝 乙瑰 周幾 豆代田 車伊洛 王洛兒 車路頭 盧魯元 陳建 來大干 宿石 萬安國 周觀 尉撥 陸真 呂洛拔 薛彪子 尉元 慕容白曜 和其奴 苟頹 宇文福

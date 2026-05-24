@@ -1,5 +1,5 @@
 ---
-title: "南齐书 卷15 卷十五 志第七 州郡下"
+title: "南齐书 卷15"
 date: 2026-05-24
 weight: 15
 tags: ["南齐书", "南朝梁", "萧子显"]
@@ -9,9 +9,6 @@ summary: "南齐书卷15。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 州郡下

@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷23 卷二十三 志第三: 禮儀三"
+title: "旧唐书 卷23"
 date: 2026-05-24
 weight: 23
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷23。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 封禪之禮，自漢光武之後，曠世不修。隋開皇十四年，晉王廣率百官抗表，固請封禪。文帝令牛弘、辛彥之、許善心等創定儀注。至十五年，行幸兗州，遂於太山之下，為壇設祭，如南郊之禮，竟不升山而還。

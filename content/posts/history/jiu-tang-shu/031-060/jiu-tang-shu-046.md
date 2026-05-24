@@ -1,5 +1,5 @@
 ---
-title: "旧唐书 卷46 卷四十六 志第二十六: 經籍上"
+title: "旧唐书 卷46"
 date: 2026-05-24
 weight: 46
 tags: ["旧唐书", "后晋", "刘昫等"]
@@ -9,9 +9,6 @@ summary: "旧唐书卷46。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 志第二十六經籍上

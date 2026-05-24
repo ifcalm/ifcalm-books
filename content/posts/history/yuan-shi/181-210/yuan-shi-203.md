@@ -1,5 +1,5 @@
 ---
-title: "元史 卷203 卷二百〇三 列傳第九十: 方技 工藝"
+title: "元史 卷203"
 date: 2026-05-24
 weight: 203
 tags: ["元史", "明", "宋濂等"]
@@ -9,9 +9,6 @@ summary: "元史卷203。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-source: "Chinese Notes corpus"
-source_url: "https://chinesenotes.com/corpus.html"
-source_license: "CC BY 4.0"
 ---
 
 自昔帝王勃興，雖星曆醫卜方術異能之士，莫不過絕於人，類非後來所及，蓋天運也。元有中土，巨公異人，身兼數器者，皆應期而出，相與立法創制，開物成務，以輔成大業，亦云盛哉。若道流釋子，所挾多方，事適逢時，既皆別為之傳。其他以術數言事輒驗，及以醫著效，被光寵者甚眾。舊史多闕弗錄，今取其事蹟可見者，為《方技篇》。而以工藝貴顯，亦附見焉。
