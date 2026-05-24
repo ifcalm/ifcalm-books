@@ -1,17 +1,20 @@
 ---
-title: "辽史 卷33"
-date: 2026-05-19
+title: "辽史 卷33 卷三十三 志第三: 營衞志下"
+date: 2026-05-24
 weight: 33
-tags: ["辽史", "元", "脱脱"]
+tags: ["辽史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "辽史卷33。辽史一百一十六卷，元脱脱等撰。..."
+summary: "辽史卷33。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-◎營衛誌下部族下
+營衛誌下部族下
 
 遼起松漠，經營撫納，竟有唐、晉帝王之器，典章文物，施及潢海之區，作史者尚可以故俗語耶？舊史有《部族志》，歷代之所無也。古者，巡守於方嶽，五服之君各述其職，遼之部族實似之。故以部族置宮衛、行營之後雲。
 

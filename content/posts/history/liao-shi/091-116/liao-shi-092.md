@@ -1,17 +1,20 @@
 ---
-title: "辽史 卷92"
-date: 2026-05-19
+title: "辽史 卷92 卷九十二 列傳第二十二: 蕭奪剌 蕭普達 耶律侯哂 耶律古昱 耶律獨挴 蕭韓家 蕭烏野"
+date: 2026-05-24
 weight: 92
-tags: ["辽史", "元", "脱脱"]
+tags: ["辽史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "辽史卷92。辽史一百一十六卷，元脱脱等撰。..."
+summary: "辽史卷92。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-○蕭奪剌 蕭普達 耶律侯哂 耶律古昱 耶律獨攧 蕭韓家 蕭烏野
+蕭奪剌 蕭普達 耶律侯哂 耶律古昱 耶律獨攧 蕭韓家 蕭烏野
 
 蕭奪剌，字挼懶，遙輦窪可汗宮人。祖涅魯古，北院樞密副使。父撒抹，字胡獨堇，重熙初補祗候郎君，累遷北面林牙。十九年，從耶律宜新、蕭蒲奴伐夏，至蕭惠敗績之地，獲偵候者，知人煙聚落，多國人陷沒而不能還者，盡俘以歸。拜大父敞穩，知山北道邊境事。清寧初，歷西南面、西北路招討使，加同中書門下平章事，卒。
 

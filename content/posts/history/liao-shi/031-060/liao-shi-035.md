@@ -1,18 +1,20 @@
 ---
-title: "辽史 卷35"
-date: 2026-05-19
+title: "辽史 卷35 卷三十五 志第五: 兵衞志中"
+date: 2026-05-24
 weight: 35
-tags: ["辽史", "元", "脱脱"]
+tags: ["辽史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "辽史卷35。辽史一百一十六卷，元脱脱等撰。..."
+summary: "辽史卷35。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-◎兵衛誌中
-○禦帳親軍
+兵衛誌中 ○禦帳親軍
 
 漢武帝多行幸之事，置期門、佽飛、羽林之目，天子始有親軍。唐太宗加親、勛、翊、千牛之衛，布腹心之地，防衛密矣。遼太祖宗室盛強，分叠剌部為二，宮衛內虛，經營四方，未遑鳩集。皇后述律氏居守之際，摘蕃漢精銳為屬珊軍。太宗益選天下精甲，置諸爪牙為皮室軍。合騎五十萬，國威壯矣。
 

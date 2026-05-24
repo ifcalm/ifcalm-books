@@ -1,17 +1,20 @@
 ---
-title: "辽史 卷21"
-date: 2026-05-19
+title: "辽史 卷21 卷二十一 本紀第二十一: 道宗一"
+date: 2026-05-24
 weight: 21
-tags: ["辽史", "元", "脱脱"]
+tags: ["辽史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "辽史卷21。辽史一百一十六卷，元脱脱等撰。..."
+summary: "辽史卷21。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-### 道宗 一
+道宗一
 
 道宗孝文皇帝，諱洪基，字涅鄰，小字查剌。興宗皇帝長子，母曰仁懿皇后蕭氏。六歲封梁王。重熙十一年，進封燕國，總領中丞司事。明年，總北南院樞密使事，加尚書令，進封燕趙國王。二十一年，為天下兵馬大元帥，知惕隱事，預朝政。帝性沈靜、嚴毅，每朝，興宗為之斂容。
 

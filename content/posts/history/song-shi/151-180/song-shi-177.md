@@ -1,18 +1,20 @@
 ---
-title: "宋史 卷177"
-date: 2026-05-19
+title: "宋史 卷177 卷一百七十七 志第一百三十 食貨上五"
+date: 2026-05-24
 weight: 177
-tags: ["宋史", "元", "脱脱"]
+tags: ["宋史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "宋史卷177。宋史四百九十六卷，元脱脱等撰。..."
+summary: "宋史卷177。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-}}
-◎食貨上五（役法上）
+食貨上五〈（役法上）〉
 
 役法役出於民，州縣皆有常數。宋因前代之制，以衙前主官物，以里正、戶長、鄉書手課督賦稅，以耆長、弓手、壯丁逐捕盜賊，以承符、人力、手力、散從官給使令；縣曹司至押、錄，州曹司至孔目官，下至雜職、虞候、揀、掏等人，各以鄉戶等第定差。京百司補吏，須不礙役乃聽。
 

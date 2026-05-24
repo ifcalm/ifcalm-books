@@ -1,14 +1,17 @@
 ---
-title: "旧五代史 卷4"
-date: 2026-05-19
+title: "旧五代史 卷4 卷四 梁書4: 太祖本紀四"
+date: 2026-05-24
 weight: 4
-tags: ["旧五代史", "北宋", "薛居正"]
+tags: ["旧五代史", "北宋", "薛居正等"]
 categories: ["史部"]
 draft: false
-summary: "旧五代史卷4。旧五代史一百五十卷，宋薛居正等撰。..."
+summary: "旧五代史卷4。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
 開平二年正月癸酉，帝御金祥殿，受宰臣文武百官及諸籓屏陪臣稱賀，諸道貢舉一百五十七人，見於崇元門。封從子友甯為安王，友倫為密王。幽州劉守文進海東鷹鶻、蕃馬、氈罽、方物。

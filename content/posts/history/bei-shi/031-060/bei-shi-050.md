@@ -1,16 +1,20 @@
 ---
-title: "北史 卷50"
-date: 2026-05-19
+title: "北史 卷50 卷五十 列傳第三十八: 辛雄 楊機 高道穆 綦雋 山偉 宇文忠之 費穆 孟威"
+date: 2026-05-24
 weight: 50
 tags: ["北史", "唐", "李延寿"]
 categories: ["史部"]
 draft: false
-summary: "北史卷50。北史一百卷，唐李延寿撰。..."
+summary: "北史卷50。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
+辛雄 楊機 高道穆 綦雋 山偉 宇文忠之 費穆 孟威
 列傳第三十八
 
 辛雄族祖琛琛子術術族子德源楊機高道穆兄謙之綦俊山偉宇文忠之費穆孟威

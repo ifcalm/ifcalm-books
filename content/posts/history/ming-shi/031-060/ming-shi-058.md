@@ -1,17 +1,20 @@
 ---
-title: "明史 卷58"
-date: 2026-05-19
+title: "明史 卷58 卷五十八 志第三十四 禮十二"
+date: 2026-05-24
 weight: 58
-tags: ["明史", "清", "张廷玉"]
+tags: ["明史", "清", "张廷玉等"]
 categories: ["史部"]
 draft: false
-summary: "明史卷58。明史三百三十二卷，清张廷玉等撰。..."
+summary: "明史卷58。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-志第三十四 禮十二（凶禮一）
+志第三十四 禮十二〈（凶禮一）〉
 
 ○山陵
 

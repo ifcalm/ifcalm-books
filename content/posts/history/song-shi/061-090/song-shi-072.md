@@ -1,16 +1,20 @@
 ---
-title: "宋史 卷72"
-date: 2026-05-19
+title: "宋史 卷72 卷七十二 志第二十五 律曆五"
+date: 2026-05-24
 weight: 72
-tags: ["宋史", "元", "脱脱"]
+tags: ["宋史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "宋史卷72。宋史四百九十六卷，元脱脱等撰。..."
+summary: "宋史卷72。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
+步日躔
 周天分：三百八十六萬八千六十五、秒二。
 
 周天度：三百六十五度。虛分二千七百一十五、秒二，約分二十五、秒六十四。

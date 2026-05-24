@@ -1,17 +1,20 @@
 ---
-title: "宋史 卷62"
-date: 2026-05-19
+title: "宋史 卷62 卷六十二 志第十五 五行一下"
+date: 2026-05-24
 weight: 62
-tags: ["宋史", "元", "脱脱"]
+tags: ["宋史", "元", "脱脱等"]
 categories: ["史部"]
 draft: false
-summary: "宋史卷62。宋史四百九十六卷，元脱脱等撰。..."
+summary: "宋史卷62。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-### 霜雪
+水下
 建隆三年春，延、寧二州雪盈尺，溝洫復冰，草木不華。丹州雪二尺。
 
 太平興國七年三月，宣州霜雪害桑稼。
@@ -92,7 +95,6 @@ ShowShareButtons: false
 
 嘉熙元年三月，霜。
 
-### 雨雹
 建隆元年十月，臨清縣雨雹傷稼。二年七月，義川、雲岩二縣大雨雹。四年七月，海州風雹。
 
 乾德二年四月，陽武縣雨雹。宋州寧陵縣風雨雹傷民田。六月，潞州風雹。七月，同州郃陽縣雨雹害稼。八月，膚施縣風雹霜害民田。三年四月，尉氏、扶溝二縣風雹，害民田，桑棗十損七八。

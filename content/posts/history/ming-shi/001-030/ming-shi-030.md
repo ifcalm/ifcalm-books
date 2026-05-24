@@ -1,18 +1,20 @@
 ---
-title: "明史 卷30"
-date: 2026-05-19
+title: "明史 卷30 卷三十 志第六 五行三"
+date: 2026-05-24
 weight: 30
-tags: ["明史", "清", "张廷玉"]
+tags: ["明史", "清", "张廷玉等"]
 categories: ["史部"]
 draft: false
-summary: "明史卷30。明史三百三十二卷，清张廷玉等撰。..."
+summary: "明史卷30。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-}}
-志第六 五行三（金 土）
+志第六 五行三〈（金 土）〉
 
 《洪範》曰：「金曰從革。」金不從革，則失其性矣。前史多以恆暘、詩妖、毛蟲之孽、犬禍、金石之妖、白眚白祥皆屬之金，今從之。
 

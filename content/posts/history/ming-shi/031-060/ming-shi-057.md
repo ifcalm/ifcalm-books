@@ -1,17 +1,20 @@
 ---
-title: "明史 卷57"
-date: 2026-05-19
+title: "明史 卷57 卷五十七 志第三十三 禮十一"
+date: 2026-05-24
 weight: 57
-tags: ["明史", "清", "张廷玉"]
+tags: ["明史", "清", "张廷玉等"]
 categories: ["史部"]
 draft: false
-summary: "明史卷57。明史三百三十二卷，清张廷玉等撰。..."
+summary: "明史卷57。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-志第三十三 禮十一（軍禮）
+志第三十三 禮十一〈（軍禮）〉
 
 親征 遣將 禡祭 受降 奏凱獻俘 論功行賞 大閱 大射 救日伐鼓
 

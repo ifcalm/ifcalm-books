@@ -1,17 +1,20 @@
 ---
-title: "史记 卷72"
-date: 2026-05-19
+title: "史记 卷72 《穰侯列傳》 Biography of the Marquis of Rang"
+date: 2026-05-24
 weight: 72
 tags: ["史记", "西汉", "司马迁"]
 categories: ["史部"]
 draft: false
-summary: "史记卷72：穰侯列傳第十二。"
+summary: "史记卷72。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
-### 穰侯
+《穰侯列傳》 Biography of the Marquis of Rang
 
 穰侯魏冉者，秦昭王母宣太后弟也。其先楚人，姓羋氏。
 
@@ -31,7 +34,4 @@ ShowShareButtons: false
 
 昭王三十六年，相國穰侯言客卿灶，欲伐齊取剛、壽，以廣其陶邑。於是魏人范睢自謂張祿先生，譏穰侯之伐齊，乃越三晉以攻齊也，以此時奸說秦昭王。昭王於是用范睢。范睢言宣太后專制，穰侯擅權於諸侯，涇陽君、高陵君之屬太侈，富於王室。於是秦昭王悟，乃免相國，令涇陽之屬皆出關，就封邑。穰侯出關，輜車千乘有餘。穰侯卒於陶，而因葬焉。秦復收陶為郡。
 
-### 評論
 太史公曰：穰侯，昭王親舅也。而秦所以東益地，弱諸侯，嘗稱帝於天下，天下皆西鄉稽首者，穰侯之功也。及其貴極富溢，一夫開說，身折勢奪而以憂死，況於羈旅之臣乎！
-
-【索隱述贊】穰侯智識，應變無方。內倚太后，外輔昭王。四登相位，再列封疆。摧齊撓楚，破魏圍梁。一夫開說，憂憤而亡。

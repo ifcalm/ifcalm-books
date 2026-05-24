@@ -1,14 +1,17 @@
 ---
-title: "南史 卷29"
-date: 2026-05-19
+title: "南史 卷29 卷二十九 列傳第十九 蔡廓"
+date: 2026-05-24
 weight: 29
 tags: ["南史", "唐", "李延寿"]
 categories: ["史部"]
 draft: false
-summary: "南史卷29。南史八十卷，唐李延寿撰。..."
+summary: "南史卷29。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
 
 列傳第十九

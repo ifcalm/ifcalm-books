@@ -1,15 +1,20 @@
 ---
-title: "史记 卷114"
-date: 2026-05-19
+title: "史记 卷114 《東越列傳》 Treatise on the Eastern Yue"
+date: 2026-05-24
 weight: 114
 tags: ["史记", "西汉", "司马迁"]
 categories: ["史部"]
 draft: false
-summary: "史记卷114：東越列傳第五十四。"
+summary: "史记卷114。"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+source: "Chinese Notes corpus"
+source_url: "https://chinesenotes.com/corpus.html"
+source_license: "CC BY 4.0"
 ---
+
+《東越列傳》 Treatise on the Eastern Yue
 
 閩越王無諸及越東海王搖者，其先皆越王句踐之後也，姓騶氏。秦已并天下，皆廢為君長，以其地為閩中郡。及諸侯畔秦，無諸、搖率越歸鄱陽令吳芮，所謂鄱君者也，從諸侯滅秦。當是之時，項籍主命，弗王，以故不附楚。漢擊項籍，無諸、搖率越人佐漢。漢五年，復立無諸為閩越王，王閩中故地，都東冶。孝惠三年，舉高帝時越功，曰閩君搖功多，其民便附，乃立搖為東海王，都東甌，世俗號為東甌王。
 

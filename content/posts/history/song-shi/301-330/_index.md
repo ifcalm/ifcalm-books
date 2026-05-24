@@ -1,9 +1,9 @@
 ---
-title: "宋史 卷301–330"
-date: 2026-05-19
+title: "宋史 卷301-330"
+date: 2026-05-24
 weight: 11
-tags: ['宋史']
-categories: ['史部']
+tags: ["宋史"]
+categories: ["史部"]
 draft: false
 summary: "宋史卷301至卷330。"
 showToc: false
