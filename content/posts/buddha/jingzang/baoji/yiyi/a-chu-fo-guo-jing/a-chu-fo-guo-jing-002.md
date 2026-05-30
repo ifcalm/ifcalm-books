@@ -3,7 +3,7 @@ title: "阿閦佛国经 卷第二"
 date: 2026-05-17
 tags: ["阿閦佛国经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "阿閦佛国经卷第二"
 showToc: false
 tocOpen: false

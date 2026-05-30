@@ -3,7 +3,7 @@ title: "佛说无量清净平等觉经 卷第一"
 date: 2026-05-17
 tags: ["佛说无量清净平等觉经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "佛说无量清净平等觉经卷第一"
 showToc: false
 tocOpen: false

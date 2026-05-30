@@ -3,7 +3,7 @@ title: "佛说大阿弥陀经 卷第二"
 date: 2026-05-17
 tags: ["佛说大阿弥陀经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "佛说大阿弥陀经卷第二"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "胜鬘师子吼一乘大方便方广经 卷第一"
 date: 2026-05-17
 tags: ["胜鬘师子吼一乘大方便方广经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "胜鬘师子吼一乘大方便方广经卷第一"
 showToc: false
 tocOpen: false

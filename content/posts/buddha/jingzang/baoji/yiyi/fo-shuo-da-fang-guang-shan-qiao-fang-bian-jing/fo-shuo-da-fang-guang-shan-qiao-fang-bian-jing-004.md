@@ -3,7 +3,7 @@ title: "佛说大方广善巧方便经 卷第四"
 date: 2026-05-17
 tags: ["佛说大方广善巧方便经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "佛说大方广善巧方便经卷第四"
 showToc: false
 tocOpen: false

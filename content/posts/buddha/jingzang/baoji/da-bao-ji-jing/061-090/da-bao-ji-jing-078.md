@@ -3,7 +3,7 @@ title: "大宝积经 卷第七十八"
 date: 2026-05-17
 tags: ["大宝积经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "大宝积经卷第七十八"
 showToc: false
 tocOpen: false
