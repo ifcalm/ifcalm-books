@@ -1,7 +1,7 @@
 ---
 title: "大学"
 date: 2025-08-08
-tags: ["儒家"]
+tags: ["儒家","大学"]
 draft: false
 summary: "生财有大道：生之者众，食之者寡；为之者疾，用之者舒；则财恒足矣。"
 showToc: false

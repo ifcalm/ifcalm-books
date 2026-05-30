@@ -2,7 +2,7 @@
 title: "孟子-尽心篇"
 date: 2025-08-13
 weight: 7
-tags: ["孟子"]
+tags: ["儒家","孟子"]
 draft: false
 summary: "民为贵，社稷次之，君为轻。"
 showToc: false

@@ -2,7 +2,7 @@
 title: "孟子-公孙丑篇"
 date: 2025-08-13
 weight: 2
-tags: ["孟子"]
+tags: ["儒家","孟子"]
 draft: false
 summary: "天时不如地利，地利不如人和。"
 showToc: false

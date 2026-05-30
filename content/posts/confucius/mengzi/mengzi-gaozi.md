@@ -2,7 +2,7 @@
 title: "孟子-告子篇"
 date: 2025-08-13
 weight: 6
-tags: ["孟子"]
+tags: ["儒家","孟子"]
 draft: false
 summary: "生亦我所欲也，义亦我所欲也；二者不可得兼，舍生而取义者也。"
 showToc: false

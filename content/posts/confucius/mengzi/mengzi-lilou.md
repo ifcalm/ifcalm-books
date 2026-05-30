@@ -2,7 +2,7 @@
 title: "孟子-离娄篇"
 date: 2025-08-13
 weight: 4
-tags: ["孟子"]
+tags: ["儒家","孟子"]
 draft: false
 summary: "爱人者，人恒爱之；敬人者，人恒敬之。"
 showToc: false

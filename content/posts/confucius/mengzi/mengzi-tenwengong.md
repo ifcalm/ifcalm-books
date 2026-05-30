@@ -2,7 +2,7 @@
 title: "孟子-滕文公篇"
 date: 2025-08-13
 weight: 3
-tags: ["孟子"]
+tags: ["儒家","孟子"]
 draft: false
 summary: "富贵不能淫，贫贱不能移，威武不能屈，此之谓大丈夫。"
 showToc: false

@@ -2,7 +2,7 @@
 title: "孟子-万章篇"
 date: 2025-08-13
 weight: 5
-tags: ["孟子"]
+tags: ["儒家","孟子"]
 draft: false
 summary: "颂其诗，读其书，不知其人，可乎？是以论其世也。"
 showToc: false

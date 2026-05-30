@@ -2,7 +2,7 @@
 title: "孟子-梁惠王篇"
 date: 2025-08-13
 weight: 1
-tags: ["孟子"]
+tags: ["儒家","孟子"]
 draft: false
 summary: "老吾老，以及人之老；幼吾幼，以及人之幼。"
 showToc: false
