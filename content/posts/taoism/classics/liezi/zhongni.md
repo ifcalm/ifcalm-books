@@ -2,8 +2,8 @@
 title: "列子-仲尼篇"
 date: 2025-09-13
 weight: 4
-tags: ["道家", "列子"]
-draft: true
+tags: ["列子"]
+draft: false
 summary: "外游者，求备于物；内观者，取足于身。"
 showToc: false
 tocOpen: false

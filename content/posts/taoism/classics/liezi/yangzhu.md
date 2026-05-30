@@ -2,8 +2,8 @@
 title: "列子-杨朱篇"
 date: 2025-09-13
 weight: 7
-tags: ["道家", "列子"]
-draft: true
+tags: ["列子"]
+draft: false
 summary: "古之人损一毫利天下不与也，悉天下奉一身不取也。"
 showToc: false
 tocOpen: false

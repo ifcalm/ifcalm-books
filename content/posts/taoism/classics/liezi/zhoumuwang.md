@@ -2,8 +2,8 @@
 title: "列子-周穆王篇"
 date: 2025-09-13
 weight: 3
-tags: ["道家", "列子"]
-draft: true
+tags: ["列子"]
+draft: false
 summary: "神遇为梦，形接为事。故昼想夜梦，神形所遇。"
 showToc: false
 tocOpen: false
