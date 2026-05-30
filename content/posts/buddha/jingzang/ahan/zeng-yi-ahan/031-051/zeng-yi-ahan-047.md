@@ -3,7 +3,7 @@ title: "增壹阿含经 卷第四十七"
 date: 2026-05-15
 tags: ["增壹阿含经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "增壹阿含经卷第四十七"
 showToc: false
 tocOpen: false
