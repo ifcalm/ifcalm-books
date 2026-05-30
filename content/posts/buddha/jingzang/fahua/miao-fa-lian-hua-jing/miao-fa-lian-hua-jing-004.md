@@ -1,9 +1,8 @@
 ---
 title: "妙法莲华经 卷第四"
 date: 2026-05-15
-tags: ["妙法莲华经"]
-categories: ["佛学"]
-draft: true
+tags: ["法华经"]
+draft: false
 summary: "妙法莲华经卷第四"
 showToc: false
 tocOpen: false

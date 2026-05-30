@@ -2,8 +2,7 @@
 title: "佛说维摩诘经 卷第一"
 date: 2026-05-18
 tags: ["佛说维摩诘经"]
-categories: ["佛学"]
-draft: true
+draft: false
 summary: "佛说维摩诘经卷第一"
 showToc: false
 tocOpen: false

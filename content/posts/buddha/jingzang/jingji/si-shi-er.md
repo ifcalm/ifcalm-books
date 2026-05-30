@@ -3,7 +3,7 @@ title: "四十二章经"
 date: 2026-01-07
 tags: ["四十二章经"]
 categories: ["佛学"]
-draft: true
+draft: false
 summary: "睹人施道, 助之欢喜, 得福甚大"
 showToc: false
 tocOpen: false
