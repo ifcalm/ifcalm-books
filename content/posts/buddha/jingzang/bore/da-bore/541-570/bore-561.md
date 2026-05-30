@@ -3,7 +3,7 @@ title: "大般若波罗蜜多经 卷第五百六十一"
 date: 2026-05-02
 tags: ["大般若经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "大般若波罗蜜多经卷第五百六十一"
 showToc: false
 tocOpen: false

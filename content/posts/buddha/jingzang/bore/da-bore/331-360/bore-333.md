@@ -3,7 +3,7 @@ title: "大般若波罗蜜多经 卷第三百三十三"
 date: 2026-05-02
 tags: ["大般若经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "大般若波罗蜜多经卷第三百三十三"
 showToc: false
 tocOpen: false
