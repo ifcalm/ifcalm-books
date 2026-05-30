@@ -3,7 +3,7 @@ title: "明史 卷330"
 date: 2026-05-24
 weight: 330
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷330。"
 showToc: false
 tocOpen: false

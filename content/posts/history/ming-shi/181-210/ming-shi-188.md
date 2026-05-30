@@ -3,7 +3,7 @@ title: "明史 卷188"
 date: 2026-05-24
 weight: 188
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷188。"
 showToc: false
 tocOpen: false

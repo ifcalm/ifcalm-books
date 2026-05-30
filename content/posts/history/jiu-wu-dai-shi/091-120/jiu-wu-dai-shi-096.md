@@ -3,7 +3,7 @@ title: "旧五代史 卷96"
 date: 2026-05-24
 weight: 96
 tags: ["旧五代史"]
-draft: false
+draft: true
 summary: "旧五代史卷96。"
 showToc: false
 tocOpen: false

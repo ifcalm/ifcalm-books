@@ -3,7 +3,7 @@ title: "明史 卷70"
 date: 2026-05-24
 weight: 70
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷70。"
 showToc: false
 tocOpen: false

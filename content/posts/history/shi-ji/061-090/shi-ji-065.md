@@ -3,7 +3,7 @@ title: "史记 卷65"
 date: 2026-05-24
 weight: 65
 tags: ["史记"]
-draft: false
+draft: true
 summary: "史记卷65。"
 showToc: false
 tocOpen: false

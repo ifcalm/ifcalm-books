@@ -3,7 +3,7 @@ title: "旧五代史 卷83"
 date: 2026-05-24
 weight: 83
 tags: ["旧五代史"]
-draft: false
+draft: true
 summary: "旧五代史卷83。"
 showToc: false
 tocOpen: false

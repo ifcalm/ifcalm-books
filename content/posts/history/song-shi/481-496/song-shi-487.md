@@ -3,7 +3,7 @@ title: "宋史 卷487"
 date: 2026-05-24
 weight: 487
 tags: ["宋史"]
-draft: false
+draft: true
 summary: "宋史卷487。"
 showToc: false
 tocOpen: false

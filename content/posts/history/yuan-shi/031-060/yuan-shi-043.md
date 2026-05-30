@@ -3,7 +3,7 @@ title: "元史 卷43"
 date: 2026-05-24
 weight: 43
 tags: ["元史"]
-draft: false
+draft: true
 summary: "元史卷43。"
 showToc: false
 tocOpen: false

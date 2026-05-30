@@ -3,7 +3,7 @@ title: "辽史 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["辽史"]
-draft: false
+draft: true
 summary: "辽史卷47。"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "旧五代史 卷9"
 date: 2026-05-24
 weight: 9
 tags: ["旧五代史"]
-draft: false
+draft: true
 summary: "旧五代史卷9。"
 showToc: false
 tocOpen: false

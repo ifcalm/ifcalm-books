@@ -3,7 +3,7 @@ title: "旧五代史 卷128"
 date: 2026-05-24
 weight: 128
 tags: ["旧五代史"]
-draft: false
+draft: true
 summary: "旧五代史卷128。"
 showToc: false
 tocOpen: false

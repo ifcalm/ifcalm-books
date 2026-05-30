@@ -3,7 +3,7 @@ title: "金史 卷65"
 date: 2026-05-24
 weight: 65
 tags: ["金史"]
-draft: false
+draft: true
 summary: "金史卷65。"
 showToc: false
 tocOpen: false

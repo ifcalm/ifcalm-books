@@ -3,7 +3,7 @@ title: "北齐书 卷43"
 date: 2026-05-24
 weight: 43
 tags: ["北齐书"]
-draft: false
+draft: true
 summary: "北齐书卷43。"
 showToc: false
 tocOpen: false

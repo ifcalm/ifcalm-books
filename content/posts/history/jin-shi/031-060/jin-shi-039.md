@@ -3,7 +3,7 @@ title: "金史 卷39"
 date: 2026-05-24
 weight: 39
 tags: ["金史"]
-draft: false
+draft: true
 summary: "金史卷39。"
 showToc: false
 tocOpen: false

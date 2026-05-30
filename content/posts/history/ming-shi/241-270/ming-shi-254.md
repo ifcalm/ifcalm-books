@@ -3,7 +3,7 @@ title: "明史 卷254"
 date: 2026-05-24
 weight: 254
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷254。"
 showToc: false
 tocOpen: false

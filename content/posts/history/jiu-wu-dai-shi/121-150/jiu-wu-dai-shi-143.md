@@ -3,7 +3,7 @@ title: "旧五代史 卷143"
 date: 2026-05-24
 weight: 143
 tags: ["旧五代史"]
-draft: false
+draft: true
 summary: "旧五代史卷143。"
 showToc: false
 tocOpen: false

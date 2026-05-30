@@ -3,7 +3,7 @@ title: "明史 卷23"
 date: 2026-05-24
 weight: 23
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷23。"
 showToc: false
 tocOpen: false

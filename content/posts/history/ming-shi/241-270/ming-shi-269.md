@@ -3,7 +3,7 @@ title: "明史 卷269"
 date: 2026-05-24
 weight: 269
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷269。"
 showToc: false
 tocOpen: false

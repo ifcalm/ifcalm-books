@@ -3,7 +3,7 @@ title: "金史 卷6"
 date: 2026-05-24
 weight: 6
 tags: ["金史"]
-draft: false
+draft: true
 summary: "金史卷6。"
 showToc: false
 tocOpen: false

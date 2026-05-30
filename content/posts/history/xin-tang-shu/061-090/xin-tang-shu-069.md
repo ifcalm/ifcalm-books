@@ -3,7 +3,7 @@ title: "新唐书 卷69"
 date: 2026-05-24
 weight: 69
 tags: ["新唐书"]
-draft: false
+draft: true
 summary: "新唐书卷69。"
 showToc: false
 tocOpen: false

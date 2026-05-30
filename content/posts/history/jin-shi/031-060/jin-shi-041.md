@@ -3,7 +3,7 @@ title: "金史 卷41"
 date: 2026-05-24
 weight: 41
 tags: ["金史"]
-draft: false
+draft: true
 summary: "金史卷41。"
 showToc: false
 tocOpen: false

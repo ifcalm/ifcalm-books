@@ -3,7 +3,7 @@ title: "元史 卷173"
 date: 2026-05-24
 weight: 173
 tags: ["元史"]
-draft: false
+draft: true
 summary: "元史卷173。"
 showToc: false
 tocOpen: false

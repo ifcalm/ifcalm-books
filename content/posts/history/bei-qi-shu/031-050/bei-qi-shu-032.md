@@ -3,7 +3,7 @@ title: "北齐书 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["北齐书"]
-draft: false
+draft: true
 summary: "北齐书卷32。"
 showToc: false
 tocOpen: false

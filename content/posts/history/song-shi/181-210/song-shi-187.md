@@ -3,7 +3,7 @@ title: "宋史 卷187"
 date: 2026-05-24
 weight: 187
 tags: ["宋史"]
-draft: false
+draft: true
 summary: "宋史卷187。"
 showToc: false
 tocOpen: false

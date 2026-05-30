@@ -3,7 +3,7 @@ title: "三国志 卷32"
 date: 2026-05-24
 weight: 32
 tags: ["三国志"]
-draft: false
+draft: true
 summary: "三国志卷32。"
 showToc: false
 tocOpen: false

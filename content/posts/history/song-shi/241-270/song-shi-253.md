@@ -3,7 +3,7 @@ title: "宋史 卷253"
 date: 2026-05-24
 weight: 253
 tags: ["宋史"]
-draft: false
+draft: true
 summary: "宋史卷253。"
 showToc: false
 tocOpen: false

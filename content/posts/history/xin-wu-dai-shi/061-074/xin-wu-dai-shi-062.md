@@ -3,7 +3,7 @@ title: "新五代史 卷62"
 date: 2026-05-24
 weight: 62
 tags: ["新五代史"]
-draft: false
+draft: true
 summary: "新五代史卷62。"
 showToc: false
 tocOpen: false

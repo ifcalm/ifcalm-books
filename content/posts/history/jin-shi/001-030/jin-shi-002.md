@@ -3,7 +3,7 @@ title: "金史 卷2"
 date: 2026-05-24
 weight: 2
 tags: ["金史"]
-draft: false
+draft: true
 summary: "金史卷2。"
 showToc: false
 tocOpen: false

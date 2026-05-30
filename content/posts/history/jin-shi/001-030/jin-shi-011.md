@@ -3,7 +3,7 @@ title: "金史 卷11"
 date: 2026-05-24
 weight: 11
 tags: ["金史"]
-draft: false
+draft: true
 summary: "金史卷11。"
 showToc: false
 tocOpen: false

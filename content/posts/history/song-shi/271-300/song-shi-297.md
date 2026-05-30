@@ -3,7 +3,7 @@ title: "宋史 卷297"
 date: 2026-05-24
 weight: 297
 tags: ["宋史"]
-draft: false
+draft: true
 summary: "宋史卷297。"
 showToc: false
 tocOpen: false

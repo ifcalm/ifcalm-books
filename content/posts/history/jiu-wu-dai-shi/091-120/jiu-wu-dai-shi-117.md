@@ -3,7 +3,7 @@ title: "旧五代史 卷117"
 date: 2026-05-24
 weight: 117
 tags: ["旧五代史"]
-draft: false
+draft: true
 summary: "旧五代史卷117。"
 showToc: false
 tocOpen: false

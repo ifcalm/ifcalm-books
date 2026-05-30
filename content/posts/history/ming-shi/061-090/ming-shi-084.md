@@ -3,7 +3,7 @@ title: "明史 卷84"
 date: 2026-05-24
 weight: 84
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷84。"
 showToc: false
 tocOpen: false

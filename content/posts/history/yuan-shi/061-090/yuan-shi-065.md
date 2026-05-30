@@ -3,7 +3,7 @@ title: "元史 卷65"
 date: 2026-05-24
 weight: 65
 tags: ["元史"]
-draft: false
+draft: true
 summary: "元史卷65。"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "元史 卷204"
 date: 2026-05-24
 weight: 204
 tags: ["元史"]
-draft: false
+draft: true
 summary: "元史卷204。"
 showToc: false
 tocOpen: false

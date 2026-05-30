@@ -3,7 +3,7 @@ title: "新五代史 卷74"
 date: 2026-05-24
 weight: 74
 tags: ["新五代史"]
-draft: false
+draft: true
 summary: "新五代史卷74。"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "明史 卷131"
 date: 2026-05-24
 weight: 131
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷131。"
 showToc: false
 tocOpen: false

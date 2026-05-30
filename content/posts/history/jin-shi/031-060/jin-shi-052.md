@@ -3,7 +3,7 @@ title: "金史 卷52"
 date: 2026-05-24
 weight: 52
 tags: ["金史"]
-draft: false
+draft: true
 summary: "金史卷52。"
 showToc: false
 tocOpen: false

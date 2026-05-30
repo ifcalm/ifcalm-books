@@ -3,7 +3,7 @@ title: "明史 卷268"
 date: 2026-05-24
 weight: 268
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷268。"
 showToc: false
 tocOpen: false

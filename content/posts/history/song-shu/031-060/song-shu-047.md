@@ -3,7 +3,7 @@ title: "宋书 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["宋书"]
-draft: false
+draft: true
 summary: "宋书卷47。"
 showToc: false
 tocOpen: false

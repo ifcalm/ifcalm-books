@@ -3,7 +3,7 @@ title: "三国志 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["三国志"]
-draft: false
+draft: true
 summary: "三国志卷47。"
 showToc: false
 tocOpen: false
