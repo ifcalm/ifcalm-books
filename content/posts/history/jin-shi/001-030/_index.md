@@ -3,7 +3,7 @@ title: "金史 卷1-30"
 date: 2026-05-24
 weight: 1
 tags: ["金史"]
-draft: false
+draft: true
 summary: "金史卷1至卷30。"
 showToc: false
 tocOpen: false

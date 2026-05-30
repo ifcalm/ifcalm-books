@@ -3,7 +3,7 @@ title: "新唐书 卷72"
 date: 2026-05-24
 weight: 72
 tags: ["新唐书"]
-draft: false
+draft: true
 summary: "新唐书卷72。"
 showToc: false
 tocOpen: false

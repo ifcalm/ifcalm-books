@@ -3,7 +3,7 @@ title: "金史 卷132"
 date: 2026-05-24
 weight: 132
 tags: ["金史"]
-draft: false
+draft: true
 summary: "金史卷132。"
 showToc: false
 tocOpen: false

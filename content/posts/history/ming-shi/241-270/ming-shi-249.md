@@ -3,7 +3,7 @@ title: "明史 卷249"
 date: 2026-05-24
 weight: 249
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷249。"
 showToc: false
 tocOpen: false

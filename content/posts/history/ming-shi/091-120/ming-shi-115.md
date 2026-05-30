@@ -3,7 +3,7 @@ title: "明史 卷115"
 date: 2026-05-24
 weight: 115
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷115。"
 showToc: false
 tocOpen: false

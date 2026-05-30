@@ -3,7 +3,7 @@ title: "明史 卷142"
 date: 2026-05-24
 weight: 142
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷142。"
 showToc: false
 tocOpen: false

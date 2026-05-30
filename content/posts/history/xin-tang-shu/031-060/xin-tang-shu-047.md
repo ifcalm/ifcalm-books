@@ -3,7 +3,7 @@ title: "新唐书 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["新唐书"]
-draft: false
+draft: true
 summary: "新唐书卷47。"
 showToc: false
 tocOpen: false

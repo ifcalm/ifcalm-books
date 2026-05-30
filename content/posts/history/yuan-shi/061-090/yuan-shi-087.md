@@ -3,7 +3,7 @@ title: "元史 卷87"
 date: 2026-05-24
 weight: 87
 tags: ["元史"]
-draft: false
+draft: true
 summary: "元史卷87。"
 showToc: false
 tocOpen: false

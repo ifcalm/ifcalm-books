@@ -3,7 +3,7 @@ title: "明史 卷255"
 date: 2026-05-24
 weight: 255
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷255。"
 showToc: false
 tocOpen: false

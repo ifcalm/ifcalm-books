@@ -3,7 +3,7 @@ title: "新五代史 卷11"
 date: 2026-05-24
 weight: 11
 tags: ["新五代史"]
-draft: false
+draft: true
 summary: "新五代史卷11。"
 showToc: false
 tocOpen: false

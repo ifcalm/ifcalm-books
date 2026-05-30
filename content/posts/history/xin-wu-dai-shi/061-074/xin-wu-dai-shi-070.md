@@ -3,7 +3,7 @@ title: "新五代史 卷70"
 date: 2026-05-24
 weight: 70
 tags: ["新五代史"]
-draft: false
+draft: true
 summary: "新五代史卷70。"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "明史 卷163"
 date: 2026-05-24
 weight: 163
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷163。"
 showToc: false
 tocOpen: false

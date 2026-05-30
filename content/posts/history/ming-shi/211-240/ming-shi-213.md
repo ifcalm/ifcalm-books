@@ -3,7 +3,7 @@ title: "明史 卷213"
 date: 2026-05-24
 weight: 213
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷213。"
 showToc: false
 tocOpen: false

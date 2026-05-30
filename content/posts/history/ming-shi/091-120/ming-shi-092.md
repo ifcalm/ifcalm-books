@@ -3,7 +3,7 @@ title: "明史 卷92"
 date: 2026-05-24
 weight: 92
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷92。"
 showToc: false
 tocOpen: false

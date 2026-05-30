@@ -3,7 +3,7 @@ title: "金史 卷73"
 date: 2026-05-24
 weight: 73
 tags: ["金史"]
-draft: false
+draft: true
 summary: "金史卷73。"
 showToc: false
 tocOpen: false

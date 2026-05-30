@@ -3,7 +3,7 @@ title: "明史 卷153"
 date: 2026-05-24
 weight: 153
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷153。"
 showToc: false
 tocOpen: false

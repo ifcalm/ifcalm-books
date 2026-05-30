@@ -3,7 +3,7 @@ title: "旧唐书 卷23"
 date: 2026-05-24
 weight: 23
 tags: ["旧唐书"]
-draft: false
+draft: true
 summary: "旧唐书卷23。"
 showToc: false
 tocOpen: false

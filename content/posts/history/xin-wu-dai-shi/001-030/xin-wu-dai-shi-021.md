@@ -3,7 +3,7 @@ title: "新五代史 卷21"
 date: 2026-05-24
 weight: 21
 tags: ["新五代史"]
-draft: false
+draft: true
 summary: "新五代史卷21。"
 showToc: false
 tocOpen: false

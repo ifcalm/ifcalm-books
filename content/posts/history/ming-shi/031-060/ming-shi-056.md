@@ -3,7 +3,7 @@ title: "明史 卷56"
 date: 2026-05-24
 weight: 56
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷56。"
 showToc: false
 tocOpen: false

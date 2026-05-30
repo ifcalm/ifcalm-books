@@ -3,7 +3,7 @@ title: "明史 卷171"
 date: 2026-05-24
 weight: 171
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷171。"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "元史 卷189"
 date: 2026-05-24
 weight: 189
 tags: ["元史"]
-draft: false
+draft: true
 summary: "元史卷189。"
 showToc: false
 tocOpen: false

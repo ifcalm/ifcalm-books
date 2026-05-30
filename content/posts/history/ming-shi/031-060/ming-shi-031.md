@@ -3,7 +3,7 @@ title: "明史 卷31"
 date: 2026-05-24
 weight: 31
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷31。"
 showToc: false
 tocOpen: false

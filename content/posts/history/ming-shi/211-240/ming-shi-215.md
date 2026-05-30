@@ -3,7 +3,7 @@ title: "明史 卷215"
 date: 2026-05-24
 weight: 215
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷215。"
 showToc: false
 tocOpen: false

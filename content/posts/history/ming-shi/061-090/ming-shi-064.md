@@ -3,7 +3,7 @@ title: "明史 卷64"
 date: 2026-05-24
 weight: 64
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷64。"
 showToc: false
 tocOpen: false

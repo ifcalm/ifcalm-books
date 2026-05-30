@@ -3,7 +3,7 @@ title: "陈书 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["陈书"]
-draft: false
+draft: true
 summary: "陈书卷27。"
 showToc: false
 tocOpen: false

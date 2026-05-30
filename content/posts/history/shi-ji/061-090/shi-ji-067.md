@@ -3,7 +3,7 @@ title: "史记 卷67"
 date: 2026-05-24
 weight: 67
 tags: ["史记"]
-draft: false
+draft: true
 summary: "史记卷67。"
 showToc: false
 tocOpen: false

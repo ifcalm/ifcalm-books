@@ -3,7 +3,7 @@ title: "明史 卷195"
 date: 2026-05-24
 weight: 195
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷195。"
 showToc: false
 tocOpen: false

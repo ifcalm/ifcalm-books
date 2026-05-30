@@ -3,7 +3,7 @@ title: "三国志 卷23"
 date: 2026-05-24
 weight: 23
 tags: ["三国志"]
-draft: false
+draft: true
 summary: "三国志卷23。"
 showToc: false
 tocOpen: false

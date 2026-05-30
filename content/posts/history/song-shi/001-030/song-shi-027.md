@@ -3,7 +3,7 @@ title: "宋史 卷27"
 date: 2026-05-24
 weight: 27
 tags: ["宋史"]
-draft: false
+draft: true
 summary: "宋史卷27。"
 showToc: false
 tocOpen: false

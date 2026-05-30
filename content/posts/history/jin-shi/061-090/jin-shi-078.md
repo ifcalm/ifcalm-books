@@ -3,7 +3,7 @@ title: "金史 卷78"
 date: 2026-05-24
 weight: 78
 tags: ["金史"]
-draft: false
+draft: true
 summary: "金史卷78。"
 showToc: false
 tocOpen: false

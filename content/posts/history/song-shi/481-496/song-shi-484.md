@@ -3,7 +3,7 @@ title: "宋史 卷484"
 date: 2026-05-24
 weight: 484
 tags: ["宋史"]
-draft: false
+draft: true
 summary: "宋史卷484。"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "周书 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["周书"]
-draft: false
+draft: true
 summary: "周书卷47。"
 showToc: false
 tocOpen: false

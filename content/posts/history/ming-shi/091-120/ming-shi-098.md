@@ -3,7 +3,7 @@ title: "明史 卷98"
 date: 2026-05-24
 weight: 98
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷98。"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "辽史 卷69"
 date: 2026-05-24
 weight: 69
 tags: ["辽史"]
-draft: false
+draft: true
 summary: "辽史卷69。"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "新五代史 卷19"
 date: 2026-05-24
 weight: 19
 tags: ["新五代史"]
-draft: false
+draft: true
 summary: "新五代史卷19。"
 showToc: false
 tocOpen: false

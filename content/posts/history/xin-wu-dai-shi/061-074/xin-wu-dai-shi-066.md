@@ -3,7 +3,7 @@ title: "新五代史 卷66"
 date: 2026-05-24
 weight: 66
 tags: ["新五代史"]
-draft: false
+draft: true
 summary: "新五代史卷66。"
 showToc: false
 tocOpen: false

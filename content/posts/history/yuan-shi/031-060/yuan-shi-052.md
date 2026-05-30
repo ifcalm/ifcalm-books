@@ -3,7 +3,7 @@ title: "元史 卷52"
 date: 2026-05-24
 weight: 52
 tags: ["元史"]
-draft: false
+draft: true
 summary: "元史卷52。"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "魏书 卷47"
 date: 2026-05-24
 weight: 47
 tags: ["魏书"]
-draft: false
+draft: true
 summary: "魏书卷47。"
 showToc: false
 tocOpen: false

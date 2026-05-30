@@ -3,7 +3,7 @@ title: "明史 卷128"
 date: 2026-05-24
 weight: 128
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷128。"
 showToc: false
 tocOpen: false

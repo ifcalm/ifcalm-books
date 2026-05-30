@@ -3,7 +3,7 @@ title: "明史 卷272"
 date: 2026-05-24
 weight: 272
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷272。"
 showToc: false
 tocOpen: false

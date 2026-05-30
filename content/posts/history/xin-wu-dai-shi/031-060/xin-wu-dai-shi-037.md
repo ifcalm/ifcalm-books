@@ -3,7 +3,7 @@ title: "新五代史 卷37"
 date: 2026-05-24
 weight: 37
 tags: ["新五代史"]
-draft: false
+draft: true
 summary: "新五代史卷37。"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "明史 卷212"
 date: 2026-05-24
 weight: 212
 tags: ["明史"]
-draft: false
+draft: true
 summary: "明史卷212。"
 showToc: false
 tocOpen: false
