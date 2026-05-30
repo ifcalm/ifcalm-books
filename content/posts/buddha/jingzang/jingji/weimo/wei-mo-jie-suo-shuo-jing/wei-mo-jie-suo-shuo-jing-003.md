@@ -3,7 +3,7 @@ title: "维摩诘所说经 卷第三"
 date: 2026-05-18
 tags: ["维摩诘所说经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "维摩诘所说经卷第三"
 showToc: false
 tocOpen: false

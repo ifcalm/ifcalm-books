@@ -3,7 +3,7 @@ title: "大般涅槃经（北本四十卷） 卷第六"
 date: 2026-05-16
 tags: ["北本涅槃经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "大般涅槃经（北本四十卷）卷第六"
 showToc: false
 tocOpen: false

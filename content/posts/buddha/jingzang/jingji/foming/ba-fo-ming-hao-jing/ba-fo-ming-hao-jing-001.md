@@ -3,7 +3,7 @@ title: "八佛名号经 卷第一"
 date: 2026-05-18
 tags: ["八佛名号经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "八佛名号经卷第一"
 showToc: false
 tocOpen: false

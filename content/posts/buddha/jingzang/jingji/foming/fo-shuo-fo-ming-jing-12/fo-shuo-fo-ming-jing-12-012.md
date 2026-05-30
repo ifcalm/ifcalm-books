@@ -3,7 +3,7 @@ title: "佛说佛名经（十二卷本） 卷第十二"
 date: 2026-05-18
 tags: ["佛说佛名经（十二卷本）"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "佛说佛名经（十二卷本）卷第十二"
 showToc: false
 tocOpen: false

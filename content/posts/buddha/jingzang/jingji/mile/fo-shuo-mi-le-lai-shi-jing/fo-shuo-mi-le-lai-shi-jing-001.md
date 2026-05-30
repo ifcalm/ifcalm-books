@@ -3,7 +3,7 @@ title: "佛说弥勒来时经 卷第一"
 date: 2026-05-18
 tags: ["佛说弥勒来时经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "佛说弥勒来时经卷第一"
 showToc: false
 tocOpen: false

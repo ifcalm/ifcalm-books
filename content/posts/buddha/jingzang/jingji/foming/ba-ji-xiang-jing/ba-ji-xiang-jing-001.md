@@ -3,7 +3,7 @@ title: "八吉祥经 卷第一"
 date: 2026-05-18
 tags: ["八吉祥经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "八吉祥经卷第一"
 showToc: false
 tocOpen: false

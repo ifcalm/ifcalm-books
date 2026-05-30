@@ -3,7 +3,7 @@ title: "十善业道经"
 date: 2022-07-05
 tags: ["十善业道经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "一切众生, 心想异故, 造业亦异, 由是故有诸趣轮转"
 showToc: false
 tocOpen: false

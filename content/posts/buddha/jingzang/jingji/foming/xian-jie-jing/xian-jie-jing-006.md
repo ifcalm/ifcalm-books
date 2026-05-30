@@ -3,7 +3,7 @@ title: "贤劫经 卷第六"
 date: 2026-05-18
 tags: ["贤劫经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "贤劫经卷第六"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "大般涅槃经（南本三十六卷） 卷第二十五"
 date: 2026-05-16
 tags: ["南本涅槃经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "大般涅槃经（南本三十六卷）卷第二十五"
 showToc: false
 tocOpen: false

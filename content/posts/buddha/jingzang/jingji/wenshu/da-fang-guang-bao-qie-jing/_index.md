@@ -3,7 +3,7 @@ title: "大方广宝箧经"
 date: 2026-05-18
 tags: ["大方广宝箧经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "大方广宝箧经三卷。"
 showToc: false
 tocOpen: false

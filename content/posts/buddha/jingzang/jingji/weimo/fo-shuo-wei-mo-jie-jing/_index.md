@@ -3,7 +3,7 @@ title: "佛说维摩诘经"
 date: 2026-05-18
 tags: ["佛说维摩诘经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "佛说维摩诘经二卷。"
 showToc: false
 tocOpen: false

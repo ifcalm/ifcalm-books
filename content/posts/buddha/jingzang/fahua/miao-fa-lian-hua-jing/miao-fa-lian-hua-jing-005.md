@@ -3,7 +3,7 @@ title: "妙法莲华经 卷第五"
 date: 2026-05-15
 tags: ["妙法莲华经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "妙法莲华经卷第五"
 showToc: false
 tocOpen: false

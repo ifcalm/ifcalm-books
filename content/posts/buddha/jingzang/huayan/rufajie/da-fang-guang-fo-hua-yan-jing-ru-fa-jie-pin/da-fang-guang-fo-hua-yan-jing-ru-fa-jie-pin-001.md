@@ -3,7 +3,7 @@ title: "大方广佛华严经入法界品 卷第一"
 date: 2026-05-16
 tags: ["大方广佛华严经入法界品"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "大方广佛华严经入法界品卷第一"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "佛说佛名经（三十卷本） 卷第十"
 date: 2026-05-18
 tags: ["佛说佛名经（三十卷本）"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "佛说佛名经（三十卷本）卷第十"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "诸菩萨求佛本业经 卷第一"
 date: 2026-05-16
 tags: ["诸菩萨求佛本业经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "诸菩萨求佛本业经卷第一"
 showToc: false
 tocOpen: false

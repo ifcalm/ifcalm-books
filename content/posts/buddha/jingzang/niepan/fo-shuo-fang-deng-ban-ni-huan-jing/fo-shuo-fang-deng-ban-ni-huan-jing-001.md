@@ -3,7 +3,7 @@ title: "佛说方等般泥洹经 卷第一"
 date: 2026-05-16
 tags: ["佛说方等般泥洹经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "佛说方等般泥洹经卷第一"
 showToc: false
 tocOpen: false

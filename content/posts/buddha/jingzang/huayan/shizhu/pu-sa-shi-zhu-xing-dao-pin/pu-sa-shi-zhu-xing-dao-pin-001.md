@@ -3,7 +3,7 @@ title: "菩萨十住行道品 卷第一"
 date: 2026-05-16
 tags: ["菩萨十住行道品"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "菩萨十住行道品卷第一"
 showToc: false
 tocOpen: false

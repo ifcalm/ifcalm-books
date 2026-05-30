@@ -3,7 +3,7 @@ title: "受持七佛名号所生功德经 卷第一"
 date: 2026-05-18
 tags: ["受持七佛名号所生功德经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "受持七佛名号所生功德经卷第一"
 showToc: false
 tocOpen: false

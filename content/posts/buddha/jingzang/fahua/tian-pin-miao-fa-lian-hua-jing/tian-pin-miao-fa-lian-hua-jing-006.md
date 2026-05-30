@@ -3,7 +3,7 @@ title: "添品妙法莲华经 卷第六"
 date: 2026-05-15
 tags: ["添品妙法莲华经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "添品妙法莲华经卷第六"
 showToc: false
 tocOpen: false

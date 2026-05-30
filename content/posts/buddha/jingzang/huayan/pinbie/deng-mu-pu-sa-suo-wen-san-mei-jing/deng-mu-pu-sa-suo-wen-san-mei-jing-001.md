@@ -3,7 +3,7 @@ title: "等目菩萨所问三昧经 卷第一"
 date: 2026-05-16
 tags: ["等目菩萨所问三昧经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "等目菩萨所问三昧经卷第一"
 showToc: false
 tocOpen: false

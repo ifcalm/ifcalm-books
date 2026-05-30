@@ -3,7 +3,7 @@ title: "文殊师利问经 卷第二"
 date: 2026-05-18
 tags: ["文殊师利问经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "文殊师利问经卷第二"
 showToc: false
 tocOpen: false

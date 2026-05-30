@@ -3,7 +3,7 @@ title: "显无边佛土功德经 卷第一"
 date: 2026-05-16
 tags: ["显无边佛土功德经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "显无边佛土功德经卷第一"
 showToc: false
 tocOpen: false

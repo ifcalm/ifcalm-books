@@ -3,7 +3,7 @@ title: "佛说十地经 卷第八"
 date: 2026-05-16
 tags: ["佛说十地经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "佛说十地经卷第八"
 showToc: false
 tocOpen: false

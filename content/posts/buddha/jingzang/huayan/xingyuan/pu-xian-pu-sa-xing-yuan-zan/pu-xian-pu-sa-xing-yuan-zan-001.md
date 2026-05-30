@@ -3,7 +3,7 @@ title: "普贤菩萨行愿赞 卷第一"
 date: 2026-05-16
 tags: ["普贤菩萨行愿赞"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "普贤菩萨行愿赞卷第一"
 showToc: false
 tocOpen: false

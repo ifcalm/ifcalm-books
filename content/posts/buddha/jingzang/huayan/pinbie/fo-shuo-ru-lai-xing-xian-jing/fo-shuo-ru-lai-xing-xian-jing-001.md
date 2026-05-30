@@ -3,7 +3,7 @@ title: "佛说如来兴显经 卷第一"
 date: 2026-05-16
 tags: ["佛说如来兴显经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "佛说如来兴显经卷第一"
 showToc: false
 tocOpen: false
