@@ -3,7 +3,7 @@ title: "太上三官宝经"
 date: 2026-05-14
 weight: 45
 tags: ["道家"]
-draft: false
+draft: true
 summary: "太上三元赐福赦罪解厄消灾延生保命妙经。"
 showToc: true
 tocOpen: false

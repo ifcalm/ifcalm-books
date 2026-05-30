@@ -3,7 +3,7 @@ title: "太上老君内观经"
 date: 2026-05-12
 weight: 40
 tags: ["道家"]
-draft: false
+draft: true
 summary: "天地媾精，阴阳布化，万物以生。"
 showToc: true
 tocOpen: false

@@ -3,7 +3,7 @@ title: "真诰 叙"
 date: 2026-05-14
 weight: 0
 tags: ["道家"]
-draft: false
+draft: true
 summary: "嘉定十六年高似孙叙。"
 showToc: true
 tocOpen: false

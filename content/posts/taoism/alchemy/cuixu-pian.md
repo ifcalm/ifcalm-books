@@ -3,7 +3,7 @@ title: "翠虚篇"
 date: 2026-05-13
 weight: 42
 tags: ["道家", "丹道"]
-draft: false
+draft: true
 summary: "真息子王思诚谨焚香稽首再拜序。"
 showToc: true
 tocOpen: false

@@ -3,7 +3,7 @@ title: "太乙金华宗旨"
 date: 2026-05-10
 weight: 20
 tags: ["道家", "太乙金华宗旨"]
-draft: false
+draft: true
 summary: "道教内丹经典，以回光返照、凝神守中为宗旨。"
 showToc: true
 tocOpen: false

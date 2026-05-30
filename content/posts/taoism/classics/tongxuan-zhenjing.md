@@ -3,7 +3,7 @@ title: "通玄真经"
 date: 2026-05-12
 weight: 45
 tags: ["道家"]
-draft: false
+draft: true
 summary: "有物混成，先天地生。"
 showToc: true
 tocOpen: false

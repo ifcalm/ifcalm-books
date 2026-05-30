@@ -3,7 +3,7 @@ title: "神仙传 序"
 date: 2026-05-14
 weight: 1
 tags: ["道家", "仙传", "神仙传"]
-draft: false
+draft: true
 summary: "洪著内篇，论神仙之事，凡二十卷。"
 showToc: true
 tocOpen: false

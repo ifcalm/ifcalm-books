@@ -3,7 +3,7 @@ title: "西升经"
 date: 2026-05-12
 weight: 39
 tags: ["道家"]
-draft: false
+draft: true
 summary: "老君西升，开道竺乾。"
 showToc: true
 tocOpen: false

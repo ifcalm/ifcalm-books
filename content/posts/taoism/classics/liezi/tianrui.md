@@ -3,7 +3,7 @@ title: "列子-天瑞篇"
 date: 2025-09-13
 weight: 1
 tags: ["道家", "列子"]
-draft: false
+draft: true
 summary: "天地无全功，圣人无全能，万物无全用。"
 showToc: false
 tocOpen: false

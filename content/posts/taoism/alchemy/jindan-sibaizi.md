@@ -3,7 +3,7 @@ title: "金丹四百字"
 date: 2026-05-13
 weight: 41
 tags: ["道家", "丹道"]
-draft: false
+draft: true
 summary: "七返九还金液大丹者，七乃火数，九乃金数。"
 showToc: true
 tocOpen: false

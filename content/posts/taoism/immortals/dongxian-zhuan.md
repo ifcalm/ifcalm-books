@@ -3,7 +3,7 @@ title: "洞仙传"
 date: 2026-05-14
 weight: 40
 tags: ["道家", "仙传", "洞仙传"]
-draft: false
+draft: true
 summary: "《洞仙传》佚文，今据《云笈七签》卷一百一十所载收录。"
 showToc: true
 tocOpen: false

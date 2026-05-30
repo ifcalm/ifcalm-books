@@ -2,7 +2,7 @@
 title: "劝善"
 date: 2026-05-12
 tags: ["道家"]
-draft: false
+draft: true
 summary: "感应、戒劝与善书类文本。"
 showToc: false
 tocOpen: false

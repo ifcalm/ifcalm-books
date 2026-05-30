@@ -3,7 +3,7 @@ title: "度人经"
 date: 2026-05-11
 weight: 38
 tags: ["道家"]
-draft: false
+draft: true
 summary: "道言：昔於始青天中，碧落空歌，大浮黎土。"
 showToc: true
 tocOpen: false

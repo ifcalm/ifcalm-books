@@ -3,7 +3,7 @@ title: "坐忘论"
 date: 2026-05-11
 weight: 37
 tags: ["道家"]
-draft: false
+draft: true
 summary: "夫人之所贵者生也，生之所贵者道也。"
 showToc: true
 tocOpen: false

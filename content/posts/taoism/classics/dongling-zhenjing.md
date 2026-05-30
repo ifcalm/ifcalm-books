@@ -3,7 +3,7 @@ title: "洞灵真经"
 date: 2026-05-12
 weight: 46
 tags: ["道家"]
-draft: false
+draft: true
 summary: "亢仓子居羽山之颜三年。"
 showToc: true
 tocOpen: false

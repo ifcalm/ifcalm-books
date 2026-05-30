@@ -3,7 +3,7 @@ title: "悟真篇"
 date: 2026-05-11
 weight: 35
 tags: ["道家"]
-draft: false
+draft: true
 summary: "不求大道出迷途，纵负贤才岂丈夫。"
 showToc: true
 tocOpen: false

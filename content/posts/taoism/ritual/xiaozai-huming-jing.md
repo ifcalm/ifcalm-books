@@ -3,7 +3,7 @@ title: "太上升玄消灾护命妙经"
 date: 2026-05-12
 weight: 43
 tags: ["道家"]
-draft: false
+draft: true
 summary: "元始天尊在七宝林中，五明宫内。"
 showToc: true
 tocOpen: false

@@ -3,7 +3,7 @@ title: "玉枢宝经"
 date: 2026-05-14
 weight: 46
 tags: ["道家"]
-draft: false
+draft: true
 summary: "九天应元雷声普化天尊在玉清天中。"
 showToc: true
 tocOpen: false

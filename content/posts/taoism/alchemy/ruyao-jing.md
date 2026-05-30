@@ -3,7 +3,7 @@ title: "入药镜"
 date: 2026-05-13
 weight: 40
 tags: ["道家", "丹道"]
-draft: false
+draft: true
 summary: "先天炁，后天气，得之者，常似醉。"
 showToc: true
 tocOpen: false
