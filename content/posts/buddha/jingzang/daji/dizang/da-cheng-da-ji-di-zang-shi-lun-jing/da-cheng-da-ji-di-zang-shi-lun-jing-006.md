@@ -3,7 +3,7 @@ title: "大乘大集地藏十轮经 卷第六"
 date: 2026-05-18
 tags: ["大乘大集地藏十轮经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "大乘大集地藏十轮经卷第六"
 showToc: false
 tocOpen: false

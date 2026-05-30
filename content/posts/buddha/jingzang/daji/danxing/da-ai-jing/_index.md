@@ -3,7 +3,7 @@ title: "大哀经"
 date: 2026-05-18
 tags: ["大哀经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "大哀经八卷。"
 showToc: false
 tocOpen: false

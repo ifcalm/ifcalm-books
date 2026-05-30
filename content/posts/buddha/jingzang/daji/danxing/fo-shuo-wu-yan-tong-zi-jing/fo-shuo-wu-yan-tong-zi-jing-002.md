@@ -3,7 +3,7 @@ title: "佛说无言童子经 卷第二"
 date: 2026-05-18
 tags: ["佛说无言童子经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "佛说无言童子经卷第二"
 showToc: false
 tocOpen: false

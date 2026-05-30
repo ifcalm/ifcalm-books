@@ -3,7 +3,7 @@ title: "般舟三昧经 卷第三"
 date: 2026-05-18
 tags: ["般舟三昧经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "般舟三昧经卷第三"
 showToc: false
 tocOpen: false

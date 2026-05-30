@@ -3,7 +3,7 @@ title: "大方等大集经 卷第五"
 date: 2026-05-18
 tags: ["大方等大集经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "大方等大集经卷第五"
 showToc: false
 tocOpen: false

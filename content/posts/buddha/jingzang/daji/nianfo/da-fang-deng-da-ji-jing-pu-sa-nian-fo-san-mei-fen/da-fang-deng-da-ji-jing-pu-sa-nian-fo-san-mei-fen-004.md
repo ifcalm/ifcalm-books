@@ -3,7 +3,7 @@ title: "大方等大集经菩萨念佛三昧分 卷第四"
 date: 2026-05-18
 tags: ["大方等大集经菩萨念佛三昧分"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "大方等大集经菩萨念佛三昧分卷第四"
 showToc: false
 tocOpen: false

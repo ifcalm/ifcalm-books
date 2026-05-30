@@ -3,7 +3,7 @@ title: "地藏菩萨本愿经 卷第二"
 date: 2026-05-18
 tags: ["地藏菩萨本愿经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "地藏菩萨本愿经卷第二"
 showToc: false
 tocOpen: false

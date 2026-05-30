@@ -3,7 +3,7 @@ title: "大集大虚空藏菩萨所问经 卷第五"
 date: 2026-05-18
 tags: ["大集大虚空藏菩萨所问经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "大集大虚空藏菩萨所问经卷第五"
 showToc: false
 tocOpen: false

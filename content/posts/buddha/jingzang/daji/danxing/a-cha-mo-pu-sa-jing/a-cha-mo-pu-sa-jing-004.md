@@ -3,7 +3,7 @@ title: "阿差末菩萨经 卷第四"
 date: 2026-05-18
 tags: ["阿差末菩萨经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "阿差末菩萨经卷第四"
 showToc: false
 tocOpen: false
