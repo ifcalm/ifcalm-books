@@ -3,7 +3,7 @@ title: "长阿含经 卷第二十"
 date: 2026-05-15
 tags: ["长阿含经"]
 categories: ["佛学"]
-draft: false
+draft: true
 summary: "长阿含经卷第二十"
 showToc: false
 tocOpen: false

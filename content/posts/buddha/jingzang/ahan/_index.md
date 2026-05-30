@@ -2,7 +2,7 @@
 title: "阿含部"
 date: 2026-05-15
 tags: ["佛学"]
-draft: false
+draft: true
 summary: "四阿含及声闻乘根本经典。"
 showToc: false
 tocOpen: false
