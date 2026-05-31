@@ -1,9 +1,8 @@
 ---
 title: "佛说无量寿经 卷第二"
 date: 2026-05-17
-tags: ["佛说无量寿经"]
-categories: ["佛学"]
-draft: true
+tags: ["无量寿经"]
+draft: false
 summary: "佛说无量寿经卷第二"
 showToc: false
 tocOpen: false
