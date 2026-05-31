@@ -3,7 +3,7 @@ title: "黄帝阴符经"
 date: 2026-05-11
 weight: 31
 tags: ["道家"]
-draft: false
+draft: true
 summary: "觀天之道，執天之行，盡矣。"
 showToc: true
 tocOpen: false
