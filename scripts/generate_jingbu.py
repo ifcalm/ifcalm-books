@@ -19,6 +19,8 @@ from wikitext_cleaner import clean_wikitext
 ROOT = Path(__file__).resolve().parents[1]
 JING_DIR = ROOT / "content" / "posts" / "confucius"
 USER_AGENT = "ifcalm-books text collector; contact: https://books.ifcalm.org/"
+CONTENT_DATE = "2026-05-31"
+FETCH_DELAY = 0.1
 
 
 # ── Text metadata ───────────────────────────────────────────────────
@@ -28,67 +30,67 @@ TEXTS: dict[str, dict] = {
         "slug": "zhou-yi", "title": "周易", "wiki_title": "周易",
         "type": "subpages", "wiki_prefix": "周易/",
         "summary": "周易，又称易经，中国最古老的文献之一，儒家五经之首。",
-        "tags": ["周易", "易经", "经部"],
+        "tags": ["周易"],
     },
     "shang-shu": {
         "slug": "shang-shu", "title": "尚书", "wiki_title": "尚書",
         "type": "subpages", "wiki_prefix": "尚書/",
         "summary": "尚书，中国最早的历史文献汇编，儒家五经之一。",
-        "tags": ["尚书", "经部"],
+        "tags": ["尚书"],
     },
     "shi-jing": {
         "slug": "shi-jing", "title": "诗经", "wiki_title": "詩經",
         "type": "subpages", "wiki_prefix": "詩經/",
         "summary": "诗经，中国最早的诗歌总集，收诗305首，儒家五经之一。",
-        "tags": ["诗经", "经部"],
+        "tags": ["诗经"],
     },
     "zhou-li": {
         "slug": "zhou-li", "title": "周礼", "wiki_title": "周禮",
         "type": "subpages", "wiki_prefix": "周禮/",
         "summary": "周礼，中国古代官制典籍，记载周代官制体系。",
-        "tags": ["周礼", "经部"],
+        "tags": ["周礼"],
     },
     "yi-li": {
         "slug": "yi-li", "title": "仪礼", "wiki_title": "儀禮",
         "type": "subpages", "wiki_prefix": "儀禮/",
         "summary": "仪礼，记载周代礼仪制度，现存十七篇。",
-        "tags": ["仪礼", "经部"],
+        "tags": ["仪礼"],
     },
     "li-ji": {
         "slug": "li-ji", "title": "礼记", "wiki_title": "禮記",
         "type": "subpages", "wiki_prefix": "禮記/",
         "summary": "礼记，儒家礼学文献汇编，四十九篇。",
-        "tags": ["礼记", "经部"],
+        "tags": ["礼记"],
     },
     "chun-qiu-zuo-zhuan": {
         "slug": "chun-qiu-zuo-zhuan", "title": "春秋左传", "wiki_title": "春秋左氏傳",
         "type": "subpages", "wiki_prefix": "春秋左氏傳/",
         "summary": "春秋左传，简称左传，左丘明撰，春秋三传之一。",
-        "tags": ["左传", "春秋", "经部"],
+        "tags": ["春秋左传"],
     },
     "chun-qiu-gong-yang": {
         "slug": "chun-qiu-gong-yang", "title": "春秋公羊传", "wiki_title": "春秋公羊傳",
         "type": "single",
         "summary": "春秋公羊传，公羊高撰，以阐发春秋微言大义为主。",
-        "tags": ["公羊传", "春秋", "经部"],
+        "tags": ["春秋公羊传"],
     },
     "chun-qiu-gu-liang": {
         "slug": "chun-qiu-gu-liang", "title": "春秋谷梁传", "wiki_title": "春秋穀梁傳",
         "type": "subpages", "wiki_prefix": "春秋穀梁傳/",
         "summary": "春秋谷梁传，谷梁赤撰，春秋三传之一。",
-        "tags": ["谷梁传", "春秋", "经部"],
+        "tags": ["春秋谷梁传"],
     },
     "xiao-jing": {
         "slug": "xiao-jing", "title": "孝经", "wiki_title": "今文孝經",
         "type": "single",
         "summary": "孝经，儒家论孝道经典，传为孔子所作。",
-        "tags": ["孝经", "经部"],
+        "tags": ["孝经"],
     },
     "er-ya": {
         "slug": "er-ya", "title": "尔雅", "wiki_title": "爾雅",
         "type": "single",
         "summary": "尔雅，中国最早的辞书，十三经之一。",
-        "tags": ["尔雅", "经部"],
+        "tags": ["尔雅"],
     },
 }
 
@@ -142,8 +144,9 @@ def discover_subpages(prefix: str) -> list[str]:
 
 def final_clean(text: str) -> str:
     """Post-process cleaned wikitext."""
-    text = re.sub(r'</?onlyinclude>', '', text)
-    text = re.sub(r'</?poem>', '', text)
+    text = re.sub(r'</?onlyinclude\b[^>]*>', '', text)
+    text = re.sub(r'</?poem\b[^>]*>', '', text)
+    text = re.sub(r'</?[a-zA-Z][^>\n]*>', '', text)
     text = re.sub(r'^Category:.*$', '', text, flags=re.M)
     text = re.sub(r'\{\{[^}]+\}\}', '', text)
     text = text.replace('{{', '')
@@ -155,16 +158,13 @@ def final_clean(text: str) -> str:
 # ── Output helpers ─────────────────────────────────────────────────
 
 def front_matter(title: str, summary: str, weight: int,
-                 tags: list[str] | None = None,
-                 categories: list[str] | None = None) -> str:
+                 tags: list[str] | None = None) -> str:
     tags = tags or ["经部"]
-    categories = categories or ["经部"]
     return f"""---
 title: "{title}"
-date: 2026-05-20
+date: {CONTENT_DATE}
 weight: {weight}
 tags: {json.dumps(tags, ensure_ascii=False)}
-categories: {json.dumps(categories, ensure_ascii=False)}
 draft: false
 summary: "{summary}"
 showToc: false
@@ -178,14 +178,14 @@ ShowShareButtons: false
 def write_index(directory: Path, title: str, summary: str, weight: int,
                 tags: list[str] | None = None) -> None:
     directory.mkdir(parents=True, exist_ok=True)
-    fm = front_matter(title, summary, weight, tags, categories=["经部"])
+    fm = front_matter(title, summary, weight, tags)
     (directory / "_index.md").write_text(fm, encoding="utf-8")
 
 
 def write_page(path: Path, title: str, summary: str, weight: int,
                body: str, tags: list[str] | None = None) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    fm = front_matter(title, summary, weight, tags, categories=["经部"])
+    fm = front_matter(title, summary, weight, tags)
     path.write_text(fm + body + "\n", encoding="utf-8")
 
 
@@ -227,10 +227,11 @@ def generate_subpages(text_id: str, dry_run: bool = False) -> tuple[int, int]:
                 continue
 
             if not dry_run:
-                write_page(out_file, chapter_name, f"{info['title']}：{chapter_name}", i, body, info["tags"])
+                page_title = f"{info['title']}-{chapter_name}"
+                write_page(out_file, page_title, f"{info['title']}：{chapter_name}", i, body, info["tags"])
             print(f"  [{i:03d}/{len(pages)}] {chapter_name} ({len(body)} chars)")
             success += 1
-            time.sleep(1)
+            time.sleep(FETCH_DELAY)
         except Exception as e:
             print(f"  [{i:03d}/{len(pages)}] {chapter_name}: FAILED ({e})")
             fail += 1

@@ -1,0 +1,21 @@
+---
+title: "诗经-都人士之什-瓠葉"
+date: 2026-05-31
+weight: 231
+tags: ["诗经"]
+draft: true
+summary: "都人士之什：瓠葉"
+showToc: false
+tocOpen: false
+ShowShareButtons: false
+---
+
+## 小雅 / 都人士之什
+
+幡幡瓠葉、采之亨之。君子有酒、酌言嘗之。
+
+有兔斯首、炮之燔之。君子有酒、酌言獻之。
+
+有兔斯首、燔之炙之。君子有酒、酌言酢之。
+
+有兔斯首、燔之炮之。君子有酒、酌言醻之。

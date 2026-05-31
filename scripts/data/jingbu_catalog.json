@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-05-20",
+  "updated": "2026-05-31",
   "description": "Jingbu (Confucian classics) manifest for 十三经.",
   "collections": [
     {
@@ -31,17 +31,17 @@
       "status": "collected",
       "quality": "B",
       "target": "content/posts/confucius/shang-shu",
-      "generator": "scripts/generate_jingbu.py",
+      "generator": "scripts/generate_shi_shu.py",
       "source": {
-        "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/尚書"
+        "primary": "Chinese Text Project",
+        "primary_url": "https://ctext.org/shang-shu/zh"
       },
       "expected": {
-        "content_files": 80,
-        "section_headings": 36,
-        "missing_chars": 23
+        "content_files": 58,
+        "section_headings": 0,
+        "missing_chars": 0
       },
-      "notes": "81 sub-pages by chapter. API discovery with prefix 尚書/."
+      "notes": "58 transmitted chapters, ordered by CText menu and generated from CText gettext/page text."
     },
     {
       "id": "shi-jing",
@@ -51,17 +51,17 @@
       "status": "collected",
       "quality": "A",
       "target": "content/posts/confucius/shi-jing",
-      "generator": "scripts/generate_jingbu.py",
+      "generator": "scripts/generate_shi_shu.py",
       "source": {
-        "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/詩經"
+        "primary": "Chinese Text Project",
+        "primary_url": "https://ctext.org/book-of-poetry/zh"
       },
       "expected": {
-        "content_files": 301,
-        "section_headings": 40,
+        "content_files": 305,
+        "section_headings": 305,
         "missing_chars": 0
       },
-      "notes": "301 sub-pages (individual poems). API discovery with prefix 詩經/."
+      "notes": "305 poem leaf nodes, ordered by CText recursive table of contents."
     },
     {
       "id": "zhou-li",
