@@ -1,0 +1,21 @@
+---
+title: "诗经-邶風-簡兮"
+date: 2026-05-31
+weight: 38
+tags: ["诗经"]
+draft: true
+summary: "邶風：簡兮"
+showToc: false
+tocOpen: false
+ShowShareButtons: false
+---
+
+## 國風 / 邶風
+
+簡兮簡兮、方將萬舞。日之方中、在前上處。
+
+碩人俁俁、公庭萬舞。有力如虎、執轡如組。
+
+左手執籥、右手秉翟。赫如渥赭、公言錫爵。
+
+山有榛、隰有苓。云誰之思、西方美人。彼美人兮、西方之人兮。

@@ -1,0 +1,19 @@
+---
+title: "诗经-召南-羔羊"
+date: 2026-05-31
+weight: 18
+tags: ["诗经"]
+draft: true
+summary: "召南：羔羊"
+showToc: false
+tocOpen: false
+ShowShareButtons: false
+---
+
+## 國風 / 召南
+
+羔羊之皮、素絲五紽。退食自公、委蛇委蛇。
+
+羔羊之革、素絲五緎。委蛇委蛇、自公退食。
+
+羔羊之縫、素絲五總。委蛇委蛇、退食自公。

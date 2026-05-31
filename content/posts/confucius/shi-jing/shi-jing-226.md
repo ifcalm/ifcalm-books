@@ -1,0 +1,21 @@
+---
+title: "诗经-都人士之什-采綠"
+date: 2026-05-31
+weight: 226
+tags: ["诗经"]
+draft: true
+summary: "都人士之什：采綠"
+showToc: false
+tocOpen: false
+ShowShareButtons: false
+---
+
+## 小雅 / 都人士之什
+
+終朝采綠、不盈一匊。予髮曲局、薄言歸沐。
+
+終朝采藍、不盈一襜。五日為期，六日不詹。
+
+之子于狩，言韔其弓。之子于釣，言綸之繩。
+
+其釣維何，維魴及鱮。維魴及鱮，薄言觀者。
