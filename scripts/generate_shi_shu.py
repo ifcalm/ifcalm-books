@@ -18,6 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 CONFUCIUS_DIR = ROOT / "content" / "posts" / "confucius"
 CONTENT_DATE = "2026-05-31"
+CONTENT_DRAFT = "true"
 USER_AGENT = "ifcalm-books text collector; contact: https://books.ifcalm.org/"
 CTEXT_API = "https://api.ctext.org/gettext"
 CTEXT_SHANGSHU_PAGE = "https://ctext.org/shang-shu/zh"
@@ -78,7 +79,7 @@ title: {dump_yaml_string(title)}
 date: {CONTENT_DATE}
 weight: {weight}
 tags: {json.dumps(tags, ensure_ascii=False)}
-draft: false
+draft: {CONTENT_DRAFT}
 summary: {dump_yaml_string(summary)}
 showToc: false
 tocOpen: false
