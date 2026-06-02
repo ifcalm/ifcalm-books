@@ -1,0 +1,18 @@
+---
+title: "难经 第二難"
+date: 2026-06-02
+weight: 2
+tags: ["难经"]
+draft: true
+summary: "难经第二難"
+showToc: false
+tocOpen: false
+ShowShareButtons: false
+---
+
+## 第二難
+脈有尺寸，何謂也?
+
+然: 尺寸者，脈之大要會也。
+從關至尺是尺內，陰之所治也，從關至魚際是寸口內，陽之所治也。
+故分寸為尺，分尺為寸，故陰得尺內一寸，陽得寸內九分，尺寸終始一寸九分，故曰尺寸也。

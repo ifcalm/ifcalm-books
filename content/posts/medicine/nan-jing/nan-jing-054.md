@@ -1,0 +1,16 @@
+---
+title: "难经 第五十四難"
+date: 2026-06-02
+weight: 54
+tags: ["难经"]
+draft: true
+summary: "难经第五十四難"
+showToc: false
+tocOpen: false
+ShowShareButtons: false
+---
+
+## 第五十四難
+藏病難治，府病易治，何謂也?
+
+然。藏病所以難治者，傳其所勝也。府病易治者，傳其子也。與七傳間藏同法也。
