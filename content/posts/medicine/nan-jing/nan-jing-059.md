@@ -1,0 +1,16 @@
+---
+title: "难经 第五十九難"
+date: 2026-06-02
+weight: 59
+tags: ["难经"]
+draft: true
+summary: "难经第五十九難"
+showToc: false
+tocOpen: false
+ShowShareButtons: false
+---
+
+## 第五十九難
+狂癲之病，何以別之?
+
+然。狂疾之始發，少臥而不饑，自高賢也，自辨智也，自貴倨也，妄笑好歌樂，妄行不休是也。癲疾始發，意不樂，直視僵仆，其脈三部陰陽俱盛是也。

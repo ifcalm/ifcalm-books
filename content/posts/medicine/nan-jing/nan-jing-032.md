@@ -1,0 +1,16 @@
+---
+title: "难经 第三十二難"
+date: 2026-06-02
+weight: 32
+tags: ["难经"]
+draft: true
+summary: "难经第三十二難"
+showToc: false
+tocOpen: false
+ShowShareButtons: false
+---
+
+## 第三十二難
+五臟俱等，而心肺獨在膈上者，何也?
+
+然。心者血，肺者氣，血為榮，氣為衛，相隨上下，謂之榮衛，通行經絡，營周於外，故令心肺在膈上也。
