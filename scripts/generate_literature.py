@@ -77,7 +77,7 @@ TEXTS: dict[str, dict] = {
         "category": "chuci",
         "phase": 2,
         "summary": "楚辞，西汉刘向辑录屈原、宋玉等人作品而成。",
-        "tags": ["楚辞", "屈原", "宋玉"],
+        "tags": ["楚辞"],
     },
     "guwen-guanzhi": {
         "slug": "gu-wen-guan-zhi",
@@ -164,28 +164,6 @@ TEXTS: dict[str, dict] = {
         "tags": ["李太白文集", "李白", "别集"],
     },
 }
-
-# 楚辞 chapter mapping: (vol, slug, wiki_title)
-CHUCI_CHAPTERS: list[tuple[int, str, str]] = [
-    (1, "离骚", "離騷"),
-    (2, "九歌", "九歌"),
-    (3, "天问", "天問"),
-    (4, "九章", "楚辭/九章"),
-    (5, "远游", "楚辭/遠遊"),
-    (6, "卜居", "卜居 (屈原)"),
-    (7, "渔父", "漁父"),
-    (8, "九辩", "九辯"),
-    (9, "招魂", "楚辭/招䰟"),
-    (10, "大招", "楚辭/大招"),
-    (11, "惜誓", "楚辭/惜誓"),
-    (12, "招隐士", "招隱士"),
-    (13, "七谏", "楚辭/七諫"),
-    (14, "哀时命", "楚辭/哀時命"),
-    (15, "九怀", "九懷"),
-    (16, "九叹", "九歎"),
-    (17, "九思", "九思"),
-]
-
 
 # ── Wikisource API helpers ────────────────────────────────────────
 
@@ -680,47 +658,10 @@ def generate_wenxin_diaolong(dry_run: bool = False) -> tuple[int, int]:
 
 
 def generate_chuci(dry_run: bool = False) -> tuple[int, int]:
-    """Generate 楚辞. 17 chapters on standalone/semi-standalone pages."""
-    info = TEXTS["chu-ci"]
-    out_dir = LIT_DIR / info["category"] / info["slug"]
+    """Generate verified 楚辞 content from Kanripo and 楚辞补注."""
+    from generate_chuci import generate
 
-    print(f"\n{'='*60}")
-    print(f"Generating {info['title']} ({info['wiki_title']})")
-    print(f"Output: {out_dir.relative_to(ROOT)}")
-
-    if not dry_run:
-        write_index(out_dir, info["title"], info["summary"], 10, info["tags"])
-
-    success, fail = 0, 0
-    for vol, slug, wiki_title in CHUCI_CHAPTERS:
-        out_file = out_dir / f"chu-ci-{vol:02d}-{slug}.md"
-
-        if out_file.exists():
-            print(f"  [{vol:02d}/17] {slug} — Skipping (exists)")
-            success += 1
-            continue
-
-        try:
-            raw = fetch_raw(wiki_title)
-            body = final_clean(clean_wikitext(raw))
-            if not body.strip():
-                print(f"  [{vol:02d}/17] {slug}: EMPTY content")
-                fail += 1
-                continue
-
-            display_title = f"楚辞 {slug}（卷{vol}）"
-            chapter_summary = f"楚辞卷第{vol}，{slug}。"
-            if not dry_run:
-                write_page(out_file, display_title, chapter_summary, vol, body, info["tags"])
-            print(f"  [{vol:02d}/17] {slug} ({len(body)} chars) -> {out_file.name}")
-            success += 1
-            time.sleep(1)
-        except Exception as e:
-            print(f"  [{vol:02d}/17] {slug}: FAILED ({wiki_title}: {e})")
-            fail += 1
-
-    print(f"  Done: {success} success, {fail} failed")
-    return success, fail
+    return generate(dry_run=dry_run)
 
 
 # ── Generators: Phase 3 ────────────────────────────────────────────

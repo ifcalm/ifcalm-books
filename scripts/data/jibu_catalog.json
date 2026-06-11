@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-05-20",
+  "updated": "2026-06-11",
   "description": "Jibu (literature collections) manifest for batch generation and validation.",
   "collections": [
     {
@@ -9,20 +9,26 @@
       "traditional_title": "楚辭",
       "category": "chuci",
       "status": "collected",
-      "quality": "B",
+      "quality": "A",
       "target": "content/posts/literature/chuci/chu-ci",
-      "generator": "scripts/generate_literature.py",
+      "generator": "scripts/generate_chuci.py",
       "source": {
-        "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/楚辭",
-        "cross_checks": ["https://ctext.org/chu-ci"]
+        "primary": "Kanripo KR4a0002（四部丛刊本《楚辞章句》）",
+        "primary_url": "https://github.com/kanripo/KR4a0002",
+        "punctuation": "Wikisource《楚辞补注》十七卷",
+        "punctuation_url": "https://zh.wikisource.org/wiki/楚辭補註",
+        "cross_checks": [
+          "https://ctext.org/chu-ci/zh",
+          "https://www.kanripo.org/edition/SBCK/KR4a0002/"
+        ]
       },
       "expected": {
         "content_files": 17,
-        "section_headings": 18,
+        "works_and_sections": 65,
+        "section_headings": 54,
         "missing_chars": 0
       },
-      "notes": "17 chapters as individual pages. Hardcoded chapter list."
+      "notes": "按王逸《楚辞章句》十七卷次序收录；正文剥离章句、补注及序跋。每卷与 Kanripo 底本做字符覆盖校验，并以中国哲学书电子化计划核对篇目及底本缺段。"
     },
     {
       "id": "wenxin-diaolong",

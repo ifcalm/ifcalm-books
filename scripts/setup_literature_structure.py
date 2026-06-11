@@ -10,10 +10,10 @@ LIT_DIR = ROOT / "content" / "posts" / "literature"
 
 SUBCATEGORIES = {
     "chuci": {"title": "楚辞类", "weight": 10, "summary": "楚辞及相关注本研究。"},
-    "zongji": {"title": "总集类", "weight": 20, "summary": "历代诗文总集，汇编多人作品。"},
-    "shiwenping": {"title": "诗文评类", "weight": 30, "summary": "文学理论与批评著作。"},
-    "ciqu": {"title": "词曲类", "weight": 40, "summary": "词曲总集与理论著作。"},
-    "bieji": {"title": "别集类", "weight": 50, "summary": "历代文人个人作品集。"},
+    "bieji": {"title": "别集类", "weight": 20, "summary": "历代文人个人作品集。"},
+    "zongji": {"title": "总集类", "weight": 30, "summary": "历代诗文总集，汇编多人作品。"},
+    "shiwenping": {"title": "诗文评类", "weight": 40, "summary": "文学理论与批评著作。"},
+    "ciqu": {"title": "词曲类", "weight": 50, "summary": "词曲总集与理论著作。"},
 }
 
 TEXT_DIRS = {
@@ -31,17 +31,15 @@ def write_frontmatter(
     weight: int,
     summary: str,
     tags: list[str],
-    categories: list[str],
 ) -> None:
     import json
 
     content = f"""---
 title: "{title}"
-date: 2026-05-20
+date: 2026-06-11
 weight: {weight}
 tags: {json.dumps(tags, ensure_ascii=False)}
-categories: {json.dumps(categories, ensure_ascii=False)}
-draft: false
+draft: true
 summary: "{summary}"
 showToc: false
 tocOpen: false
@@ -63,7 +61,6 @@ def main() -> None:
         6,
         "集部，中国古代文学分类之一，收录诗文总集、别集、文学批评等。",
         ["集部"],
-        ["集部"],
     )
     print("  Created literature/_index.md")
 
@@ -74,8 +71,7 @@ def main() -> None:
             info["title"],
             info["weight"],
             info["summary"],
-            ["集部"],
-            ["集部"],
+            [info["title"].removesuffix("类")],
         )
         print(f"  Created literature/{slug}/_index.md")
 
