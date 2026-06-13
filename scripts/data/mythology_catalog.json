@@ -29,6 +29,79 @@
         "missing_chars": 0
       },
       "notes": "按郭璞注本传世次序收录十八篇经文；去除郭璞注、现代校注和页面附属内容。卷十一至十三恢复四部丛刊及四库本原有篇章次序。卷九、卷十三均保留四部丛刊本所载建平元年校书题记，四库本两处皆省。"
+    },
+    {
+      "id": "you-yang-za-zu",
+      "title": "酉阳杂俎",
+      "traditional_title": "酉陽雜俎",
+      "category": "zhiguai",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/mythology/zhiguai/you-yang-za-zu",
+      "generator": "scripts/generate_zhiguai_classics.py",
+      "source": {
+        "primary": "Wikisource《酉阳杂俎》三十卷文本",
+        "primary_url": "https://zh.wikisource.org/wiki/酉陽雜俎",
+        "cross_checks": [
+          "https://github.com/kanripo/KR3l0125/tree/SBCK",
+          "https://github.com/kanripo/KR3l0125/tree/WYG",
+          "https://ctext.org/wiki.pl?if=en&res=895322"
+        ]
+      },
+      "expected": {
+        "content_files": 30,
+        "first_collection_volumes": 20,
+        "sequel_volumes": 10
+      },
+      "notes": "按传世本收录前集二十卷、续集十卷正文，清除现代校注与页面附属内容。原书传承中所称《破虱录》亡佚，不作臆补。"
+    },
+    {
+      "id": "tai-ping-guang-ji",
+      "title": "太平广记",
+      "traditional_title": "太平廣記",
+      "category": "zhiguai",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/mythology/zhiguai/tai-ping-guang-ji",
+      "generator": "scripts/generate_zhiguai_classics.py",
+      "source": {
+        "primary": "Wikisource《太平广记》五百卷文本",
+        "primary_url": "https://zh.wikisource.org/wiki/太平廣記",
+        "cross_checks": [
+          "https://github.com/kanripo/KR3l0118"
+        ]
+      },
+      "expected": {
+        "content_files": 500,
+        "volumes": 500,
+        "range_directories": 17
+      },
+      "notes": "按传世本五百卷收录，保留各条原有出处，去除现代校注。传世本本身有嗤鄙类二卷、无赖类二卷、轻薄类一卷及若干条目残缺，本次不作臆补；卷二百六十五保留谈恺初印本附录的恢复文字，校本仍缺的文字统一标作〔阙〕。"
+    },
+    {
+      "id": "liao-zhai-zhi-yi",
+      "title": "聊斋志异",
+      "traditional_title": "聊齋志異",
+      "category": "zhiguai",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/mythology/zhiguai/liao-zhai-zhi-yi",
+      "generator": "scripts/generate_zhiguai_classics.py",
+      "source": {
+        "primary": "Project Gutenberg《聊斋志异》十二卷文本",
+        "primary_url": "https://www.gutenberg.org/ebooks/51828",
+        "cross_checks": [
+          "https://zh.wikisource.org/wiki/聊齋志異",
+          "https://ctext.org/wiki.pl?if=gb&res=823219",
+          "https://commons.wikimedia.org/wiki/Category:聊齋志異"
+        ]
+      },
+      "expected": {
+        "content_files": 12,
+        "volumes": 12,
+        "stories": 496
+      },
+      "notes": "按通行十二卷本收录四百九十六篇正文，不收入后出的拾遗与评注。不同刊本篇次和文字存在差异，故质量等级标为 B。"
     }
   ]
 }
