@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "updated": "2026-06-13",
+  "description": "Mythology collection manifest for source and completeness validation.",
+  "collections": [
+    {
+      "id": "shan-hai-jing",
+      "title": "山海经",
+      "traditional_title": "山海經",
+      "category": "ancient",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/mythology/ancient/shan-hai-jing",
+      "generator": "scripts/generate_shan_hai_jing.py",
+      "source": {
+        "primary": "Kanripo KR5d0054（四部丛刊本《山海经》）",
+        "primary_url": "https://github.com/kanripo/KR5d0054/tree/SBCK",
+        "punctuation": "Wikisource《山海经》分篇文本",
+        "punctuation_url": "https://zh.wikisource.org/wiki/山海經",
+        "cross_checks": [
+          "https://github.com/kanripo/KR3l0090",
+          "https://ctext.org/shan-hai-jing/zh"
+        ]
+      },
+      "expected": {
+        "content_files": 18,
+        "mountain_chapters": 5,
+        "sea_chapters": 13,
+        "missing_chars": 0
+      },
+      "notes": "按郭璞注本传世次序收录十八篇经文；去除郭璞注、现代校注和页面附属内容。卷十一至十三恢复四部丛刊及四库本原有篇章次序。卷九、卷十三均保留四部丛刊本所载建平元年校书题记，四库本两处皆省。"
+    }
+  ]
+}
