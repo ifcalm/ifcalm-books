@@ -934,8 +934,13 @@ def write_outputs(
     taiping: list[str],
     liaozhai: list[str],
 ) -> None:
-    if OUTPUT_DIR.exists():
-        shutil.rmtree(OUTPUT_DIR)
+    for managed_dir in (
+        OUTPUT_DIR / "you-yang-za-zu",
+        OUTPUT_DIR / "tai-ping-guang-ji",
+        OUTPUT_DIR / "liao-zhai-zhi-yi",
+    ):
+        if managed_dir.exists():
+            shutil.rmtree(managed_dir)
     write_collection_indexes()
 
     youyang_dir = OUTPUT_DIR / "you-yang-za-zu"
