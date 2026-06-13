@@ -102,6 +102,82 @@
         "stories": 496
       },
       "notes": "按通行十二卷本收录四百九十六篇正文，不收入后出的拾遗与评注。不同刊本篇次和文字存在差异，故质量等级标为 B。"
+    },
+    {
+      "id": "sou-shen-ji",
+      "title": "搜神记",
+      "traditional_title": "搜神記",
+      "category": "zhiguai",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/mythology/zhiguai/sou-shen-ji",
+      "generator": "scripts/generate_early_zhiguai_classics.py",
+      "source": {
+        "primary": "Wikisource《搜神记》序及传世二十卷文本",
+        "primary_url": "https://zh.wikisource.org/wiki/搜神記",
+        "cross_checks": [
+          "https://github.com/kanripo/KR3l0099/tree/WYG"
+        ]
+      },
+      "expected": {
+        "content_files": 21,
+        "prefaces": 1,
+        "volumes": 20,
+        "missing_chars": 0
+      },
+      "notes": "收录干宝序及传世二十卷本正文；原书三十卷早佚，不收入《续搜神记》。正文逐卷与文渊阁四库全书本校验，补回一处电子底本脱文。"
+    },
+    {
+      "id": "bo-wu-zhi",
+      "title": "博物志",
+      "traditional_title": "博物志",
+      "category": "zhiguai",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/mythology/zhiguai/bo-wu-zhi",
+      "generator": "scripts/generate_early_zhiguai_classics.py",
+      "source": {
+        "primary": "中国哲学书电子化计划《博物志》十卷扫描对齐文本",
+        "primary_url": "https://ctext.org/wiki.pl?if=gb&res=201871",
+        "cross_checks": [
+          "https://github.com/kanripo/KR3l0123/tree/WYG",
+          "https://zh.wikisource.org/wiki/博物志"
+        ]
+      },
+      "expected": {
+        "content_files": 10,
+        "volumes": 10,
+        "missing_chars": 0
+      },
+      "notes": "按传世十卷本收录，以中哲计划逐条关联扫描页的文本为主，逐卷与文渊阁四库全书本校验，并以 Wikisource 复核分篇。清除周日用、卢氏等注语。今本历代已有散佚与后人辑补，不据类书所引佚文臆补。"
+    },
+    {
+      "id": "shen-yi-jing",
+      "title": "神异经",
+      "traditional_title": "神異經",
+      "category": "zhiguai",
+      "status": "collected",
+      "quality": "B",
+      "target": "content/posts/mythology/zhiguai/shen-yi-jing",
+      "generator": "scripts/generate_early_zhiguai_classics.py",
+      "source": {
+        "primary": "Kanripo KR3l0093（文渊阁四库全书本）",
+        "primary_url": "https://github.com/kanripo/KR3l0093/tree/WYG",
+        "punctuation": "中国哲学书电子化计划《汉魏丛书》本",
+        "punctuation_url": "https://ctext.org/shenyijing/zh",
+        "cross_checks": [
+          "https://zh.wikisource.org/wiki/神異經_(四庫全書本)",
+          "https://zh.wikisource.org/wiki/神異經"
+        ]
+      },
+      "expected": {
+        "content_files": 1,
+        "volumes": 1,
+        "traditional_entries": 47,
+        "electronic_paragraphs": 48,
+        "missing_chars": 0
+      },
+      "notes": "以四库本四十七条的篇目边界为准，参考《汉魏丛书》本断句；因条目分合差异，成品电子分为四十八段。旧题东方朔撰、张华注，作者归属存疑；不混入《广汉魏丛书》等五十八条本增文。三处缺字中一处据异本补“物”字，其余两处标作〔阙〕。"
     }
   ]
 }
