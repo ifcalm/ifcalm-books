@@ -62,24 +62,6 @@ TEXTS: dict[str, dict] = {
         "summary": "礼记，儒家礼学文献汇编，四十九篇。",
         "tags": ["礼记"],
     },
-    "chun-qiu-zuo-zhuan": {
-        "slug": "chun-qiu-zuo-zhuan", "title": "春秋左传", "wiki_title": "春秋左氏傳",
-        "type": "subpages", "wiki_prefix": "春秋左氏傳/",
-        "summary": "春秋左传，简称左传，左丘明撰，春秋三传之一。",
-        "tags": ["春秋左传"],
-    },
-    "chun-qiu-gong-yang": {
-        "slug": "chun-qiu-gong-yang", "title": "春秋公羊传", "wiki_title": "春秋公羊傳",
-        "type": "single",
-        "summary": "春秋公羊传，公羊高撰，以阐发春秋微言大义为主。",
-        "tags": ["春秋公羊传"],
-    },
-    "chun-qiu-gu-liang": {
-        "slug": "chun-qiu-gu-liang", "title": "春秋谷梁传", "wiki_title": "春秋穀梁傳",
-        "type": "subpages", "wiki_prefix": "春秋穀梁傳/",
-        "summary": "春秋谷梁传，谷梁赤撰，春秋三传之一。",
-        "tags": ["春秋谷梁传"],
-    },
     "xiao-jing": {
         "slug": "xiao-jing", "title": "孝经", "wiki_title": "今文孝經",
         "type": "single",
@@ -270,9 +252,6 @@ GENERATORS = {
     "zhou-li": lambda dry_run=False: generate_subpages("zhou-li", dry_run),
     "yi-li": lambda dry_run=False: generate_subpages("yi-li", dry_run),
     "li-ji": lambda dry_run=False: generate_subpages("li-ji", dry_run),
-    "chun-qiu-zuo-zhuan": lambda dry_run=False: generate_subpages("chun-qiu-zuo-zhuan", dry_run),
-    "chun-qiu-gong-yang": lambda dry_run=False: generate_single("chun-qiu-gong-yang", dry_run),
-    "chun-qiu-gu-liang": lambda dry_run=False: generate_subpages("chun-qiu-gu-liang", dry_run),
     "xiao-jing": lambda dry_run=False: generate_single("xiao-jing", dry_run),
     "er-ya": lambda dry_run=False: generate_single("er-ya", dry_run),
 }

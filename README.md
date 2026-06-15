@@ -3,7 +3,7 @@
 中国古典文献数字化收录项目。
 
 <!-- catalog-summary:start -->
-当前共收录 **248 个书目条目**、**6315 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
+当前共收录 **252 个书目条目**、**6363 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
 <!-- catalog-summary:end -->
 
 <!-- catalog:start -->
@@ -20,6 +20,10 @@
 - [论语](content/posts/confucius/lun-yu/)（1 个内容单元）
 - [中庸](content/posts/confucius/zhong-yong/)（1 个内容单元）
 - [孟子](content/posts/confucius/mengzi/)（7 个内容单元）
+- [春秋](content/posts/confucius/chun-qiu/)（12 个内容单元）
+- [春秋左氏传](content/posts/confucius/chun-qiu-zuo-zhuan/)（12 个内容单元）
+- [春秋公羊传](content/posts/confucius/chun-qiu-gong-yang/)（12 个内容单元）
+- [春秋谷梁传](content/posts/confucius/chun-qiu-gu-liang/)（12 个内容单元）
 
 ### [佛学](content/posts/buddha/)
 

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-05-31",
+  "updated": "2026-06-15",
   "description": "Jingbu (Confucian classics) manifest for 十三经.",
   "collections": [
     {
@@ -125,25 +125,48 @@
       "notes": "53 sub-pages (49 chapters + extras). API discovery with prefix 禮記/."
     },
     {
+      "id": "chun-qiu",
+      "title": "春秋",
+      "traditional_title": "春秋",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/confucius/chun-qiu",
+      "generator": "scripts/generate_chunqiu_classics.py",
+      "source": {
+        "primary": "Kanripo KR1e0001 经文",
+        "primary_url": "https://github.com/kanripo/KR1e0001/tree/dc3dc18e0039e05679d98bc650c2f980f8dcabac",
+        "proofreading": "Chinese Text Project 春秋左传经文",
+        "proofreading_url": "https://ctext.org/chun-qiu-zuo-zhuan/zh"
+      },
+      "expected": {
+        "content_files": 12,
+        "section_headings": 242,
+        "missing_chars": 0
+      },
+      "notes": "Extracted from the 經 sections of the structured Zuo Zhuan main text; 12 duke files covering Yin 1 through Ai 14."
+    },
+    {
       "id": "chun-qiu-zuo-zhuan",
       "title": "春秋左传",
       "traditional_title": "春秋左氏傳",
       "category": "jingbu",
       "status": "collected",
-      "quality": "B",
+      "quality": "A",
       "target": "content/posts/confucius/chun-qiu-zuo-zhuan",
-      "generator": "scripts/generate_jingbu.py",
+      "generator": "scripts/generate_chunqiu_classics.py",
       "source": {
-        "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/春秋左氏傳"
+        "primary": "Kanripo KR1e0001",
+        "primary_url": "https://github.com/kanripo/KR1e0001/tree/dc3dc18e0039e05679d98bc650c2f980f8dcabac",
+        "proofreading": "Chinese Text Project",
+        "proofreading_url": "https://ctext.org/chun-qiu-zuo-zhuan/zh"
       },
       "expected": {
-        "content_files": 17,
-        "section_headings": 270,
-        "missing_chars": 0,
-        "private_use_chars": 7
+        "content_files": 12,
+        "section_headings": 255,
+        "missing_chars": 0
       },
-      "notes": "17 sub-pages by Duke. API discovery with prefix 春秋左氏傳/."
+      "notes": "12 duke files with separate 經 and 傳 sections; Yin 1 through Ai 27. Kanripo structural identifiers and four visible transcription artifacts are removed during generation."
     },
     {
       "id": "chun-qiu-gong-yang",
@@ -153,17 +176,19 @@
       "status": "collected",
       "quality": "A",
       "target": "content/posts/confucius/chun-qiu-gong-yang",
-      "generator": "scripts/generate_jingbu.py",
+      "generator": "scripts/generate_chunqiu_classics.py",
       "source": {
         "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/春秋公羊傳"
+        "primary_url": "https://zh.wikisource.org/wiki/春秋公羊傳",
+        "proofreading": "Chinese Text Project",
+        "proofreading_url": "https://ctext.org/gongyang-zhuan/zh"
       },
       "expected": {
-        "content_files": 1,
-        "section_headings": 0,
+        "content_files": 12,
+        "section_headings": 242,
         "missing_chars": 0
       },
-      "notes": "Single page with inline content. Extract from wiki page."
+      "notes": "12 Wikisource duke pages, covering Yin 1 through Ai 14; one visible OCR form is normalized during generation."
     },
     {
       "id": "chun-qiu-gu-liang",
@@ -173,17 +198,19 @@
       "status": "collected",
       "quality": "A",
       "target": "content/posts/confucius/chun-qiu-gu-liang",
-      "generator": "scripts/generate_jingbu.py",
+      "generator": "scripts/generate_chunqiu_classics.py",
       "source": {
-        "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/春秋穀梁傳"
+        "primary": "Kanripo KR1e0008",
+        "primary_url": "https://github.com/kanripo/KR1e0008/tree/4d929aef98a42889151c04ab5b842afef74915a1",
+        "proofreading": "Chinese Text Project",
+        "proofreading_url": "https://ctext.org/guliang-zhuan/zh"
       },
       "expected": {
         "content_files": 12,
         "section_headings": 242,
         "missing_chars": 0
       },
-      "notes": "12 sub-pages by Duke. API discovery with prefix 春秋穀梁傳/."
+      "notes": "12 duke files covering Yin 1 through Ai 14. Four orphan source transcription brackets are removed; Xi 23 is retained and checked against Wikisource."
     },
     {
       "id": "xiao-jing",
