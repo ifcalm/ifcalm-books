@@ -281,6 +281,28 @@
         "missing_chars": 0
       },
       "notes": "Already collected. Migrated from flat file."
+    },
+    {
+      "id": "zhong-yong",
+      "title": "中庸",
+      "traditional_title": "中庸",
+      "category": "jingbu",
+      "status": "collected",
+      "quality": "A",
+      "target": "content/posts/confucius/zhong-yong",
+      "generator": "scripts/generate_zhong_yong.py",
+      "source": {
+        "primary": "Chinese Text Project",
+        "primary_url": "https://ctext.org/liji/zhong-yong/zhs",
+        "proofreading": "Wikisource 四書章句集註/中庸章句",
+        "proofreading_url": "https://zh.wikisource.org/wiki/四書章句集註/中庸章句"
+      },
+      "expected": {
+        "content_files": 1,
+        "section_headings": 33,
+        "missing_chars": 0
+      },
+      "notes": "CText paragraph text arranged into the received 33-chapter structure; four substantive variants corrected where both Wikisource witnesses agree."
     }
   ]
 }
