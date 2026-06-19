@@ -7,7 +7,7 @@ summary: "坎下震上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 10
+weight: 40
 ---
 
 ### 卦象

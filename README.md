@@ -3,7 +3,7 @@
 中国古典文献数字化收录项目。
 
 <!-- catalog-summary:start -->
-当前共收录 **257 个书目条目**、**6437 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
+当前共收录 **257 个书目条目**、**6442 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
 <!-- catalog-summary:end -->
 
 <!-- catalog:start -->
@@ -13,7 +13,7 @@
 
 ### [经部](content/posts/confucius/)
 
-- [易经](content/posts/confucius/yi-jing/)（64 个内容单元）
+- [易经](content/posts/confucius/yi-jing/)（69 个内容单元）
 - [诗经](content/posts/confucius/shi-jing/)（305 个内容单元）
 - [尚书](content/posts/confucius/shang-shu/)（58 个内容单元）
 - [周礼](content/posts/confucius/zhou-li/)（6 个内容单元）

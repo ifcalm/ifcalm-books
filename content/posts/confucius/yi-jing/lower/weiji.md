@@ -7,7 +7,7 @@ summary: "坎下離上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 34
+weight: 64
 ---
 
 ### 卦象

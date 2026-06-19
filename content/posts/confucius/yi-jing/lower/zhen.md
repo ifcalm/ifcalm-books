@@ -7,7 +7,7 @@ summary: "震下震上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 21
+weight: 51
 ---
 
 ### 卦象

@@ -3,7 +3,7 @@ title: "易经-大有卦"
 date: 2026-05-04
 tags: ["易经"]
 draft: false
-summary: "alt=䷍ 乾下離上"
+summary: "乾下離上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false

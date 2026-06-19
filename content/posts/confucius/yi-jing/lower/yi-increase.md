@@ -7,7 +7,7 @@ summary: "震下巽上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 12
+weight: 42
 ---
 
 ### 卦象

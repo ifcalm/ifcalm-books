@@ -7,7 +7,7 @@ summary: "坎下巽上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 29
+weight: 59
 ---
 
 ### 卦象
