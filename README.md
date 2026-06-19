@@ -3,7 +3,7 @@
 中国古典文献数字化收录项目。
 
 <!-- catalog-summary:start -->
-当前共收录 **262 个书目条目**、**6685 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
+当前共收录 **266 个书目条目**、**6744 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
 <!-- catalog-summary:end -->
 
 <!-- catalog:start -->
@@ -333,6 +333,10 @@
 - [韩非子](content/posts/masters/hanfeizi/)（55 个内容单元）
 - [管子](content/posts/masters/guanzi/)（76 个内容单元）
 - [吕氏春秋](content/posts/masters/lvshi-chunqiu/)（26 个内容单元）
+- [孙子兵法](content/posts/masters/sunzi-bingfa/)（13 个内容单元）
+- [商君书](content/posts/masters/shangjun-shu/)（24 个内容单元）
+- [鬼谷子](content/posts/masters/guiguzi/)（15 个内容单元）
+- [公孙龙子](content/posts/masters/gongsun-longzi/)（7 个内容单元）
 
 ### [集部](content/posts/literature/)
 
