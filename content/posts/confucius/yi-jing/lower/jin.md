@@ -7,7 +7,7 @@ summary: "坤下離上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 5
+weight: 35
 ---
 
 ### 卦象

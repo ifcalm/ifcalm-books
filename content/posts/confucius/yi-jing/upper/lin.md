@@ -3,7 +3,7 @@ title: "易经-臨卦"
 date: 2026-05-04
 tags: ["易经"]
 draft: false
-summary: "alt=䷒ 兌下坤上"
+summary: "兌下坤上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false

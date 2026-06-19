@@ -7,7 +7,7 @@ summary: "艮下兌上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 1
+weight: 31
 ---
 
 ### 卦象

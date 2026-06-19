@@ -7,7 +7,7 @@ summary: "離下巽上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 7
+weight: 37
 ---
 
 ### 卦象

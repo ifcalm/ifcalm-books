@@ -7,7 +7,7 @@ summary: "巽下坤上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 16
+weight: 46
 ---
 
 ### 卦象

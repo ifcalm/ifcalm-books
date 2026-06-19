@@ -7,7 +7,7 @@ summary: "離下兌上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 19
+weight: 49
 ---
 
 ### 卦象

@@ -3,11 +3,11 @@ title: "易经-困卦"
 date: 2026-05-04
 tags: ["易经"]
 draft: false
-summary: "alt=䷮ 坎下兌上"
+summary: "坎下兌上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 17
+weight: 47
 ---
 
 ### 卦象

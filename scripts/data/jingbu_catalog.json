@@ -4,24 +4,26 @@
   "description": "Jingbu (Confucian classics) manifest for 十三经.",
   "collections": [
     {
-      "id": "zhou-yi",
-      "title": "周易",
+      "id": "yi-jing",
+      "title": "易经",
       "traditional_title": "周易",
       "category": "jingbu",
       "status": "collected",
       "quality": "A",
-      "target": "content/posts/confucius/zhou-yi",
-      "generator": "scripts/generate_jingbu.py",
+      "target": "content/posts/confucius/yi-jing",
+      "generator": "scripts/generate_jingbu_closure.py",
       "source": {
-        "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/周易"
+        "primary": "Existing local 64 hexagram text; Wikisource 易傳 for standalone appendices",
+        "primary_url": "https://zh.wikisource.org/wiki/易傳",
+        "proofreading": "Kanripo KR1a0001",
+        "proofreading_url": "https://github.com/kanripo/KR1a0001"
       },
       "expected": {
-        "content_files": 73,
-        "section_headings": 67,
+        "content_files": 69,
+        "section_headings": 293,
         "missing_chars": 0
       },
-      "notes": "73 sub-pages (64 gua + 十翼). API discovery with prefix 周易/."
+      "notes": "64 gua files plus five standalone Yi Zhuan pieces: 繫辭上/下, 說卦, 序卦, 雜卦. 彖、象、文言 are already embedded in the hexagram files."
     },
     {
       "id": "shang-shu",
@@ -269,16 +271,19 @@
       "status": "collected",
       "quality": "A",
       "target": "content/posts/confucius/lun-yu",
-      "generator": null,
+      "generator": "scripts/generate_jingbu_closure.py",
       "source": {
-        "primary": "manual"
+        "primary": "Kanripo KR1h0004 論語(正文)",
+        "primary_url": "https://github.com/kanripo/KR1h0004",
+        "proofreading": "Chinese Text Project",
+        "proofreading_url": "https://ctext.org/analects/zh"
       },
       "expected": {
         "content_files": 1,
         "section_headings": 20,
         "missing_chars": 0
       },
-      "notes": "Already collected. Migrated from flat file."
+      "notes": "Rebuilt from Kanripo正文 into the received 20-chapter structure. Two obvious 仁/人 transcription errors in 學而 were corrected against Wikisource; Wikisource pages were not used as primary because they include residual audio/link artifacts."
     },
     {
       "id": "mengzi",
@@ -288,16 +293,19 @@
       "status": "collected",
       "quality": "A",
       "target": "content/posts/confucius/mengzi",
-      "generator": null,
+      "generator": "scripts/generate_jingbu_closure.py",
       "source": {
-        "primary": "manual"
+        "primary": "Kanripo KR1h0001 孟子(正文)",
+        "primary_url": "https://github.com/kanripo/KR1h0001",
+        "proofreading": "Chinese Text Project",
+        "proofreading_url": "https://ctext.org/mengzi/zh"
       },
       "expected": {
         "content_files": 7,
-        "section_headings": 0,
+        "section_headings": 14,
         "missing_chars": 0
       },
-      "notes": "7 chapters. Already collected. Migrated from flat files."
+      "notes": "Rebuilt from Kanripo正文 as 7 book files, each containing upper/lower sections."
     },
     {
       "id": "da-xue",
@@ -307,16 +315,19 @@
       "status": "collected",
       "quality": "A",
       "target": "content/posts/confucius/da-xue",
-      "generator": null,
+      "generator": "scripts/generate_jingbu_closure.py",
       "source": {
-        "primary": "manual"
+        "primary": "Wikisource 禮記/大學",
+        "primary_url": "https://zh.wikisource.org/wiki/禮記/大學",
+        "proofreading": "Chinese Text Project 禮記/大學",
+        "proofreading_url": "https://ctext.org/liji/da-xue/zh"
       },
       "expected": {
         "content_files": 1,
-        "section_headings": 6,
+        "section_headings": 0,
         "missing_chars": 0
       },
-      "notes": "Already collected. Migrated from flat file."
+      "notes": "Rebuilt from the Li Ji received text witness, without Zhu Xi chapter-commentary segmentation."
     },
     {
       "id": "zhong-yong",

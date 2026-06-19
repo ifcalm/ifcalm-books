@@ -3,7 +3,7 @@ title: "易经-豫卦"
 date: 2026-05-04
 tags: ["易经"]
 draft: false
-summary: "alt=䷏ 坤下震上"
+summary: "坤下震上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false

@@ -3,11 +3,11 @@ title: "易经-鼎卦"
 date: 2026-05-04
 tags: ["易经"]
 draft: false
-summary: "alr=䷱ 巽下離上"
+summary: "巽下離上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 20
+weight: 50
 ---
 
 ### 卦象

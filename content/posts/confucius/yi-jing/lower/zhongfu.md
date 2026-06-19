@@ -7,7 +7,7 @@ summary: "兌下巽上"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 31
+weight: 61
 ---
 
 ### 卦象
