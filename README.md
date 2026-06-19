@@ -3,7 +3,7 @@
 中国古典文献数字化收录项目。
 
 <!-- catalog-summary:start -->
-当前共收录 **257 个书目条目**、**6442 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
+当前共收录 **260 个书目条目**、**6583 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
 <!-- catalog-summary:end -->
 
 <!-- catalog:start -->
@@ -325,6 +325,12 @@
 - [金史](content/posts/history/jin-shi/)（135 个内容单元）
 - [元史](content/posts/history/yuan-shi/)（210 个内容单元）
 - [明史](content/posts/history/ming-shi/)（332 个内容单元）
+
+### [子部](content/posts/masters/)
+
+- [荀子](content/posts/masters/xunzi/)（33 个内容单元）
+- [墨子](content/posts/masters/mozi/)（53 个内容单元）
+- [韩非子](content/posts/masters/hanfeizi/)（55 个内容单元）
 
 ### [集部](content/posts/literature/)
 
