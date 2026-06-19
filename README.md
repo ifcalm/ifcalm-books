@@ -3,7 +3,7 @@
 中国古典文献数字化收录项目。
 
 <!-- catalog-summary:start -->
-当前共收录 **252 个书目条目**、**6363 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
+当前共收录 **257 个书目条目**、**6437 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
 <!-- catalog-summary:end -->
 
 <!-- catalog:start -->
@@ -16,10 +16,15 @@
 - [易经](content/posts/confucius/yi-jing/)（64 个内容单元）
 - [诗经](content/posts/confucius/shi-jing/)（305 个内容单元）
 - [尚书](content/posts/confucius/shang-shu/)（58 个内容单元）
+- [周礼](content/posts/confucius/zhou-li/)（6 个内容单元）
+- [仪礼](content/posts/confucius/yi-li/)（17 个内容单元）
+- [礼记](content/posts/confucius/li-ji/)（49 个内容单元）
 - [大学](content/posts/confucius/da-xue/)（1 个内容单元）
 - [论语](content/posts/confucius/lun-yu/)（1 个内容单元）
 - [中庸](content/posts/confucius/zhong-yong/)（1 个内容单元）
+- [孝经](content/posts/confucius/xiao-jing/)（1 个内容单元）
 - [孟子](content/posts/confucius/mengzi/)（7 个内容单元）
+- [尔雅](content/posts/confucius/er-ya/)（1 个内容单元）
 - [春秋](content/posts/confucius/chun-qiu/)（12 个内容单元）
 - [春秋左氏传](content/posts/confucius/chun-qiu-zuo-zhuan/)（12 个内容单元）
 - [春秋公羊传](content/posts/confucius/chun-qiu-gong-yang/)（12 个内容单元）

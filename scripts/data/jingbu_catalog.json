@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-06-15",
+  "updated": "2026-06-19",
   "description": "Jingbu (Confucian classics) manifest for 十三经.",
   "collections": [
     {
@@ -71,17 +71,19 @@
       "status": "collected",
       "quality": "A",
       "target": "content/posts/confucius/zhou-li",
-      "generator": "scripts/generate_jingbu.py",
+      "generator": "scripts/generate_jingbu_first_priority.py",
       "source": {
-        "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/周禮"
+        "primary": "Chinese Text Project",
+        "primary_url": "https://ctext.org/rites-of-zhou/zh",
+        "proofreading": "Wikisource",
+        "proofreading_url": "https://zh.wikisource.org/wiki/周禮"
       },
       "expected": {
         "content_files": 6,
-        "section_headings": 245,
+        "section_headings": 0,
         "missing_chars": 0
       },
-      "notes": "6 sub-pages (六官). API discovery with prefix 周禮/."
+      "notes": "6 CText chapter pages (六官). Wikisource prefix 周禮/ also has 6 subpages."
     },
     {
       "id": "yi-li",
@@ -91,17 +93,19 @@
       "status": "collected",
       "quality": "A",
       "target": "content/posts/confucius/yi-li",
-      "generator": "scripts/generate_jingbu.py",
+      "generator": "scripts/generate_jingbu_first_priority.py",
       "source": {
-        "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/儀禮"
+        "primary": "Chinese Text Project",
+        "primary_url": "https://ctext.org/yili/zh",
+        "proofreading": "Wikisource",
+        "proofreading_url": "https://zh.wikisource.org/wiki/儀禮"
       },
       "expected": {
         "content_files": 17,
         "section_headings": 0,
         "missing_chars": 0
       },
-      "notes": "17 sub-pages. API discovery with prefix 儀禮/."
+      "notes": "17 CText chapter pages. Wikisource prefix 儀禮/ also has 17 subpages."
     },
     {
       "id": "li-ji",
@@ -109,20 +113,21 @@
       "traditional_title": "禮記",
       "category": "jingbu",
       "status": "collected",
-      "quality": "B",
+      "quality": "A",
       "target": "content/posts/confucius/li-ji",
-      "generator": "scripts/generate_jingbu.py",
+      "generator": "scripts/generate_jingbu_first_priority.py",
       "source": {
         "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/禮記"
+        "primary_url": "https://zh.wikisource.org/wiki/禮記",
+        "proofreading": "Chinese Text Project",
+        "proofreading_url": "https://ctext.org/liji/zh"
       },
       "expected": {
-        "content_files": 53,
-        "section_headings": 12,
-        "missing_chars": 39,
-        "private_use_chars": 2
+        "content_files": 49,
+        "section_headings": 0,
+        "missing_chars": 0
       },
-      "notes": "53 sub-pages (49 chapters + extras). API discovery with prefix 禮記/."
+      "notes": "Generated from the 49 transmitted Wikisource chapter pages, ordered and checked against the CText chapter list. Wikisource has 53 subpages because it also includes duplicate or extra variant pages such as 大學 (證釋本)."
     },
     {
       "id": "chun-qiu",
@@ -220,17 +225,19 @@
       "status": "collected",
       "quality": "A",
       "target": "content/posts/confucius/xiao-jing",
-      "generator": "scripts/generate_jingbu.py",
+      "generator": "scripts/generate_jingbu_first_priority.py",
       "source": {
-        "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/今文孝經"
+        "primary": "Chinese Text Project",
+        "primary_url": "https://ctext.org/xiao-jing/zh",
+        "proofreading": "Wikisource 今文孝經",
+        "proofreading_url": "https://zh.wikisource.org/wiki/今文孝經"
       },
       "expected": {
         "content_files": 1,
         "section_headings": 18,
         "missing_chars": 0
       },
-      "notes": "Single page (今文孝經). Short text, 18 chapters."
+      "notes": "One generated page with 18 CText chapter headings; Wikisource 今文孝經 exists as a secondary witness."
     },
     {
       "id": "er-ya",
@@ -240,17 +247,19 @@
       "status": "collected",
       "quality": "A",
       "target": "content/posts/confucius/er-ya",
-      "generator": "scripts/generate_jingbu.py",
+      "generator": "scripts/generate_jingbu_first_priority.py",
       "source": {
-        "primary": "Wikisource",
-        "primary_url": "https://zh.wikisource.org/wiki/爾雅"
+        "primary": "Chinese Text Project",
+        "primary_url": "https://ctext.org/er-ya/zh",
+        "proofreading": "Wikisource",
+        "proofreading_url": "https://zh.wikisource.org/wiki/爾雅"
       },
       "expected": {
         "content_files": 1,
         "section_headings": 19,
         "missing_chars": 0
       },
-      "notes": "Single page (~23k chars) with inline == sections. 19 chapters."
+      "notes": "One generated page with 19 CText chapter headings; Wikisource 爾雅 exists as a secondary witness."
     },
     {
       "id": "lun-yu",
