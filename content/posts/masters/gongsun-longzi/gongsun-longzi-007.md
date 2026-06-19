@@ -3,7 +3,7 @@ title: "公孙龙子：名实论"
 date: 2026-06-19
 weight: 7
 tags: ["公孙龙子"]
-draft: false
+draft: true
 summary: "公孙龙子：名实论"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "鬼谷子：飞箝"
 date: 2026-06-19
 weight: 5
 tags: ["鬼谷子"]
-draft: false
+draft: true
 summary: "鬼谷子：飞箝"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "商君书：更法"
 date: 2026-06-19
 weight: 1
 tags: ["商君书"]
-draft: false
+draft: true
 summary: "商君书：更法"
 showToc: false
 tocOpen: false

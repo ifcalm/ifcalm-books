@@ -3,7 +3,7 @@ title: "鬼谷子：权篇"
 date: 2026-06-19
 weight: 9
 tags: ["鬼谷子"]
-draft: false
+draft: true
 summary: "鬼谷子：权篇"
 showToc: false
 tocOpen: false

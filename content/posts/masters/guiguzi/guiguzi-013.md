@@ -3,7 +3,7 @@ title: "鬼谷子：本经阴符七术"
 date: 2026-06-19
 weight: 13
 tags: ["鬼谷子"]
-draft: false
+draft: true
 summary: "鬼谷子：本经阴符七术"
 showToc: false
 tocOpen: false

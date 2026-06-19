@@ -3,7 +3,7 @@ title: "鬼谷子：谋篇"
 date: 2026-06-19
 weight: 10
 tags: ["鬼谷子"]
-draft: false
+draft: true
 summary: "鬼谷子：谋篇"
 showToc: false
 tocOpen: false

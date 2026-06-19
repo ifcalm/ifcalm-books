@@ -36,6 +36,7 @@ ROOT = Path(__file__).resolve().parents[1]
 MASTERS_DIR = ROOT / "content" / "posts" / "masters"
 USER_AGENT = "ifcalm-books text collector; contact: https://books.ifcalm.org/"
 CONTENT_DATE = "2026-06-19"
+CONTENT_DRAFT = True
 FETCH_DELAY = 0.05
 
 
@@ -335,7 +336,7 @@ def write_index(path: Path, title: str, summary: str, weight: int, tag: str, bod
 def write_page(path: Path, title: str, summary: str, weight: int, tag: str, body: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(
-        front_matter(title, summary, weight, tag, draft=False) + body.rstrip() + "\n",
+        front_matter(title, summary, weight, tag, draft=CONTENT_DRAFT) + body.rstrip() + "\n",
         encoding="utf-8",
     )
 
@@ -415,7 +416,7 @@ def validate() -> None:
             raise ValueError(f"Missing front matter: {path}")
         front = match.group(1)
         body = content[match.end():].strip()
-        expected_draft = "true" if path.name == "_index.md" else "false"
+        expected_draft = "true"
         if f"draft: {expected_draft}" not in front:
             raise ValueError(f"Unexpected draft state in {path}")
         if forbidden_front.search(front):

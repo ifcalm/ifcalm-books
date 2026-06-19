@@ -3,7 +3,7 @@ title: "公孙龙子：坚白论"
 date: 2026-06-19
 weight: 6
 tags: ["公孙龙子"]
-draft: false
+draft: true
 summary: "公孙龙子：坚白论"
 showToc: false
 tocOpen: false

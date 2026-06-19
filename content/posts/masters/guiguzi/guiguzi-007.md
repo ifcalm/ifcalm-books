@@ -3,7 +3,7 @@ title: "鬼谷子：揣篇"
 date: 2026-06-19
 weight: 7
 tags: ["鬼谷子"]
-draft: false
+draft: true
 summary: "鬼谷子：揣篇"
 showToc: false
 tocOpen: false

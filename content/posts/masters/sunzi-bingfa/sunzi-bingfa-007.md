@@ -3,7 +3,7 @@ title: "孙子兵法：军争"
 date: 2026-06-19
 weight: 7
 tags: ["孙子兵法"]
-draft: false
+draft: true
 summary: "孙子兵法：军争"
 showToc: false
 tocOpen: false
