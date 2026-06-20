@@ -267,6 +267,7 @@ class WikisourceHtmlExtractor(HTMLParser):
         "headertemplate",
         "licenseContainer",
     }
+    INLINE_SKIP_CLASS_TOKENS = {"mw-editsection", "reference"}
     BLOCK_TAGS = {
         "address",
         "article",
@@ -312,6 +313,11 @@ class WikisourceHtmlExtractor(HTMLParser):
         classes = set(values.get("class", "").split())
         return bool(classes & self.SKIP_CLASS_TOKENS)
 
+    def should_skip_inline(self, tag: str, attrs: list[tuple[str, str | None]]) -> bool:
+        values = self.attrs_dict(attrs)
+        classes = set(values.get("class", "").split())
+        return tag in {"span", "sup"} and bool(classes & self.INLINE_SKIP_CLASS_TOKENS)
+
     def append_text(self, text: str) -> None:
         if not text or self.skip_stack:
             return
@@ -341,7 +347,8 @@ class WikisourceHtmlExtractor(HTMLParser):
                 self.skip_stack.append(tag)
             return
         if self.should_skip(tag, attrs):
-            self.flush_line()
+            if not self.should_skip_inline(tag, attrs):
+                self.flush_line()
             self.skip_stack.append(tag)
             return
 
@@ -353,7 +360,7 @@ class WikisourceHtmlExtractor(HTMLParser):
             if self.table_stack and self.table_stack[-1].get("cell") is not None:
                 self.table_stack[-1]["cell"].append(" ")
             else:
-                self.flush_line()
+                self.blank_line()
         elif tag == "li":
             self.flush_line()
             self.buf.append("- ")
@@ -424,6 +431,7 @@ class WikisourceHtmlExtractor(HTMLParser):
 def clean_inline(text: str) -> str:
     text = html.unescape(text)
     text = text.replace("\xa0", " ").replace("\u200b", "")
+    text = text.replace("\ue3fd良", "蜋")
     text = re.sub(r"[ \t\r\f\v]+", " ", text)
     text = text.replace(" ,", ",").replace(" .", ".")
     return text.strip()
@@ -448,18 +456,36 @@ def normalize_markdown(text: str) -> str:
     lines = [line.rstrip() for line in text.splitlines()]
 
     cleaned: list[str] = []
+    leading_punctuation = "，。！？；：、」』）】》〉’”"
     for line in lines:
         stripped = line.strip()
         if not stripped:
             cleaned.append("")
             continue
+        if re.match(r"^\| .*資治通鑑.*[◄►].*\|$", stripped):
+            continue
         if re.match(r"^(Category|分类|分類):", stripped, flags=re.I):
+            continue
+        if re.match(r"^\[\[(category|分类|分類):", stripped, flags=re.I):
+            continue
+        if stripped.startswith("此北宋作品在全世界都属于公有领域"):
+            continue
+        if stripped.startswith("Public domainPublic domain"):
             continue
         if stripped in {"目錄", "目录", "返回", "上一卷", "下一卷"}:
             continue
+        stripped = re.sub(r"\[\[[^|\]]+\|([^\]]+)\]\]", r"\1", stripped)
+        stripped = re.sub(r"\[\[([^\]]+)\]\]", r"\1", stripped)
         cleaned.append(stripped)
 
-    text = "\n".join(cleaned).strip()
+    merged: list[str] = []
+    for line in cleaned:
+        if line and merged and merged[-1] and line[0] in leading_punctuation:
+            merged[-1] += line
+        else:
+            merged.append(line)
+
+    text = "\n".join(merged).strip()
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text
 
@@ -468,7 +494,12 @@ def remove_collation_section(markdown: str) -> str:
     lines = markdown.splitlines()
     kept: list[str] = []
     for line in lines:
-        if re.match(r"^#{1,6}\s*校勘[記记]\s*$", line.strip()):
+        stripped = line.strip()
+        if re.match(r"^#{1,6}\s*校(?:[勘刊改])?[記记]\s*$", stripped):
+            break
+        if stripped.startswith("此北宋作品在全世界都属于公有领域"):
+            break
+        if stripped.startswith("Public domainPublic domain"):
             break
         kept.append(line)
     return normalize_markdown("\n".join(kept))

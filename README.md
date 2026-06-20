@@ -3,7 +3,7 @@
 中国古典文献数字化收录项目。
 
 <!-- catalog-summary:start -->
-当前共收录 **272 个书目条目**、**6857 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
+当前共收录 **273 个书目条目**、**7151 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
 <!-- catalog-summary:end -->
 
 <!-- catalog:start -->
@@ -299,7 +299,7 @@
 - [难经](content/posts/medicine/nan-jing/)（81 个内容单元）
 - [神农本草经](content/posts/medicine/shen-nong-ben-cao-jing/)（19 个内容单元）
 
-### [二十四史](content/posts/history/)
+### [史部](content/posts/history/)
 
 - [史记](content/posts/history/shi-ji/)（130 个内容单元）
 - [汉书](content/posts/history/han-shu/)（100 个内容单元）
@@ -325,6 +325,7 @@
 - [金史](content/posts/history/jin-shi/)（135 个内容单元）
 - [元史](content/posts/history/yuan-shi/)（210 个内容单元）
 - [明史](content/posts/history/ming-shi/)（332 个内容单元）
+- [资治通鉴](content/posts/history/zi-zhi-tong-jian/)（294 个内容单元）
 
 ### [子部](content/posts/masters/)
 
