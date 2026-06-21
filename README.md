@@ -3,7 +3,7 @@
 中国古典文献数字化收录项目。
 
 <!-- catalog-summary:start -->
-当前共收录 **278 个书目条目**、**7198 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
+当前共收录 **280 个书目条目**、**7260 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
 <!-- catalog-summary:end -->
 
 <!-- catalog:start -->
@@ -214,7 +214,8 @@
   - **[密教部](content/posts/buddha/jingzang/mijiao/)**
     - [楞严经](content/posts/buddha/jingzang/mijiao/lengyan/)（10 个内容单元）
 - **[律藏](content/posts/buddha/luzang/)**
-  - 暂无收录
+  - [四分律](content/posts/buddha/luzang/sifen-lv/)（60 个内容单元）
+  - [梵网经](content/posts/buddha/luzang/fan-wang-jing/)（2 个内容单元）
 - **[论藏](content/posts/buddha/lunzang/)**
   - **[中观部](content/posts/buddha/lunzang/zhongguan/)**
     - [中论](content/posts/buddha/lunzang/zhongguan/zhong-lun/)（4 个内容单元）
