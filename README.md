@@ -3,7 +3,7 @@
 中国古典文献数字化收录项目。
 
 <!-- catalog-summary:start -->
-当前共收录 **273 个书目条目**、**7151 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
+当前共收录 **278 个书目条目**、**7198 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
 <!-- catalog-summary:end -->
 
 <!-- catalog:start -->
@@ -326,6 +326,11 @@
 - [元史](content/posts/history/yuan-shi/)（210 个内容单元）
 - [明史](content/posts/history/ming-shi/)（332 个内容单元）
 - [资治通鉴](content/posts/history/zi-zhi-tong-jian/)（294 个内容单元）
+- [竹书纪年](content/posts/history/zhu-shu-ji-nian/)（2 个内容单元）
+- [逸周书](content/posts/history/yi-zhou-shu/)（10 个内容单元）
+- [吴越春秋](content/posts/history/wu-yue-chun-qiu/)（10 个内容单元）
+- [越绝书](content/posts/history/yue-jue-shu/)（15 个内容单元）
+- [贞观政要](content/posts/history/zhen-guan-zheng-yao/)（10 个内容单元）
 
 ### [子部](content/posts/masters/)
 
