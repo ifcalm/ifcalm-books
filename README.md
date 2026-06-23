@@ -3,7 +3,7 @@
 中国古典文献数字化收录项目。
 
 <!-- catalog-summary:start -->
-当前共收录 **280 个书目条目**、**7260 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
+当前共收录 **285 个书目条目**、**7328 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
 <!-- catalog-summary:end -->
 
 <!-- catalog:start -->
@@ -233,6 +233,8 @@
     - [摄大乘论释 玄奘译](content/posts/buddha/lunzang/yujia/she-da-cheng-lun-shi-xuanzang/)（10 个内容单元）
   - **[起信论系](content/posts/buddha/lunzang/qixin/)**
     - [大乘起信论](content/posts/buddha/lunzang/qixin/da-cheng-qi-xin-lun/)（1 个内容单元）
+- **[史传部](content/posts/buddha/shizhuan/)**
+  - [高僧传](content/posts/buddha/shizhuan/gao-seng-zhuan/)（14 个内容单元）
 - **[宗派典籍](content/posts/buddha/zongpai/)**
   - **[禅宗部](content/posts/buddha/zongpai/chan/)**
     - [六祖坛经](content/posts/buddha/zongpai/chan/liu-zu-da-shi-fa-bao-tan-jing/)（1 个内容单元）
@@ -367,5 +369,18 @@
   - [搜神记](content/posts/mythology/zhiguai/sou-shen-ji/)（21 个内容单元）
   - [博物志](content/posts/mythology/zhiguai/bo-wu-zhi/)（10 个内容单元）
   - [神异经](content/posts/mythology/zhiguai/shen-yi-jing/)（1 个内容单元）
+
+### [笔记](content/posts/biji/)
+
+- [世说新语](content/posts/biji/shi-shuo-xin-yu/)（37 个内容单元）
+
+### [小学](content/posts/xiaoxue/)
+
+- [说文解字](content/posts/xiaoxue/shuo-wen-jie-zi/)（15 个内容单元）
+
+### [蒙学](content/posts/mengxue/)
+
+- [百家姓](content/posts/mengxue/baijia-xing/)（1 个内容单元）
+- [千字文](content/posts/mengxue/qian-zi-wen/)（1 个内容单元）
 
 <!-- catalog:end -->
