@@ -92,6 +92,20 @@ YIZHOUSHU_UNITS = tuple(
     for idx, cn in enumerate("一二三四五六七八九十", start=1)
 )
 
+YIZHOUSHU_LOST_SECTION_NOTES = {
+    "秦陰": "此篇今本有目無文；《周書序》相應篇旨亦佚。",
+    "九政": "此篇今本有目無文；《周書序》相應篇旨亦佚。",
+    "九開": "此篇今本有目無文；《周書序》僅存「作《九開》」，前文已脫。",
+    "九間": "此篇今本有目無文；《周書序》僅存「作《九開》」，前文已脫。",
+    "劉法": "此篇今本有目無文。據《周書序》，其篇旨為：「文王唯庶邦之多難，論典以匡謬，作《劉法》。」",
+    "文開": "此篇今本有目無文。據《周書序》，其篇旨為：「文王卿士諗發教禁戒，作《文開》。」",
+    "保開": "此篇今本有目無文。據《周書序》，其篇旨為：「維美公命于文王，修身觀天以謀商難，作《保開》。」",
+    "八繁": "此篇今本有目無文。據《周書序》，其篇旨為：「文王訓乎武王以繁害之戒，作《八繁》。」",
+    "箕子": "此篇今本有目無文。據《周書序》，其篇旨為：「武王既釋箕子囚，俾民辟，寧之以王，作《箕子》。」",
+    "耆德": "此篇今本有目無文。據《周書序》，其篇旨為：「武王秉天下，論德施〈闕〉，而〈闕〉位以官，作《耆德》。」",
+    "月令": "此篇今本有目無文。據《周書序》，其篇旨為：「周公制十二月賦政之法，作《月令》。」",
+}
+
 WUYUE_UNITS = (
     Unit("吴太伯传", "wu-taibo-zhuan", (SourcePart("吴太伯传", "吳越春秋/吳太伯傳"),)),
     Unit("吴王寿梦传", "wu-wang-shou-meng-zhuan", (SourcePart("吴王寿梦传", "吳越春秋/吳王壽夢傳"),)),
@@ -213,6 +227,7 @@ FORBIDDEN_BODY_PATTERNS = [
     (re.compile(r"File:|thumb|px\|"), "image artifact"),
     (re.compile(r"href=|dictionary\.pl|text\.pl"), "HTML link artifact"),
     (re.compile(r"__NOEDITSECTION__|__TOC__"), "MediaWiki marker"),
+    (re.compile(r"□"), "unresolved lacuna marker"),
     (re.compile(r"�"), "replacement character"),
     (re.compile(r"[\ue000-\uf8ff]"), "private-use character"),
 ]
@@ -401,6 +416,23 @@ def html_unescape(text: str) -> str:
     return html_module.unescape(text)
 
 
+def normalize_repeated_punctuation(text: str) -> str:
+    replacements = {
+        "。": "。",
+        "，": "，",
+        "、": "、",
+        "；": "；",
+        "：": "：",
+        "？": "？",
+        "！": "！",
+        "．": "．",
+    }
+    for mark, replacement in replacements.items():
+        text = re.sub(re.escape(mark) + r"{2,}", replacement, text)
+    text = re.sub(r"。([，、；：？！])", r"\1", text)
+    return text
+
+
 def clean_body(raw: str, unit: Unit) -> str:
     raw = preclean_wikitext(apply_source_trims(raw, unit))
     text = clean_wikitext(raw)
@@ -418,6 +450,9 @@ def clean_body(raw: str, unit: Unit) -> str:
     text = text.replace("{", "").replace("}", "")
     text = text.replace("\ue05c", "醟")
     text = normalize_blocks(text)
+    text = re.sub(r"□+", "〈闕〉", text)
+    text = text.replace("作《考德》", "作《耆德》")
+    text = normalize_repeated_punctuation(text)
     text = re.split(r"\n###\s*校[勘刊校]?[記记]\b", text, maxsplit=1)[0].strip()
 
     lines = []
@@ -429,11 +464,44 @@ def clean_body(raw: str, unit: Unit) -> str:
     return "\n".join(lines).strip()
 
 
-def body_for_unit(unit: Unit) -> str:
+def mark_yizhoushu_lost_sections(body: str) -> str:
+    lines = body.splitlines()
+    output: list[str] = []
+    index = 0
+    while index < len(lines):
+        line = lines[index]
+        if not line.startswith("### "):
+            output.append(line)
+            index += 1
+            continue
+
+        title = line[4:].strip()
+        base_title = re.sub(r"（佚）$", "", title)
+        next_index = index + 1
+        while next_index < len(lines) and not lines[next_index].strip():
+            next_index += 1
+        is_empty_section = next_index >= len(lines) or lines[next_index].startswith("### ")
+        if base_title in YIZHOUSHU_LOST_SECTION_NOTES and is_empty_section:
+            output.append(f"### {base_title}（佚）")
+            output.append("")
+            output.append(YIZHOUSHU_LOST_SECTION_NOTES[base_title])
+            output.append("")
+            index = next_index
+            continue
+
+        output.append(line)
+        index += 1
+
+    return "\n".join(output).strip()
+
+
+def body_for_unit(work: Work, unit: Unit) -> str:
     rendered_parts: list[str] = []
     for part in unit.source_parts:
         raw = fetch_wikisource_raw(part.wiki_title)
         body = clean_body(raw, unit)
+        if work.key == "yi-zhou-shu":
+            body = mark_yizhoushu_lost_sections(body)
         if not body:
             raise ValueError(f"{part.wiki_title}: empty body after cleaning")
         if len(unit.source_parts) > 1:
@@ -468,7 +536,7 @@ def generate_work(work: Work, clean: bool) -> int:
     write_work_index(work)
 
     for index, unit in enumerate(work.units, start=1):
-        body = body_for_unit(unit)
+        body = body_for_unit(work, unit)
         if len(body) < 100:
             raise ValueError(f"{work.title}-{unit.title}: body too short")
         for marker in unit.expected_markers:
@@ -567,7 +635,7 @@ def check_work(work: Work, source_check: bool) -> int:
             if marker not in body:
                 problems.append(f"{path.relative_to(ROOT)}: missing marker {marker}")
         if source_check:
-            fresh_body = body_for_unit(unit)
+            fresh_body = body_for_unit(work, unit)
             if body.strip() != fresh_body.strip():
                 problems.append(f"{path.relative_to(ROOT)}: differs from cleaned source")
 
