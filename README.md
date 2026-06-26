@@ -3,7 +3,7 @@
 中国古典文献数字化收录项目。
 
 <!-- catalog-summary:start -->
-当前共收录 **285 个书目条目**、**7328 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
+当前共收录 **291 个书目条目**、**7686 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
 <!-- catalog-summary:end -->
 
 <!-- catalog:start -->
@@ -222,7 +222,10 @@
     - [十二门论](content/posts/buddha/lunzang/zhongguan/shi-er-men-lun/)（1 个内容单元）
     - [百论](content/posts/buddha/lunzang/zhongguan/bai-lun/)（2 个内容单元）
     - [肇论](content/posts/buddha/lunzang/zhongguan/zhao-lun/)（1 个内容单元）
+  - **[释经论部](content/posts/buddha/lunzang/shijing/)**
+    - [大智度论](content/posts/buddha/lunzang/shijing/da-zhi-du-lun/)（100 个内容单元）
   - **[瑜伽唯识部](content/posts/buddha/lunzang/yujia/)**
+    - [瑜伽师地论](content/posts/buddha/lunzang/yujia/yu-jia-shi-di-lun/)（100 个内容单元）
     - [大乘百法明门论](content/posts/buddha/lunzang/yujia/da-cheng-bai-fa-ming-men-lun/)（1 个内容单元）
     - [唯识二十论](content/posts/buddha/lunzang/yujia/wei-shi-er-shi-lun/)（1 个内容单元）
     - [唯识三十论颂](content/posts/buddha/lunzang/yujia/wei-shi-san-shi-lun-song/)（1 个内容单元）
@@ -231,14 +234,20 @@
     - [摄大乘论释 真谛译](content/posts/buddha/lunzang/yujia/she-da-cheng-lun-shi-zhendi/)（15 个内容单元）
     - [摄大乘论释论](content/posts/buddha/lunzang/yujia/she-da-cheng-lun-shi-lun/)（10 个内容单元）
     - [摄大乘论释 玄奘译](content/posts/buddha/lunzang/yujia/she-da-cheng-lun-shi-xuanzang/)（10 个内容单元）
+  - **[毘昙部](content/posts/buddha/lunzang/pitan/)**
+    - [阿毘达磨俱舍论](content/posts/buddha/lunzang/pitan/a-pi-da-mo-ju-she-lun/)（30 个内容单元）
   - **[起信论系](content/posts/buddha/lunzang/qixin/)**
     - [大乘起信论](content/posts/buddha/lunzang/qixin/da-cheng-qi-xin-lun/)（1 个内容单元）
+  - **[论集部](content/posts/buddha/lunzang/lunji/)**
+    - [成实论](content/posts/buddha/lunzang/lunji/cheng-shi-lun/)（16 个内容单元）
 - **[史传部](content/posts/buddha/shizhuan/)**
   - [高僧传](content/posts/buddha/shizhuan/gao-seng-zhuan/)（14 个内容单元）
+  - [大唐西域记](content/posts/buddha/shizhuan/da-tang-xi-yu-ji/)（12 个内容单元）
 - **[宗派典籍](content/posts/buddha/zongpai/)**
   - **[禅宗部](content/posts/buddha/zongpai/chan/)**
     - [六祖坛经](content/posts/buddha/zongpai/chan/liu-zu-da-shi-fa-bao-tan-jing/)（1 个内容单元）
     - **[永明延寿系](content/posts/buddha/zongpai/chan/yongming/)**
+      - [宗镜录](content/posts/buddha/zongpai/chan/yongming/zong-jing-lu/)（100 个内容单元）
       - [万善同归集](content/posts/buddha/zongpai/chan/yongming/wan-shan-tong-gui-ji/)（3 个内容单元）
       - [永明智觉禅师唯心诀](content/posts/buddha/zongpai/chan/yongming/yong-ming-zhi-jue-chan-shi-wei-xin-jue/)（1 个内容单元）
     - [高丽国普照禅师修心诀](content/posts/buddha/zongpai/chan/gao-li-guo-pu-zhao-chan-shi-xiu-xin-jue/)（1 个内容单元）
