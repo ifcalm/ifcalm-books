@@ -26,8 +26,13 @@ class CbetaJuanParser(HTMLParser):
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
         classes = set(attrs.get("class", "").split())
-        skip = bool(self.skip_stack and self.skip_stack[-1])
+        parent_skip = bool(self.skip_stack and self.skip_stack[-1])
+        starts_inline_note = (not parent_skip) and "inline-note" in classes
+        if starts_inline_note:
+            self._append_note_boundary()
+        skip = parent_skip
         skip = skip or tag == "a" or "lb" in classes or "lineInfo" in classes or "noteAnchor" in classes
+        skip = skip or "inline-note" in classes
         self.skip_stack.append(skip)
         if skip:
             return
@@ -89,9 +94,19 @@ class CbetaJuanParser(HTMLParser):
             text = "\n".join(line for line in lines if line)
         else:
             text = re.sub(r"\s+", "", text)
+            text = re.sub(r"。{2,}", "。", text)
         if text:
             self.blocks.append((self.current["type"], self.current["level"], text))
         self.current = None
+
+    def _append_note_boundary(self):
+        if self.current is None:
+            return
+        text = "".join(self.current["parts"]).rstrip()
+        if not text:
+            return
+        if text[-1] not in "。！？；：，、（）《》「」『』“”‘’()[]{}…":
+            self.current["parts"].append("。")
 
 
 def chinese_number(num):
