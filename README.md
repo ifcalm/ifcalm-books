@@ -3,7 +3,7 @@
 中国古典文献数字化收录项目。
 
 <!-- catalog-summary:start -->
-当前共收录 **291 个书目条目**、**7686 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
+当前共收录 **296 个书目条目**、**7712 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
 <!-- catalog-summary:end -->
 
 <!-- catalog:start -->
@@ -211,6 +211,13 @@
       - [解深密经](content/posts/buddha/jingzang/jingji/yujia/jie-shen-mi-jing/)（5 个内容单元）
     - **[圆觉系](content/posts/buddha/jingzang/jingji/yuanjue/)**
       - [圆觉经](content/posts/buddha/jingzang/jingji/yuanjue/da-fang-guang-yuan-jue-xiu-duo-luo-liao-yi-jing/)（1 个内容单元）
+    - **[金光明经系](content/posts/buddha/jingzang/jingji/jinguangming/)**
+      - [金光明经](content/posts/buddha/jingzang/jingji/jinguangming/jin-guang-ming-jing/)（4 个内容单元）
+      - [合部金光明经](content/posts/buddha/jingzang/jingji/jinguangming/he-bu-jin-guang-ming-jing/)（8 个内容单元）
+      - [金光明最胜王经](content/posts/buddha/jingzang/jingji/jinguangming/jin-guang-ming-zui-sheng-wang-jing/)（10 个内容单元）
+    - **[仁王经系](content/posts/buddha/jingzang/jingji/renwang/)**
+      - [佛说仁王般若波罗蜜经](content/posts/buddha/jingzang/jingji/renwang/fo-shuo-ren-wang-bo-re-bo-luo-mi-jing/)（2 个内容单元）
+      - [仁王护国般若波罗蜜多经](content/posts/buddha/jingzang/jingji/renwang/ren-wang-hu-guo-bo-re-bo-luo-mi-duo-jing/)（2 个内容单元）
   - **[密教部](content/posts/buddha/jingzang/mijiao/)**
     - [楞严经](content/posts/buddha/jingzang/mijiao/lengyan/)（10 个内容单元）
 - **[律藏](content/posts/buddha/luzang/)**
