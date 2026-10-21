@@ -3,7 +3,7 @@
 中国古典文献数字化收录项目。
 
 <!-- catalog-summary:start -->
-当前共收录 **44 个书目条目**、**675 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
+当前共收录 **37 个书目条目**、**483 个 Markdown 正文单元**。同一书的卷、篇或章节文件在下方合并为一个书目条目；异译本和不同版本分别列出。
 <!-- catalog-summary:end -->
 
 <!-- catalog:start -->
@@ -64,29 +64,18 @@
 ### [道家](content/posts/taoism/)
 
 - **[经典](content/posts/taoism/classics/)**
+  - [庄子](content/posts/taoism/classics/zhuangzi/)（33 个内容单元）
   - [列子](content/posts/taoism/classics/liezi/)（8 个内容单元）
-  - [庄子](content/posts/butterfly/)（33 个内容单元）
   - [德道经 (帛书版)](content/posts/taoism/classics/dedaojing-boshuban.md)（1 个内容单元）
   - [道德经](content/posts/taoism/classics/dao-de-jing.md)（1 个内容单元）
 - **[劝善](content/posts/taoism/ethics/)**
   - [太上感应篇](content/posts/taoism/ethics/tai-shang.md)（1 个内容单元）
-
-### [医家](content/posts/medicine/)
-
-- **[黄帝内经](content/posts/medicine/huangdi-neijing/)**
-  - [黄帝内经-素问](content/posts/medicine/huangdi-neijing/su-wen/)（24 个内容单元）
-  - [黄帝内经-灵枢](content/posts/medicine/huangdi-neijing/ling-shu/)（12 个内容单元）
-- [伤寒论](content/posts/medicine/shang-han-lun/)（24 个内容单元）
-- [金匮要略](content/posts/medicine/jin-kui-yao-lue/)（25 个内容单元）
-- [难经](content/posts/medicine/nan-jing/)（81 个内容单元）
-- [神农本草经](content/posts/medicine/shen-nong-ben-cao-jing/)（19 个内容单元）
 
 ### [子部](content/posts/masters/)
 
 - [墨子](content/posts/masters/mozi/)（53 个内容单元）
 - [韩非子](content/posts/masters/hanfeizi/)（55 个内容单元）
 - [吕氏春秋](content/posts/masters/lvshi-chunqiu/)（26 个内容单元）
-- [公孙龙子](content/posts/masters/gongsun-longzi/)（7 个内容单元）
 - [淮南子](content/posts/masters/huainanzi/)（21 个内容单元）
 - [盐铁论](content/posts/masters/yantielun/)（10 个内容单元）
 
