@@ -29,7 +29,7 @@ COLLECTIONS = {
     "fo-shuo-wu-liang-shou-jing": {
         "work": "T0360",
         "display_title": "佛说无量寿经",
-        "tag": "佛说无量寿经",
+        "tag": "无量寿经",
         "slug": "fo-shuo-wu-liang-shou-jing",
         "total_juan": 2,
         "weight": 10,

@@ -27,7 +27,7 @@ COLLECTIONS = {
         "work": "T0262",
         "source_title": "妙法蓮華經",
         "display_title": "妙法莲华经",
-        "tag": "妙法莲华经",
+        "tag": "法华经",
         "slug": "miao-fa-lian-hua-jing",
         "target": ROOT / "content/posts/buddha/miao-fa-lian-hua-jing",
         "total_juan": 7,

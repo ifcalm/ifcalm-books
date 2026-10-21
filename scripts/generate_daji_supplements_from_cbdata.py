@@ -65,7 +65,7 @@ COLLECTIONS = {
     "di-zang-pu-sa-ben-yuan-jing": {
         "work": "T0412",
         "display_title": "地藏菩萨本愿经",
-        "tag": "地藏菩萨本愿经",
+        "tag": "地藏经",
         "slug": "di-zang-pu-sa-ben-yuan-jing",
         "group": "dizang",
         "total_juan": 2,
