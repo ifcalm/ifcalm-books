@@ -3,7 +3,7 @@ title: "孟子"
 date: 2026-06-19
 weight: 50
 tags: ["孟子"]
-draft: true
+draft: false
 summary: "孟子七篇，战国孟轲撰。"
 ---
 
