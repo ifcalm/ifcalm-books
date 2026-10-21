@@ -24,11 +24,9 @@ FORCE_WORK_DIRS = {
     Path("confucius/yi-jing"),
 }
 FORCE_CATEGORY_DIRS = {
-    Path("taoism/cultivation"),
-    Path("taoism/ethics"),
-    Path("taoism/ritual"),
+    Path("buddha") / name
+    for name in ("bore", "huayan", "daji", "jingji", "niepan", "baoji", "fahua", "mijiao", "benyuan", "qixin")
 }
-
 
 
 @dataclass

@@ -1,7 +1,7 @@
 ---
 title: "大学"
 date: 2026-06-19
-weight: 1
+weight: 20
 tags: ["大学"]
 draft: false
 summary: "大学之道，在明明德。"

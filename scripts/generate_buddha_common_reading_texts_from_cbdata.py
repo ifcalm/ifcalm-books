@@ -110,7 +110,7 @@ COLLECTIONS = {
         "display_title": "肇论",
         "tag": "肇论",
         "slug": "zhao-lun",
-        "target": "lunzang/zhongguan/zhao-lun",
+        "target": "zhongguan/zhao-lun",
         "total_juan": 1,
         "weight": 40,
         "summary": "肇论一卷。",

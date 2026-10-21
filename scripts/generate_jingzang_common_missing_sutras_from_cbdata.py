@@ -15,7 +15,7 @@ from generate_bore_from_cbdata import CbetaJuanParser, chinese_number, fetch_tex
 
 ROOT = Path(__file__).resolve().parents[1]
 API_URL = "https://cbdata.dila.edu.tw/stable/juans?work={work}&juan={juan}&work_info=1&toc=1"
-JINGZANG_ROOT = ROOT / "content/posts/buddha/jingzang"
+JINGZANG_ROOT = ROOT / "content/posts/buddha"
 DATE = "2026-06-04"
 
 
@@ -81,7 +81,7 @@ COLLECTIONS = {
         "display_title": "圆觉经",
         "tag": "圆觉经",
         "slug": "da-fang-guang-yuan-jue-xiu-duo-luo-liao-yi-jing",
-        "target": "jingji/yuanjue/da-fang-guang-yuan-jue-xiu-duo-luo-liao-yi-jing",
+        "target": "jingji/da-fang-guang-yuan-jue-xiu-duo-luo-liao-yi-jing",
         "total_juan": 1,
         "weight": 10,
         "summary": "大方广圆觉修多罗了义经一卷。",
@@ -93,7 +93,7 @@ COLLECTIONS = {
         "display_title": "解深密经",
         "tag": "解深密经",
         "slug": "jie-shen-mi-jing",
-        "target": "jingji/yujia/jie-shen-mi-jing",
+        "target": "jingji/jie-shen-mi-jing",
         "total_juan": 5,
         "weight": 10,
         "summary": "解深密经五卷。",

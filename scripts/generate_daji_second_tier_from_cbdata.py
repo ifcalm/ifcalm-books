@@ -15,7 +15,7 @@ from generate_bore_from_cbdata import CbetaJuanParser, chinese_number, fetch_tex
 
 ROOT = Path(__file__).resolve().parents[1]
 API_URL = "https://cbdata.dila.edu.tw/stable/juans?work={work}&juan={juan}&work_info=1&toc=1"
-DAJI_ROOT = ROOT / "content/posts/buddha/jingzang/daji"
+DAJI_ROOT = ROOT / "content/posts/buddha/daji"
 
 GROUPS = {
     "xukongzang": {

@@ -251,13 +251,13 @@ def write_page(
 def normalize_yijing_hexagram_metadata() -> None:
     """Keep the existing 64 hexagrams in whole-book order."""
     yijing_dir = CONFUCIUS_DIR / "yi-jing"
-    for path in sorted((yijing_dir / "upper").glob("*.md")) + sorted((yijing_dir / "lower").glob("*.md")):
+    for path in sorted(yijing_dir.glob("*.md")):
         if path.name == "_index.md" or not path.exists():
             continue
         original = path.read_text(encoding="utf-8")
         text = re.sub(r'^(summary:\s*")(?:(?:alt|alr)=\S+\s*)', r"\1", original, count=1, flags=re.M)
 
-        if path.parent.name != "lower":
+        if path.stem not in YI_LOWER_WEIGHTS:
             if text != original:
                 path.write_text(text, encoding="utf-8")
             continue
@@ -404,15 +404,11 @@ def generate_yijing(clean: bool = False, publish_pages: bool = False) -> None:
     draft = page_draft_value(publish_pages)
     write_index(work)
 
-    appendix_dir = CONFUCIUS_DIR / "yi-jing" / "appendix"
-    if clean and appendix_dir.exists():
-        shutil.rmtree(appendix_dir)
+    appendix_dir = CONFUCIUS_DIR / "yi-jing"
     appendix_dir.mkdir(parents=True, exist_ok=True)
-    (appendix_dir / "_index.md").write_text(
-        front_matter("易经-易传", "《易经》独立传文。", 3, "易经", draft=INDEX_DRAFT)
-        + "《易传》此处收录未并入六十四卦正文的五篇传文。",
-        encoding="utf-8",
-    )
+    if clean:
+        for appendix in YI_APPENDICES:
+            (appendix_dir / f"{appendix.slug}.md").unlink(missing_ok=True)
 
     for appendix in YI_APPENDICES:
         body = clean_yi_appendix(fetch_wikisource_raw(appendix.wiki_title), appendix)
@@ -440,7 +436,6 @@ def generate_lunyu(clean: bool = False, publish_pages: bool = False) -> None:
     out_dir = CONFUCIUS_DIR / work.slug
     if clean and out_dir.exists():
         shutil.rmtree(out_dir)
-    write_index(work)
 
     sections: list[str] = []
     for index, expected_title in enumerate(LUNYU_CHAPTERS, start=1):
@@ -453,7 +448,7 @@ def generate_lunyu(clean: bool = False, publish_pages: bool = False) -> None:
         time.sleep(FETCH_DELAY)
 
     body = apply_lunyu_collations("\n\n".join(sections))
-    write_page(out_dir / "lun-yu.md", "论语", work.summary, 1, "论语", body, draft=page_draft_value(publish_pages))
+    write_page(out_dir.with_suffix(".md"), "论语", work.summary, 1, "论语", body, draft=page_draft_value(publish_pages))
 
 
 def generate_mengzi(clean: bool = False, publish_pages: bool = False) -> None:
@@ -488,21 +483,17 @@ def generate_daxue(clean: bool = False, publish_pages: bool = False) -> None:
     out_dir = CONFUCIUS_DIR / work.slug
     if clean and out_dir.exists():
         shutil.rmtree(out_dir)
-    write_index(work)
     body = clean_daxue(fetch_wikisource_raw("禮記/大學"))
-    write_page(out_dir / "da-xue.md", "大学", work.summary, 1, "大学", body, draft=page_draft_value(publish_pages))
+    write_page(out_dir.with_suffix(".md"), "大学", work.summary, 1, "大学", body, draft=page_draft_value(publish_pages))
 
 
 def generated_paths() -> list[Path]:
     paths = [
-        CONFUCIUS_DIR / "yi-jing" / "appendix" / "_index.md",
-        *(CONFUCIUS_DIR / "yi-jing" / "appendix" / f"{item.slug}.md" for item in YI_APPENDICES),
-        CONFUCIUS_DIR / "lun-yu" / "_index.md",
-        CONFUCIUS_DIR / "lun-yu" / "lun-yu.md",
+        *(CONFUCIUS_DIR / "yi-jing" / f"{item.slug}.md" for item in YI_APPENDICES),
+        CONFUCIUS_DIR / "lun-yu.md",
         CONFUCIUS_DIR / "mengzi" / "_index.md",
         *(CONFUCIUS_DIR / "mengzi" / f"mengzi-{book.slug}.md" for book in MENGZI_BOOKS),
-        CONFUCIUS_DIR / "da-xue" / "_index.md",
-        CONFUCIUS_DIR / "da-xue" / "da-xue.md",
+        CONFUCIUS_DIR / "da-xue.md",
     ]
     return list(paths)
 
@@ -542,15 +533,15 @@ def check_local(*, publish_pages: bool = False) -> None:
     validate_no_artifacts(paths, publish_pages=publish_pages)
     counts = {
         "yi-jing": len([p for p in (CONFUCIUS_DIR / "yi-jing").rglob("*.md") if p.name != "_index.md"]),
-        "lun-yu": len([p for p in (CONFUCIUS_DIR / "lun-yu").glob("*.md") if p.name != "_index.md"]),
+        "lun-yu": int((CONFUCIUS_DIR / "lun-yu.md").exists()),
         "mengzi": len([p for p in (CONFUCIUS_DIR / "mengzi").glob("*.md") if p.name != "_index.md"]),
-        "da-xue": len([p for p in (CONFUCIUS_DIR / "da-xue").glob("*.md") if p.name != "_index.md"]),
+        "da-xue": int((CONFUCIUS_DIR / "da-xue.md").exists()),
     }
     expected = {"yi-jing": 69, "lun-yu": 1, "mengzi": 7, "da-xue": 1}
     if counts != expected:
         raise ValueError(f"Unexpected content counts: {counts}")
 
-    lunyu_body = (CONFUCIUS_DIR / "lun-yu" / "lun-yu.md").read_text(encoding="utf-8")
+    lunyu_body = (CONFUCIUS_DIR / "lun-yu.md").read_text(encoding="utf-8")
     if lunyu_body.count("\n### ") != 20:
         raise ValueError("Expected 20 Lun Yu headings")
     mengzi_headings = sum(

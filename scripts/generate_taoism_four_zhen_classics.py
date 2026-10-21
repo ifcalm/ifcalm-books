@@ -10,7 +10,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT_DIR = ROOT / "content" / "posts" / "taoism" / "classics"
+OUT_DIR = ROOT / "content" / "posts" / "taoism"
 USER_AGENT = "ifcalm-books text collector; contact: https://books.ifcalm.org/"
 
 WENZI_PAGES = [

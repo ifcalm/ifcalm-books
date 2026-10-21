@@ -15,7 +15,7 @@ from generate_bore_from_cbdata import CbetaJuanParser, chinese_number, fetch_tex
 
 ROOT = Path(__file__).resolve().parents[1]
 API_URL = "https://cbdata.dila.edu.tw/stable/juans?work={work}&juan={juan}&work_info=1&toc=1"
-BAOJI_ROOT = ROOT / "content/posts/buddha/jingzang/baoji"
+BAOJI_ROOT = ROOT / "content/posts/buddha/baoji"
 
 GROUP = {
     "slug": "jingtu",
@@ -134,7 +134,7 @@ def normalize_text(text: str) -> str:
 
 
 def collection_target(config: dict) -> Path:
-    return BAOJI_ROOT / GROUP["slug"] / config["slug"]
+    return BAOJI_ROOT / config["slug"]
 
 
 def drop_repeated_title_and_byline(config: dict, blocks):
@@ -171,30 +171,13 @@ def fetch_blocks(config: dict, juan: int):
 
 
 def write_group_index() -> None:
-    target = BAOJI_ROOT / GROUP["slug"]
-    target.mkdir(parents=True, exist_ok=True)
-    content = "\n".join(
-        [
-            "---",
-            f'title: "{GROUP["title"]}"',
-            "date: 2026-05-17",
-            'tags: ["佛学"]',
-            "draft: false",
-            f'summary: "{GROUP["summary"]}"',
-            "showToc: false",
-            "tocOpen: false",
-            "ShowShareButtons: false",
-            f'weight: {GROUP["weight"]}',
-            "---",
-            "",
-            GROUP["intro"],
-            "",
-        ]
-    )
-    (target / "_index.md").write_text(content, encoding="utf-8")
+    """Grouping is represented by the parent category, without a subdirectory."""
+    return
 
 
 def write_collection_index(config: dict) -> None:
+    if config["total_juan"] == 1:
+        return
     target = collection_target(config)
     target.mkdir(parents=True, exist_ok=True)
     content = "\n".join(
@@ -258,8 +241,10 @@ def render_markdown(config: dict, juan: int, blocks) -> str:
 def write_juan(config: dict, juan: int) -> Path:
     blocks = fetch_blocks(config, juan)
     target = collection_target(config)
-    target.mkdir(parents=True, exist_ok=True)
     path = target / f"{config['slug']}-{juan:03d}.md"
+    if config["total_juan"] == 1:
+        path = target.with_suffix(".md")
+    path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(render_markdown(config, juan, blocks), encoding="utf-8")
     return path
 

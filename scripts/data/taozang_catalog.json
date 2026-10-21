@@ -155,7 +155,7 @@
       "daozang_class": "太玄部",
       "status": "collected",
       "quality": "B",
-      "target": "content/posts/taoism/classics/huashu",
+      "target": "content/posts/taoism/huashu",
       "generator": "scripts/generate_taoism_recommended_texts.py",
       "source": {
         "primary": "Wikisource",

@@ -1,5 +1,5 @@
 ---
-title: "圆觉经 卷第一"
+title: "圆觉经"
 date: 2026-06-04
 tags: ["圆觉经"]
 draft: true
@@ -7,7 +7,7 @@ summary: "圆觉经卷第一"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 1
+weight: 10
 ---
 
 如是我聞：
