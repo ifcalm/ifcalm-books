@@ -28,12 +28,7 @@ FORCE_CATEGORY_DIRS = {
     Path("taoism/ethics"),
     Path("taoism/ritual"),
 }
-SPECIAL_WORKS = {
-    Path("taoism/classics"): [
-        ("庄子", CONTENT_ROOT / "butterfly"),
-    ],
-}
-SKIPPED_TOP_LEVEL = {"butterfly"}
+
 
 
 @dataclass
@@ -191,10 +186,6 @@ def build_category(path: Path) -> CatalogNode:
         else:
             node.children.append(build_category(child))
 
-    relative = path.relative_to(CONTENT_ROOT)
-    for title, special_path in SPECIAL_WORKS.get(relative, []):
-        node.children.append(make_work(special_path, title))
-
     node.children.sort(key=lambda child: (child.weight, child.title, child.path.as_posix()))
     node.documents = set().union(*(child.documents for child in node.children))
     return node
@@ -277,7 +268,7 @@ def build_catalog() -> tuple[list[CatalogNode], int, int]:
     top_level = [
         build_category(path)
         for path in child_directories(CONTENT_ROOT)
-        if path.name not in SKIPPED_TOP_LEVEL and (path / "_index.md").exists()
+        if (path / "_index.md").exists()
     ]
     top_level.sort(key=lambda node: (node.weight, node.title, node.path.as_posix()))
     work_count, document_count = validate_catalog(top_level)
