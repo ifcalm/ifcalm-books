@@ -21,7 +21,7 @@ CONFIG = {
     "display_title": "大宝积经",
     "tag": "大宝积经",
     "slug": "da-bao-ji-jing",
-    "target": ROOT / "content/posts/buddha/baoji/da-bao-ji-jing",
+    "target": ROOT / "content/posts/buddha/da-bao-ji-jing",
     "total_juan": 120,
     "weight": 10,
     "summary": "《大宝积经》四十九会，共一百二十卷。",

@@ -23,10 +23,7 @@ RANGE_DIR_RE = re.compile(r"^\d{3}-\d{3}$")
 FORCE_WORK_DIRS = {
     Path("confucius/yi-jing"),
 }
-FORCE_CATEGORY_DIRS = {
-    Path("buddha") / name
-    for name in ("bore", "huayan", "daji", "jingji", "niepan", "baoji", "fahua", "mijiao", "benyuan", "qixin")
-}
+FORCE_CATEGORY_DIRS: set[Path] = set()
 
 
 @dataclass

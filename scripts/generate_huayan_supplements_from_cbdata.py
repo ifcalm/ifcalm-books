@@ -15,7 +15,7 @@ from generate_bore_from_cbdata import CbetaJuanParser, chinese_number, fetch_tex
 
 ROOT = Path(__file__).resolve().parents[1]
 API_URL = "https://cbdata.dila.edu.tw/stable/juans?work={work}&juan={juan}&work_info=1&toc=1"
-HUAYAN_ROOT = ROOT / "content/posts/buddha/huayan"
+HUAYAN_ROOT = ROOT / "content/posts/buddha"
 
 GROUPS = {
     "jingxing": {
@@ -310,7 +310,7 @@ def normalize_text(text: str) -> str:
 
 
 def collection_target(config: dict) -> Path:
-    return HUAYAN_ROOT / config["group"] / config["slug"]
+    return HUAYAN_ROOT / config["slug"]
 
 
 def fetch_blocks(config: dict, juan: int):
@@ -347,28 +347,8 @@ def drop_repeated_title_and_byline(config: dict, blocks):
 
 
 def write_group_index(group_key: str) -> None:
-    config = GROUPS[group_key]
-    target = HUAYAN_ROOT / group_key
-    target.mkdir(parents=True, exist_ok=True)
-    content = "\n".join(
-        [
-            "---",
-            f'title: "{config["title"]}"',
-            "date: 2026-05-16",
-            'tags: ["佛学"]',
-            "draft: false",
-            f'summary: "{config["summary"]}"',
-            "showToc: false",
-            "tocOpen: false",
-            "ShowShareButtons: false",
-            f'weight: {config["weight"]}',
-            "---",
-            "",
-            config["intro"],
-            "",
-        ]
-    )
-    (target / "_index.md").write_text(content, encoding="utf-8")
+    """Classification no longer creates output directories."""
+    return
 
 
 def write_collection_index(config: dict) -> None:

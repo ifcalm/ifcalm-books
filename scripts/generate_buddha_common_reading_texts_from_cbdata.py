@@ -50,7 +50,7 @@ COLLECTIONS = {
         "display_title": "六祖坛经",
         "tag": "六祖坛经",
         "slug": "liu-zu-da-shi-fa-bao-tan-jing",
-        "target": "zongpai/chan/liu-zu-da-shi-fa-bao-tan-jing",
+        "target": "liu-zu-da-shi-fa-bao-tan-jing",
         "total_juan": 1,
         "weight": 10,
         "summary": "六祖大师法宝坛经一卷。",
@@ -68,7 +68,7 @@ COLLECTIONS = {
         "display_title": "万善同归集",
         "tag": "万善同归集",
         "slug": "wan-shan-tong-gui-ji",
-        "target": "zongpai/chan/yongming/wan-shan-tong-gui-ji",
+        "target": "wan-shan-tong-gui-ji",
         "total_juan": 3,
         "weight": 10,
         "summary": "万善同归集三卷。",
@@ -81,7 +81,7 @@ COLLECTIONS = {
         "display_title": "永明智觉禅师唯心诀",
         "tag": "唯心诀",
         "slug": "yong-ming-zhi-jue-chan-shi-wei-xin-jue",
-        "target": "zongpai/chan/yongming/yong-ming-zhi-jue-chan-shi-wei-xin-jue",
+        "target": "yong-ming-zhi-jue-chan-shi-wei-xin-jue",
         "total_juan": 1,
         "weight": 20,
         "summary": "永明智觉禅师唯心诀一卷。",
@@ -97,7 +97,7 @@ COLLECTIONS = {
         "display_title": "高丽国普照禅师修心诀",
         "tag": "修心诀",
         "slug": "gao-li-guo-pu-zhao-chan-shi-xiu-xin-jue",
-        "target": "zongpai/chan/gao-li-guo-pu-zhao-chan-shi-xiu-xin-jue",
+        "target": "gao-li-guo-pu-zhao-chan-shi-xiu-xin-jue",
         "total_juan": 1,
         "weight": 30,
         "summary": "高丽国普照禅师修心诀一卷。",
@@ -110,7 +110,7 @@ COLLECTIONS = {
         "display_title": "肇论",
         "tag": "肇论",
         "slug": "zhao-lun",
-        "target": "zhongguan/zhao-lun",
+        "target": "zhao-lun",
         "total_juan": 1,
         "weight": 40,
         "summary": "肇论一卷。",
@@ -191,28 +191,8 @@ def fetch_blocks(config: dict, juan: int):
 
 
 def write_group_indexes() -> None:
-    for rel_target, config in GROUPS.items():
-        target = BUDDHA_ROOT / rel_target
-        target.mkdir(parents=True, exist_ok=True)
-        content = "\n".join(
-            [
-                "---",
-                f'title: "{config["title"]}"',
-                f"date: {DATE}",
-                f'tags: ["{config["tag"]}"]',
-                "draft: true",
-                f'summary: "{config["summary"]}"',
-                "showToc: false",
-                "tocOpen: false",
-                "ShowShareButtons: false",
-                f'weight: {config["weight"]}',
-                "---",
-                "",
-                config["intro"],
-                "",
-            ]
-        )
-        (target / "_index.md").write_text(content, encoding="utf-8")
+    """Classification no longer creates output directories."""
+    return
 
 
 def write_collection_index(config: dict) -> None:

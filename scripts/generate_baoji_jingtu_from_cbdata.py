@@ -15,7 +15,7 @@ from generate_bore_from_cbdata import CbetaJuanParser, chinese_number, fetch_tex
 
 ROOT = Path(__file__).resolve().parents[1]
 API_URL = "https://cbdata.dila.edu.tw/stable/juans?work={work}&juan={juan}&work_info=1&toc=1"
-BAOJI_ROOT = ROOT / "content/posts/buddha/baoji"
+BAOJI_ROOT = ROOT / "content/posts/buddha"
 
 GROUP = {
     "slug": "jingtu",
@@ -171,7 +171,7 @@ def fetch_blocks(config: dict, juan: int):
 
 
 def write_group_index() -> None:
-    """Grouping is represented by the parent category, without a subdirectory."""
+    """Classification no longer creates output directories."""
     return
 
 

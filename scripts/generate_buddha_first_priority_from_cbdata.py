@@ -64,7 +64,7 @@ COLLECTIONS = {
         "display_title": "大智度论",
         "tag": "大智度论",
         "slug": "da-zhi-du-lun",
-        "target": "shijing/da-zhi-du-lun",
+        "target": "da-zhi-du-lun",
         "total_juan": 100,
         "weight": 10,
         "summary": "大智度论一百卷，龙树造，后秦鸠摩罗什译。",
@@ -85,7 +85,7 @@ COLLECTIONS = {
         "display_title": "瑜伽师地论",
         "tag": "瑜伽师地论",
         "slug": "yu-jia-shi-di-lun",
-        "target": "yujia/yu-jia-shi-di-lun",
+        "target": "yu-jia-shi-di-lun",
         "total_juan": 100,
         "weight": 5,
         "summary": "瑜伽师地论一百卷，弥勒菩萨说，唐玄奘译。",
@@ -106,7 +106,7 @@ COLLECTIONS = {
         "display_title": "阿毘达磨俱舍论",
         "tag": "俱舍论",
         "slug": "a-pi-da-mo-ju-she-lun",
-        "target": "pitan/a-pi-da-mo-ju-she-lun",
+        "target": "a-pi-da-mo-ju-she-lun",
         "total_juan": 30,
         "weight": 10,
         "summary": "阿毘达磨俱舍论三十卷，世亲造，唐玄奘译。",
@@ -127,7 +127,7 @@ COLLECTIONS = {
         "display_title": "成实论",
         "tag": "成实论",
         "slug": "cheng-shi-lun",
-        "target": "lunji/cheng-shi-lun",
+        "target": "cheng-shi-lun",
         "total_juan": 16,
         "weight": 10,
         "summary": "成实论十六卷，诃梨跋摩造，姚秦鸠摩罗什译。",
@@ -148,7 +148,7 @@ COLLECTIONS = {
         "display_title": "宗镜录",
         "tag": "宗镜录",
         "slug": "zong-jing-lu",
-        "target": "zongpai/chan/yongming/zong-jing-lu",
+        "target": "zong-jing-lu",
         "total_juan": 100,
         "weight": 5,
         "summary": "宗镜录一百卷，宋延寿集。",
@@ -168,7 +168,7 @@ COLLECTIONS = {
         "display_title": "大唐西域记",
         "tag": "大唐西域记",
         "slug": "da-tang-xi-yu-ji",
-        "target": "shizhuan/da-tang-xi-yu-ji",
+        "target": "da-tang-xi-yu-ji",
         "total_juan": 12,
         "weight": 30,
         "summary": "大唐西域记十二卷，唐玄奘译，辩机撰。",
@@ -233,18 +233,8 @@ def write_index(path: Path, title: str, summary: str, tag: str, weight: int, bod
 
 
 def write_group_indexes() -> None:
-    for relative, config in GROUP_INDEXES.items():
-        path = BUDDHA_ROOT / relative
-        if (path / "_index.md").exists():
-            continue
-        write_index(
-            path,
-            config["title"],
-            config["summary"],
-            config["tag"],
-            config["weight"],
-            config["intro"],
-        )
+    """Classification no longer creates output directories."""
+    return
 
 
 def target_path(config: dict) -> Path:
