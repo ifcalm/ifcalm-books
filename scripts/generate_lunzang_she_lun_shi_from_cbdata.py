@@ -15,7 +15,7 @@ from generate_bore_from_cbdata import CbetaJuanParser, chinese_number, fetch_tex
 
 ROOT = Path(__file__).resolve().parents[1]
 API_URL = "https://cbdata.dila.edu.tw/stable/juans?work={work}&juan={juan}&work_info=1&toc=1"
-YUJIA_ROOT = ROOT / "content/posts/buddha/yujia"
+YUJIA_ROOT = ROOT / "content/posts/buddha"
 DATE = "2026-06-05"
 
 

@@ -57,7 +57,7 @@ COLLECTIONS = {
         "display_title": "佛遗教经",
         "tag": "佛遗教经",
         "slug": "fo-yi-jiao-jing",
-        "target": "niepan/fo-yi-jiao-jing",
+        "target": "fo-yi-jiao-jing",
         "total_juan": 1,
         "weight": 80,
         "summary": "佛垂般涅槃略说教诫经，又名佛遗教经，一卷。",
@@ -69,7 +69,7 @@ COLLECTIONS = {
         "display_title": "佛说八大人觉经",
         "tag": "佛说八大人觉经",
         "slug": "fo-shuo-ba-da-ren-jue-jing",
-        "target": "jingji/changsong/fo-shuo-ba-da-ren-jue-jing",
+        "target": "fo-shuo-ba-da-ren-jue-jing",
         "total_juan": 1,
         "weight": 10,
         "summary": "佛说八大人觉经一卷。",
@@ -81,7 +81,7 @@ COLLECTIONS = {
         "display_title": "圆觉经",
         "tag": "圆觉经",
         "slug": "da-fang-guang-yuan-jue-xiu-duo-luo-liao-yi-jing",
-        "target": "jingji/da-fang-guang-yuan-jue-xiu-duo-luo-liao-yi-jing",
+        "target": "da-fang-guang-yuan-jue-xiu-duo-luo-liao-yi-jing",
         "total_juan": 1,
         "weight": 10,
         "summary": "大方广圆觉修多罗了义经一卷。",
@@ -93,7 +93,7 @@ COLLECTIONS = {
         "display_title": "解深密经",
         "tag": "解深密经",
         "slug": "jie-shen-mi-jing",
-        "target": "jingji/jie-shen-mi-jing",
+        "target": "jie-shen-mi-jing",
         "total_juan": 5,
         "weight": 10,
         "summary": "解深密经五卷。",
@@ -105,7 +105,7 @@ COLLECTIONS = {
         "display_title": "楞伽阿跋多罗宝经",
         "tag": "楞伽阿跋多罗宝经",
         "slug": "leng-jia-a-ba-duo-luo-bao-jing",
-        "target": "jingji/lengjia/leng-jia-a-ba-duo-luo-bao-jing",
+        "target": "leng-jia-a-ba-duo-luo-bao-jing",
         "total_juan": 4,
         "weight": 10,
         "summary": "楞伽阿跋多罗宝经四卷。",
@@ -117,7 +117,7 @@ COLLECTIONS = {
         "display_title": "入楞伽经",
         "tag": "入楞伽经",
         "slug": "ru-leng-jia-jing",
-        "target": "jingji/lengjia/ru-leng-jia-jing",
+        "target": "ru-leng-jia-jing",
         "total_juan": 10,
         "weight": 20,
         "summary": "入楞伽经十卷。",
@@ -129,7 +129,7 @@ COLLECTIONS = {
         "display_title": "大乘入楞伽经",
         "tag": "大乘入楞伽经",
         "slug": "da-cheng-ru-leng-jia-jing",
-        "target": "jingji/lengjia/da-cheng-ru-leng-jia-jing",
+        "target": "da-cheng-ru-leng-jia-jing",
         "total_juan": 7,
         "weight": 30,
         "summary": "大乘入楞伽经七卷。",
@@ -141,7 +141,7 @@ COLLECTIONS = {
         "display_title": "法句经",
         "tag": "法句经",
         "slug": "fa-ju-jing",
-        "target": "benyuan/fa-ju-jing",
+        "target": "fa-ju-jing",
         "total_juan": 2,
         "weight": 80,
         "summary": "法句经二卷。",
@@ -196,28 +196,8 @@ def drop_repeated_title_and_byline(config: dict, blocks):
 
 
 def write_group_indexes() -> None:
-    for rel_target, config in GROUPS.items():
-        target = JINGZANG_ROOT / rel_target
-        target.mkdir(parents=True, exist_ok=True)
-        content = "\n".join(
-            [
-                "---",
-                f'title: "{config["title"]}"',
-                f"date: {DATE}",
-                f'tags: ["{config["tag"]}"]',
-                "draft: true",
-                f'summary: "{config["summary"]}"',
-                "showToc: false",
-                "tocOpen: false",
-                "ShowShareButtons: false",
-                f'weight: {config["weight"]}',
-                "---",
-                "",
-                config["intro"],
-                "",
-            ]
-        )
-        (target / "_index.md").write_text(content, encoding="utf-8")
+    """Classification no longer creates output directories."""
+    return
 
 
 def write_collection_index(config: dict) -> None:

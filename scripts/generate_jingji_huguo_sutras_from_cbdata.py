@@ -53,7 +53,7 @@ COLLECTIONS = {
         "display_title": "金光明经",
         "tag": "金光明经",
         "slug": "jin-guang-ming-jing",
-        "target": "jingji/jinguangming/jin-guang-ming-jing",
+        "target": "jin-guang-ming-jing",
         "total_juan": 4,
         "weight": 10,
         "summary": "金光明经四卷，北凉昙无谶译。",
@@ -72,7 +72,7 @@ COLLECTIONS = {
         "display_title": "合部金光明经",
         "tag": "合部金光明经",
         "slug": "he-bu-jin-guang-ming-jing",
-        "target": "jingji/jinguangming/he-bu-jin-guang-ming-jing",
+        "target": "he-bu-jin-guang-ming-jing",
         "total_juan": 8,
         "weight": 20,
         "summary": "合部金光明经八卷，隋宝贵合。",
@@ -94,7 +94,7 @@ COLLECTIONS = {
         "display_title": "金光明最胜王经",
         "tag": "金光明最胜王经",
         "slug": "jin-guang-ming-zui-sheng-wang-jing",
-        "target": "jingji/jinguangming/jin-guang-ming-zui-sheng-wang-jing",
+        "target": "jin-guang-ming-zui-sheng-wang-jing",
         "total_juan": 10,
         "weight": 30,
         "summary": "金光明最胜王经十卷，唐义净译。",
@@ -113,7 +113,7 @@ COLLECTIONS = {
         "display_title": "佛说仁王般若波罗蜜经",
         "tag": "佛说仁王般若波罗蜜经",
         "slug": "fo-shuo-ren-wang-bo-re-bo-luo-mi-jing",
-        "target": "jingji/renwang/fo-shuo-ren-wang-bo-re-bo-luo-mi-jing",
+        "target": "fo-shuo-ren-wang-bo-re-bo-luo-mi-jing",
         "total_juan": 2,
         "weight": 10,
         "summary": "佛说仁王般若波罗蜜经二卷，后秦鸠摩罗什译。",
@@ -132,7 +132,7 @@ COLLECTIONS = {
         "display_title": "仁王护国般若波罗蜜多经",
         "tag": "仁王护国般若波罗蜜多经",
         "slug": "ren-wang-hu-guo-bo-re-bo-luo-mi-duo-jing",
-        "target": "jingji/renwang/ren-wang-hu-guo-bo-re-bo-luo-mi-duo-jing",
+        "target": "ren-wang-hu-guo-bo-re-bo-luo-mi-duo-jing",
         "total_juan": 2,
         "weight": 20,
         "summary": "仁王护国般若波罗蜜多经二卷，唐不空译。",
@@ -201,15 +201,8 @@ def write_index(path: Path, title: str, summary: str, tag: str, weight: int, bod
 
 
 def write_group_indexes() -> None:
-    for rel_target, config in GROUPS.items():
-        write_index(
-            JINGZANG_ROOT / rel_target,
-            config["title"],
-            config["summary"],
-            config["tag"],
-            config["weight"],
-            config["intro"],
-        )
+    """Classification no longer creates output directories."""
+    return
 
 
 def is_removable_block(config: dict, block_type: str, text: str) -> bool:

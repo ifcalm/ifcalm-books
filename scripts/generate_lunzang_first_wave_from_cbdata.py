@@ -50,7 +50,7 @@ COLLECTIONS = {
         "display_title": "中论",
         "tag": "中论",
         "slug": "zhong-lun",
-        "target": "zhongguan/zhong-lun",
+        "target": "zhong-lun",
         "total_juan": 4,
         "weight": 10,
         "summary": "中论四卷。",
@@ -63,7 +63,7 @@ COLLECTIONS = {
         "display_title": "十二门论",
         "tag": "十二门论",
         "slug": "shi-er-men-lun",
-        "target": "zhongguan/shi-er-men-lun",
+        "target": "shi-er-men-lun",
         "total_juan": 1,
         "weight": 20,
         "summary": "十二门论一卷。",
@@ -76,7 +76,7 @@ COLLECTIONS = {
         "display_title": "百论",
         "tag": "百论",
         "slug": "bai-lun",
-        "target": "zhongguan/bai-lun",
+        "target": "bai-lun",
         "total_juan": 2,
         "weight": 30,
         "summary": "百论二卷。",
@@ -89,7 +89,7 @@ COLLECTIONS = {
         "display_title": "大乘百法明门论",
         "tag": "大乘百法明门论",
         "slug": "da-cheng-bai-fa-ming-men-lun",
-        "target": "yujia/da-cheng-bai-fa-ming-men-lun",
+        "target": "da-cheng-bai-fa-ming-men-lun",
         "total_juan": 1,
         "weight": 10,
         "summary": "大乘百法明门论一卷。",
@@ -105,7 +105,7 @@ COLLECTIONS = {
         "display_title": "唯识三十论颂",
         "tag": "唯识三十论颂",
         "slug": "wei-shi-san-shi-lun-song",
-        "target": "yujia/wei-shi-san-shi-lun-song",
+        "target": "wei-shi-san-shi-lun-song",
         "total_juan": 1,
         "weight": 20,
         "summary": "唯识三十论颂一卷。",
@@ -118,7 +118,7 @@ COLLECTIONS = {
         "display_title": "大乘起信论",
         "tag": "大乘起信论",
         "slug": "da-cheng-qi-xin-lun",
-        "target": "qixin/da-cheng-qi-xin-lun",
+        "target": "da-cheng-qi-xin-lun",
         "total_juan": 1,
         "weight": 10,
         "summary": "大乘起信论一卷。",
@@ -179,28 +179,8 @@ def drop_repeated_title_and_byline(config: dict, blocks):
 
 
 def write_group_indexes() -> None:
-    for rel_target, config in GROUPS.items():
-        target = LUNZANG_ROOT / rel_target
-        target.mkdir(parents=True, exist_ok=True)
-        content = "\n".join(
-            [
-                "---",
-                f'title: "{config["title"]}"',
-                f"date: {DATE}",
-                f'tags: ["{config["tag"]}"]',
-                "draft: true",
-                f'summary: "{config["summary"]}"',
-                "showToc: false",
-                "tocOpen: false",
-                "ShowShareButtons: false",
-                f'weight: {config["weight"]}',
-                "---",
-                "",
-                config["intro"],
-                "",
-            ]
-        )
-        (target / "_index.md").write_text(content, encoding="utf-8")
+    """Classification no longer creates output directories."""
+    return
 
 
 def write_collection_index(config: dict) -> None:
