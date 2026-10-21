@@ -34,21 +34,21 @@ RANGE_SIZE = 30
 
 
 GROUP_INDEXES = {
-    "lunzang/shijing": {
+    "shijing": {
         "title": "释经论部",
         "summary": "解释经典义理的论书。",
         "intro": "收录解释经典义理的论书。",
         "tag": "佛学",
         "weight": 15,
     },
-    "lunzang/pitan": {
+    "pitan": {
         "title": "毘昙部",
         "summary": "阿毗达磨论书。",
         "intro": "收录阿毗达磨论书。",
         "tag": "佛学",
         "weight": 25,
     },
-    "lunzang/lunji": {
+    "lunji": {
         "title": "论集部",
         "summary": "诸论集成与综合性论书。",
         "intro": "收录诸论集成与综合性论书。",
@@ -64,7 +64,7 @@ COLLECTIONS = {
         "display_title": "大智度论",
         "tag": "大智度论",
         "slug": "da-zhi-du-lun",
-        "target": "lunzang/shijing/da-zhi-du-lun",
+        "target": "shijing/da-zhi-du-lun",
         "total_juan": 100,
         "weight": 10,
         "summary": "大智度论一百卷，龙树造，后秦鸠摩罗什译。",
@@ -85,7 +85,7 @@ COLLECTIONS = {
         "display_title": "瑜伽师地论",
         "tag": "瑜伽师地论",
         "slug": "yu-jia-shi-di-lun",
-        "target": "lunzang/yujia/yu-jia-shi-di-lun",
+        "target": "yujia/yu-jia-shi-di-lun",
         "total_juan": 100,
         "weight": 5,
         "summary": "瑜伽师地论一百卷，弥勒菩萨说，唐玄奘译。",
@@ -106,7 +106,7 @@ COLLECTIONS = {
         "display_title": "阿毘达磨俱舍论",
         "tag": "俱舍论",
         "slug": "a-pi-da-mo-ju-she-lun",
-        "target": "lunzang/pitan/a-pi-da-mo-ju-she-lun",
+        "target": "pitan/a-pi-da-mo-ju-she-lun",
         "total_juan": 30,
         "weight": 10,
         "summary": "阿毘达磨俱舍论三十卷，世亲造，唐玄奘译。",
@@ -127,7 +127,7 @@ COLLECTIONS = {
         "display_title": "成实论",
         "tag": "成实论",
         "slug": "cheng-shi-lun",
-        "target": "lunzang/lunji/cheng-shi-lun",
+        "target": "lunji/cheng-shi-lun",
         "total_juan": 16,
         "weight": 10,
         "summary": "成实论十六卷，诃梨跋摩造，姚秦鸠摩罗什译。",

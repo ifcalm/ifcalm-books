@@ -21,7 +21,7 @@ CONFIG = {
     "display_title": "大方等大集经",
     "tag": "大方等大集经",
     "slug": "da-fang-deng-da-ji-jing",
-    "target": ROOT / "content/posts/buddha/jingzang/daji/da-fang-deng-da-ji-jing",
+    "target": ROOT / "content/posts/buddha/daji/da-fang-deng-da-ji-jing",
     "total_juan": 60,
     "weight": 10,
     "summary": "《大方等大集经》共六十卷。",

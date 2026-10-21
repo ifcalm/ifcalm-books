@@ -15,7 +15,7 @@ from generate_bore_from_cbdata import CbetaJuanParser, chinese_number, fetch_tex
 
 ROOT = Path(__file__).resolve().parents[1]
 API_URL = "https://cbdata.dila.edu.tw/stable/juans?work={work}&juan={juan}&work_info=1&toc=1"
-LUNZANG_ROOT = ROOT / "content/posts/buddha/lunzang"
+LUNZANG_ROOT = ROOT / "content/posts/buddha"
 DATE = "2026-06-04"
 
 
@@ -204,6 +204,8 @@ def write_group_indexes() -> None:
 
 
 def write_collection_index(config: dict) -> None:
+    if config["total_juan"] == 1:
+        return
     target = target_path(config)
     target.mkdir(parents=True, exist_ok=True)
     content = "\n".join(
@@ -265,8 +267,10 @@ def render_markdown(config: dict, juan: int, blocks) -> str:
 def write_juan(config: dict, juan: int) -> Path:
     blocks = fetch_blocks(config, juan)
     target = target_path(config)
-    target.mkdir(parents=True, exist_ok=True)
     path = target / f"{config['slug']}-{juan:03d}.md"
+    if config["total_juan"] == 1:
+        path = target.with_suffix(".md")
+    path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(render_markdown(config, juan, blocks), encoding="utf-8")
     return path
 

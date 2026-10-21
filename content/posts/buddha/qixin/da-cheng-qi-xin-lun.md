@@ -1,5 +1,5 @@
 ---
-title: "大乘起信论 卷第一"
+title: "大乘起信论"
 date: 2026-06-04
 tags: ["大乘起信论"]
 draft: true
@@ -7,7 +7,7 @@ summary: "大乘起信论卷第一"
 showToc: false
 tocOpen: false
 ShowShareButtons: false
-weight: 1
+weight: 10
 ---
 
 ## 大乘起信論序

@@ -23,7 +23,7 @@ COLLECTIONS = {
         "display_title": "大方广佛华严经（六十卷本）",
         "tag": "六十华严",
         "slug": "da-fang-guang-fo-hua-yan-jing-60",
-        "target": ROOT / "content/posts/buddha/jingzang/huayan/da-fang-guang-fo-hua-yan-jing-60",
+        "target": ROOT / "content/posts/buddha/huayan/da-fang-guang-fo-hua-yan-jing-60",
         "total_juan": 60,
         "weight": 10,
         "summary": "《大方广佛华严经》六十卷本，共六十卷。",
@@ -36,7 +36,7 @@ COLLECTIONS = {
         "display_title": "大方广佛华严经（八十卷本）",
         "tag": "八十华严",
         "slug": "da-fang-guang-fo-hua-yan-jing-80",
-        "target": ROOT / "content/posts/buddha/jingzang/huayan/da-fang-guang-fo-hua-yan-jing-80",
+        "target": ROOT / "content/posts/buddha/huayan/da-fang-guang-fo-hua-yan-jing-80",
         "total_juan": 80,
         "weight": 20,
         "summary": "《大方广佛华严经》八十卷本，共八十卷。",
@@ -49,7 +49,7 @@ COLLECTIONS = {
         "display_title": "大方广佛华严经（四十卷本）",
         "tag": "四十华严",
         "slug": "da-fang-guang-fo-hua-yan-jing-40",
-        "target": ROOT / "content/posts/buddha/jingzang/huayan/da-fang-guang-fo-hua-yan-jing-40",
+        "target": ROOT / "content/posts/buddha/huayan/da-fang-guang-fo-hua-yan-jing-40",
         "total_juan": 40,
         "weight": 30,
         "summary": "《大方广佛华严经》四十卷本，共四十卷。",
@@ -68,11 +68,7 @@ def title_pattern(source_title: str) -> re.Pattern[str]:
 
 
 def collection_path(config: dict, juan: int) -> Path:
-    if config["total_juan"] <= 30:
-        return config["target"]
-    start = ((juan - 1) // 30) * 30 + 1
-    end = min(start + 29, config["total_juan"])
-    return config["target"] / f"{start:03d}-{end:03d}"
+    return config["target"]
 
 
 def fetch_blocks(config: dict, juan: int):
@@ -130,31 +126,8 @@ def write_collection_index(config: dict) -> None:
 
 
 def write_range_indexes(config: dict) -> None:
-    if config["total_juan"] <= 30:
-        return
-
-    for start in range(1, config["total_juan"] + 1, 30):
-        end = min(start + 29, config["total_juan"])
-        target = config["target"] / f"{start:03d}-{end:03d}"
-        target.mkdir(parents=True, exist_ok=True)
-        content = "\n".join(
-            [
-                "---",
-                f'title: "{config["display_title"]} 卷第{chinese_number(start)}至卷第{chinese_number(end)}"',
-                "date: 2026-05-16",
-                f'tags: ["{config["tag"]}"]',
-                'categories: ["佛学"]',
-                "draft: false",
-                f'summary: "{config["display_title"]}卷第{chinese_number(start)}至卷第{chinese_number(end)}"',
-                "showToc: false",
-                "tocOpen: false",
-                "ShowShareButtons: false",
-                f"weight: {start}",
-                "---",
-                "",
-            ]
-        )
-        (target / "_index.md").write_text(content, encoding="utf-8")
+    """Volumes live directly under the work directory."""
+    return
 
 
 def front_matter(config: dict, juan: int) -> list[str]:

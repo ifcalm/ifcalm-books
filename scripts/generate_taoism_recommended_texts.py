@@ -14,7 +14,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 TAOISM_DIR = ROOT / "content" / "posts" / "taoism"
-CLASSICS_DIR = TAOISM_DIR / "classics"
+CLASSICS_DIR = TAOISM_DIR
 ALCHEMY_DIR = TAOISM_DIR / "alchemy"
 RITUAL_DIR = TAOISM_DIR / "ritual"
 SHANGQING_DIR = TAOISM_DIR / "shangqing"

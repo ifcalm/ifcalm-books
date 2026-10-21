@@ -169,8 +169,7 @@ def main() -> None:
 
     chapters = arrange_chapters(fetch_ctext())
     expected = {
-        OUTPUT_DIR / "_index.md": index_markdown(),
-        OUTPUT_DIR / "zhong-yong.md": page_markdown(chapters),
+        OUTPUT_DIR.with_suffix(".md"): page_markdown(chapters),
     }
 
     if args.check:
@@ -187,7 +186,7 @@ def main() -> None:
         print("Zhong Yong collection is up to date: 33 chapters.")
         return
 
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    OUTPUT_DIR.parent.mkdir(parents=True, exist_ok=True)
     for path, content in expected.items():
         path.write_text(content, encoding="utf-8")
     print("Collected Zhong Yong: 33 chapters in 1 content file.")
