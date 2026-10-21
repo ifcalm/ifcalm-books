@@ -2,7 +2,7 @@
 title: "百喻经 卷第二"
 date: 2026-06-02
 tags: ["百喻经"]
-draft: true
+draft: false
 summary: "百喻经卷第二"
 showToc: false
 tocOpen: false

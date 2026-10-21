@@ -2,7 +2,7 @@
 title: "大乘起信论"
 date: 2026-06-04
 tags: ["大乘起信论"]
-draft: true
+draft: false
 summary: "大乘起信论卷第一"
 showToc: false
 tocOpen: false

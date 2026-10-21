@@ -3,7 +3,7 @@ title: "尚书-多士"
 date: 2026-05-31
 weight: 42
 tags: ["尚书"]
-draft: true
+draft: false
 summary: "尚书：多士"
 showToc: false
 tocOpen: false

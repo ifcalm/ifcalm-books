@@ -3,7 +3,7 @@ title: "尚书-高宗肜日"
 date: 2026-05-31
 weight: 24
 tags: ["尚书"]
-draft: true
+draft: false
 summary: "尚书：高宗肜日"
 showToc: false
 tocOpen: false

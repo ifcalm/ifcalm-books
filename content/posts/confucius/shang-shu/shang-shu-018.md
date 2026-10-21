@@ -3,7 +3,7 @@ title: "尚书-盤庚上"
 date: 2026-05-31
 weight: 18
 tags: ["尚书"]
-draft: true
+draft: false
 summary: "尚书：盤庚上"
 showToc: false
 tocOpen: false

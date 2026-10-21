@@ -3,7 +3,7 @@ title: "尚书-咸有一德"
 date: 2026-05-31
 weight: 17
 tags: ["尚书"]
-draft: true
+draft: false
 summary: "尚书：咸有一德"
 showToc: false
 tocOpen: false

@@ -3,7 +3,7 @@ title: "淮南子：精神训"
 date: 2026-06-19
 weight: 7
 tags: ["淮南子"]
-draft: true
+draft: false
 summary: "淮南子：精神训"
 showToc: false
 tocOpen: false

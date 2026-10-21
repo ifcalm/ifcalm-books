@@ -3,7 +3,7 @@ title: "尚书-牧誓"
 date: 2026-05-31
 weight: 30
 tags: ["尚书"]
-draft: true
+draft: false
 summary: "尚书：牧誓"
 showToc: false
 tocOpen: false

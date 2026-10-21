@@ -2,7 +2,7 @@
 title: "圆觉经"
 date: 2026-06-04
 tags: ["圆觉经"]
-draft: true
+draft: false
 summary: "圆觉经卷第一"
 showToc: false
 tocOpen: false

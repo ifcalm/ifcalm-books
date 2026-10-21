@@ -3,7 +3,7 @@ title: "淮南子：泰族训"
 date: 2026-06-19
 weight: 20
 tags: ["淮南子"]
-draft: true
+draft: false
 summary: "淮南子：泰族训"
 showToc: false
 tocOpen: false
