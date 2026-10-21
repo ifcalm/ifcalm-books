@@ -3,7 +3,7 @@ title: "尚书-微子之命"
 date: 2026-05-31
 weight: 36
 tags: ["尚书"]
-draft: true
+draft: false
 summary: "尚书：微子之命"
 showToc: false
 tocOpen: false

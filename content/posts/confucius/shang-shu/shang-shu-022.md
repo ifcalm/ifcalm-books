@@ -3,7 +3,7 @@ title: "尚书-說命中"
 date: 2026-05-31
 weight: 22
 tags: ["尚书"]
-draft: true
+draft: false
 summary: "尚书：說命中"
 showToc: false
 tocOpen: false

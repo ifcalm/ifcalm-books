@@ -3,7 +3,7 @@ title: "尚书-大誥"
 date: 2026-05-31
 weight: 35
 tags: ["尚书"]
-draft: true
+draft: false
 summary: "尚书：大誥"
 showToc: false
 tocOpen: false

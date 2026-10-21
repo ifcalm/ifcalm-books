@@ -3,7 +3,7 @@ title: "尚书-太甲下"
 date: 2026-05-31
 weight: 16
 tags: ["尚书"]
-draft: true
+draft: false
 summary: "尚书：太甲下"
 showToc: false
 tocOpen: false

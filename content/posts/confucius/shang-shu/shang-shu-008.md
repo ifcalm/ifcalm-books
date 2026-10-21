@@ -3,7 +3,7 @@ title: "尚书-五子之歌"
 date: 2026-05-31
 weight: 8
 tags: ["尚书"]
-draft: true
+draft: false
 summary: "尚书：五子之歌"
 showToc: false
 tocOpen: false

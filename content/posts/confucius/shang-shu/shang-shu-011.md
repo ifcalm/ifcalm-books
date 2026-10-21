@@ -3,7 +3,7 @@ title: "尚书-仲虺之誥"
 date: 2026-05-31
 weight: 11
 tags: ["尚书"]
-draft: true
+draft: false
 summary: "尚书：仲虺之誥"
 showToc: false
 tocOpen: false

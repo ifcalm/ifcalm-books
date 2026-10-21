@@ -3,7 +3,7 @@ title: "尚书-大禹謨"
 date: 2026-05-31
 weight: 3
 tags: ["尚书"]
-draft: true
+draft: false
 summary: "尚书：大禹謨"
 showToc: false
 tocOpen: false

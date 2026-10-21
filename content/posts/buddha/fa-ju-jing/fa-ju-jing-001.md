@@ -2,7 +2,7 @@
 title: "法句经 卷第一"
 date: 2026-06-04
 tags: ["法句经"]
-draft: true
+draft: false
 summary: "法句经卷第一"
 showToc: false
 tocOpen: false

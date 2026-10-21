@@ -3,7 +3,7 @@ title: "淮南子：兵略训"
 date: 2026-06-19
 weight: 15
 tags: ["淮南子"]
-draft: true
+draft: false
 summary: "淮南子：兵略训"
 showToc: false
 tocOpen: false
