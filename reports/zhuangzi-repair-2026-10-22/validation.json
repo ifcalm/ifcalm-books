@@ -1,0 +1,291 @@
+{
+  "date": "2026-10-22",
+  "chapters": 33,
+  "paragraphs": 289,
+  "normalized_letters_before": 64831,
+  "normalized_letters_after": 65159,
+  "retained_cross_witness_difference_groups": 710,
+  "changed_body_files": [
+    "content/posts/taoism/zhuangzi/da-sheng.md",
+    "content/posts/taoism/zhuangzi/da-zhong-shi.md",
+    "content/posts/taoism/zhuangzi/dao-zhi.md",
+    "content/posts/taoism/zhuangzi/de-chong-fu.md",
+    "content/posts/taoism/zhuangzi/geng-sang-chu.md",
+    "content/posts/taoism/zhuangzi/ke-yi.md",
+    "content/posts/taoism/zhuangzi/lie-yu-kou.md",
+    "content/posts/taoism/zhuangzi/ma-ti.md",
+    "content/posts/taoism/zhuangzi/pian-mu.md",
+    "content/posts/taoism/zhuangzi/qi-wu-lun.md",
+    "content/posts/taoism/zhuangzi/qiu-shui.md",
+    "content/posts/taoism/zhuangzi/qu-qie.md",
+    "content/posts/taoism/zhuangzi/rang-wang.md",
+    "content/posts/taoism/zhuangzi/ren-shi-jian.md",
+    "content/posts/taoism/zhuangzi/shan-mu.md",
+    "content/posts/taoism/zhuangzi/shan-xing.md",
+    "content/posts/taoism/zhuangzi/shuo-jian.md",
+    "content/posts/taoism/zhuangzi/tian-dao.md",
+    "content/posts/taoism/zhuangzi/tian-di.md",
+    "content/posts/taoism/zhuangzi/tian-xia.md",
+    "content/posts/taoism/zhuangzi/tian-yun.md",
+    "content/posts/taoism/zhuangzi/tian-zi-fang.md",
+    "content/posts/taoism/zhuangzi/wai-wu.md",
+    "content/posts/taoism/zhuangzi/xiao-yao-you.md",
+    "content/posts/taoism/zhuangzi/xu-wu-gui.md",
+    "content/posts/taoism/zhuangzi/yang-sheng-zhu.md",
+    "content/posts/taoism/zhuangzi/ying-di-wang.md",
+    "content/posts/taoism/zhuangzi/yu-fu.md",
+    "content/posts/taoism/zhuangzi/yu-yan.md",
+    "content/posts/taoism/zhuangzi/zai-you.md",
+    "content/posts/taoism/zhuangzi/ze-yang.md",
+    "content/posts/taoism/zhuangzi/zhi-bei-you.md",
+    "content/posts/taoism/zhuangzi/zhi-le.md"
+  ],
+  "mechanical_findings": [],
+  "duplicate_bodies": [],
+  "checks": {
+    "pinned_sources_and_exact_generated_bodies": true,
+    "summaries_present_in_normalized_bodies": true,
+    "quote_and_parenthesis_nesting": true,
+    "rendered_33_chapter_canonical_order": true,
+    "readme_catalog": true,
+    "hugo_build": {
+      "version": "0.166.0",
+      "pages": 508,
+      "paginator_pages": 58,
+      "warnings": "Three pre-existing languageCode / LanguageDirection / LanguageCode deprecations"
+    }
+  },
+  "units": [
+    {
+      "path": "content/posts/taoism/zhuangzi/da-sheng.md",
+      "title": "庄子-达生",
+      "weight": 19,
+      "sha256": "526f91b5bc53055fa3ea09fe8a1291220314192d20bb17ed0d94aacb2f94d6f7",
+      "body_characters": 2961
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/da-zhong-shi.md",
+      "title": "庄子-大宗师",
+      "weight": 6,
+      "sha256": "81c0ea52c7178ff2f92fab18c0e3059821a8019a0fa5a2baa66a4c096309c296",
+      "body_characters": 3767
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/dao-zhi.md",
+      "title": "庄子-盗跖",
+      "weight": 29,
+      "sha256": "93e58cbefd25db7e8dd74f11ccfb45d5c787c04509318cc42824f7cd8ee212c2",
+      "body_characters": 3847
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/de-chong-fu.md",
+      "title": "庄子-德充符",
+      "weight": 5,
+      "sha256": "3dfdfb26ca75adde13feeda86b38bc39a3feb02e188b6545d7b1159b4b6cb5a9",
+      "body_characters": 2338
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/geng-sang-chu.md",
+      "title": "庄子-庚桑楚",
+      "weight": 23,
+      "sha256": "734c2b635e9a8d013dcd27b77f7d3f83b9bcddca290783da1738155de7bc439e",
+      "body_characters": 3035
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/ke-yi.md",
+      "title": "庄子-刻意",
+      "weight": 15,
+      "sha256": "e52ae86a358badf1df42693f9e6b2f2af48638c1b01cce44810ee6965fc50f5f",
+      "body_characters": 816
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/lie-yu-kou.md",
+      "title": "庄子-列御寇",
+      "weight": 32,
+      "sha256": "8b52a563954aa71f142103714a253c503cbf2ce1ee996c6b9753fbb6a28642ab",
+      "body_characters": 2005
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/ma-ti.md",
+      "title": "庄子-马蹄",
+      "weight": 9,
+      "sha256": "ea068144abab25addde0f7b68f85178ff973c3c1990eadf9cbd283dbe5e8595a",
+      "body_characters": 686
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/pian-mu.md",
+      "title": "庄子-骈拇",
+      "weight": 8,
+      "sha256": "935a60c46aadb055f962aaddbe44fdc0e1c5d4c74089e2115801ab3e6ca6116f",
+      "body_characters": 1246
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/qi-wu-lun.md",
+      "title": "庄子-齐物论",
+      "weight": 2,
+      "sha256": "d245342fe87a3c82d4e21f96d3c530a6063cddb8948ffea7c9b210bf34eff53b",
+      "body_characters": 3691
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/qiu-shui.md",
+      "title": "庄子-秋水",
+      "weight": 17,
+      "sha256": "8a997728ffb047432f965a174e45d092f2b44797358b1edbec6f05794c35adbb",
+      "body_characters": 3518
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/qu-qie.md",
+      "title": "庄子-胠箧",
+      "weight": 10,
+      "sha256": "5f2d8ef1d0bf5e3c4314b3d1b5670abe8b442bdf65fd7cbcec17c643c8997a05",
+      "body_characters": 1555
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/rang-wang.md",
+      "title": "庄子-让王",
+      "weight": 28,
+      "sha256": "0944663505df344473968e12aeea2f521b4d596bd48ef7e364201428de8d8d80",
+      "body_characters": 3425
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/ren-shi-jian.md",
+      "title": "庄子-人间世",
+      "weight": 4,
+      "sha256": "1ed2c9ca0d2c6bc4efe645c77ac4541384bdc4b22c837e7c69e934638700b64f",
+      "body_characters": 3470
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/shan-mu.md",
+      "title": "庄子-山木",
+      "weight": 20,
+      "sha256": "be33afcaf0c61e4bacdb0c01764864025a81369a320b4606610d5f160e09aaf5",
+      "body_characters": 2777
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/shan-xing.md",
+      "title": "庄子-缮性",
+      "weight": 16,
+      "sha256": "f56420721e5d44faacc5b945de67029c35de6d65b7bcb11d92261e1c29465b90",
+      "body_characters": 783
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/shuo-jian.md",
+      "title": "庄子-说剑",
+      "weight": 30,
+      "sha256": "c9333e12b4a100cce66e5bf60546415e699c8388f6cd85d04104a9f52376dcc1",
+      "body_characters": 1132
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/tian-dao.md",
+      "title": "庄子-天道",
+      "weight": 13,
+      "sha256": "936d3679890a7c70ed62adede5bcf8cdd54f7873f49da449c8e074d8e43122a6",
+      "body_characters": 2882
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/tian-di.md",
+      "title": "庄子-天地",
+      "weight": 12,
+      "sha256": "346bf021e871232f0e85f24566d61719c51206d26a51b7f72e86ae59a33ed6c1",
+      "body_characters": 3939
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/tian-xia.md",
+      "title": "庄子-天下",
+      "weight": 33,
+      "sha256": "7593f982fa5733258e55332a9f9111ede225192f35933bf2b3f4a5d779da598a",
+      "body_characters": 3313
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/tian-yun.md",
+      "title": "庄子-天运",
+      "weight": 14,
+      "sha256": "77df653d24722b2033af8cb077b0ab02e31569aa406a3cdb291e2e166ce7f04c",
+      "body_characters": 3178
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/tian-zi-fang.md",
+      "title": "庄子-田子方",
+      "weight": 21,
+      "sha256": "8291c0c0f4cf06ea14067cfdcaac45de0480eb0d74e9eb967c60fa79f80b1168",
+      "body_characters": 2748
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/wai-wu.md",
+      "title": "庄子-外物",
+      "weight": 26,
+      "sha256": "4d23e3eeed107e74b90fbb4780892d0136aa9b67c3b28b75531fbc3c1c7d347b",
+      "body_characters": 1924
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/xiao-yao-you.md",
+      "title": "庄子-逍遥游",
+      "weight": 1,
+      "sha256": "dd43ff6d61ddbc8253c02adab6ab5ce61b33efb298a34b80809741bd375548ec",
+      "body_characters": 1801
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/xu-wu-gui.md",
+      "title": "庄子-徐无鬼",
+      "weight": 24,
+      "sha256": "46fde60f7184929a9946ac29cece7be53cb758059758aa369a8234b674dcddbc",
+      "body_characters": 4306
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/yang-sheng-zhu.md",
+      "title": "庄子-养生主",
+      "weight": 3,
+      "sha256": "a0398ec8fd739f32d3105c54c5d25246fd1f7c02be1bae38ce7d649812bfd3c1",
+      "body_characters": 724
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/ying-di-wang.md",
+      "title": "庄子-应帝王",
+      "weight": 7,
+      "sha256": "5e14b006d9bb5e5a1a4c8fea8774a8bf47fba1958767b90a09630205153b5b3b",
+      "body_characters": 1367
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/yu-fu.md",
+      "title": "庄子-渔父",
+      "weight": 31,
+      "sha256": "d476266c220303183268a683ecdc2aaa1fffa8da967c411b2eec0a877adf93a7",
+      "body_characters": 1969
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/yu-yan.md",
+      "title": "庄子-寓言",
+      "weight": 27,
+      "sha256": "23b361b3e5793c126497ab5776e74e6be2ed927615811dc0de94e8d1b408b015",
+      "body_characters": 1180
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/zai-you.md",
+      "title": "庄子-在宥",
+      "weight": 11,
+      "sha256": "bb282348656f42e6393640be2621deef0ed7999a0e98f0de968c8ac62b321566",
+      "body_characters": 2847
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/ze-yang.md",
+      "title": "庄子-则阳",
+      "weight": 25,
+      "sha256": "e35551a82abdbe6859c916e5769b19f411efe5b9d1bce450a0298c3594295a4b",
+      "body_characters": 3230
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/zhi-bei-you.md",
+      "title": "庄子-知北游",
+      "weight": 22,
+      "sha256": "1c2144e2133458ba2d94bf3d06ce2eeef9afae4cc4cfd86ddd1877d15ea955dd",
+      "body_characters": 3310
+    },
+    {
+      "path": "content/posts/taoism/zhuangzi/zhi-le.md",
+      "title": "庄子-至乐",
+      "weight": 18,
+      "sha256": "716e1baf39c103e29b7c760c50720a6a2458e7548343c24937884e08394f0765",
+      "body_characters": 1765
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "meaning": "These are observed normalization mergers, not errors. Traditional source remains available and is never reconstructed by s2t.",
+  "collisions": [
+    {
+      "simplified": "争",
+      "traditional_forms": {
+        "争": 10,
+        "爭": 17
+      }
+    },
+    {
+      "simplified": "于",
+      "traditional_forms": {
+        "於": 833,
+        "于": 23
+      }
+    },
+    {
+      "simplified": "云",
+      "traditional_forms": {
+        "雲": 26,
+        "云": 5
+      }
+    },
+    {
+      "simplified": "产",
+      "traditional_forms": {
+        "產": 5,
+        "産": 1
+      }
+    },
+    {
+      "simplified": "余",
+      "traditional_forms": {
+        "餘": 24,
+        "余": 12
+      }
+    },
+    {
+      "simplified": "修",
+      "traditional_forms": {
+        "脩": 19,
+        "修": 13
+      }
+    },
+    {
+      "simplified": "冲",
+      "traditional_forms": {
+        "冲": 1,
+        "衝": 2
+      }
+    },
+    {
+      "simplified": "决",
+      "traditional_forms": {
+        "決": 10,
+        "决": 5
+      }
+    },
+    {
+      "simplified": "况",
+      "traditional_forms": {
+        "況": 18,
+        "况": 27
+      }
+    },
+    {
+      "simplified": "凄",
+      "traditional_forms": {
+        "凄": 1,
+        "悽": 1
+      }
+    },
+    {
+      "simplified": "几",
+      "traditional_forms": {
+        "幾": 36,
+        "几": 7
+      }
+    },
+    {
+      "simplified": "制",
+      "traditional_forms": {
+        "制": 8,
+        "製": 1
+      }
+    },
+    {
+      "simplified": "却",
+      "traditional_forms": {
+        "卻": 1,
+        "却": 5
+      }
+    },
+    {
+      "simplified": "卷",
+      "traditional_forms": {
+        "卷": 8,
+        "捲": 2
+      }
+    },
+    {
+      "simplified": "参",
+      "traditional_forms": {
+        "參": 8,
+        "参": 2
+      }
+    },
+    {
+      "simplified": "发",
+      "traditional_forms": {
+        "髮": 4,
+        "發": 27
+      }
+    },
+    {
+      "simplified": "叹",
+      "traditional_forms": {
+        "嘆": 2,
+        "歎": 13
+      }
+    },
+    {
+      "simplified": "后",
+      "traditional_forms": {
+        "後": 109,
+        "后": 3
+      }
+    },
+    {
+      "simplified": "向",
+      "traditional_forms": {
+        "向": 15,
+        "嚮": 5,
+        "曏": 1
+      }
+    },
+    {
+      "simplified": "启",
+      "traditional_forms": {
+        "啟": 2,
+        "啓": 1
+      }
+    },
+    {
+      "simplified": "吴",
+      "traditional_forms": {
+        "吴": 2,
+        "吳": 2
+      }
+    },
+    {
+      "simplified": "嘘",
+      "traditional_forms": {
+        "噓": 1,
+        "嘘": 2
+      }
+    },
+    {
+      "simplified": "墙",
+      "traditional_forms": {
+        "墻": 1,
+        "牆": 1
+      }
+    },
+    {
+      "simplified": "壮",
+      "traditional_forms": {
+        "壯": 3,
+        "壮": 2
+      }
+    },
+    {
+      "simplified": "复",
+      "traditional_forms": {
+        "覆": 2,
+        "復": 50
+      }
+    },
+    {
+      "simplified": "奸",
+      "traditional_forms": {
+        "奸": 1,
+        "姦": 2
+      }
+    },
+    {
+      "simplified": "娄",
+      "traditional_forms": {
+        "婁": 2,
+        "娄": 1
+      }
+    },
+    {
+      "simplified": "娱",
+      "traditional_forms": {
+        "娛": 2,
+        "娱": 2
+      }
+    },
+    {
+      "simplified": "寝",
+      "traditional_forms": {
+        "寢": 11,
+        "寝": 2
+      }
+    },
+    {
+      "simplified": "将",
+      "traditional_forms": {
+        "將": 72,
+        "将": 91
+      }
+    },
+    {
+      "simplified": "属",
+      "traditional_forms": {
+        "屬": 13,
+        "属": 1
+      }
+    },
+    {
+      "simplified": "岁",
+      "traditional_forms": {
+        "嵗": 10,
+        "歲": 2
+      }
+    },
+    {
+      "simplified": "岩",
+      "traditional_forms": {
+        "岩": 2,
+        "巖": 2
+      }
+    },
+    {
+      "simplified": "巨",
+      "traditional_forms": {
+        "巨": 10,
+        "鉅": 1
+      }
+    },
+    {
+      "simplified": "干",
+      "traditional_forms": {
+        "干": 12,
+        "榦": 1,
+        "乾": 4,
+        "幹": 1
+      }
+    },
+    {
+      "simplified": "并",
+      "traditional_forms": {
+        "並": 13,
+        "并": 13
+      }
+    },
+    {
+      "simplified": "幸",
+      "traditional_forms": {
+        "幸": 10,
+        "倖": 3
+      }
+    },
+    {
+      "simplified": "弹",
+      "traditional_forms": {
+        "彈": 3,
+        "弹": 2
+      }
+    },
+    {
+      "simplified": "强",
+      "traditional_forms": {
+        "強": 1,
+        "强": 19
+      }
+    },
+    {
+      "simplified": "御",
+      "traditional_forms": {
+        "御": 15,
+        "禦": 4
+      }
+    },
+    {
+      "simplified": "恤",
+      "traditional_forms": {
+        "卹": 1,
+        "恤": 1
+      }
+    },
+    {
+      "simplified": "愿",
+      "traditional_forms": {
+        "願": 33,
+        "愿": 1
+      }
+    },
+    {
+      "simplified": "戚",
+      "traditional_forms": {
+        "慼": 1,
+        "戚": 5
+      }
+    },
+    {
+      "simplified": "戯",
+      "traditional_forms": {
+        "戯": 2,
+        "戱": 1
+      }
+    },
+    {
+      "simplified": "托",
+      "traditional_forms": {
+        "託": 7,
+        "托": 1
+      }
+    },
+    {
+      "simplified": "数",
+      "traditional_forms": {
+        "數": 55,
+        "数": 8
+      }
+    },
+    {
+      "simplified": "晋",
+      "traditional_forms": {
+        "晉": 5,
+        "晋": 2
+      }
+    },
+    {
+      "simplified": "朴",
+      "traditional_forms": {
+        "朴": 8,
+        "樸": 6
+      }
+    },
+    {
+      "simplified": "来",
+      "traditional_forms": {
+        "來": 80,
+        "来": 1
+      }
+    },
+    {
+      "simplified": "栖",
+      "traditional_forms": {
+        "栖": 2,
+        "棲": 5
+      }
+    },
+    {
+      "simplified": "栗",
+      "traditional_forms": {
+        "慄": 6,
+        "栗": 7
+      }
+    },
+    {
+      "simplified": "毁",
+      "traditional_forms": {
+        "毁": 18,
+        "毀": 1
+      }
+    },
+    {
+      "simplified": "没",
+      "traditional_forms": {
+        "没": 1,
+        "沒": 5
+      }
+    },
+    {
+      "simplified": "泛",
+      "traditional_forms": {
+        "汎": 2,
+        "泛": 3
+      }
+    },
+    {
+      "simplified": "游",
+      "traditional_forms": {
+        "游": 9,
+        "遊": 27
+      }
+    },
+    {
+      "simplified": "湿",
+      "traditional_forms": {
+        "溼": 1,
+        "濕": 4
+      }
+    },
+    {
+      "simplified": "灾",
+      "traditional_forms": {
+        "災": 3,
+        "灾": 1
+      }
+    },
+    {
+      "simplified": "状",
+      "traditional_forms": {
+        "狀": 5,
+        "状": 5
+      }
+    },
+    {
+      "simplified": "盖",
+      "traditional_forms": {
+        "盖": 5,
+        "蓋": 4
+      }
+    },
+    {
+      "simplified": "盗",
+      "traditional_forms": {
+        "盜": 29,
+        "盗": 26
+      }
+    },
+    {
+      "simplified": "禄",
+      "traditional_forms": {
+        "祿": 4,
+        "禄": 9
+      }
+    },
+    {
+      "simplified": "箧",
+      "traditional_forms": {
+        "篋": 3,
+        "箧": 1
+      }
+    },
+    {
+      "simplified": "系",
+      "traditional_forms": {
+        "係": 10,
+        "繫": 3
+      }
+    },
+    {
+      "simplified": "累",
+      "traditional_forms": {
+        "纍": 1,
+        "累": 31
+      }
+    },
+    {
+      "simplified": "耻",
+      "traditional_forms": {
+        "恥": 4,
+        "耻": 7
+      }
+    },
+    {
+      "simplified": "脱",
+      "traditional_forms": {
+        "脫": 3,
+        "脱": 5
+      }
+    },
+    {
+      "simplified": "腊",
+      "traditional_forms": {
+        "臘": 1,
+        "腊": 1
+      }
+    },
+    {
+      "simplified": "荡",
+      "traditional_forms": {
+        "蕩": 13,
+        "盪": 1
+      }
+    },
+    {
+      "simplified": "营",
+      "traditional_forms": {
+        "營": 3,
+        "营": 4
+      }
+    },
+    {
+      "simplified": "虚",
+      "traditional_forms": {
+        "虛": 19,
+        "虚": 41
+      }
+    },
+    {
+      "simplified": "蜕",
+      "traditional_forms": {
+        "蛻": 2,
+        "蜕": 1
+      }
+    },
+    {
+      "simplified": "蝼",
+      "traditional_forms": {
+        "螻": 1,
+        "蝼": 1
+      }
+    },
+    {
+      "simplified": "说",
+      "traditional_forms": {
+        "說": 14,
+        "説": 63
+      }
+    },
+    {
+      "simplified": "谷",
+      "traditional_forms": {
+        "穀": 2,
+        "谷": 5
+      }
+    },
+    {
+      "simplified": "迹",
+      "traditional_forms": {
+        "迹": 20,
+        "跡": 2
+      }
+    },
+    {
+      "simplified": "遥",
+      "traditional_forms": {
+        "遥": 4,
+        "遙": 4
+      }
+    },
+    {
+      "simplified": "采",
+      "traditional_forms": {
+        "采": 5,
+        "採": 1
+      }
+    },
+    {
+      "simplified": "里",
+      "traditional_forms": {
+        "里": 41,
+        "裏": 1
+      }
+    },
+    {
+      "simplified": "钟",
+      "traditional_forms": {
+        "鍾": 8,
+        "鐘": 4
+      }
+    },
+    {
+      "simplified": "阅",
+      "traditional_forms": {
+        "閲": 2,
+        "閱": 1
+      }
+    },
+    {
+      "simplified": "雕",
+      "traditional_forms": {
+        "雕": 6,
+        "彫": 3
+      }
+    },
+    {
+      "simplified": "静",
+      "traditional_forms": {
+        "静": 7,
+        "靜": 31
+      }
+    },
+    {
+      "simplified": "须",
+      "traditional_forms": {
+        "鬚": 1,
+        "須": 6
+      }
+    },
+    {
+      "simplified": "饥",
+      "traditional_forms": {
+        "饑": 1,
+        "飢": 7
+      }
+    },
+    {
+      "simplified": "鸡",
+      "traditional_forms": {
+        "雞": 16,
+        "鷄": 1
+      }
+    }
+  ]
+}

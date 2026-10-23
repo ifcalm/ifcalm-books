@@ -1,0 +1,236 @@
+[
+  {
+    "chapter": 1,
+    "before": "培风背，负青天",
+    "adopted": "培风，背负青天",
+    "current_category": "句读取舍",
+    "literal_adopted_context_present": true,
+    "literal_prior_context_present": true,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 4,
+    "before": "其大蔽牛",
+    "adopted": "其大蔽数千牛",
+    "current_category": "校勘补文",
+    "literal_adopted_context_present": false,
+    "literal_prior_context_present": true,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 4,
+    "before": "实熟则剥则辱",
+    "adopted": "实熟则剥，剥则辱",
+    "current_category": "据注本补文",
+    "literal_adopted_context_present": false,
+    "literal_prior_context_present": true,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 6,
+    "before": "䪡万物而不为戾",
+    "adopted": "䪡万物而不为义",
+    "current_category": "误字",
+    "literal_adopted_context_present": true,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 10,
+    "before": "诸侯之门而义士存焉",
+    "adopted": "诸侯之门而仁义存焉",
+    "current_category": "讹文",
+    "literal_adopted_context_present": true,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 13,
+    "before": "中心勿恺",
+    "adopted": "中心物恺",
+    "current_category": "误字",
+    "literal_adopted_context_present": true,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 13,
+    "before": "世虽贵之哉，犹不足贵也",
+    "adopted": "世虽贵之，我犹不足贵也",
+    "current_category": "据通行注本择字",
+    "literal_adopted_context_present": false,
+    "literal_prior_context_present": true,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 14,
+    "before": "徽之以天",
+    "adopted": "征之以天",
+    "current_category": "误字",
+    "literal_adopted_context_present": false,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 14,
+    "before": "顺之以天理，应之以自然",
+    "adopted": "顺之以天理，行之以五德，应之以自然",
+    "current_category": "脱文与版本取舍",
+    "literal_adopted_context_present": true,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 17,
+    "before": "吾乐与！吾跳梁乎井干之上",
+    "adopted": "吾乐与！出跳梁乎井干之上",
+    "current_category": "据通行注本择字",
+    "literal_adopted_context_present": false,
+    "literal_prior_context_present": true,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 19,
+    "before": "养形必先之物",
+    "adopted": "养形必先之以物",
+    "current_category": "据注本补文",
+    "literal_adopted_context_present": false,
+    "literal_prior_context_present": true,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 21,
+    "before": "吾游于物之初",
+    "adopted": "吾游心于物之初",
+    "current_category": "据注本补文",
+    "literal_adopted_context_present": false,
+    "literal_prior_context_present": true,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 21,
+    "before": "于是旦而属之夫夫",
+    "adopted": "于是旦而属之大夫",
+    "current_category": "古字通读",
+    "literal_adopted_context_present": false,
+    "literal_prior_context_present": true,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 21,
+    "before": "诸夫夫蹵然",
+    "adopted": "诸大夫蹵然",
+    "current_category": "古字通读",
+    "literal_adopted_context_present": true,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 21,
+    "before": "诸夫夫曰",
+    "adopted": "诸大夫曰",
+    "current_category": "古字通读",
+    "literal_adopted_context_present": true,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 22,
+    "before": "子无所发子之狂言",
+    "adopted": "子无所发予之狂言",
+    "current_category": "误字",
+    "literal_adopted_context_present": true,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 24,
+    "before": "吾尝居山穴之口矣",
+    "adopted": "吾尝居山穴之中矣",
+    "current_category": "误字",
+    "literal_adopted_context_present": false,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 24,
+    "before": "适当渠公之术，然身肉食者终",
+    "adopted": "适当渠公之街，然身食肉而终",
+    "current_category": "讹文",
+    "literal_adopted_context_present": false,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 28,
+    "before": "乘以玉舆",
+    "adopted": "乘以王舆",
+    "current_category": "据新见证校订",
+    "literal_adopted_context_present": false,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 29,
+    "before": "此四子者，无异于磔犬",
+    "adopted": "此六子者，无异于磔犬",
+    "current_category": "数目误字",
+    "literal_adopted_context_present": false,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 30,
+    "before": "中知民意以安四乡",
+    "adopted": "中和民意以安四乡",
+    "current_category": "据通行注本择字",
+    "literal_adopted_context_present": false,
+    "literal_prior_context_present": true,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 31,
+    "before": "今者丘得过也",
+    "adopted": "今者丘得遇也",
+    "current_category": "据通行注本择字",
+    "literal_adopted_context_present": false,
+    "literal_prior_context_present": true,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 32,
+    "before": "而心有眼",
+    "adopted": "而心有睫",
+    "current_category": "误字",
+    "literal_adopted_context_present": true,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 32,
+    "before": "及其有眼也",
+    "adopted": "及其有睫也",
+    "current_category": "误字",
+    "literal_adopted_context_present": true,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 33,
+    "before": "末败墨子道",
+    "adopted": "未败墨子道",
+    "current_category": "误字",
+    "literal_adopted_context_present": true,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  },
+  {
+    "chapter": 33,
+    "before": "常反人，不聚观",
+    "adopted": "常反人，不见观",
+    "current_category": "误字",
+    "literal_adopted_context_present": true,
+    "literal_prior_context_present": false,
+    "interpretation": "Literal matching after simplification only; source gaps, other orthography, and old/new punctuation can affect matching. Not a correctness verdict."
+  }
+]

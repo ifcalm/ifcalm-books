@@ -1,0 +1,6180 @@
+{
+  "policy": "Primary readings retained. Differences are version/collation candidates, not automatic errors.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "逍遥游",
+      "path": "content/posts/taoism/zhuangzi/xiao-yao-you.md",
+      "paragraphs": 7,
+      "primary_chars": 1464,
+      "secondary_chars": 1461,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E9%80%8D%E9%81%99%E9%81%8A&oldid=11122546",
+      "wiki_text_sha256": "b82a7366cc78316ad1c186864a5b58fa625ffdc1f6a015c9684b03f8dc178153",
+      "wiki_raw_sha256": "a04ce5fb442b66511a84d4cd510e9fa8befa6662d37aba8cebf935e35fbbd688",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_001.txt",
+      "kanripo_sha256": "bea1b72c0add5dcfbb8bbd652f87516dde8f9f572c33fd6471872c47dfcc7671",
+      "differences": [
+        {
+          "kind": "delete",
+          "offset": 70,
+          "primary": "谐之言",
+          "secondary": "",
+          "before": "南冥南冥者天池也齐谐者志怪者也",
+          "after": "曰鹏之徙于南冥也水击三千里抟扶"
+        },
+        {
+          "kind": "replace",
+          "offset": 230,
+          "primary": "鸴",
+          "secondary": "学",
+          "before": "而莫之夭阏者而后乃今将图南蜩与",
+          "after": "鸠笑之曰我决起而飞枪榆枋时则不"
+        },
+        {
+          "kind": "replace",
+          "offset": 427,
+          "primary": "太",
+          "secondary": "泰",
+          "before": "修者其名为鲲有鸟焉其名为鹏背若",
+          "after": "山翼若垂天之云抟扶摇羊角而上者"
+        },
+        {
+          "kind": "replace",
+          "offset": 482,
+          "primary": "翺",
+          "secondary": "翱",
+          "before": "且奚适也我腾跃而上不过数仞而下",
+          "after": "翔蓬蒿之间此亦飞之至也而彼且奚"
+        },
+        {
+          "kind": "replace",
+          "offset": 571,
+          "primary": "境",
+          "secondary": "竟",
+          "before": "而不加沮定乎内外之分辩乎荣辱之",
+          "after": "斯已矣彼其于世未数数然也虽然犹"
+        },
+        {
+          "kind": "replace",
+          "offset": 951,
+          "primary": "盲",
+          "secondary": "瞽",
+          "before": "者无以与乎钟鼓之声岂唯形骸有聋",
+          "after": "哉夫知亦有之是其言也犹时女也之"
+        },
+        {
+          "kind": "replace",
+          "offset": 1022,
+          "primary": "秕",
+          "secondary": "粃",
+          "before": "大旱金石流土山焦而不热是其尘垢",
+          "after": "穅将犹陶铸尧舜者也孰肯以物为事"
+        },
+        {
+          "kind": "replace",
+          "offset": 1391,
+          "primary": "牦",
+          "secondary": "斄",
+          "before": "梁不避高下中于机辟死于罔罟今夫",
+          "after": "牛其大若垂天之云此能为大矣而不"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "齐物论",
+      "path": "content/posts/taoism/zhuangzi/qi-wu-lun.md",
+      "paragraphs": 13,
+      "primary_chars": 2997,
+      "secondary_chars": 3011,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E9%BD%8A%E7%89%A9%E8%AB%96&oldid=11117685",
+      "wiki_text_sha256": "86c12e15c12f820750c220156cbb2d722ba1d415ed5ee17de4968ddfa19c80c8",
+      "wiki_raw_sha256": "ce0d227cf5ecf75dcc49cc37104eaa8df1655e8413cf2e0f1106d9b2f41b7f1e",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_002.txt",
+      "kanripo_sha256": "fce1856136bd07e5024fcef90cc8d573e794b9ec2ada303c1e972d9e1e95f938",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 79,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "善乎而问之也今者吾丧我汝知之乎",
+          "after": "闻人籁而未闻地籁汝闻地籁而未闻"
+        },
+        {
+          "kind": "replace",
+          "offset": 88,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "丧我汝知之乎汝闻人籁而未闻地籁",
+          "after": "闻地籁而未闻天籁夫子游曰敢问其"
+        },
+        {
+          "kind": "replace",
+          "offset": 139,
+          "primary": "隹",
+          "secondary": "佳",
+          "before": "窍怒呺而独不闻之翏翏乎山林之畏",
+          "after": "大木百围之窍穴似鼻似口似耳似枅"
+        },
+        {
+          "kind": "replace",
+          "offset": 216,
+          "primary": "刁刁",
+          "secondary": "刀刀",
+          "before": "风济则众窍为虚而独不见之调调之",
+          "after": "乎子游曰地籁则众窍是已人籁则比"
+        },
+        {
+          "kind": "replace",
+          "offset": 269,
+          "primary": "间间",
+          "secondary": "闲闲",
+          "before": "咸其自取怒者其谁邪大知闲闲小知",
+          "after": "大言炎炎小言詹詹其寐也魂交其觉"
+        },
+        {
+          "kind": "replace",
+          "offset": 450,
+          "primary": "朕",
+          "secondary": "眹",
+          "before": "不知其所为使若有真宰而特不得其",
+          "after": "可行已信而不见其形有情而无形百"
+        },
+        {
+          "kind": "replace",
+          "offset": 453,
+          "primary": "已",
+          "secondary": "己",
+          "before": "所为使若有真宰而特不得其朕可行",
+          "after": "信而不见其形有情而无形百骸九窍"
+        },
+        {
+          "kind": "replace",
+          "offset": 482,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "九窍六藏赅而存焉吾谁与为亲汝皆",
+          "after": "之乎其有私焉如是皆有为臣妾乎其"
+        },
+        {
+          "kind": "replace",
+          "offset": 573,
+          "primary": "薾",
+          "secondary": "苶",
+          "before": "止不亦悲乎终身役役而不见其成功",
+          "after": "然疲役而不知其所归可不哀邪人谓"
+        },
+        {
+          "kind": "replace",
+          "offset": 697,
+          "primary": "奈",
+          "secondary": "柰",
+          "before": "无有为有虽有神禹且不能知吾独且",
+          "after": "何哉夫言非吹也言者有言其所言者"
+        },
+        {
+          "kind": "replace",
+          "offset": 828,
+          "primary": "知",
+          "secondary": "喻",
+          "before": "明物无非彼物无非是自彼则不见自",
+          "after": "则知之故曰彼出于是是亦因彼彼是"
+        },
+        {
+          "kind": "delete",
+          "offset": 1007,
+          "primary": "可乎可不可乎不可",
+          "secondary": "",
+          "before": "马之非马也天地一指也万物一马也",
+          "after": "道行之而成物谓之而然恶乎然然于"
+        },
+        {
+          "kind": "insert",
+          "offset": 1058,
+          "primary": "",
+          "secondary": "可乎可不可乎不可不可乎不可而可乎可",
+          "before": "所然物固有所可无物不然无物不可",
+          "after": "故为是举莛与楹厉与西施恢恑憰怪"
+        },
+        {
+          "kind": "replace",
+          "offset": 1172,
+          "primary": "暮",
+          "secondary": "莫",
+          "before": "朝三何谓朝三曰狙公赋芧曰朝三而",
+          "after": "四众狙皆怒曰然则朝四而暮三众狙"
+        },
+        {
+          "kind": "replace",
+          "offset": 1184,
+          "primary": "暮",
+          "secondary": "莫",
+          "before": "朝三而暮四众狙皆怒曰然则朝四而",
+          "after": "三众狙皆悦名实未亏而喜怒为用亦"
+        },
+        {
+          "kind": "replace",
+          "offset": 1216,
+          "primary": "均",
+          "secondary": "钧",
+          "before": "是也是以圣人和之以是非而休乎天",
+          "after": "是之谓两行古之人其知有所至矣恶"
+        },
+        {
+          "kind": "replace",
+          "offset": 1323,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "且无成与亏乎哉有成与亏故昭氏之",
+          "after": "琴也无成与亏故昭氏之不鼔琴也昭"
+        },
+        {
+          "kind": "replace",
+          "offset": 1335,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "昭氏之鼔琴也无成与亏故昭氏之不",
+          "after": "琴也昭文之鼔琴也师旷之枝策也惠"
+        },
+        {
+          "kind": "replace",
+          "offset": 1341,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "无成与亏故昭氏之不鼔琴也昭文之",
+          "after": "琴也师旷之枝策也惠子之据梧也三"
+        },
+        {
+          "kind": "replace",
+          "offset": 1606,
+          "primary": "太",
+          "secondary": "大",
+          "before": "其果无谓乎天下莫大于秋豪之末而",
+          "after": "山为小莫寿乎殇子而彭祖为夭天地"
+        },
+        {
+          "kind": "replace",
+          "offset": 1726,
+          "primary": "伦",
+          "secondary": "论",
+          "before": "为是而有畛也请言其畛有左有右有",
+          "after": "有义有分有辩有竞有争此之谓八德"
+        },
+        {
+          "kind": "replace",
+          "offset": 1728,
+          "primary": "义",
+          "secondary": "议",
+          "before": "而有畛也请言其畛有左有右有伦有",
+          "after": "有分有辩有竞有争此之谓八德六合"
+        },
+        {
+          "kind": "replace",
+          "offset": 1850,
+          "primary": "成",
+          "secondary": "周",
+          "before": "忮道昭而不道言辩而不及仁常而不",
+          "after": "廉清而不信勇忮而不成五者园而几"
+        },
+        {
+          "kind": "replace",
+          "offset": 2065,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "吾所谓不知之非知邪且吾尝试问乎",
+          "after": "民湿寝则腰疾偏死䲡然乎哉木处则"
+        },
+        {
+          "kind": "replace",
+          "offset": 2105,
+          "primary": "蛆",
+          "secondary": "且",
+          "before": "三者孰知正处民食刍豢麋鹿食荐蝍",
+          "after": "甘带鸱鸦嗜鼠四者孰知正味猨猵狙"
+        },
+        {
+          "kind": "replace",
+          "offset": 2110,
+          "primary": "嗜",
+          "secondary": "耆",
+          "before": "处民食刍豢麋鹿食荐蝍蛆甘带鸱鸦",
+          "after": "鼠四者孰知正味猨猵狙以为雌麋与"
+        },
+        {
+          "kind": "replace",
+          "offset": 2222,
+          "primary": "冱",
+          "secondary": "沍",
+          "before": "倪曰至人神矣大泽焚而不能热河汉",
+          "after": "而不能寒疾雷破山风振海而不能惊"
+        },
+        {
+          "kind": "replace",
+          "offset": 2348,
+          "primary": "莹",
+          "secondary": "荧",
+          "before": "子以为奚若长梧子曰是黄帝之所听",
+          "after": "也而丘也何足以知之且汝亦大早计"
+        },
+        {
+          "kind": "replace",
+          "offset": 2359,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "帝之所听莹也而丘也何足以知之且",
+          "after": "亦大早计见卵而求时夜见弹而求鸮"
+        },
+        {
+          "kind": "replace",
+          "offset": 2379,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "见卵而求时夜见弹而求鸮炙予尝为",
+          "after": "妄言之汝以妄听之奚旁日月挟宇宙"
+        },
+        {
+          "kind": "replace",
+          "offset": 2383,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "时夜见弹而求鸮炙予尝为汝妄言之",
+          "after": "以妄听之奚旁日月挟宇宙为其䐇合"
+        },
+        {
+          "kind": "replace",
+          "offset": 2397,
+          "primary": "䐇",
+          "secondary": "脗",
+          "before": "之汝以妄听之奚旁日月挟宇宙为其",
+          "after": "合置其滑涽以隶相尊众人役役圣人"
+        },
+        {
+          "kind": "replace",
+          "offset": 2435,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "成纯万物尽然而以是相蕴予恶乎知",
+          "after": "生之非惑邪予恶乎知恶死之非弱丧"
+        },
+        {
+          "kind": "replace",
+          "offset": 2486,
+          "primary": "匡",
+          "secondary": "筐",
+          "before": "之也涕泣沾襟及其至于王所与王同",
+          "after": "床食刍豢而后悔其泣也予恶乎知夫"
+        },
+        {
+          "kind": "replace",
+          "offset": 2585,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "觉窃窃然知之君乎牧乎固哉丘也与",
+          "after": "皆梦也予谓汝梦亦梦也是其言也其"
+        },
+        {
+          "kind": "replace",
+          "offset": 2591,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "君乎牧乎固哉丘也与汝皆梦也予谓",
+          "after": "梦亦梦也是其言也其名为吊诡万世"
+        },
+        {
+          "kind": "insert",
+          "offset": 2791,
+          "primary": "",
+          "secondary": "化声之相待若其不相待和之以天倪因之以曼衍所以穷年也",
+          "before": "与若与人俱不能相知也而待彼也邪",
+          "after": "何谓和之以天倪曰是不是然不然是"
+        },
+        {
+          "kind": "delete",
+          "offset": 2837,
+          "primary": "化声之相待若其不相待和之以天倪因之以曼衍",
+          "secondary": "",
+          "before": "若果然也则然之异乎不然也亦无辩",
+          "after": "所以穷年也忘年忘义振于无竟故寓"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "养生主",
+      "path": "content/posts/taoism/zhuangzi/yang-sheng-zhu.md",
+      "paragraphs": 4,
+      "primary_chars": 569,
+      "secondary_chars": 569,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E9%A4%8A%E7%94%9F%E4%B8%BB&oldid=11117686",
+      "wiki_text_sha256": "a2b08227aa7ef457bfbb4c8cb4e4ab58e9963e892442c3748685e25c579268ce",
+      "wiki_raw_sha256": "c8ad566a87ad62caf39b352e690b1efcb5a192a6ccec38ec2e7d2e4b6311e301",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_003.txt",
+      "kanripo_sha256": "ba7f4021e79ad6eb99b916368aee2245525d1866d39b62157bb1d0df9f0ccac0",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 302,
+          "primary": "遟",
+          "secondary": "迟",
+          "before": "族吾见其难为怵然为戒视为止行为",
+          "after": "动刀甚微謋然已解如土委地提刀而"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "人间世",
+      "path": "content/posts/taoism/zhuangzi/ren-shi-jian.md",
+      "paragraphs": 7,
+      "primary_chars": 2796,
+      "secondary_chars": 2795,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E4%BA%BA%E9%96%93%E4%B8%96&oldid=11117687",
+      "wiki_text_sha256": "4cbc7cc4bf8a531a55bad0b834848a2b6eea40ce6c90bd72fd3323787480ba8c",
+      "wiki_raw_sha256": "65a4de627e3e6f741c204080ce79a306d5fa74dc52d7246a54cb074d3d057a94",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_004.txt",
+      "kanripo_sha256": "14fbc8989be973a146db7e9cd417498b95979a31e6ddab1fa37af97e38207fd8",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 13,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "颜回见仲尼请行曰奚之曰将之",
+          "after": "曰奚为焉曰回闻衞君其年壮其行独"
+        },
+        {
+          "kind": "replace",
+          "offset": 21,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "行曰奚之曰将之衞曰奚为焉曰回闻",
+          "after": "君其年壮其行独轻用其国而不见其"
+        },
+        {
+          "kind": "delete",
+          "offset": 247,
+          "primary": "若殆为人菑夫",
+          "secondary": "",
+          "before": "美也命之曰菑人菑人者人必反菑之",
+          "after": "且苟为悦贤而恶不肖恶用而求有以"
+        },
+        {
+          "kind": "delete",
+          "offset": 358,
+          "primary": "下",
+          "secondary": "",
+          "before": "关龙逢纣杀王子比干是皆修其身以",
+          "after": "伛拊人之民以下拂其上者也故其君"
+        },
+        {
+          "kind": "replace",
+          "offset": 390,
+          "primary": "支",
+          "secondary": "枝",
+          "before": "其修以挤之是好名者也昔者尧攻丛",
+          "after": "胥敖禹攻有扈国为虚厉身为刑戮其"
+        },
+        {
+          "kind": "replace",
+          "offset": 478,
+          "primary": "釆",
+          "secondary": "采",
+          "before": "一则可乎曰恶恶可夫以阳为充孔扬",
+          "after": "色不定常人之所不违因案人之所感"
+        },
+        {
+          "kind": "replace",
+          "offset": 695,
+          "primary": "太",
+          "secondary": "大",
+          "before": "与古为徒若是则可乎仲尼曰恶恶可",
+          "after": "多政法而不谍虽固亦无罪虽然止是"
+        },
+        {
+          "kind": "replace",
+          "offset": 754,
+          "primary": "暤",
+          "secondary": "暭",
+          "before": "斋吾将语若有而为之其易邪易之者",
+          "after": "天不宜颜回曰回之家贫唯不饮酒不"
+        },
+        {
+          "kind": "insert",
+          "offset": 805,
+          "primary": "",
+          "secondary": "汝",
+          "before": "非心斋也回曰敢问心斋仲尼曰若一",
+          "after": "志无听之以耳而听之以心无听之以"
+        },
+        {
+          "kind": "replace",
+          "offset": 979,
+          "primary": "止",
+          "secondary": "矣",
+          "before": "知知者也瞻彼阕者虚室生白吉祥止",
+          "after": "夫且不止是之谓坐驰夫徇耳目内通"
+        },
+        {
+          "kind": "insert",
+          "offset": 1013,
+          "primary": "",
+          "secondary": "所",
+          "before": "心知鬼神将来舍而况人乎是万物之",
+          "after": "化也禹舜之所纽也伏羲几蘧之所行"
+        },
+        {
+          "kind": "replace",
+          "offset": 1022,
+          "primary": "羲",
+          "secondary": "戏",
+          "before": "人乎是万物之化也禹舜之所纽也伏",
+          "after": "几蘧之所行终而况散焉者乎叶公子"
+        },
+        {
+          "kind": "replace",
+          "offset": 1084,
+          "primary": "常",
+          "secondary": "尝",
+          "before": "犹未可动也而况诸侯乎吾甚栗之子",
+          "after": "语诸梁也曰凡事若小若大寡不道以"
+        },
+        {
+          "kind": "insert",
+          "offset": 1097,
+          "primary": "",
+          "secondary": "有",
+          "before": "之子常语诸梁也曰凡事若小若大寡",
+          "after": "不道以懽成事若不成则必有人道之"
+        },
+        {
+          "kind": "insert",
+          "offset": 1100,
+          "primary": "",
+          "secondary": "成",
+          "before": "语诸梁也曰凡事若小若大寡不道以",
+          "after": "懽成事若不成则必有人道之患事若"
+        },
+        {
+          "kind": "delete",
+          "offset": 1101,
+          "primary": "成",
+          "secondary": "",
+          "before": "诸梁也曰凡事若小若大寡不道以懽",
+          "after": "事若不成则必有人道之患事若成则"
+        },
+        {
+          "kind": "replace",
+          "offset": 1312,
+          "primary": "奈",
+          "secondary": "柰",
+          "before": "事其心者哀乐不易施乎前知其不可",
+          "after": "何而安之若命德之至也为人臣子者"
+        },
+        {
+          "kind": "replace",
+          "offset": 1389,
+          "primary": "怨",
+          "secondary": "怒",
+          "before": "必忠之以言言必或传之夫传两喜两",
+          "after": "之言天下之难者也夫两喜必多溢美"
+        },
+        {
+          "kind": "replace",
+          "offset": 1408,
+          "primary": "怨",
+          "secondary": "怒",
+          "before": "下之难者也夫两喜必多溢美之言两",
+          "after": "必多溢恶之言凡溢之类妄妄则其信"
+        },
+        {
+          "kind": "insert",
+          "offset": 1509,
+          "primary": "",
+          "secondary": "夫",
+          "before": "常卒乎鄙其作始也简其将毕也必巨",
+          "after": "言者风波也行者实丧也夫风波易以"
+        },
+        {
+          "kind": "delete",
+          "offset": 1519,
+          "primary": "夫",
+          "secondary": "",
+          "before": "将毕也必巨言者风波也行者实丧也",
+          "after": "风波易以动实丧易以危故忿设无由"
+        },
+        {
+          "kind": "replace",
+          "offset": 1616,
+          "primary": "愼",
+          "secondary": "慎",
+          "before": "劝成殆事美成在久恶成不及改可不",
+          "after": "与且夫乘物以游心托不得已以养中"
+        },
+        {
+          "kind": "replace",
+          "offset": 1652,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "报也莫若为致命此其难者颜阖将傅",
+          "after": "灵公太子而问于蘧伯玉曰有人于此"
+        },
+        {
+          "kind": "replace",
+          "offset": 1655,
+          "primary": "太",
+          "secondary": "大",
+          "before": "若为致命此其难者颜阖将傅衞灵公",
+          "after": "子而问于蘧伯玉曰有人于此其德天"
+        },
+        {
+          "kind": "replace",
+          "offset": 1710,
+          "primary": "奈",
+          "secondary": "柰",
+          "before": "知人之过而不知其所以过若然者吾",
+          "after": "之何蘧伯玉曰善哉问乎戒之愼之正"
+        },
+        {
+          "kind": "replace",
+          "offset": 1723,
+          "primary": "愼",
+          "secondary": "慎",
+          "before": "者吾奈之何蘧伯玉曰善哉问乎戒之",
+          "after": "之正汝身哉形莫若就心莫若和虽然"
+        },
+        {
+          "kind": "replace",
+          "offset": 1726,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "之何蘧伯玉曰善哉问乎戒之愼之正",
+          "after": "身哉形莫若就心莫若和虽然之二者"
+        },
+        {
+          "kind": "replace",
+          "offset": 1758,
+          "primary": "顚",
+          "secondary": "颠",
+          "before": "患就不欲入和不欲出形就而入且为",
+          "after": "为灭为崩为蹶心和而出且为声为名"
+        },
+        {
+          "kind": "replace",
+          "offset": 1849,
+          "primary": "愼",
+          "secondary": "慎",
+          "before": "知其不胜任也是其才之美者也戒之",
+          "after": "之积伐而美者以犯之几矣汝不知夫"
+        },
+        {
+          "kind": "replace",
+          "offset": 1939,
+          "primary": "虻",
+          "secondary": "䖟",
+          "before": "夫爱马者以筐盛矢以蜄盛溺适有蚊",
+          "after": "仆缘而拊之不时则缺衔毁首碎胷意"
+        },
+        {
+          "kind": "replace",
+          "offset": 1953,
+          "primary": "胷",
+          "secondary": "胸",
+          "before": "蚊虻仆缘而拊之不时则缺衔毁首碎",
+          "after": "意有所至而爱有所亡可不愼邪匠石"
+        },
+        {
+          "kind": "replace",
+          "offset": 1965,
+          "primary": "愼",
+          "secondary": "慎",
+          "before": "毁首碎胷意有所至而爱有所亡可不",
+          "after": "邪匠石之齐至乎曲辕见栎社树其大"
+        },
+        {
+          "kind": "insert",
+          "offset": 1982,
+          "primary": "",
+          "secondary": "数千",
+          "before": "匠石之齐至乎曲辕见栎社树其大蔽",
+          "after": "牛絜之百围其高临山十仞而后有枝"
+        },
+        {
+          "kind": "replace",
+          "offset": 2009,
+          "primary": "市",
+          "secondary": "巿",
+          "before": "后有枝其可以为舟者旁十数观者如",
+          "after": "匠伯不顾遂行不辍弟子厌观之走及"
+        },
+        {
+          "kind": "replace",
+          "offset": 2120,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "用故能若是之寿匠石归栎社见梦曰",
+          "after": "将恶乎比予哉若将比予于文木邪夫"
+        },
+        {
+          "kind": "insert",
+          "offset": 2148,
+          "primary": "",
+          "secondary": "剥",
+          "before": "木邪夫柤梨橘柚果蓏之属实熟则剥",
+          "after": "则辱大枝折小枝泄此以其能苦其生"
+        },
+        {
+          "kind": "replace",
+          "offset": 2229,
+          "primary": "奈",
+          "secondary": "柰",
+          "before": "得有此大也邪且也若与予也皆物也",
+          "after": "何哉其相物也而几死之散人又恶知"
+        },
+        {
+          "kind": "insert",
+          "offset": 2331,
+          "primary": "",
+          "secondary": "将",
+          "before": "游乎商之丘见大木焉有异结驷千乘",
+          "after": "隐将庇其所赖子綦曰此何木也哉此"
+        },
+        {
+          "kind": "replace",
+          "offset": 2332,
+          "primary": "将",
+          "secondary": "芘",
+          "before": "乎商之丘见大木焉有异结驷千乘隐",
+          "after": "庇其所赖子綦曰此何木也哉此必有"
+        },
+        {
+          "kind": "delete",
+          "offset": 2333,
+          "primary": "庇",
+          "secondary": "",
+          "before": "商之丘见大木焉有异结驷千乘隐将",
+          "after": "其所赖子綦曰此何木也哉此必有异"
+        },
+        {
+          "kind": "replace",
+          "offset": 2336,
+          "primary": "赖",
+          "secondary": "藾",
+          "before": "见大木焉有异结驷千乘隐将庇其所",
+          "after": "子綦曰此何木也哉此必有异材夫仰"
+        },
+        {
+          "kind": "replace",
+          "offset": 2435,
+          "primary": "秋",
+          "secondary": "楸",
+          "before": "也嗟乎神人以此不材宋有荆氏者宜",
+          "after": "柏桑其拱把而上者求狙猴之杙者斩"
+        },
+        {
+          "kind": "replace",
+          "offset": 2552,
+          "primary": "疏",
+          "secondary": "䟽",
+          "before": "祥也此乃神人之所以为大祥也支离",
+          "after": "者颐隐于齐肩高于顶会撮指天五管"
+        },
+        {
+          "kind": "replace",
+          "offset": 2582,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "管在上两髀为胁挫针治繲足以糊口",
+          "after": "䇲播精足以食十人上征武士则支离"
+        },
+        {
+          "kind": "replace",
+          "offset": 2726,
+          "primary": "寘",
+          "secondary": "避",
+          "before": "福轻乎羽莫之知载祸重乎地莫之知",
+          "after": "已乎已乎临人以德殆乎殆乎画地而"
+        },
+        {
+          "kind": "replace",
+          "offset": 2751,
+          "primary": "吾行",
+          "secondary": "郤曲",
+          "before": "乎殆乎画地而趋迷阳迷阳无伤吾行",
+          "after": "郤曲无伤吾足山木自寇也膏火自煎"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "德充符",
+      "path": "content/posts/taoism/zhuangzi/de-chong-fu.md",
+      "paragraphs": 6,
+      "primary_chars": 1862,
+      "secondary_chars": 1861,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%BE%B7%E5%85%85%E7%AC%A6&oldid=11117688",
+      "wiki_text_sha256": "9eb20193d81d54c6d4d68b15be06ddf8d1f4b5f15e0c4fb291aaf2b6b548597a",
+      "wiki_raw_sha256": "200145a73b7d1fd579c5dd589811db6f5383f7290a1cc0d5f34116ba4061c746",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_005.txt",
+      "kanripo_sha256": "686b706b2e70d3add8765aa6b24f6c2e97fbb8fb1b85777a61659ed2db735d6f",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 2,
+          "primary": "介",
+          "secondary": "兀",
+          "before": "鲁有",
+          "after": "者王骀从之游者与仲尼相若常季问"
+        },
+        {
+          "kind": "replace",
+          "offset": 24,
+          "primary": "介",
+          "secondary": "兀",
+          "before": "者与仲尼相若常季问于仲尼曰王骀",
+          "after": "者也从之游者与夫子中分鲁立不教"
+        },
+        {
+          "kind": "replace",
+          "offset": 111,
+          "primary": "介",
+          "secondary": "兀",
+          "before": "鲁国丘将引天下而与从之常季曰彼",
+          "after": "者也而王先生其与庸亦远矣若然者"
+        },
+        {
+          "kind": "replace",
+          "offset": 404,
+          "primary": "介",
+          "secondary": "兀",
+          "before": "从是也彼且何肯以物为事乎申徒嘉",
+          "after": "者也而与郑子产同师于伯昏无人子"
+        },
+        {
+          "kind": "replace",
+          "offset": 511,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "曰先生之门固有执政焉如此哉子而",
+          "after": "子之执政而后人者也闻之曰鉴明则"
+        },
+        {
+          "kind": "delete",
+          "offset": 581,
+          "primary": "不",
+          "secondary": "",
+          "before": "曰子既若是矣犹与尧争善计子之德",
+          "after": "足以自反邪申徒嘉曰自状其过以不"
+        },
+        {
+          "kind": "replace",
+          "offset": 614,
+          "primary": "奈",
+          "secondary": "柰",
+          "before": "者众不状其过以不当存者寡知不可",
+          "after": "何而安之若命唯有德者能之游于羿"
+        },
+        {
+          "kind": "replace",
+          "offset": 699,
+          "primary": "介",
+          "secondary": "兀",
+          "before": "邪吾与夫子游十九年矣而未尝知吾",
+          "after": "者也今子与我游于形骸之内而子索"
+        },
+        {
+          "kind": "replace",
+          "offset": 727,
+          "primary": "蹵",
+          "secondary": "蹴",
+          "before": "而子索我于形骸之外不亦过乎子产",
+          "after": "然改容更貌曰子无乃称鲁有介者叔"
+        },
+        {
+          "kind": "replace",
+          "offset": 740,
+          "primary": "介",
+          "secondary": "兀",
+          "before": "子产蹵然改容更貌曰子无乃称鲁有",
+          "after": "者叔山无趾踵见仲尼仲尼曰子不谨"
+        },
+        {
+          "kind": "replace",
+          "offset": 860,
+          "primary": "介",
+          "secondary": "兀",
+          "before": "所闻无趾出孔子曰弟子勉之夫无趾",
+          "after": "者也犹务学以复补前行之恶而况全"
+        },
+        {
+          "kind": "replace",
+          "offset": 972,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "曰天刑之安可解鲁哀公问于仲尼曰",
+          "after": "有恶人焉曰哀骀它丈夫与之处者思"
+        },
+        {
+          "kind": "replace",
+          "offset": 1189,
+          "primary": "豚",
+          "secondary": "㹠",
+          "before": "人者也仲尼曰丘也尝使于楚矣适见",
+          "after": "子食于其死母者少焉眴若皆弃之而"
+        },
+        {
+          "kind": "replace",
+          "offset": 1208,
+          "primary": "己",
+          "secondary": "已",
+          "before": "其死母者少焉眴若皆弃之而走不见",
+          "after": "焉尔不得类焉尔所爱其母者非爱其"
+        },
+        {
+          "kind": "replace",
+          "offset": 1542,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "君臣也德友而已矣𬮱跂支离无脤说",
+          "after": "灵公灵公悦之而视全人其脰肩肩瓮"
+        },
+        {
+          "kind": "replace",
+          "offset": 1547,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "而已矣𬮱跂支离无脤说衞灵公灵公",
+          "after": "之而视全人其脰肩肩瓮㼜大瘿说齐"
+        },
+        {
+          "kind": "replace",
+          "offset": 1558,
+          "primary": "㼜",
+          "secondary": "盎",
+          "before": "灵公灵公悦之而视全人其脰肩肩瓮",
+          "after": "大瘿说齐桓公桓公悦之而视全人其"
+        },
+        {
+          "kind": "replace",
+          "offset": 1567,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "人其脰肩肩瓮㼜大瘿说齐桓公桓公",
+          "after": "之而视全人其脰肩肩故德有所长而"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "大宗师",
+      "path": "content/posts/taoism/zhuangzi/da-zhong-shi.md",
+      "paragraphs": 11,
+      "primary_chars": 2995,
+      "secondary_chars": 2989,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%A4%A7%E5%AE%97%E5%B8%AB&oldid=11117689",
+      "wiki_text_sha256": "e118432e41a51be08d1b918dc8296f73d8c1237c2aaf249927e62809aa2c1e90",
+      "wiki_raw_sha256": "46d2a90c7f7ae9640a6ac1a40bf161db3647d4470cb3a6f0666bec20500a6b1e",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_006.txt",
+      "kanripo_sha256": "54bf82df807b58d46f89c0ef4751fbefd7aaa0da0f49060f827b3e21c0455a56",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 120,
+          "primary": "謩",
+          "secondary": "谟",
+          "before": "何谓真人古之真人不逆寡不雄成不",
+          "after": "士若然者过而弗悔当而不自得也若"
+        },
+        {
+          "kind": "replace",
+          "offset": 216,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "其耆欲深者其天机浅古之真人不知",
+          "after": "生不知恶死其出不䜣其入不距翛然"
+        },
+        {
+          "kind": "replace",
+          "offset": 242,
+          "primary": "忘",
+          "secondary": "志",
+          "before": "入不距翛然而往翛然而来而已矣不",
+          "after": "其所始不求其所终受而喜之忘而复"
+        },
+        {
+          "kind": "replace",
+          "offset": 282,
+          "primary": "志",
+          "secondary": "忘",
+          "before": "不以人助天是之谓真人若然者其心",
+          "after": "其容寂其颡頯凄然似秋煖然似春喜"
+        },
+        {
+          "kind": "replace",
+          "offset": 361,
+          "primary": "行",
+          "secondary": "徇",
+          "before": "仁也天时非贤也利害不通非君子也",
+          "after": "名失己非士也亡身不真非役人也若"
+        },
+        {
+          "kind": "replace",
+          "offset": 987,
+          "primary": "崐崘",
+          "secondary": "昆仑",
+          "before": "忒日月得之终古不息堪坏得之以袭",
+          "after": "冯夷得之以游大川肩吾得之以处大"
+        },
+        {
+          "kind": "replace",
+          "offset": 1490,
+          "primary": "闲",
+          "secondary": "间",
+          "before": "高于顶句赘指天阴阳之气有沴其心",
+          "after": "而无事跰𫏨而鉴于井曰嗟乎夫造物"
+        },
+        {
+          "kind": "replace",
+          "offset": 1519,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "造物者又将以予为此拘拘也子祀曰",
+          "after": "恶之乎曰亡予何恶浸假而化予之左"
+        },
+        {
+          "kind": "replace",
+          "offset": 1733,
+          "primary": "捍",
+          "secondary": "悍",
+          "before": "不翅于父母彼近吾死而我不听我则",
+          "after": "矣彼何罪焉夫大块载我以形劳我以"
+        },
+        {
+          "kind": "delete",
+          "offset": 1844,
+          "primary": "发然汗出",
+          "secondary": "",
+          "before": "大冶恶乎往而不可哉成然寐蘧然觉",
+          "after": "子桑户孟子反子琴张三人相与友曰"
+        },
+        {
+          "kind": "replace",
+          "offset": 1935,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "孔子闻之使子贡往待事焉或编曲或",
+          "after": "琴相和而歌曰嗟来桑户乎嗟来桑户"
+        },
+        {
+          "kind": "replace",
+          "offset": 2054,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "丘游方之内者也外内不相及而丘使",
+          "after": "往吊之丘则陋矣彼方且与造物者为"
+        },
+        {
+          "kind": "replace",
+          "offset": 2093,
+          "primary": "癕",
+          "secondary": "痈",
+          "before": "气彼以生为附赘县疣以死为决𤴯溃",
+          "after": "夫若然者又恶知死生先后之所在假"
+        },
+        {
+          "kind": "delete",
+          "offset": 2179,
+          "primary": "孔子",
+          "secondary": "",
+          "before": "之耳目哉子贡曰然则夫子何方之依",
+          "after": "曰丘天之戮民也虽然吾与汝共之子"
+        },
+        {
+          "kind": "replace",
+          "offset": 2713,
+          "primary": "䪡",
+          "secondary": "𩐋",
+          "before": "知也我为汝言其大略吾师乎吾师乎",
+          "after": "万物而不为戾泽及万世而不为仁长"
+        },
+        {
+          "kind": "replace",
+          "offset": 2719,
+          "primary": "戾",
+          "secondary": "义",
+          "before": "其大略吾师乎吾师乎䪡万物而不为",
+          "after": "泽及万世而不为仁长于上古而不为"
+        },
+        {
+          "kind": "replace",
+          "offset": 2767,
+          "primary": "仁义",
+          "secondary": "礼乐",
+          "before": "颜回曰回益矣仲尼曰何谓也曰回忘",
+          "after": "矣曰可矣犹未也它日复见曰回益矣"
+        },
+        {
+          "kind": "replace",
+          "offset": 2791,
+          "primary": "礼乐",
+          "secondary": "仁义",
+          "before": "它日复见曰回益矣曰何谓也曰回忘",
+          "after": "矣曰可矣犹未也它日复见曰回益矣"
+        },
+        {
+          "kind": "replace",
+          "offset": 2819,
+          "primary": "蹵",
+          "secondary": "蹴",
+          "before": "曰回益矣曰何谓也曰回坐忘矣仲尼",
+          "after": "然曰何谓坐忘颜回曰堕枝体黜聪明"
+        },
+        {
+          "kind": "replace",
+          "offset": 2879,
+          "primary": "淋",
+          "secondary": "霖",
+          "before": "乎丘也请从而后也子舆与子桑友而",
+          "after": "雨十日子舆曰子桑殆病矣裹饭而往"
+        },
+        {
+          "kind": "replace",
+          "offset": 2907,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "饭而往食之至子桑之门则若歌若哭",
+          "after": "琴曰父邪母邪天乎人乎有不任其声"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "应帝王",
+      "path": "content/posts/taoism/zhuangzi/ying-di-wang.md",
+      "paragraphs": 6,
+      "primary_chars": 1089,
+      "secondary_chars": 1087,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E6%87%89%E5%B8%9D%E7%8E%8B&oldid=11117690",
+      "wiki_text_sha256": "886977db85e8a0a4ab3020abbc0e8505eead97c61dea60ad81217ccebeb16abf",
+      "wiki_raw_sha256": "405cc8943bdb0443922990dcf6c6de13aebff0a6b8b01ae02e8b8bf944080b56",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_007.txt",
+      "kanripo_sha256": "7f7f287748422dd6f8536d479e22cc44ad5be2a02a7f09ea142c2170faf24c12",
+      "differences": [
+        {
+          "kind": "delete",
+          "offset": 3,
+          "primary": "道",
+          "secondary": "",
+          "before": "啮缺问",
+          "after": "于王倪四问而四不知啮缺因跃而大"
+        },
+        {
+          "kind": "replace",
+          "offset": 48,
+          "primary": "臧",
+          "secondary": "藏",
+          "before": "知之乎有虞氏不及泰氏有虞氏其犹",
+          "after": "仁以要人亦得人矣而未始出于非人"
+        },
+        {
+          "kind": "replace",
+          "offset": 115,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "吾见狂接舆狂接舆曰日中始何以语",
+          "after": "肩吾曰告我君人者以己出经式义度"
+        },
+        {
+          "kind": "delete",
+          "offset": 139,
+          "primary": "狂",
+          "secondary": "",
+          "before": "以己出经式义度人孰敢不听而化诸",
+          "after": "接舆曰是欺德也其于治天下也犹涉"
+        },
+        {
+          "kind": "replace",
+          "offset": 298,
+          "primary": "寱",
+          "secondary": "暇",
+          "before": "游无何有之乡以处圹埌之野汝又何",
+          "after": "以治天下感予之心为又复问无名人"
+        },
+        {
+          "kind": "replace",
+          "offset": 355,
+          "primary": "疏",
+          "secondary": "䟽",
+          "before": "居见老聃曰有人于此向疾彊梁物彻",
+          "after": "明学道不勌如是者可比明王乎老聃"
+        },
+        {
+          "kind": "replace",
+          "offset": 400,
+          "primary": "牦",
+          "secondary": "斄",
+          "before": "者也且也虎豹之文来田猨狙之便执",
+          "after": "之㣘来藉如是者可比明王乎阳子居"
+        },
+        {
+          "kind": "replace",
+          "offset": 402,
+          "primary": "㣘",
+          "secondary": "狗",
+          "before": "且也虎豹之文来田猨狙之便执牦之",
+          "after": "来藉如是者可比明王乎阳子居蹵然"
+        },
+        {
+          "kind": "replace",
+          "offset": 416,
+          "primary": "蹵",
+          "secondary": "蹴",
+          "before": "之㣘来藉如是者可比明王乎阳子居",
+          "after": "然曰敢问明王之治老聃曰明王之治"
+        },
+        {
+          "kind": "replace",
+          "offset": 636,
+          "primary": "向",
+          "secondary": "乡",
+          "before": "焉列子入泣涕沾襟以告壶子壶子曰",
+          "after": "吾示之以地文萌乎不震不正是殆见"
+        },
+        {
+          "kind": "replace",
+          "offset": 648,
+          "primary": "正",
+          "secondary": "止",
+          "before": "壶子曰向吾示之以地文萌乎不震不",
+          "after": "是殆见吾杜德机也尝又与来明日又"
+        },
+        {
+          "kind": "replace",
+          "offset": 708,
+          "primary": "向",
+          "secondary": "乡",
+          "before": "见其杜权矣列子入以告壶子壶子曰",
+          "after": "吾示之以天壤名实不入而机发于踵"
+        },
+        {
+          "kind": "insert",
+          "offset": 778,
+          "primary": "",
+          "secondary": "乡",
+          "before": "齐且复相之列子入以告壶子壶子曰",
+          "after": "吾向示之以太冲莫胜是殆见吾衡气"
+        },
+        {
+          "kind": "delete",
+          "offset": 779,
+          "primary": "向",
+          "secondary": "",
+          "before": "且复相之列子入以告壶子壶子曰吾",
+          "after": "示之以太冲莫胜是殆见吾衡气机也"
+        },
+        {
+          "kind": "replace",
+          "offset": 949,
+          "primary": "哉",
+          "secondary": "戎",
+          "before": "亲雕琢复朴块然独以其形立纷而封",
+          "after": "一以是终无为名尸无为谋府无为事"
+        },
+        {
+          "kind": "replace",
+          "offset": 977,
+          "primary": "朕",
+          "secondary": "眹",
+          "before": "无为事任无为知主体尽无穷而游无",
+          "after": "尽其所受乎天而无见得亦虚而已至"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "骈拇",
+      "path": "content/posts/taoism/zhuangzi/pian-mu.md",
+      "paragraphs": 4,
+      "primary_chars": 1044,
+      "secondary_chars": 1044,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E9%A7%A2%E6%8B%87&oldid=11117691",
+      "wiki_text_sha256": "fb949f1a6bf4200d8eb740f689e01ab687a09bb385dc55c1f305e7b5b89080df",
+      "wiki_raw_sha256": "a7fe781b01d6c1be603e358691805ce8269acc9ee7df6c092f3585dc727a1bdf",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_008.txt",
+      "kanripo_sha256": "b28a5f998cd6a3dc43490d067febdfbf3f220440c2f72031f27180a0afd2f936",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 162,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "于仁者擢德塞性以收名声使天下簧",
+          "after": "以奉不及之法非乎而曾史是已骈于"
+        },
+        {
+          "kind": "replace",
+          "offset": 409,
+          "primary": "绳约",
+          "secondary": "𬙊索",
+          "before": "夫待钩绳规矩而正者是削其性也待",
+          "after": "胶漆而固者是侵其德也屈折礼乐呴"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "马蹄",
+      "path": "content/posts/taoism/zhuangzi/ma-ti.md",
+      "paragraphs": 3,
+      "primary_chars": 559,
+      "secondary_chars": 559,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E9%A6%AC%E8%B9%84&oldid=11117692",
+      "wiki_text_sha256": "cdbf182d396822cc88f89cd9726a0d402c566627690e97793f2d84ff3a71acd4",
+      "wiki_raw_sha256": "a1a6849e2a703d35d4a54fe2b1d4f9ac5502abf80d2b4d31461d7df3f6ee7a8b",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_009.txt",
+      "kanripo_sha256": "033c4e8be1db5b7a0dcbef181a10f5fb855bb662d2a74d91f10c7933926269b3",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 216,
+          "primary": "塡塡",
+          "secondary": "填填",
+          "before": "一而不党命曰天放故至德之世其行",
+          "after": "其视顚顚当是时也山无蹊隧泽无舟"
+        },
+        {
+          "kind": "replace",
+          "offset": 220,
+          "primary": "顚顚",
+          "secondary": "颠颠",
+          "before": "命曰天放故至德之世其行塡塡其视",
+          "after": "当是时也山无蹊隧泽无舟梁万物群"
+        },
+        {
+          "kind": "replace",
+          "offset": 336,
+          "primary": "擿",
+          "secondary": "摘",
+          "before": "仁踶跂为义而天下始疑矣澶漫为乐",
+          "after": "僻为礼而天下始分矣故纯朴不残孰"
+        },
+        {
+          "kind": "insert",
+          "offset": 371,
+          "primary": "",
+          "secondary": "性",
+          "before": "玉不毁孰为珪璋道德不废安取仁义",
+          "after": "情性不离安用礼乐五色不乱孰为文"
+        },
+        {
+          "kind": "delete",
+          "offset": 372,
+          "primary": "性",
+          "secondary": "",
+          "before": "不毁孰为珪璋道德不废安取仁义情",
+          "after": "不离安用礼乐五色不乱孰为文采五"
+        },
+        {
+          "kind": "replace",
+          "offset": 449,
+          "primary": "枙",
+          "secondary": "扼",
+          "before": "则分背相踶马知已此矣夫加之以衡",
+          "after": "齐之以月题而马知介倪𬮱枙騺曼诡"
+        },
+        {
+          "kind": "replace",
+          "offset": 461,
+          "primary": "枙騺",
+          "secondary": "扼鸷",
+          "before": "之以衡枙齐之以月题而马知介倪𬮱",
+          "after": "曼诡衔窃辔故马之知而能至盗者伯"
+        },
+        {
+          "kind": "replace",
+          "offset": 527,
+          "primary": "企",
+          "secondary": "跂",
+          "before": "及至圣人屈折礼乐以匡天下之形县",
+          "after": "仁义以慰天下之心而民乃始踶跂好"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "胠箧",
+      "path": "content/posts/taoism/zhuangzi/qu-qie.md",
+      "paragraphs": 7,
+      "primary_chars": 1280,
+      "secondary_chars": 1280,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E8%83%A0%E7%AF%8B&oldid=11117696",
+      "wiki_text_sha256": "8ee6a3fd94a3f77be690d2657a91eba2067685a25e23f75a39351de583d8c6bd",
+      "wiki_raw_sha256": "b2417b16c62301311ad7d1868251d9ac748cb9f2bfbbcde8eeac9c629fd58dcd",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_010.txt",
+      "kanripo_sha256": "b1649772ed37b1f313b40ba6c1ad54c5e6044d4dd17e534c9b7f247fde1ca70d",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 56,
+          "primary": "向",
+          "secondary": "乡",
+          "before": "囊而趋唯恐缄縢扃𫔎之不固也然则",
+          "after": "之所谓知者不乃为大盗积者也故尝"
+        },
+        {
+          "kind": "replace",
+          "offset": 138,
+          "primary": "境",
+          "secondary": "竟",
+          "before": "之所布耒耨之所刺方二千余里阖四",
+          "after": "之内所以立宗庙社稷治邑屋州闾乡"
+        },
+        {
+          "kind": "replace",
+          "offset": 299,
+          "primary": "肔",
+          "secondary": "胣",
+          "before": "以知其然邪昔者龙逢斩比干剖苌弘",
+          "after": "子胥靡故四子之贤而身不免乎戮故"
+        },
+        {
+          "kind": "insert",
+          "offset": 594,
+          "primary": "",
+          "secondary": "仁",
+          "before": "窃钩者诛窃国者为诸侯诸侯之门而",
+          "after": "义士存焉则是非窃仁义圣知邪故逐"
+        },
+        {
+          "kind": "delete",
+          "offset": 595,
+          "primary": "士",
+          "secondary": "",
+          "before": "钩者诛窃国者为诸侯诸侯之门而义",
+          "after": "存焉则是非窃仁义圣知邪故逐于大"
+        },
+        {
+          "kind": "replace",
+          "offset": 803,
+          "primary": "有",
+          "secondary": "含",
+          "before": "绳而弃规矩攦工倕之指而天下始人",
+          "after": "其巧矣故曰大巧若拙削曾史之行钳"
+        },
+        {
+          "kind": "replace",
+          "offset": 1097,
+          "primary": "罔",
+          "secondary": "网",
+          "before": "毕弋机变之知多则鸟乱于上矣钩饵",
+          "after": "罟罾笱之知多则鱼乱于水矣削格罗"
+        },
+        {
+          "kind": "replace",
+          "offset": 1216,
+          "primary": "喘",
+          "secondary": "惴",
+          "before": "月之明下烁山川之精中堕四时之施",
+          "after": "耎之虫肖翘之物莫不失其性甚矣夫"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "在宥",
+      "path": "content/posts/taoism/zhuangzi/zai-you.md",
+      "paragraphs": 8,
+      "primary_chars": 2301,
+      "secondary_chars": 2303,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%9C%A8%E5%AE%A5&oldid=11117697",
+      "wiki_text_sha256": "e033df6a9a4ceb8caf92d3296f889c7d1563da2bee74a133bc361c570a11559a",
+      "wiki_raw_sha256": "944e6186122c84d46226fdc54e829814502efce9c316a035c04d9a26c9e10de5",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_011.txt",
+      "kanripo_sha256": "4673c3ad1b92ef9fe2142af713f65c1486512a929c319c7f63d6f5a8ff5e1226",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 243,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "罚为事彼何暇安其性命之情哉而且",
+          "after": "明邪是淫于色也悦聪邪是淫于声也"
+        },
+        {
+          "kind": "replace",
+          "offset": 251,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "性命之情哉而且悦明邪是淫于色也",
+          "after": "聪邪是淫于声也悦仁邪是乱于德也"
+        },
+        {
+          "kind": "replace",
+          "offset": 259,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "明邪是淫于色也悦聪邪是淫于声也",
+          "after": "仁邪是乱于德也悦义邪是悖于理也"
+        },
+        {
+          "kind": "replace",
+          "offset": 267,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "聪邪是淫于声也悦仁邪是乱于德也",
+          "after": "义邪是悖于理也悦礼邪是相于技也"
+        },
+        {
+          "kind": "replace",
+          "offset": 275,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "仁邪是乱于德也悦义邪是悖于理也",
+          "after": "礼邪是相于技也悦乐邪是相于淫也"
+        },
+        {
+          "kind": "replace",
+          "offset": 283,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "义邪是悖于理也悦礼邪是相于技也",
+          "after": "乐邪是相于淫也悦圣邪是相于艺也"
+        },
+        {
+          "kind": "replace",
+          "offset": 291,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "礼邪是相于技也悦乐邪是相于淫也",
+          "after": "圣邪是相于艺也悦知邪是相于疵也"
+        },
+        {
+          "kind": "replace",
+          "offset": 299,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "乐邪是相于淫也悦圣邪是相于艺也",
+          "after": "知邪是相于疵也天下将安其性命之"
+        },
+        {
+          "kind": "replace",
+          "offset": 422,
+          "primary": "为",
+          "secondary": "以",
+          "before": "无为无为也而后安其性命之情故贵",
+          "after": "身于为天下则可以托天下爱以身于"
+        },
+        {
+          "kind": "replace",
+          "offset": 484,
+          "primary": "吹",
+          "secondary": "炊",
+          "before": "而雷声神动而天随从容无为而万物",
+          "after": "累焉吾又何暇治天下哉崔瞿问于老"
+        },
+        {
+          "kind": "replace",
+          "offset": 514,
+          "primary": "愼",
+          "secondary": "慎",
+          "before": "老聃曰不治天下安臧人心老聃曰汝",
+          "after": "无撄人心人心排下而进上上下囚杀"
+        },
+        {
+          "kind": "replace",
+          "offset": 734,
+          "primary": "斤",
+          "secondary": "𬬱",
+          "before": "漫矣天下好知而百姓求竭矣于是乎",
+          "after": "锯制焉绳墨杀焉椎凿决焉天下脊脊"
+        },
+        {
+          "kind": "replace",
+          "offset": 943,
+          "primary": "奈",
+          "secondary": "柰",
+          "before": "养民人吾又欲官阴阳以遂群生为之",
+          "after": "何广成子曰而所欲问者物之质也而"
+        },
+        {
+          "kind": "replace",
+          "offset": 1021,
+          "primary": "闲",
+          "secondary": "间",
+          "before": "语至道黄帝退捐天下筑特室席白茅",
+          "after": "居三月复往邀之广成子南首而卧黄"
+        },
+        {
+          "kind": "replace",
+          "offset": 1063,
+          "primary": "奈",
+          "secondary": "柰",
+          "before": "首而问曰闻吾子达于至道敢问治身",
+          "after": "何而可以长久广成子蹶然而起曰善"
+        },
+        {
+          "kind": "replace",
+          "offset": 1085,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "广成子蹶然而起曰善哉问乎来吾语",
+          "after": "至道至道之精窈窈冥冥至道之极昏"
+        },
+        {
+          "kind": "replace",
+          "offset": 1122,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "听抱神以静形将自正必静必清无劳",
+          "after": "形无摇汝精乃可以长生目无所见耳"
+        },
+        {
+          "kind": "replace",
+          "offset": 1126,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "静形将自正必静必清无劳汝形无摇",
+          "after": "精乃可以长生目无所见耳无所闻心"
+        },
+        {
+          "kind": "replace",
+          "offset": 1145,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "以长生目无所见耳无所闻心无所知",
+          "after": "神将守形形乃长生愼汝内闭汝外多"
+        },
+        {
+          "kind": "replace",
+          "offset": 1154,
+          "primary": "愼汝",
+          "secondary": "慎女",
+          "before": "所闻心无所知汝神将守形形乃长生",
+          "after": "内闭汝外多知为败我为汝遂于大明"
+        },
+        {
+          "kind": "replace",
+          "offset": 1158,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "所知汝神将守形形乃长生愼汝内闭",
+          "after": "外多知为败我为汝遂于大明之上矣"
+        },
+        {
+          "kind": "replace",
+          "offset": 1166,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "乃长生愼汝内闭汝外多知为败我为",
+          "after": "遂于大明之上矣至彼至阳之原也为"
+        },
+        {
+          "kind": "replace",
+          "offset": 1182,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "遂于大明之上矣至彼至阳之原也为",
+          "after": "入于窈冥之门矣至彼至阴之原也天"
+        },
+        {
+          "kind": "replace",
+          "offset": 1205,
+          "primary": "愼",
+          "secondary": "慎",
+          "before": "至彼至阴之原也天地有官阴阳有藏",
+          "after": "守汝身物将自壮我守其一以处其和"
+        },
+        {
+          "kind": "replace",
+          "offset": 1207,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "至阴之原也天地有官阴阳有藏愼守",
+          "after": "身物将自壮我守其一以处其和故我"
+        },
+        {
+          "kind": "replace",
+          "offset": 1256,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "曰广成子之谓天矣广成子曰来余语",
+          "after": "彼其物无穷而人皆以为终彼其物无"
+        },
+        {
+          "kind": "insert",
+          "offset": 1267,
+          "primary": "",
+          "secondary": "有",
+          "before": "曰来余语汝彼其物无穷而人皆以为",
+          "after": "终彼其物无测而人皆以为极得吾道"
+        },
+        {
+          "kind": "insert",
+          "offset": 1278,
+          "primary": "",
+          "secondary": "有",
+          "before": "人皆以为终彼其物无测而人皆以为",
+          "after": "极得吾道者上为皇而下为王失吾道"
+        },
+        {
+          "kind": "replace",
+          "offset": 1317,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "夫百昌皆生于土而反于土故余将去",
+          "after": "入无穷之门以游无极之野吾与日月"
+        },
+        {
+          "kind": "replace",
+          "offset": 1377,
+          "primary": "髀",
+          "secondary": "脾",
+          "before": "过扶摇之枝而适遭鸿蒙鸿蒙方将拊",
+          "after": "雀跃而游云将见之倘然止贽然立曰"
+        },
+        {
+          "kind": "replace",
+          "offset": 1404,
+          "primary": "髀",
+          "secondary": "脾",
+          "before": "贽然立曰叟何人邪叟何为此鸿蒙拊",
+          "after": "雀跃不辍对云将曰游云将曰朕愿有"
+        },
+        {
+          "kind": "replace",
+          "offset": 1464,
+          "primary": "奈",
+          "secondary": "柰",
+          "before": "节今我愿合六气之精以育群生为之",
+          "after": "何鸿蒙拊髀雀跃掉头曰吾弗知吾弗"
+        },
+        {
+          "kind": "replace",
+          "offset": 1469,
+          "primary": "髀",
+          "secondary": "脾",
+          "before": "六气之精以育群生为之奈何鸿蒙拊",
+          "after": "雀跃掉头曰吾弗知吾弗知云将不得"
+        },
+        {
+          "kind": "replace",
+          "offset": 1493,
+          "primary": "宗",
+          "secondary": "宋",
+          "before": "吾弗知云将不得问又三年东游过有",
+          "after": "之野而适遭鸿蒙云将大喜行趋而进"
+        },
+        {
+          "kind": "replace",
+          "offset": 1617,
+          "primary": "昆",
+          "secondary": "止",
+          "before": "解兽之群而鸟皆夜鸣灾及草木祸及",
+          "after": "虫噫治人之过也云将曰然则吾奈何"
+        },
+        {
+          "kind": "replace",
+          "offset": 1619,
+          "primary": "噫",
+          "secondary": "意",
+          "before": "之群而鸟皆夜鸣灾及草木祸及昆虫",
+          "after": "治人之过也云将曰然则吾奈何鸿蒙"
+        },
+        {
+          "kind": "replace",
+          "offset": 1631,
+          "primary": "奈",
+          "secondary": "柰",
+          "before": "及昆虫噫治人之过也云将曰然则吾",
+          "after": "何鸿蒙曰噫毒哉僊僊乎归矣云将曰"
+        },
+        {
+          "kind": "replace",
+          "offset": 1636,
+          "primary": "噫",
+          "secondary": "意",
+          "before": "人之过也云将曰然则吾奈何鸿蒙曰",
+          "after": "毒哉僊僊乎归矣云将曰吾遇天难愿"
+        },
+        {
+          "kind": "replace",
+          "offset": 1658,
+          "primary": "噫",
+          "secondary": "意",
+          "before": "矣云将曰吾遇天难愿闻一言鸿蒙曰",
+          "after": "心养汝徒处无为而物自化堕尔形体"
+        },
+        {
+          "kind": "replace",
+          "offset": 1839,
+          "primary": "览",
+          "secondary": "揽",
+          "before": "闻不如众技众矣而欲为人之国者此",
+          "after": "乎三王之利而不见其患者也此以人"
+        },
+        {
+          "kind": "replace",
+          "offset": 1931,
+          "primary": "夫",
+          "secondary": "乎",
+          "before": "物者不可以物物而不物故能物物明",
+          "after": "物物者之非物也岂独治天下百姓而"
+        },
+        {
+          "kind": "replace",
+          "offset": 1986,
+          "primary": "响",
+          "secondary": "向",
+          "before": "谓至贵大人之教若形之于影声之于",
+          "after": "有问而应之尽其所怀为天下配处乎"
+        },
+        {
+          "kind": "replace",
+          "offset": 2003,
+          "primary": "响",
+          "secondary": "向",
+          "before": "问而应之尽其所怀为天下配处乎无",
+          "after": "行乎无方挈汝适复之挠挠以游无端"
+        },
+        {
+          "kind": "replace",
+          "offset": 2041,
+          "primary": "己",
+          "secondary": "已",
+          "before": "始颂论形躯合乎大同大同而无己无",
+          "after": "恶乎得有有覩有者昔之君子覩无者"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "天地",
+      "path": "content/posts/taoism/zhuangzi/tian-di.md",
+      "paragraphs": 16,
+      "primary_chars": 3149,
+      "secondary_chars": 3160,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%A4%A9%E5%9C%B0&oldid=11117698",
+      "wiki_text_sha256": "1932e22fe8a13807bddb9e50caa1b02d1280026679ffa1ab7dabcd37291b685e",
+      "wiki_raw_sha256": "711f4a58ed828d4d3523002deb5bb35ad932faf984095b594f44e60ef6d40d2c",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_012.txt",
+      "kanripo_sha256": "84ba5f82af4e08a3823db40414e619cb3bbd4689271c1e0381c4a80b4dfe8e73",
+      "differences": [
+        {
+          "kind": "insert",
+          "offset": 185,
+          "primary": "",
+          "secondary": "天地化生",
+          "before": "毕无心得而鬼神服夫子曰夫道覆载",
+          "after": "万物者也洋洋乎大哉君子不可以不"
+        },
+        {
+          "kind": "insert",
+          "offset": 537,
+          "primary": "",
+          "secondary": "各有其具",
+          "before": "供其求时骋而要其宿大小长短修远",
+          "after": "黄帝游乎赤水之北登乎崐崘之丘而"
+        },
+        {
+          "kind": "replace",
+          "offset": 547,
+          "primary": "崐崘",
+          "secondary": "昆仑",
+          "before": "小长短修远黄帝游乎赤水之北登乎",
+          "after": "之丘而南望还归遗其玄珠使知索之"
+        },
+        {
+          "kind": "replace",
+          "offset": 657,
+          "primary": "岌",
+          "secondary": "圾",
+          "before": "配天乎吾藉王倪以要之许由曰殆哉",
+          "after": "乎天下啮缺之为人也聪明叡知给数"
+        },
+        {
+          "kind": "replace",
+          "offset": 849,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "曰辞封人曰寿富多男子人之所欲也",
+          "after": "独不欲何邪尧曰多男子则多惧富则"
+        },
+        {
+          "kind": "replace",
+          "offset": 889,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "非所以养德也故辞封人曰始也我以",
+          "after": "为圣人邪今然君子也天生万民必授"
+        },
+        {
+          "kind": "replace",
+          "offset": 960,
+          "primary": "闲",
+          "secondary": "间",
+          "before": "有道则与物皆昌天下无道则修德就",
+          "after": "千岁厌世去而上僊乘彼白云至于帝"
+        },
+        {
+          "kind": "replace",
+          "offset": 1301,
+          "primary": "思",
+          "secondary": "累",
+          "before": "胥易技系劳形怵心者也执留之狗成",
+          "after": "猨狙之便自山林来丘予告若而所不"
+        },
+        {
+          "kind": "replace",
+          "offset": 1394,
+          "primary": "蒋",
+          "secondary": "将",
+          "before": "其名为忘己忘己之人是之谓入于天",
+          "after": "闾葂见季彻曰鲁君谓葂也曰请受教"
+        },
+        {
+          "kind": "replace",
+          "offset": 1490,
+          "primary": "处",
+          "secondary": "遽",
+          "before": "车轶则必不胜任矣且若是则其自为",
+          "after": "危其观台多物将往投迹者众蒋闾葂"
+        },
+        {
+          "kind": "replace",
+          "offset": 1503,
+          "primary": "蒋",
+          "secondary": "将",
+          "before": "自为处危其观台多物将往投迹者众",
+          "after": "闾葂覤覤然惊曰葂也汒若于夫子之"
+        },
+        {
+          "kind": "replace",
+          "offset": 1670,
+          "primary": "仰",
+          "secondary": "卬",
+          "before": "力甚寡而见功多夫子不欲乎为圃者",
+          "after": "而视之曰奈何曰凿木为机后重前轻"
+        },
+        {
+          "kind": "replace",
+          "offset": 1675,
+          "primary": "奈",
+          "secondary": "柰",
+          "before": "功多夫子不欲乎为圃者仰而视之曰",
+          "after": "何曰凿木为机后重前轻挈水若抽数"
+        },
+        {
+          "kind": "replace",
+          "offset": 1733,
+          "primary": "胷",
+          "secondary": "胸",
+          "before": "有机事有机事者必有机心机心存于",
+          "after": "中则纯白不备纯白不备则神生不定"
+        },
+        {
+          "kind": "replace",
+          "offset": 1773,
+          "primary": "慙",
+          "secondary": "惭",
+          "before": "载也吾非不知羞而不为也子贡瞒然",
+          "after": "俯而不对有间为圃者曰子奚为者邪"
+        },
+        {
+          "kind": "insert",
+          "offset": 1909,
+          "primary": "",
+          "secondary": "夫子",
+          "before": "见之变容失色终日不自反邪曰始吾",
+          "after": "以为天下一人耳不知复有夫人也吾"
+        },
+        {
+          "kind": "insert",
+          "offset": 2086,
+          "primary": "",
+          "secondary": "而",
+          "before": "子曰彼假修浑沌氏之术者也识其一",
+          "after": "不知其二治其内而不治其外夫明白"
+        },
+        {
+          "kind": "replace",
+          "offset": 2249,
+          "primary": "颐",
+          "secondary": "顾",
+          "before": "而行其所为行言自为而天下化手挠",
+          "after": "指四方之民莫不俱至此之谓圣治愿"
+        },
+        {
+          "kind": "replace",
+          "offset": 2292,
+          "primary": "为",
+          "secondary": "谓",
+          "before": "虑不藏是非美恶四海之内共利之之",
+          "after": "悦共给之之为安怊乎若婴儿之失其"
+        },
+        {
+          "kind": "replace",
+          "offset": 2500,
+          "primary": "枝",
+          "secondary": "校",
+          "before": "羞之至德之世不尚贤不使能上如标",
+          "after": "民如野鹿端正而不知以为义相爱而"
+        },
+        {
+          "kind": "replace",
+          "offset": 2634,
+          "primary": "导",
+          "secondary": "道",
+          "before": "谓然而然之所谓善而善之则不谓之",
+          "after": "谀之人也然则俗故严于亲而尊于君"
+        },
+        {
+          "kind": "replace",
+          "offset": 2653,
+          "primary": "导谀",
+          "secondary": "道人",
+          "before": "也然则俗故严于亲而尊于君邪谓己",
+          "after": "则勃然作色谓己众人则怫然作色而"
+        },
+        {
+          "kind": "replace",
+          "offset": 2662,
+          "primary": "众",
+          "secondary": "谀",
+          "before": "尊于君邪谓己导谀则勃然作色谓己",
+          "after": "人则怫然作色而终身导谀也终身众"
+        },
+        {
+          "kind": "replace",
+          "offset": 2672,
+          "primary": "导谀",
+          "secondary": "道人",
+          "before": "然作色谓己众人则怫然作色而终身",
+          "after": "也终身众人也合譬饰辞聚众也是终"
+        },
+        {
+          "kind": "replace",
+          "offset": 2677,
+          "primary": "众",
+          "secondary": "谀",
+          "before": "众人则怫然作色而终身导谀也终身",
+          "after": "人也合譬饰辞聚众也是终始本末不"
+        },
+        {
+          "kind": "replace",
+          "offset": 2712,
+          "primary": "导",
+          "secondary": "道",
+          "before": "裳设采色动容貌以媚一世而不自谓",
+          "after": "谀与夫人之为徒通是非而不自谓众"
+        },
+        {
+          "kind": "replace",
+          "offset": 2823,
+          "primary": "华",
+          "secondary": "荂",
+          "before": "也不亦悲乎大声不入于里耳折杨皇",
+          "after": "则嗑然而笑是故高言不止于众人之"
+        },
+        {
+          "kind": "replace",
+          "offset": 2834,
+          "primary": "止",
+          "secondary": "上",
+          "before": "耳折杨皇华则嗑然而笑是故高言不",
+          "after": "于众人之心至言不出俗言胜也以二"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "天道",
+      "path": "content/posts/taoism/zhuangzi/tian-dao.md",
+      "paragraphs": 10,
+      "primary_chars": 2302,
+      "secondary_chars": 2304,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%A4%A9%E9%81%93&oldid=11117699",
+      "wiki_text_sha256": "552b1542c151c9a4e27eb55debe1b79ed58a5a465e1c0c70fdbaf50c97e7d21e",
+      "wiki_raw_sha256": "7fabca25e1515012c1ba42c7c972fb990a386591018356281ffdda3667a434fe",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_013.txt",
+      "kanripo_sha256": "8f3a496db5e95db543a716cebaea7924ff3dc8873dff2027d9f6b624dbcf089c",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 141,
+          "primary": "质",
+          "secondary": "至",
+          "before": "恬淡寂漠无为者天地之平而道德之",
+          "after": "故帝王圣人休焉休则虚虚则实实者"
+        },
+        {
+          "kind": "replace",
+          "offset": 261,
+          "primary": "闲",
+          "secondary": "间",
+          "before": "此处下玄圣素王之道也以此退居而",
+          "after": "游江海山林之士服以此进为而抚世"
+        },
+        {
+          "kind": "replace",
+          "offset": 366,
+          "primary": "䪡",
+          "secondary": "𩐋",
+          "before": "和者谓之天乐庄子曰吾师乎吾师乎",
+          "after": "万物而不为戾泽及万世而不为仁长"
+        },
+        {
+          "kind": "insert",
+          "offset": 764,
+          "primary": "",
+          "secondary": "度",
+          "before": "也赏罚利害五刑之辟教之末也礼法",
+          "after": "数度形名比详治之末也钟鼓之音羽"
+        },
+        {
+          "kind": "replace",
+          "offset": 765,
+          "primary": "度",
+          "secondary": "刑",
+          "before": "赏罚利害五刑之辟教之末也礼法数",
+          "after": "形名比详治之末也钟鼓之音羽旄之"
+        },
+        {
+          "kind": "delete",
+          "offset": 766,
+          "primary": "形",
+          "secondary": "",
+          "before": "罚利害五刑之辟教之末也礼法数度",
+          "after": "名比详治之末也钟鼓之音羽旄之容"
+        },
+        {
+          "kind": "insert",
+          "offset": 973,
+          "primary": "",
+          "secondary": "哉",
+          "before": "者非其道也语道而非其道者安取道",
+          "after": "是故古之明大道者先明天而道德次"
+        },
+        {
+          "kind": "replace",
+          "offset": 1234,
+          "primary": "形",
+          "secondary": "刑",
+          "before": "下此之谓辩士一曲之人也礼法数度",
+          "after": "名比详古人有之此下之所以事上非"
+        },
+        {
+          "kind": "replace",
+          "offset": 1456,
+          "primary": "太",
+          "secondary": "大",
+          "before": "许于是繙十二经以说老聃中其说曰",
+          "after": "谩愿闻其要孔子曰要在仁义老聃曰"
+        },
+        {
+          "kind": "replace",
+          "offset": 1522,
+          "primary": "勿",
+          "secondary": "物",
+          "before": "矣老聃曰请问何谓仁义孔子曰中心",
+          "after": "恺兼爱无私此仁义之情也老聃曰意"
+        },
+        {
+          "kind": "replace",
+          "offset": 1697,
+          "primary": "敛",
+          "secondary": "歛",
+          "before": "蔬而弃妹不仁也生熟不尽于前而积",
+          "after": "无崖老子漠然不应士成绮明日复见"
+        },
+        {
+          "kind": "replace",
+          "offset": 1858,
+          "primary": "境",
+          "secondary": "竟",
+          "before": "察而审知巧而覩于泰凡以为不信边",
+          "after": "有人焉其名为窃老子曰夫道于大不"
+        },
+        {
+          "kind": "insert",
+          "offset": 1892,
+          "primary": "",
+          "secondary": "渊",
+          "before": "不遗故万物备广广乎其无不容也渊",
+          "after": "乎其不可测也形德仁义神之末也非"
+        },
+        {
+          "kind": "replace",
+          "offset": 1932,
+          "primary": "㨀",
+          "secondary": "柄",
+          "before": "世不亦大乎而不足以为之累天下奋",
+          "after": "而不与之偕审乎无假而不与物迁极"
+        },
+        {
+          "kind": "replace",
+          "offset": 1945,
+          "primary": "物",
+          "secondary": "利",
+          "before": "下奋㨀而不与之偕审乎无假而不与",
+          "after": "迁极物之真能守其本故外天地遗万"
+        },
+        {
+          "kind": "replace",
+          "offset": 2144,
+          "primary": "者",
+          "secondary": "为",
+          "before": "释椎凿而上问桓公曰敢问公之所读",
+          "after": "何言邪公曰圣人之言也曰圣人在乎"
+        },
+        {
+          "kind": "replace",
+          "offset": 2301,
+          "primary": "矣",
+          "secondary": "夫",
+          "before": "死矣然则君之所读者古人之糟魄已",
+          "after": ""
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "title": "天运",
+      "path": "content/posts/taoism/zhuangzi/tian-yun.md",
+      "paragraphs": 8,
+      "primary_chars": 2531,
+      "secondary_chars": 2548,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%A4%A9%E9%81%8B&oldid=11117700",
+      "wiki_text_sha256": "f770eae54d1c890935e0822f820c7dedba9b746dce79cf4e317925f24725f525",
+      "wiki_raw_sha256": "9ce386e03307869b096bf6e4899b28d0039c3109ad85cc1ff080d8bf0ebdff8e",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_014.txt",
+      "kanripo_sha256": "c6895288be8693123cd312f7c6e5d9c5c7efc7571aee835af3ee9d9c40ec017d",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 111,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "而披拂是敢问何故巫咸祒曰来吾语",
+          "after": "天有六极五常帝王顺之则治逆之则"
+        },
+        {
+          "kind": "replace",
+          "offset": 373,
+          "primary": "幷",
+          "secondary": "并",
+          "before": "役其德者也不足多也故曰至贵国爵",
+          "after": "焉至富国财幷焉至愿名誉幷焉是以"
+        },
+        {
+          "kind": "replace",
+          "offset": 379,
+          "primary": "幷",
+          "secondary": "并",
+          "before": "足多也故曰至贵国爵幷焉至富国财",
+          "after": "焉至愿名誉幷焉是以道不渝北门成"
+        },
+        {
+          "kind": "replace",
+          "offset": 385,
+          "primary": "幷",
+          "secondary": "并",
+          "before": "贵国爵幷焉至富国财幷焉至愿名誉",
+          "after": "焉是以道不渝北门成问于黄帝曰帝"
+        },
+        {
+          "kind": "insert",
+          "offset": 415,
+          "primary": "",
+          "secondary": "而",
+          "before": "帝张咸池之乐于洞庭之野吾始闻之",
+          "after": "戄复闻之怠卒闻之而惑荡荡默默乃"
+        },
+        {
+          "kind": "replace",
+          "offset": 415,
+          "primary": "戄",
+          "secondary": "惧",
+          "before": "帝张咸池之乐于洞庭之野吾始闻之",
+          "after": "复闻之怠卒闻之而惑荡荡默默乃不"
+        },
+        {
+          "kind": "insert",
+          "offset": 419,
+          "primary": "",
+          "secondary": "而",
+          "before": "之乐于洞庭之野吾始闻之戄复闻之",
+          "after": "怠卒闻之而惑荡荡默默乃不自得帝"
+        },
+        {
+          "kind": "replace",
+          "offset": 435,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "卒闻之而惑荡荡默默乃不自得帝曰",
+          "after": "殆其然哉吾奏之以人徽之以天行之"
+        },
+        {
+          "kind": "replace",
+          "offset": 445,
+          "primary": "徽",
+          "secondary": "征",
+          "before": "不自得帝曰汝殆其然哉吾奏之以人",
+          "after": "之以天行之以礼义建之以大清夫至"
+        },
+        {
+          "kind": "replace",
+          "offset": 457,
+          "primary": "大",
+          "secondary": "太",
+          "before": "之以人徽之以天行之以礼义建之以",
+          "after": "清夫至乐者先应之以人事顺之以天"
+        },
+        {
+          "kind": "insert",
+          "offset": 474,
+          "primary": "",
+          "secondary": "行之以五德",
+          "before": "夫至乐者先应之以人事顺之以天理",
+          "after": "应之以自然然后调理四时太和万物"
+        },
+        {
+          "kind": "replace",
+          "offset": 552,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "一生一偾一起所常无穷而一不可待",
+          "after": "故戄也吾又奏之以阴阳之和烛之以"
+        },
+        {
+          "kind": "replace",
+          "offset": 554,
+          "primary": "戄",
+          "secondary": "惧",
+          "before": "一偾一起所常无穷而一不可待汝故",
+          "after": "也吾又奏之以阴阳之和烛之以日月"
+        },
+        {
+          "kind": "replace",
+          "offset": 639,
+          "primary": "子",
+          "secondary": "予",
+          "before": "辰行其纪吾止之于有穷流之于无止",
+          "after": "欲虑之而不能知也望之而不能见也"
+        },
+        {
+          "kind": "replace",
+          "offset": 694,
+          "primary": "矣",
+          "secondary": "夫",
+          "before": "乎所欲见力屈乎所欲逐吾既不及已",
+          "after": "形充空虚乃至委蛇汝委蛇故怠吾又"
+        },
+        {
+          "kind": "replace",
+          "offset": 703,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "逐吾既不及已矣形充空虚乃至委蛇",
+          "after": "委蛇故怠吾又奏之以无怠之声调之"
+        },
+        {
+          "kind": "replace",
+          "offset": 813,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "张而五官皆备此之谓天乐无言而心",
+          "after": "故有猋氏为之颂曰听之不闻其声视"
+        },
+        {
+          "kind": "replace",
+          "offset": 816,
+          "primary": "猋",
+          "secondary": "焱",
+          "before": "官皆备此之谓天乐无言而心悦故有",
+          "after": "氏为之颂曰听之不闻其声视之不见"
+        },
+        {
+          "kind": "replace",
+          "offset": 842,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "声视之不见其形充满天地苞裹六极",
+          "after": "欲听之而无接焉而故惑也乐也者始"
+        },
+        {
+          "kind": "replace",
+          "offset": 859,
+          "primary": "戄戄",
+          "secondary": "惧惧",
+          "before": "听之而无接焉而故惑也乐也者始于",
+          "after": "故祟吾又次之以怠怠故遁卒之于惑"
+        },
+        {
+          "kind": "replace",
+          "offset": 895,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "故道道可载而与之俱也孔子西游于",
+          "after": "颜渊问师金曰以夫子之行为奚如师"
+        },
+        {
+          "kind": "replace",
+          "offset": 946,
+          "primary": "斋",
+          "secondary": "齐",
+          "before": "狗之未陈也盛以箧衍巾以文绣尸祝",
+          "after": "戒以将之及其已陈也行者践其首脊"
+        },
+        {
+          "kind": "insert",
+          "offset": 950,
+          "primary": "",
+          "secondary": "迎",
+          "before": "也盛以箧衍巾以文绣尸祝斋戒以将",
+          "after": "之及其已陈也行者践其首脊苏者取"
+        },
+        {
+          "kind": "replace",
+          "offset": 1026,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "子游居寝卧其下故伐树于宋削迹于",
+          "after": "穷于商周是非其梦邪围于陈蔡之间"
+        },
+        {
+          "kind": "replace",
+          "offset": 1209,
+          "primary": "梨",
+          "secondary": "棃",
+          "before": "治故譬三皇五帝之礼义法度其犹柤",
+          "after": "橘柚邪其味相反而皆可于口故礼义"
+        },
+        {
+          "kind": "insert",
+          "offset": 1399,
+          "primary": "",
+          "secondary": "度",
+          "before": "也老子曰子恶乎求之哉曰吾求之于",
+          "after": "数度五年而未得也老子曰子又恶乎"
+        },
+        {
+          "kind": "delete",
+          "offset": 1400,
+          "primary": "度",
+          "secondary": "",
+          "before": "老子曰子恶乎求之哉曰吾求之于数",
+          "after": "五年而未得也老子曰子又恶乎求之"
+        },
+        {
+          "kind": "replace",
+          "offset": 1509,
+          "primary": "正",
+          "secondary": "匹",
+          "before": "而不可者无他也中无主而不止外无",
+          "after": "而不行由中出者不受于外圣人不出"
+        },
+        {
+          "kind": "replace",
+          "offset": 1550,
+          "primary": "遽",
+          "secondary": "蘧",
+          "before": "不隐名公器也不可多取仁义先王之",
+          "after": "庐也止可以一宿而不可久处觏而多"
+        },
+        {
+          "kind": "replace",
+          "offset": 1584,
+          "primary": "墟",
+          "secondary": "虚",
+          "before": "至人假道于仁托宿于义以游逍遥之",
+          "after": "食于苟简之田立于不贷之圃逍遥无"
+        },
+        {
+          "kind": "insert",
+          "offset": 1788,
+          "primary": "",
+          "secondary": "杰",
+          "before": "吾子亦放风而动揔德而立矣又奚杰",
+          "after": "然若负建鼓而求亡子者邪夫鹄不日"
+        },
+        {
+          "kind": "insert",
+          "offset": 1789,
+          "primary": "",
+          "secondary": "揭仁义",
+          "before": "子亦放风而动揔德而立矣又奚杰然",
+          "after": "若负建鼓而求亡子者邪夫鹄不日浴"
+        },
+        {
+          "kind": "replace",
+          "offset": 1839,
+          "primary": "呴",
+          "secondary": "吻",
+          "before": "观不足以为广泉涸鱼相与处于陆相",
+          "after": "以湿相濡以沫不若相忘于江湖孔子"
+        },
+        {
+          "kind": "insert",
+          "offset": 1913,
+          "primary": "",
+          "secondary": "舌举而不能讱",
+          "before": "乎云气而养乎阴阳予口张而不能嗋",
+          "after": "予又何规老聃哉子贡曰然则人固有"
+        },
+        {
+          "kind": "replace",
+          "offset": 2072,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "肯顺故曰不同老聃曰小子少进余语",
+          "after": "三皇五帝之治天下黄帝之治天下使"
+        },
+        {
+          "kind": "replace",
+          "offset": 2074,
+          "primary": "皇",
+          "secondary": "王",
+          "before": "故曰不同老聃曰小子少进余语汝三",
+          "after": "五帝之治天下黄帝之治天下使民心"
+        },
+        {
+          "kind": "replace",
+          "offset": 2214,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "其作始有伦而今乎妇女何言哉余语",
+          "after": "三皇五帝之治天下名曰治之而乱莫"
+        },
+        {
+          "kind": "replace",
+          "offset": 2292,
+          "primary": "蹵蹵",
+          "secondary": "蹴蹴",
+          "before": "自以为圣人不可耻乎其无耻也子贡",
+          "after": "然立不安孔子谓老聃曰丘治诗书礼"
+        },
+        {
+          "kind": "delete",
+          "offset": 2435,
+          "primary": "风",
+          "secondary": "",
+          "before": "而风化虫雄鸣于上风雌应于下风而",
+          "after": "化类自为雌雄故风化性不可易命不"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "title": "刻意",
+      "path": "content/posts/taoism/zhuangzi/ke-yi.md",
+      "paragraphs": 4,
+      "primary_chars": 658,
+      "secondary_chars": 658,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%88%BB%E6%84%8F&oldid=11117701",
+      "wiki_text_sha256": "bcc32bda4b2ae0add7310cf2e6b9d934180bfd7c7d915527814903072a57cc1c",
+      "wiki_raw_sha256": "58c09947e08c4e483dd0545a5c266afe62b2774640e076d37723a126931e1d22",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_015.txt",
+      "kanripo_sha256": "99f2fd40427e96f226a944b2b27f6b0f0614d49a424171b13f32c314b7a99bcf",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 90,
+          "primary": "强",
+          "secondary": "彊",
+          "before": "正上下为治而已矣此朝廷之士尊主",
+          "after": "国之人致功幷兼者之所好也就薮泽"
+        },
+        {
+          "kind": "replace",
+          "offset": 96,
+          "primary": "幷",
+          "secondary": "并",
+          "before": "已矣此朝廷之士尊主强国之人致功",
+          "after": "兼者之所好也就薮泽处闲旷钓鱼闲"
+        },
+        {
+          "kind": "replace",
+          "offset": 107,
+          "primary": "闲",
+          "secondary": "间",
+          "before": "之人致功幷兼者之所好也就薮泽处",
+          "after": "旷钓鱼闲处无为而已矣此江海之士"
+        },
+        {
+          "kind": "replace",
+          "offset": 127,
+          "primary": "闲",
+          "secondary": "间",
+          "before": "处无为而已矣此江海之士避世之人",
+          "after": "暇者之所好也吹呴呼吸吐故纳新熊"
+        },
+        {
+          "kind": "replace",
+          "offset": 152,
+          "primary": "导",
+          "secondary": "道",
+          "before": "吸吐故纳新熊经鸟申为寿而已矣此",
+          "after": "引之士养形之人彭祖寿考者之所好"
+        },
+        {
+          "kind": "replace",
+          "offset": 192,
+          "primary": "导",
+          "secondary": "道",
+          "before": "仁义而修无功名而治无江海而闲不",
+          "after": "引而寿无不忘也无不有也澹然无极"
+        },
+        {
+          "kind": "replace",
+          "offset": 227,
+          "primary": "淡",
+          "secondary": "惔",
+          "before": "之此天地之道圣人之德也故曰夫恬",
+          "after": "寂漠虚无无为此天地之平而道德之"
+        },
+        {
+          "kind": "insert",
+          "offset": 250,
+          "primary": "",
+          "secondary": "焉",
+          "before": "天地之平而道德之质也故曰圣人休",
+          "after": "休焉则平易矣平易则恬淡矣平易恬"
+        },
+        {
+          "kind": "delete",
+          "offset": 251,
+          "primary": "焉",
+          "secondary": "",
+          "before": "地之平而道德之质也故曰圣人休休",
+          "after": "则平易矣平易则恬淡矣平易恬淡则"
+        },
+        {
+          "kind": "replace",
+          "offset": 260,
+          "primary": "淡",
+          "secondary": "惔",
+          "before": "故曰圣人休休焉则平易矣平易则恬",
+          "after": "矣平易恬淡则忧患不能入邪气不能"
+        },
+        {
+          "kind": "replace",
+          "offset": 265,
+          "primary": "淡",
+          "secondary": "惔",
+          "before": "休焉则平易矣平易则恬淡矣平易恬",
+          "after": "则忧患不能入邪气不能袭故其德全"
+        },
+        {
+          "kind": "replace",
+          "offset": 397,
+          "primary": "淡",
+          "secondary": "惔",
+          "before": "其觉无忧其神纯粹其魂不罢虚无恬",
+          "after": "乃合天德故曰悲乐者德之邪喜怒者"
+        },
+        {
+          "kind": "replace",
+          "offset": 539,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "而以天行此养神之道也夫有干越之",
+          "after": "者柙而藏之不敢用也宝之至也精神"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "缮性",
+      "path": "content/posts/taoism/zhuangzi/shan-xing.md",
+      "paragraphs": 4,
+      "primary_chars": 639,
+      "secondary_chars": 639,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E7%B9%95%E6%80%A7&oldid=11117702",
+      "wiki_text_sha256": "7846f2d54e9872f268c6a7281c38ff3d28751d703900373c4b855b616cdc7d15",
+      "wiki_raw_sha256": "cdb4fecc1375382bf1d1021602285704e786bb41911e49a2d2f2e70a6cb89482",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_016.txt",
+      "kanripo_sha256": "74833786a8e67e283169f7975d5f553865ac8437af9bdc9698705700862f15b6",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 85,
+          "primary": "中",
+          "secondary": "忠",
+          "before": "不容仁也道无不理义也义明而物亲",
+          "after": "也中纯实而反乎情乐也信行容体而"
+        },
+        {
+          "kind": "replace",
+          "offset": 251,
+          "primary": "浇醇",
+          "secondary": "𣻏淳",
+          "before": "又下衰及唐虞始为天下兴治化之流",
+          "after": "散朴离道以善险德以行然后去性而"
+        },
+        {
+          "kind": "replace",
+          "offset": 455,
+          "primary": "行",
+          "secondary": "存",
+          "before": "则深根宁极而待此存身之道也古之",
+          "after": "身者不以辩饰知不以知穷天下不以"
+        },
+        {
+          "kind": "replace",
+          "offset": 483,
+          "primary": "已",
+          "secondary": "己",
+          "before": "下不以知穷德危然处其所而反其性",
+          "after": "又何为哉道固不小行德固不小识小"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "title": "秋水",
+      "path": "content/posts/taoism/zhuangzi/qiu-shui.md",
+      "paragraphs": 12,
+      "primary_chars": 2821,
+      "secondary_chars": 2821,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E7%A7%8B%E6%B0%B4&oldid=11117703",
+      "wiki_text_sha256": "bd77849610584799a4ae507e3bfd281ac8e15581ba66d1a7fbd1b1e46eb7efeb",
+      "wiki_raw_sha256": "220af3edcae41bd1ce9ae16f78e6f7ba9f4e716b4348cc440962165330935912",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_017.txt",
+      "kanripo_sha256": "6926f8662b7270c81a9436331d483d2b5f7faa31e0179ab61e4722989ac6605b",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 15,
+          "primary": "涯",
+          "secondary": "崖",
+          "before": "秋水时至百川灌河泾流之大两涘渚",
+          "after": "之间不辩牛马于是焉河伯欣然自喜"
+        },
+        {
+          "kind": "delete",
+          "offset": 32,
+          "primary": "为",
+          "secondary": "",
+          "before": "间不辩牛马于是焉河伯欣然自喜以",
+          "after": "天下之美为尽在己顺流而东行至于"
+        },
+        {
+          "kind": "replace",
+          "offset": 146,
+          "primary": "蛙",
+          "secondary": "鼃",
+          "before": "矣吾长见笑于大方之家北海若曰井",
+          "after": "不可以语于海者拘于墟也夏虫不可"
+        },
+        {
+          "kind": "replace",
+          "offset": 156,
+          "primary": "墟",
+          "secondary": "虚",
+          "before": "北海若曰井蛙不可以语于海者拘于",
+          "after": "也夏虫不可以语于冰者笃于时也曲"
+        },
+        {
+          "kind": "replace",
+          "offset": 188,
+          "primary": "涯",
+          "secondary": "崖",
+          "before": "不可以语于道者束于教也今尔出于",
+          "after": "涘观于大海乃知尔丑尔将可与语大"
+        },
+        {
+          "kind": "replace",
+          "offset": 339,
+          "primary": "大",
+          "secondary": "太",
+          "before": "泽乎计中国之在海内不似稊米之在",
+          "after": "仓乎号物之数为之万人处一焉人卒"
+        },
+        {
+          "kind": "replace",
+          "offset": 346,
+          "primary": "为",
+          "secondary": "谓",
+          "before": "海内不似稊米之在大仓乎号物之数",
+          "after": "之万人处一焉人卒九州谷食之所生"
+        },
+        {
+          "kind": "insert",
+          "offset": 459,
+          "primary": "",
+          "secondary": "量",
+          "before": "吾大天地而小豪末可乎北海若曰否",
+          "after": "夫物量无穷时无止分无常终始无故"
+        },
+        {
+          "kind": "delete",
+          "offset": 461,
+          "primary": "量",
+          "secondary": "",
+          "before": "天地而小豪末可乎北海若曰否夫物",
+          "after": "无穷时无止分无常终始无故是故大"
+        },
+        {
+          "kind": "replace",
+          "offset": 539,
+          "primary": "悦",
+          "secondary": "说",
+          "before": "忧知分之无常也明乎坦涂故生而不",
+          "after": "死而不祸知终始之不可故也计人之"
+        },
+        {
+          "kind": "insert",
+          "offset": 1235,
+          "primary": "",
+          "secondary": "之",
+          "before": "禅三代殊继差其时逆其俗者谓之篡",
+          "after": "夫当其时顺其俗者谓之义之徒默默"
+        },
+        {
+          "kind": "replace",
+          "offset": 1253,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "时顺其俗者谓之义之徒默默乎河伯",
+          "after": "恶知贵贱之门小大之家河伯曰然则"
+        },
+        {
+          "kind": "replace",
+          "offset": 1284,
+          "primary": "奈",
+          "secondary": "柰",
+          "before": "我何为乎何不为乎吾辞受趣舍吾终",
+          "after": "何北海若曰以道观之何贵何贱是谓"
+        },
+        {
+          "kind": "insert",
+          "offset": 1326,
+          "primary": "",
+          "secondary": "严",
+          "before": "少何多是谓谢施无一而行与道参差",
+          "after": "严乎若国之有君其无私德繇繇乎若"
+        },
+        {
+          "kind": "replace",
+          "offset": 1561,
+          "primary": "天",
+          "secondary": "夫",
+          "before": "害也故曰天在内人在外德在乎天知",
+          "after": "人之行本乎天位乎得蹢𨅛而屈伸反"
+        },
+        {
+          "kind": "replace",
+          "offset": 1673,
+          "primary": "奈",
+          "secondary": "柰",
+          "before": "趻踔而行予无如矣今子之使万足独",
+          "after": "何蚿曰不然子不见夫唾者乎喷则大"
+        },
+        {
+          "kind": "replace",
+          "offset": 1867,
+          "primary": "辍",
+          "secondary": "惙",
+          "before": "孔子游于匡宋人围之数匝而弦歌不",
+          "after": "子路入见曰何夫子之娱也孔子曰来"
+        },
+        {
+          "kind": "replace",
+          "offset": 1885,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "入见曰何夫子之娱也孔子曰来吾语",
+          "after": "我讳穷久矣而不免命也求通久矣而"
+        },
+        {
+          "kind": "replace",
+          "offset": 2119,
+          "primary": "几",
+          "secondary": "机",
+          "before": "今吾无所开吾喙敢问其方公子牟隐",
+          "after": "大息仰天而笑曰子独不闻夫埳井之"
+        },
+        {
+          "kind": "replace",
+          "offset": 2135,
+          "primary": "蛙",
+          "secondary": "鼃",
+          "before": "大息仰天而笑曰子独不闻夫埳井之",
+          "after": "乎谓东海之鼈曰吾乐与吾跳梁乎井"
+        },
+        {
+          "kind": "replace",
+          "offset": 2141,
+          "primary": "鼈",
+          "secondary": "鳖",
+          "before": "曰子独不闻夫埳井之蛙乎谓东海之",
+          "after": "曰吾乐与吾跳梁乎井干之上入休乎"
+        },
+        {
+          "kind": "replace",
+          "offset": 2216,
+          "primary": "鼈",
+          "secondary": "鳖",
+          "before": "亦至矣夫子奚不时来入观乎东海之",
+          "after": "左足未入而右膝已絷矣于是逡巡而"
+        },
+        {
+          "kind": "delete",
+          "offset": 2235,
+          "primary": "海",
+          "secondary": "",
+          "before": "入而右膝已絷矣于是逡巡而却告之",
+          "after": "曰夫千里之远不足以举其大千仞之"
+        },
+        {
+          "kind": "insert",
+          "offset": 2238,
+          "primary": "",
+          "secondary": "海",
+          "before": "膝已絷矣于是逡巡而却告之海曰夫",
+          "after": "千里之远不足以举其大千仞之高不"
+        },
+        {
+          "kind": "replace",
+          "offset": 2311,
+          "primary": "蛙",
+          "secondary": "鼃",
+          "before": "退者此亦东海之大乐也于是埳井之",
+          "after": "闻之适适然惊规规然自失也且夫知"
+        },
+        {
+          "kind": "replace",
+          "offset": 2332,
+          "primary": "境",
+          "secondary": "竟",
+          "before": "惊规规然自失也且夫知不知是非之",
+          "after": "而犹欲观于庄子之言是犹使蚊负山"
+        },
+        {
+          "kind": "replace",
+          "offset": 2381,
+          "primary": "蛙",
+          "secondary": "鼃",
+          "before": "之言而自适一时之利者是非埳井之",
+          "after": "与且彼方跐黄泉而登大皇无南无北"
+        },
+        {
+          "kind": "replace",
+          "offset": 2531,
+          "primary": "境",
+          "secondary": "竟",
+          "before": "濮水楚王使大夫二人往先焉曰愿以",
+          "after": "内累矣庄子持竿不顾曰吾闻楚有神"
+        },
+        {
+          "kind": "replace",
+          "offset": 2635,
+          "primary": "廋",
+          "secondary": "搜",
+          "before": "惠子曰庄子来欲代子相于是惠子恐",
+          "after": "于国中三日三夜庄子往见之曰南方"
+        },
+        {
+          "kind": "delete",
+          "offset": 2701,
+          "primary": "之",
+          "secondary": "",
+          "before": "不饮于是鸱得腐鼠鹓鶵过之仰而视",
+          "after": "曰吓今子欲以子之梁国而吓我邪庄"
+        },
+        {
+          "kind": "replace",
+          "offset": 2730,
+          "primary": "鯈",
+          "secondary": "儵",
+          "before": "邪庄子与惠子游于濠梁之上庄子曰",
+          "after": "鱼出游从容是鱼乐也惠子曰子非鱼"
+        },
+        {
+          "kind": "replace",
+          "offset": 2799,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "知鱼之乐全矣庄子曰请循其本子曰",
+          "after": "安知鱼乐云者既已知吾知之而问我"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "title": "至乐",
+      "path": "content/posts/taoism/zhuangzi/zhi-le.md",
+      "paragraphs": 6,
+      "primary_chars": 1419,
+      "secondary_chars": 1420,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E8%87%B3%E6%A8%82&oldid=11117704",
+      "wiki_text_sha256": "9b429aa6bee2e00f710623a73252bf581418937072a12490ea5e13f036025b76",
+      "wiki_raw_sha256": "693b0324c28c6fe405ca76f023afd7c1166729191d87503dc9f540ebc0590a16",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_018.txt",
+      "kanripo_sha256": "5dd9588fb2397bb6e1c493c65d87036ab5a71b9eb56cd4684a54f5a2049f0e4c",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 150,
+          "primary": "疏",
+          "secondary": "䟽",
+          "before": "贵者夜以继日思虑善否其为形也亦",
+          "after": "矣人之生也与忧俱生寿者惛惛久忧"
+        },
+        {
+          "kind": "replace",
+          "offset": 162,
+          "primary": "惛惛",
+          "secondary": "惽惽",
+          "before": "形也亦疏矣人之生也与忧俱生寿者",
+          "after": "久忧不死何之苦也其为形也亦远矣"
+        },
+        {
+          "kind": "insert",
+          "offset": 395,
+          "primary": "",
+          "secondary": "生",
+          "before": "无为以之宁故两无为相合万物皆化",
+          "after": "芒乎芴乎而无从出乎芴乎芒乎而无"
+        },
+        {
+          "kind": "replace",
+          "offset": 456,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "哉庄子妻死惠子吊之庄子则方箕踞",
+          "after": "盆而歌惠子曰与人居长子老身死不"
+        },
+        {
+          "kind": "replace",
+          "offset": 477,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "曰与人居长子老身死不哭亦足矣又",
+          "after": "盆而歌不亦甚乎庄子曰不然是其始"
+        },
+        {
+          "kind": "replace",
+          "offset": 605,
+          "primary": "崐崘",
+          "secondary": "昆仑",
+          "before": "止也支离叔与滑介叔观于冥伯之丘",
+          "after": "之虚黄帝之所休俄而柳生其左肘其"
+        },
+        {
+          "kind": "replace",
+          "offset": 623,
+          "primary": "蹷蹷",
+          "secondary": "蹶蹶",
+          "before": "虚黄帝之所休俄而柳生其左肘其意",
+          "after": "然恶之支离叔曰子恶之乎滑介叔曰"
+        },
+        {
+          "kind": "replace",
+          "offset": 941,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "东之齐夫子有忧色何邪孔子曰善哉",
+          "after": "问昔者管子有言丘甚善之曰褚小者"
+        },
+        {
+          "kind": "replace",
+          "offset": 1031,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "求于己而不得不得则惑人惑则死且",
+          "after": "独不闻邪昔者海鸟止于鲁郊鲁侯御"
+        },
+        {
+          "kind": "replace",
+          "offset": 1252,
+          "primary": "汝",
+          "secondary": "女",
+          "before": "从见百岁髑髅攓蓬而指之曰唯予与",
+          "after": "知而未尝死未尝生也汝果养乎予果"
+        },
+        {
+          "kind": "replace",
+          "offset": 1262,
+          "primary": "汝",
+          "secondary": "若",
+          "before": "之曰唯予与汝知而未尝死未尝生也",
+          "after": "果养乎予果欢乎种有几得水则为㡭"
+        },
+        {
+          "kind": "replace",
+          "offset": 1387,
+          "primary": "箰",
+          "secondary": "笋",
+          "before": "生乎九猷瞀芮生乎腐蠸羊奚比乎不",
+          "after": "久竹生青宁青宁生程程生马马生人"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "title": "达生",
+      "path": "content/posts/taoism/zhuangzi/da-sheng.md",
+      "paragraphs": 12,
+      "primary_chars": 2344,
+      "secondary_chars": 2343,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E9%81%94%E7%94%9F&oldid=11117705",
+      "wiki_text_sha256": "11346354677889eab1a2577058bc41b52e37486e524e53260f79a8a15599bd99",
+      "wiki_raw_sha256": "f668b1f30ddca20b55567f7030d5285b2a279e1a12e22e886d719a6f602a88a5",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_019.txt",
+      "kanripo_sha256": "8727162d96fd29611eda1521c1302d33e9d8caa3edd536aea583dcfbbf50a858",
+      "differences": [
+        {
+          "kind": "insert",
+          "offset": 31,
+          "primary": "",
+          "secondary": "以",
+          "before": "情者不务知之所无奈何养形必先之",
+          "after": "物物有余而形不养者有之矣有生必"
+        },
+        {
+          "kind": "delete",
+          "offset": 273,
+          "primary": "与物",
+          "secondary": "",
+          "before": "居予语汝凡有貌象声色者皆物也物",
+          "after": "何以相远夫奚足以至乎先是色而已"
+        },
+        {
+          "kind": "replace",
+          "offset": 415,
+          "primary": "胷",
+          "secondary": "胸",
+          "before": "知也坠亦不知也死生惊惧不入乎其",
+          "after": "中是故遻物而不慴彼得全于酒而犹"
+        },
+        {
+          "kind": "replace",
+          "offset": 419,
+          "primary": "遻",
+          "secondary": "遌",
+          "before": "不知也死生惊惧不入乎其胷中是故",
+          "after": "物而不慴彼得全于酒而犹若是而况"
+        },
+        {
+          "kind": "replace",
+          "offset": 797,
+          "primary": "㱪",
+          "secondary": "殙",
+          "before": "以瓦注者巧以钩注者惮以黄金注者",
+          "after": "其巧一也而有所矜则重外也凡外重"
+        },
+        {
+          "kind": "replace",
+          "offset": 1062,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "知乎人之所取畏者衽席之上饮食之",
+          "after": "而不知为之戒者过也祝宗人玄端以"
+        },
+        {
+          "kind": "replace",
+          "offset": 1128,
+          "primary": "措",
+          "secondary": "错",
+          "before": "汝为之乎为彘谋曰不如食以穅糟而",
+          "after": "之牢䇲之中自为谋则苟生有轩冕之"
+        },
+        {
+          "kind": "replace",
+          "offset": 1329,
+          "primary": "峷",
+          "secondary": "崒",
+          "before": "方之下者则泆阳处之水有罔象丘有",
+          "after": "山有夔野有彷徨泽有委蛇公曰请问"
+        },
+        {
+          "kind": "replace",
+          "offset": 2141,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "天之怨哉子往矣孙子出扁子入坐有",
+          "after": "仰天而叹弟子问曰先生何为叹乎扁"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "山木",
+      "path": "content/posts/taoism/zhuangzi/shan-mu.md",
+      "paragraphs": 9,
+      "primary_chars": 2193,
+      "secondary_chars": 2194,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%B1%B1%E6%9C%A8&oldid=11117707",
+      "wiki_text_sha256": "9c88311505e644da4a1a1c7b9434c65208dbc9238f6b89491129721c9da6cf68",
+      "wiki_raw_sha256": "381387f5072ca2042b416e9394514d683565539d5acc067f9383680a8b9ea775",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_020.txt",
+      "kanripo_sha256": "e7aa16f5221fd777ed4acf1e6b301b1e06161a33a3ac0ea0036c9f15b075aee4",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 140,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "何处庄子笑曰周将处夫材与不材之",
+          "after": "材与不材之间似之而非也故未免乎"
+        },
+        {
+          "kind": "replace",
+          "offset": 146,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "周将处夫材与不材之间材与不材之",
+          "after": "似之而非也故未免乎累若夫乘道德"
+        },
+        {
+          "kind": "replace",
+          "offset": 279,
+          "primary": "市",
+          "secondary": "巿",
+          "before": "乎哉悲夫弟子志之其唯道德之乡乎",
+          "after": "南宜僚见鲁侯鲁侯有忧色市南子曰"
+        },
+        {
+          "kind": "replace",
+          "offset": 291,
+          "primary": "市",
+          "secondary": "巿",
+          "before": "之乡乎市南宜僚见鲁侯鲁侯有忧色",
+          "after": "南子曰君有忧色何也鲁侯曰吾学先"
+        },
+        {
+          "kind": "replace",
+          "offset": 338,
+          "primary": "市",
+          "secondary": "巿",
+          "before": "之无须臾离居然不免于患吾是以忧",
+          "after": "南子曰君之除患之术浅矣夫丰狐文"
+        },
+        {
+          "kind": "replace",
+          "offset": 379,
+          "primary": "疏",
+          "secondary": "䟽",
+          "before": "也夜行昼居戒也虽饥渴隐约犹且胥",
+          "after": "于江湖之上而求食焉定也然且不免"
+        },
+        {
+          "kind": "replace",
+          "offset": 534,
+          "primary": "市",
+          "secondary": "巿",
+          "before": "其道远而险又有江山我无舟车奈何",
+          "after": "南子曰君无形倨无留居以为君车君"
+        },
+        {
+          "kind": "replace",
+          "offset": 567,
+          "primary": "饿",
+          "secondary": "我",
+          "before": "其道幽远而无人吾谁与为邻吾无粮",
+          "after": "无食安得而至焉市南子曰少君之费"
+        },
+        {
+          "kind": "replace",
+          "offset": 575,
+          "primary": "市",
+          "secondary": "巿",
+          "before": "谁与为邻吾无粮饿无食安得而至焉",
+          "after": "南子曰少君之费寡君之欲虽无粮而"
+        },
+        {
+          "kind": "replace",
+          "offset": 686,
+          "primary": "褊",
+          "secondary": "惼",
+          "before": "国方舟而济于河有虚船来触舟虽有",
+          "after": "心之人不怒有一人在其上则呼张歙"
+        },
+        {
+          "kind": "replace",
+          "offset": 756,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "能虚己以游世其孰能害之北宫奢为",
+          "after": "灵公赋敛以为钟为坛乎郭门之外三"
+        },
+        {
+          "kind": "replace",
+          "offset": 797,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "忌见而问焉曰子何术之设奢曰一之",
+          "after": "无敢设也奢闻之既雕既琢复归于朴"
+        },
+        {
+          "kind": "replace",
+          "offset": 877,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "挫而况有大涂者乎孔子围于陈蔡之",
+          "after": "七日不火食太公任往吊之曰子几死"
+        },
+        {
+          "kind": "replace",
+          "offset": 1154,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "桑雩曰吾再逐于鲁伐树于宋削迹于",
+          "after": "穷于商周围于陈蔡之间吾犯此数患"
+        },
+        {
+          "kind": "replace",
+          "offset": 1164,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "于宋削迹于衞穷于商周围于陈蔡之",
+          "after": "吾犯此数患亲交益疏徒友益散何与"
+        },
+        {
+          "kind": "replace",
+          "offset": 1173,
+          "primary": "疏",
+          "secondary": "䟽",
+          "before": "周围于陈蔡之间吾犯此数患亲交益",
+          "after": "徒友益散何与子桑雩曰子独不闻假"
+        },
+        {
+          "kind": "replace",
+          "offset": 1469,
+          "primary": "猨",
+          "secondary": "猿",
+          "before": "惫也此所谓非遭时也王独不见夫腾",
+          "after": "乎其得柟梓豫章也揽蔓其枝而王长"
+        },
+        {
+          "kind": "replace",
+          "offset": 1486,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "其得柟梓豫章也揽蔓其枝而王长其",
+          "after": "虽羿逢蒙不能睥睨也及其得柘棘枳"
+        },
+        {
+          "kind": "replace",
+          "offset": 1489,
+          "primary": "逢",
+          "secondary": "蓬",
+          "before": "梓豫章也揽蔓其枝而王长其间虽羿",
+          "after": "蒙不能睥睨也及其得柘棘枳枸之间"
+        },
+        {
+          "kind": "replace",
+          "offset": 1504,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "逢蒙不能睥睨也及其得柘棘枳枸之",
+          "after": "也危行侧视振动悼栗此筋骨非有加"
+        },
+        {
+          "kind": "replace",
+          "offset": 1543,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "便未足以逞其能也今处昏上乱相之",
+          "after": "而欲无惫奚可得邪此比干之见剖心"
+        },
+        {
+          "kind": "replace",
+          "offset": 1569,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "干之见剖心征也夫孔子穷于陈蔡之",
+          "after": "七日不火食左据槁木右击槁枝而歌"
+        },
+        {
+          "kind": "replace",
+          "offset": 1585,
+          "primary": "猋",
+          "secondary": "焱",
+          "before": "七日不火食左据槁木右击槁枝而歌",
+          "after": "氏之风有其具而无其数有其声而无"
+        },
+        {
+          "kind": "insert",
+          "offset": 1722,
+          "primary": "",
+          "secondary": "而",
+          "before": "之谓也为人臣者不敢去之执臣之道",
+          "after": "犹若是而况乎所以待天乎何谓无受"
+        },
+        {
+          "kind": "replace",
+          "offset": 1818,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "落其实弃之而走其畏人也而袭诸人",
+          "after": "社稷存焉尔何谓无始而非卒仲尼曰"
+        },
+        {
+          "kind": "replace",
+          "offset": 1905,
+          "primary": "野",
+          "secondary": "樊",
+          "before": "人晏然体逝而终矣庄周游乎雕陵之",
+          "after": "覩一异鹊自南方来者翼广七尺目大"
+        },
+        {
+          "kind": "replace",
+          "offset": 2037,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "三月不庭蔺且从而问之夫子何为顷",
+          "after": "甚不庭乎庄周曰吾守形而忘身观于"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "田子方",
+      "path": "content/posts/taoism/zhuangzi/tian-zi-fang.md",
+      "paragraphs": 11,
+      "primary_chars": 2180,
+      "secondary_chars": 2189,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E7%94%B0%E5%AD%90%E6%96%B9&oldid=11117709",
+      "wiki_text_sha256": "67d275a5dc1739c00a2a72242c99bd10ecc4ac474c9ac789878c62900793f4c9",
+      "wiki_raw_sha256": "cd3532aabc52f1ce73aec9cbec1aa6252da8646f04a6603e4b1f1681f81a714a",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_021.txt",
+      "kanripo_sha256": "47a6c9f8edb60282c2f51d70131888aa4c1106249a79afbe45380903e40ecfb0",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 186,
+          "primary": "直",
+          "secondary": "真",
+          "before": "解而不欲动口钳而不欲言吾所学者",
+          "after": "土梗耳夫魏真为我累耳温伯雪子适"
+        },
+        {
+          "kind": "insert",
+          "offset": 316,
+          "primary": "",
+          "secondary": "君",
+          "before": "必入而叹何邪曰吾固告子矣中国之",
+          "after": "民明乎礼义而陋乎知人心昔之见我"
+        },
+        {
+          "kind": "replace",
+          "offset": 316,
+          "primary": "民",
+          "secondary": "子",
+          "before": "必入而叹何邪曰吾固告子矣中国之",
+          "after": "明乎礼义而陋乎知人心昔之见我者"
+        },
+        {
+          "kind": "replace",
+          "offset": 355,
+          "primary": "导",
+          "secondary": "道",
+          "before": "从容一若龙一若虎其谏我也似子其",
+          "after": "我也似父是以叹也仲尼见之而不言"
+        },
+        {
+          "kind": "insert",
+          "offset": 460,
+          "primary": "",
+          "secondary": "者",
+          "before": "矣夫子曰回何谓邪曰夫子步亦步也",
+          "after": "夫子言亦言也夫子趋亦趋也夫子辩"
+        },
+        {
+          "kind": "insert",
+          "offset": 472,
+          "primary": "",
+          "secondary": "者",
+          "before": "亦步也夫子言亦言也夫子趋亦趋也",
+          "after": "夫子辩亦辩也夫子驰亦驰也夫子言"
+        },
+        {
+          "kind": "insert",
+          "offset": 484,
+          "primary": "",
+          "secondary": "者",
+          "before": "亦趋也夫子辩亦辩也夫子驰亦驰也",
+          "after": "夫子言道回亦言道也及奔逸绝尘而"
+        },
+        {
+          "kind": "insert",
+          "offset": 504,
+          "primary": "",
+          "secondary": "也",
+          "before": "亦言道也及奔逸绝尘而回瞠若乎后",
+          "after": "者夫子不言而信不比而周无器而民"
+        },
+        {
+          "kind": "replace",
+          "offset": 710,
+          "primary": "吾",
+          "secondary": "犹",
+          "before": "也亦甚忘虽然汝奚患焉虽忘乎故吾",
+          "after": "有不忘者存孔子见老耼老耼新沐方"
+        },
+        {
+          "kind": "replace",
+          "offset": 720,
+          "primary": "耼",
+          "secondary": "聃",
+          "before": "虽忘乎故吾吾有不忘者存孔子见老",
+          "after": "老耼新沐方将被发而干慹然似非人"
+        },
+        {
+          "kind": "replace",
+          "offset": 722,
+          "primary": "耼",
+          "secondary": "聃",
+          "before": "乎故吾吾有不忘者存孔子见老耼老",
+          "after": "新沐方将被发而干慹然似非人孔子"
+        },
+        {
+          "kind": "replace",
+          "offset": 775,
+          "primary": "耼",
+          "secondary": "聃",
+          "before": "掘若槁木似遗物离人而立于独也老",
+          "after": "曰吾游于物之初孔子曰何谓邪曰心"
+        },
+        {
+          "kind": "replace",
+          "offset": 909,
+          "primary": "耼",
+          "secondary": "聃",
+          "before": "是也且孰为之宗孔子曰请问游是老",
+          "after": "曰夫得是至美至乐也得至美而游乎"
+        },
+        {
+          "kind": "replace",
+          "offset": 972,
+          "primary": "胷",
+          "secondary": "胸",
+          "before": "变而不失其大常也喜怒哀乐不入于",
+          "after": "次夫天下也者万物之所一也得其所"
+        },
+        {
+          "kind": "replace",
+          "offset": 1092,
+          "primary": "说",
+          "secondary": "脱",
+          "before": "地而犹假至言以修心古之君子孰能",
+          "after": "焉老耼曰不然夫水之于汋也无为而"
+        },
+        {
+          "kind": "replace",
+          "offset": 1095,
+          "primary": "耼",
+          "secondary": "聃",
+          "before": "假至言以修心古之君子孰能说焉老",
+          "after": "曰不然夫水之于汋也无为而才自然"
+        },
+        {
+          "kind": "replace",
+          "offset": 1239,
+          "primary": "绶",
+          "secondary": "缓",
+          "before": "者冠圜冠者知天时履句屦者知地形",
+          "after": "佩玦者事至而断君子有其道者未必"
+        },
+        {
+          "kind": "replace",
+          "offset": 1460,
+          "primary": "人",
+          "secondary": "夫",
+          "before": "可矣是真画者也文王观于臧见一丈",
+          "after": "钓而其钓莫钓非持其钓有钓者也常"
+        },
+        {
+          "kind": "replace",
+          "offset": 1530,
+          "primary": "𩑺",
+          "secondary": "髯",
+          "before": "之夫夫曰昔者寡人梦见良人黑色而",
+          "after": "乘驳马而偏朱蹄号曰寓而政于臧丈"
+        },
+        {
+          "kind": "replace",
+          "offset": 1555,
+          "primary": "夫",
+          "secondary": "大",
+          "before": "寓而政于臧丈人庶几乎民有瘳乎诸",
+          "after": "夫蹵然曰先君王也文王曰然则卜之"
+        },
+        {
+          "kind": "replace",
+          "offset": 1557,
+          "primary": "蹵",
+          "secondary": "蹴",
+          "before": "政于臧丈人庶几乎民有瘳乎诸夫夫",
+          "after": "然曰先君王也文王曰然则卜之诸夫"
+        },
+        {
+          "kind": "insert",
+          "offset": 1562,
+          "primary": "",
+          "secondary": "命",
+          "before": "庶几乎民有瘳乎诸夫夫蹵然曰先君",
+          "after": "王也文王曰然则卜之诸夫夫曰先君"
+        },
+        {
+          "kind": "replace",
+          "offset": 1572,
+          "primary": "夫",
+          "secondary": "大",
+          "before": "蹵然曰先君王也文王曰然则卜之诸",
+          "after": "夫曰先君之命王其无它又何卜焉遂"
+        },
+        {
+          "kind": "replace",
+          "offset": 1812,
+          "primary": "危",
+          "secondary": "佹",
+          "before": "之射非不射之射也尝与汝登高山履",
+          "after": "石临百仞之渊若能射乎于是无人遂"
+        },
+        {
+          "kind": "replace",
+          "offset": 1937,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "之而无忧色吾始也疑子今视子之鼻",
+          "after": "栩栩然子之用心独奈何孙叔敖曰吾"
+        },
+        {
+          "kind": "replace",
+          "offset": 2058,
+          "primary": "劫",
+          "secondary": "刦",
+          "before": "人知者不得说美人不得滥盗人不得",
+          "after": "伏戏黄帝不得友死生亦大矣而无变"
+        },
+        {
+          "kind": "insert",
+          "offset": 2109,
+          "primary": "",
+          "secondary": "而不窕",
+          "before": "渊泉而不濡处卑细而不惫充满天地",
+          "after": "既以为人己愈有楚王与凡君坐少焉"
+        },
+        {
+          "kind": "replace",
+          "offset": 2111,
+          "primary": "为",
+          "secondary": "与",
+          "before": "而不濡处卑细而不惫充满天地既以",
+          "after": "人己愈有楚王与凡君坐少焉楚王左"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "title": "知北游",
+      "path": "content/posts/taoism/zhuangzi/zhi-bei-you.md",
+      "paragraphs": 12,
+      "primary_chars": 2615,
+      "secondary_chars": 2623,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E7%9F%A5%E5%8C%97%E9%81%8A&oldid=11117710",
+      "wiki_text_sha256": "6ce9c81dde46ecb05af6f836496256c50f68b8acaaaeeeb644390123be549c17",
+      "wiki_raw_sha256": "8423a2e0b3b5a6c0767a71082cc92e83491c9f92edec5b1501d74e594f3c16e0",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_022.txt",
+      "kanripo_sha256": "e550fd8758b77e666f76ed75720789bdf42e9713c05f95d38b4fd01d3cec0a10",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 870,
+          "primary": "耼",
+          "secondary": "聃",
+          "before": "阳气也又胡可得而有邪孔子问于老",
+          "after": "曰今日晏闲敢问至道老耼曰汝斋戒"
+        },
+        {
+          "kind": "replace",
+          "offset": 881,
+          "primary": "耼",
+          "secondary": "聃",
+          "before": "子问于老耼曰今日晏闲敢问至道老",
+          "after": "曰汝斋戒疏瀹而心澡雪而精神掊击"
+        },
+        {
+          "kind": "replace",
+          "offset": 886,
+          "primary": "疏瀹",
+          "secondary": "䟽𤅢",
+          "before": "曰今日晏闲敢问至道老耼曰汝斋戒",
+          "after": "而心澡雪而精神掊击而知夫道窅然"
+        },
+        {
+          "kind": "replace",
+          "offset": 977,
+          "primary": "枝",
+          "secondary": "肢",
+          "before": "无门无房四达之皇皇也邀于此者四",
+          "after": "彊思虑恂达耳目聪明其用心不劳其"
+        },
+        {
+          "kind": "replace",
+          "offset": 1120,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "与中国有人焉非阴非阳处于天地之",
+          "after": "直且为人将反于宗自本观之生者喑"
+        },
+        {
+          "kind": "replace",
+          "offset": 1211,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "也帝之所兴王之所起也人生天地之",
+          "after": "若白驹之过郤忽然而已注然勃然莫"
+        },
+        {
+          "kind": "replace",
+          "offset": 1261,
+          "primary": "𧙍",
+          "secondary": "袠",
+          "before": "生物哀之人类悲之解其天弢堕其天",
+          "after": "纷乎宛乎魂魄将往乃身从之乃大归"
+        },
+        {
+          "kind": "replace",
+          "offset": 1425,
+          "primary": "市",
+          "secondary": "巿",
+          "before": "夫子之问也固不及质正获之问于监",
+          "after": "履狶也每下愈况汝唯莫必无乎逃物"
+        },
+        {
+          "kind": "delete",
+          "offset": 1515,
+          "primary": "而",
+          "secondary": "",
+          "before": "已吾志无往焉而不知其所至去而来",
+          "after": "不知其所止吾已往来焉而不知其所"
+        },
+        {
+          "kind": "replace",
+          "offset": 1628,
+          "primary": "瞑",
+          "secondary": "暝",
+          "before": "神农同学于老龙吉神农隐几阖户昼",
+          "after": "妸荷甘日中奓户而入曰老龙死矣神"
+        },
+        {
+          "kind": "replace",
+          "offset": 1677,
+          "primary": "子",
+          "secondary": "予",
+          "before": "陋慢𫍙故弃予而死已矣夫子无所发",
+          "after": "之狂言而死矣夫弇堈吊闻之曰夫体"
+        },
+        {
+          "kind": "replace",
+          "offset": 1885,
+          "primary": "卬",
+          "secondary": "中",
+          "before": "之浅矣弗知内矣知之外矣于是泰清",
+          "after": "而叹曰弗知乃知乎知乃不知乎孰知"
+        },
+        {
+          "kind": "insert",
+          "offset": 1905,
+          "primary": "",
+          "secondary": "知之不知乎",
+          "before": "知乃知乎知乃不知乎孰知不知之知",
+          "after": "无始曰道不可闻闻而非也道不可见"
+        },
+        {
+          "kind": "replace",
+          "offset": 2013,
+          "primary": "崐崘",
+          "secondary": "昆仑",
+          "before": "观乎宇宙内不知乎大初是以不过乎",
+          "after": "不游乎大虚光曜问乎无有曰夫子有"
+        },
+        {
+          "kind": "insert",
+          "offset": 2035,
+          "primary": "",
+          "secondary": "无有弗应也",
+          "before": "光曜问乎无有曰夫子有乎其无有乎",
+          "after": "光曜不得问而孰视其状貌窅然空然"
+        },
+        {
+          "kind": "insert",
+          "offset": 2282,
+          "primary": "",
+          "secondary": "子",
+          "before": "邪无古无今无始无终未有子孙而有",
+          "after": "孙子可乎冉求未对仲尼曰已矣末应"
+        },
+        {
+          "kind": "delete",
+          "offset": 2283,
+          "primary": "子",
+          "secondary": "",
+          "before": "无古无今无始无终未有子孙而有孙",
+          "after": "可乎冉求未对仲尼曰已矣末应矣不"
+        },
+        {
+          "kind": "replace",
+          "offset": 2295,
+          "primary": "末",
+          "secondary": "未",
+          "before": "而有孙子可乎冉求未对仲尼曰已矣",
+          "after": "应矣不以生生死不以死死生死生有"
+        },
+        {
+          "kind": "replace",
+          "offset": 2471,
+          "primary": "䪡",
+          "secondary": "𩐋",
+          "before": "室君子之人若儒墨者师故以是非相",
+          "after": "也而况今之人乎圣人处物不伤物不"
+        },
+        {
+          "kind": "delete",
+          "offset": 2546,
+          "primary": "之",
+          "secondary": "",
+          "before": "乐之来吾不能御其去弗能止悲夫世",
+          "after": "人直为物逆旅耳夫知遇而不知所不"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "title": "庚桑楚",
+      "path": "content/posts/taoism/zhuangzi/geng-sang-chu.md",
+      "paragraphs": 8,
+      "primary_chars": 2450,
+      "secondary_chars": 2454,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%BA%9A%E6%A1%91%E6%A5%9A&oldid=11117711",
+      "wiki_text_sha256": "9fc4333fbd1169025e626ebb3247c0d5a9b23a02f81cf75c8026afd5c8792295",
+      "wiki_raw_sha256": "14c11ed2546a8d0f5503e717c7d0cb9ec87743b2d4273c17a8355e03c6b0a827",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_023.txt",
+      "kanripo_sha256": "a7df5375636ddfff3ab99b10750b0731bf47ae8037b4d7be3d0d7442a0bc74d2",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 1,
+          "primary": "耼",
+          "secondary": "聃",
+          "before": "老",
+          "after": "之役有庚桑楚者偏得老耼之道以北"
+        },
+        {
+          "kind": "replace",
+          "offset": 12,
+          "primary": "耼",
+          "secondary": "聃",
+          "before": "老耼之役有庚桑楚者偏得老",
+          "after": "之道以北居畏垒之山其臣之画然知"
+        },
+        {
+          "kind": "replace",
+          "offset": 148,
+          "primary": "实",
+          "secondary": "宝",
+          "before": "于予夫春气发而百草生正得秋而万",
+          "after": "成夫春与秋岂无得而然哉天道已行"
+        },
+        {
+          "kind": "replace",
+          "offset": 204,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "之细民而窃窃焉欲俎豆予于贤人之",
+          "after": "我其杓之人邪吾是以不释于老耼之"
+        },
+        {
+          "kind": "replace",
+          "offset": 218,
+          "primary": "耼",
+          "secondary": "聃",
+          "before": "之间我其杓之人邪吾是以不释于老",
+          "after": "之言弟子曰不然夫寻常之沟巨鱼无"
+        },
+        {
+          "kind": "replace",
+          "offset": 366,
+          "primary": "扬",
+          "secondary": "杨",
+          "before": "深眇而已矣且夫二子者又何足以称",
+          "after": "哉是其于辩也将妄凿垣墙而殖蓬蒿"
+        },
+        {
+          "kind": "replace",
+          "offset": 457,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "穴阫吾语汝大乱之本必生于尧舜之",
+          "after": "其末存乎千世之后千世之后其必有"
+        },
+        {
+          "kind": "replace",
+          "offset": 483,
+          "primary": "蹵",
+          "secondary": "蹴",
+          "before": "之后其必有人与人相食者也南荣趎",
+          "after": "然正坐曰若趎之年者已长矣将恶乎"
+        },
+        {
+          "kind": "replace",
+          "offset": 599,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "者不能自得形之与形亦辟矣而物或",
+          "after": "之邪欲相求而不能相得今谓趎曰全"
+        },
+        {
+          "kind": "replace",
+          "offset": 744,
+          "primary": "戄",
+          "secondary": "惧",
+          "before": "老子曰子何与人偕来之众也南荣趎",
+          "after": "然顾其后老子曰子不知吾所谓乎南"
+        },
+        {
+          "kind": "replace",
+          "offset": 764,
+          "primary": "慙",
+          "secondary": "惭",
+          "before": "老子曰子不知吾所谓乎南荣趎俯而",
+          "after": "仰而叹曰今者吾忘吾荅因失吾问老"
+        },
+        {
+          "kind": "replace",
+          "offset": 856,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "因楚而问之老子曰向吾见若眉睫之",
+          "after": "吾因以得汝矣今汝又言而信之若规"
+        },
+        {
+          "kind": "replace",
+          "offset": 922,
+          "primary": "自",
+          "secondary": "息",
+          "before": "趎请入就舍召其所好去其所恶十日",
+          "after": "愁复见老子老子曰汝自洒濯孰哉郁"
+        },
+        {
+          "kind": "replace",
+          "offset": 1035,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "之闻大道譬犹饮药以加病也趎愿闻",
+          "after": "生之经而已矣老子曰衞生之经能抱"
+        },
+        {
+          "kind": "replace",
+          "offset": 1045,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "病也趎愿闻衞生之经而已矣老子曰",
+          "after": "生之经能抱一乎能勿失乎能无卜筮"
+        },
+        {
+          "kind": "replace",
+          "offset": 1097,
+          "primary": "号",
+          "secondary": "嗥",
+          "before": "翛然乎能侗然乎能儿子乎儿子终日",
+          "after": "而嗌不嚘和之至也终日握而手不掜"
+        },
+        {
+          "kind": "replace",
+          "offset": 1101,
+          "primary": "嚘",
+          "secondary": "嗄",
+          "before": "侗然乎能儿子乎儿子终日号而嗌不",
+          "after": "和之至也终日握而手不掜共其德也"
+        },
+        {
+          "kind": "replace",
+          "offset": 1148,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "之居不知所为与物委蛇而同其波是",
+          "after": "生之经已南荣趎曰然则是至人之德"
+        },
+        {
+          "kind": "insert",
+          "offset": 1178,
+          "primary": "",
+          "secondary": "能乎",
+          "before": "德已乎曰非也是乃所谓冰解冻释者",
+          "after": "夫至人者相与交食乎地而交乐乎天"
+        },
+        {
+          "kind": "replace",
+          "offset": 1226,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "不相与为事翛然而往侗然而来是谓",
+          "after": "生之经已曰然则是至乎曰未也吾固"
+        },
+        {
+          "kind": "delete",
+          "offset": 1262,
+          "primary": "若",
+          "secondary": "",
+          "before": "子乎儿子动不知所为行不知所之身",
+          "after": "槁木之枝而心若死灰若是者祸亦不"
+        },
+        {
+          "kind": "replace",
+          "offset": 1487,
+          "primary": "闲",
+          "secondary": "间",
+          "before": "显明之中者人得而诛之为不善乎幽",
+          "after": "之中者鬼得而诛之明乎人明乎鬼者"
+        },
+        {
+          "kind": "replace",
+          "offset": 1508,
+          "primary": "券",
+          "secondary": "劵",
+          "before": "而诛之明乎人明乎鬼者然后能独行",
+          "after": "内者行乎无名券外者志乎期费行乎"
+        },
+        {
+          "kind": "replace",
+          "offset": 1515,
+          "primary": "券",
+          "secondary": "劵",
+          "before": "乎鬼者然后能独行券内者行乎无名",
+          "after": "外者志乎期费行乎无名者唯庸有光"
+        },
+        {
+          "kind": "replace",
+          "offset": 1587,
+          "primary": "铘",
+          "secondary": "鎁",
+          "before": "人者无亲无亲者尽人兵莫憯于志镆",
+          "after": "为下寇莫大于阴阳无所逃于天地之"
+        },
+        {
+          "kind": "replace",
+          "offset": 1603,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "为下寇莫大于阴阳无所逃于天地之",
+          "after": "非阴阳贼之心则使之也道通其分也"
+        },
+        {
+          "kind": "insert",
+          "offset": 1619,
+          "primary": "",
+          "secondary": "成也",
+          "before": "非阴阳贼之心则使之也道通其分也",
+          "after": "其成也毁也所恶乎分者其分也以备"
+        },
+        {
+          "kind": "insert",
+          "offset": 1625,
+          "primary": "",
+          "secondary": "以",
+          "before": "则使之也道通其分也其成也毁也所",
+          "after": "恶乎分者其分也以备所以恶乎备者"
+        },
+        {
+          "kind": "insert",
+          "offset": 1642,
+          "primary": "",
+          "secondary": "也",
+          "before": "分者其分也以备所以恶乎备者其有",
+          "after": "以备故出而不反见其鬼出而得是谓"
+        },
+        {
+          "kind": "replace",
+          "offset": 1684,
+          "primary": "有实",
+          "secondary": "所出",
+          "before": "形者象无形者而定矣出无本入无窍",
+          "after": "而无乎处有长而无乎本剽有所出而"
+        },
+        {
+          "kind": "replace",
+          "offset": 1688,
+          "primary": "乎处",
+          "secondary": "窍者",
+          "before": "形者而定矣出无本入无窍有实而无",
+          "after": "有长而无乎本剽有所出而无窍者有"
+        },
+        {
+          "kind": "insert",
+          "offset": 1691,
+          "primary": "",
+          "secondary": "实有",
+          "before": "定矣出无本入无窍有实而无乎处有",
+          "after": "长而无乎本剽有所出而无窍者有实"
+        },
+        {
+          "kind": "replace",
+          "offset": 1691,
+          "primary": "长",
+          "secondary": "实",
+          "before": "定矣出无本入无窍有实而无乎处有",
+          "after": "而无乎本剽有所出而无窍者有实有"
+        },
+        {
+          "kind": "replace",
+          "offset": 1695,
+          "primary": "本",
+          "secondary": "处",
+          "before": "本入无窍有实而无乎处有长而无乎",
+          "after": "剽有所出而无窍者有实有实而无乎"
+        },
+        {
+          "kind": "delete",
+          "offset": 1696,
+          "primary": "剽",
+          "secondary": "",
+          "before": "入无窍有实而无乎处有长而无乎本",
+          "after": "有所出而无窍者有实有实而无乎处"
+        },
+        {
+          "kind": "replace",
+          "offset": 1698,
+          "primary": "所",
+          "secondary": "长",
+          "before": "窍有实而无乎处有长而无乎本剽有",
+          "after": "出而无窍者有实有实而无乎处者宇"
+        },
+        {
+          "kind": "delete",
+          "offset": 1699,
+          "primary": "出",
+          "secondary": "",
+          "before": "有实而无乎处有长而无乎本剽有所",
+          "after": "而无窍者有实有实而无乎处者宇也"
+        },
+        {
+          "kind": "replace",
+          "offset": 1702,
+          "primary": "窍者有",
+          "secondary": "乎本剽",
+          "before": "无乎处有长而无乎本剽有所出而无",
+          "after": "实有实而无乎处者宇也有长而无本"
+        },
+        {
+          "kind": "delete",
+          "offset": 1705,
+          "primary": "实",
+          "secondary": "",
+          "before": "有长而无乎本剽有所出而无窍者有",
+          "after": "有实而无乎处者宇也有长而无本剽"
+        },
+        {
+          "kind": "replace",
+          "offset": 2134,
+          "primary": "胷",
+          "secondary": "胸",
+          "before": "取与知能六者塞道也此四六者不荡",
+          "after": "中则正正则静静则明明则虚虚则无"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "title": "徐无鬼",
+      "path": "content/posts/taoism/zhuangzi/xu-wu-gui.md",
+      "paragraphs": 14,
+      "primary_chars": 3441,
+      "secondary_chars": 3443,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%BE%90%E7%84%A1%E9%AC%BC&oldid=11117712",
+      "wiki_text_sha256": "bd5018f11fed003de9e95eff4866ff63a50209d3e537e6a4cb3610c164e50dce",
+      "wiki_raw_sha256": "4926db24fac33fd6a3a55d940dc01bf97ee31903dbb766dee279ce94decac113",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_024.txt",
+      "kanripo_sha256": "67b89d1509e7961d87ea5521c8ee55f8bc839d9af58209e78c2048d1fa578f3c",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 175,
+          "primary": "恤",
+          "secondary": "䘏",
+          "before": "也而未若天下马也天下马有成材若",
+          "after": "若失若丧其一若是者超轶绝尘不知"
+        },
+        {
+          "kind": "replace",
+          "offset": 658,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "变固外战君亦必无盛鹤列于丽谯之",
+          "after": "无徒骥于锱坛之宫无藏逆于得无以"
+        },
+        {
+          "kind": "replace",
+          "offset": 723,
+          "primary": "胷",
+          "secondary": "胸",
+          "before": "不知孰善胜之恶乎在君若勿已矣修",
+          "after": "中之诚以应天地之情而勿撄夫民死"
+        },
+        {
+          "kind": "replace",
+          "offset": 1100,
+          "primary": "市",
+          "secondary": "巿",
+          "before": "贵际农夫无草莱之事则不比商贾无",
+          "after": "井之事则不比庶人有旦暮之业则劝"
+        },
+        {
+          "kind": "replace",
+          "offset": 1321,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "道于是为之调瑟废一于堂废一于室",
+          "after": "宫宫动鼔角角动音律同矣夫或改调"
+        },
+        {
+          "kind": "replace",
+          "offset": 1325,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "之调瑟废一于堂废一于室鼔宫宫动",
+          "after": "角角动音律同矣夫或改调一弦于五"
+        },
+        {
+          "kind": "replace",
+          "offset": 1345,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "律同矣夫或改调一弦于五音无当也",
+          "after": "之二十五弦皆动未始异于声而音之"
+        },
+        {
+          "kind": "insert",
+          "offset": 1363,
+          "primary": "",
+          "secondary": "形也",
+          "before": "十五弦皆动未始异于声而音之君已",
+          "after": "且若是者邪惠子曰今夫儒墨杨秉且"
+        },
+        {
+          "kind": "replace",
+          "offset": 1398,
+          "primary": "奚",
+          "secondary": "矣",
+          "before": "相拂以辞相镇以声而未始吾非也则",
+          "after": "若矣庄子曰齐人蹢子于宋者其命阍"
+        },
+        {
+          "kind": "insert",
+          "offset": 1580,
+          "primary": "",
+          "secondary": "往",
+          "before": "为质矣吾无与言之矣管仲有病桓公",
+          "after": "问之曰仲父之病病矣可不谓云至于"
+        },
+        {
+          "kind": "insert",
+          "offset": 1589,
+          "primary": "",
+          "secondary": "不",
+          "before": "管仲有病桓公问之曰仲父之病病矣",
+          "after": "可不谓云至于大病则寡人恶乎属国"
+        },
+        {
+          "kind": "replace",
+          "offset": 1590,
+          "primary": "不",
+          "secondary": "讳",
+          "before": "仲有病桓公问之曰仲父之病病矣可",
+          "after": "谓云至于大病则寡人恶乎属国而可"
+        },
+        {
+          "kind": "delete",
+          "offset": 1591,
+          "primary": "谓",
+          "secondary": "",
+          "before": "有病桓公问之曰仲父之病病矣可不",
+          "after": "云至于大病则寡人恶乎属国而可管"
+        },
+        {
+          "kind": "replace",
+          "offset": 1791,
+          "primary": "𢮞",
+          "secondary": "搔",
+          "before": "然弃而走逃于深蓁有一狙焉委蛇攫",
+          "after": "见巧乎王王射之敏给搏捷矢王命相"
+        },
+        {
+          "kind": "delete",
+          "offset": 1890,
+          "primary": "游",
+          "secondary": "",
+          "before": "南伯子綦隐几而坐仰天而嘘颜成子",
+          "after": "入见曰夫子物之尤也形固可使若槁"
+        },
+        {
+          "kind": "replace",
+          "offset": 1983,
+          "primary": "哉",
+          "secondary": "我",
+          "before": "之若我而不卖之彼恶得而鬻之嗟乎",
+          "after": "悲人之自丧者吾又悲夫悲人者吾又"
+        },
+        {
+          "kind": "replace",
+          "offset": 2027,
+          "primary": "市",
+          "secondary": "巿",
+          "before": "仲尼之楚楚王觞之孙叔敖执爵而立",
+          "after": "南宜僚受酒而祭曰古之人乎于此言"
+        },
+        {
+          "kind": "replace",
+          "offset": 2062,
+          "primary": "市",
+          "secondary": "巿",
+          "before": "闻不言之言矣未之尝言于此乎言之",
+          "after": "南宜僚弄丸而两家之难解孙叔敖甘"
+        },
+        {
+          "kind": "replace",
+          "offset": 2166,
+          "primary": "幷",
+          "secondary": "并",
+          "before": "而凶矣故海不辞东流大之至也圣人",
+          "after": "包天地泽及天下而不知其谁氏是故"
+        },
+        {
+          "kind": "replace",
+          "offset": 2308,
+          "primary": "矍",
+          "secondary": "瞿",
+          "before": "吾子孰为祥九方歅曰梱也为祥子綦",
+          "after": "然喜曰奚若曰梱也将与国君同食以"
+        },
+        {
+          "kind": "replace",
+          "offset": 2473,
+          "primary": "谋",
+          "secondary": "𢜮",
+          "before": "之邀食于地吾不与之为事不与之为",
+          "after": "不与之为怪吾与之乘天地之诚而不"
+        },
+        {
+          "kind": "replace",
+          "offset": 2586,
+          "primary": "术",
+          "secondary": "街",
+          "before": "易于是乎刖而鬻之于齐适当渠公之",
+          "after": "然身肉食者终啮缺遇许由曰子将奚"
+        },
+        {
+          "kind": "insert",
+          "offset": 2589,
+          "primary": "",
+          "secondary": "食",
+          "before": "乎刖而鬻之于齐适当渠公之术然身",
+          "after": "肉食者终啮缺遇许由曰子将奚之曰"
+        },
+        {
+          "kind": "replace",
+          "offset": 2590,
+          "primary": "食",
+          "secondary": "而",
+          "before": "刖而鬻之于齐适当渠公之术然身肉",
+          "after": "者终啮缺遇许由曰子将奚之曰将逃"
+        },
+        {
+          "kind": "delete",
+          "offset": 2591,
+          "primary": "者",
+          "secondary": "",
+          "before": "而鬻之于齐适当渠公之术然身肉食",
+          "after": "终啮缺遇许由曰子将奚之曰将逃尧"
+        },
+        {
+          "kind": "replace",
+          "offset": 2794,
+          "primary": "疏",
+          "secondary": "䟽",
+          "before": "是以谓暖姝者也濡需者豕虱是也择",
+          "after": "鬣自以为广宫大囿奎蹄曲隈乳间股"
+        },
+        {
+          "kind": "replace",
+          "offset": 2808,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "择疏鬣自以为广宫大囿奎蹄曲隈乳",
+          "after": "股脚自以为安室利处不知屠者之一"
+        },
+        {
+          "kind": "replace",
+          "offset": 2825,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "脚自以为安室利处不知屠者之一旦",
+          "after": "臂布草操烟火而己与豕俱焦也此以"
+        },
+        {
+          "kind": "replace",
+          "offset": 2965,
+          "primary": "疏",
+          "secondary": "踈",
+          "before": "比不比则不利也故无所甚亲无所甚",
+          "after": "抱德炀和以顺天下此谓真人于蚁弃"
+        },
+        {
+          "kind": "replace",
+          "offset": 3020,
+          "primary": "之",
+          "secondary": "人",
+          "before": "其平也绳其变也循古之真人以天待",
+          "after": "不以人入天古之真人得之也生失之"
+        },
+        {
+          "kind": "replace",
+          "offset": 3050,
+          "primary": "堇",
+          "secondary": "菫",
+          "before": "之也死得之也死失之也生药也其实",
+          "after": "也桔梗也鸡壅也豕零也是时为帝者"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "title": "则阳",
+      "path": "content/posts/taoism/zhuangzi/ze-yang.md",
+      "paragraphs": 12,
+      "primary_chars": 2533,
+      "secondary_chars": 2536,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%89%87%E9%99%BD&oldid=11117713",
+      "wiki_text_sha256": "e436b5ed13fc6c6868d53d99b2b82c12ce15503aa1339ad10e9f28a92968a618",
+      "wiki_raw_sha256": "97dc0945cfeb6a8920ca96f1a239a4c09f65ab961bde8b5429b81e71ed65f2ce",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_025.txt",
+      "kanripo_sha256": "a88c286610fed46ac98ac01a2581a67ded916d7fd009d18c24ee675369aa9856",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 28,
+          "primary": "谈",
+          "secondary": "谭",
+          "before": "之见夷节归彭阳见王果曰夫子何不",
+          "after": "我于王王果曰我不若公阅休彭阳曰"
+        },
+        {
+          "kind": "replace",
+          "offset": 111,
+          "primary": "顚",
+          "secondary": "颠",
+          "before": "也无德而有知不自许以之神其交固",
+          "after": "冥乎富贵之地非相助以德相助消也"
+        },
+        {
+          "kind": "insert",
+          "offset": 131,
+          "primary": "",
+          "secondary": "兼",
+          "before": "之地非相助以德相助消也夫冻者假",
+          "after": "衣于春暍者反冬乎冷风夫楚王之为"
+        },
+        {
+          "kind": "insert",
+          "offset": 137,
+          "primary": "",
+          "secondary": "冷",
+          "before": "德相助消也夫冻者假衣于春暍者反",
+          "after": "冬乎冷风夫楚王之为人也形尊而严"
+        },
+        {
+          "kind": "replace",
+          "offset": 137,
+          "primary": "冬",
+          "secondary": "风",
+          "before": "德相助消也夫冻者假衣于春暍者反",
+          "after": "乎冷风夫楚王之为人也形尊而严其"
+        },
+        {
+          "kind": "replace",
+          "offset": 139,
+          "primary": "冷",
+          "secondary": "冬",
+          "before": "助消也夫冻者假衣于春暍者反冬乎",
+          "after": "风夫楚王之为人也形尊而严其于罪"
+        },
+        {
+          "kind": "delete",
+          "offset": 140,
+          "primary": "风",
+          "secondary": "",
+          "before": "消也夫冻者假衣于春暍者反冬乎冷",
+          "after": "夫楚王之为人也形尊而严其于罪也"
+        },
+        {
+          "kind": "delete",
+          "offset": 190,
+          "primary": "其",
+          "secondary": "",
+          "before": "穷也使家人忘其贫其达也使王公忘",
+          "after": "爵禄而化卑其于物也与之为娱矣其"
+        },
+        {
+          "kind": "replace",
+          "offset": 671,
+          "primary": "然",
+          "secondary": "燃",
+          "before": "其人民系其牛马使其君内热发于背",
+          "after": "后拔其国忌也出走然后抶其背折其"
+        },
+        {
+          "kind": "replace",
+          "offset": 973,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "以当之惠子曰夫吹管也犹有嗃也吹",
+          "after": "首者吷而已矣尧舜人之所誉也道尧"
+        },
+        {
+          "kind": "replace",
+          "offset": 1083,
+          "primary": "市",
+          "secondary": "巿",
+          "before": "违而心不屑与之俱是陆沈者也是其",
+          "after": "南宜僚邪子路请往召之孔子曰已矣"
+        },
+        {
+          "kind": "replace",
+          "offset": 1232,
+          "primary": "繁",
+          "secondary": "蘩",
+          "before": "予予来年变齐深其耕而熟耰之其禾",
+          "after": "以滋予终年厌飧庄子闻之曰今人之"
+        },
+        {
+          "kind": "replace",
+          "offset": 1311,
+          "primary": "瘭",
+          "secondary": "漂",
+          "before": "扶吾形寻擢吾性并溃漏发不择所出",
+          "after": "疽疥癕内热溲膏是也柏矩学于老聃"
+        },
+        {
+          "kind": "replace",
+          "offset": 1314,
+          "primary": "癕",
+          "secondary": "痈",
+          "before": "寻擢吾性并溃漏发不择所出瘭疽疥",
+          "after": "内热溲膏是也柏矩学于老聃曰请之"
+        },
+        {
+          "kind": "replace",
+          "offset": 1470,
+          "primary": "形",
+          "secondary": "物",
+          "before": "为在己以正为在民以枉为在己故一",
+          "after": "有失其形者退而自责今则不然匿为"
+        },
+        {
+          "kind": "replace",
+          "offset": 1488,
+          "primary": "愚",
+          "secondary": "过",
+          "before": "其形者退而自责今则不然匿为物而",
+          "after": "不识大为难而罪不敢重为任而罚不"
+        },
+        {
+          "kind": "replace",
+          "offset": 1671,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "仲尼问于太史大弢伯常蹇狶韦曰夫",
+          "after": "灵公饮酒湛乐不听国家之政田猎毕"
+        },
+        {
+          "kind": "replace",
+          "offset": 1712,
+          "primary": "蹇",
+          "secondary": "骞",
+          "before": "为灵公者何邪大弢曰是因是也伯常",
+          "after": "曰夫灵公有妻三人同滥而浴史䲡奉"
+        },
+        {
+          "kind": "replace",
+          "offset": 1911,
+          "primary": "幷",
+          "secondary": "并",
+          "before": "积卑而为高江河合水而为大大人合",
+          "after": "而为公是以自外入者有主而不执由"
+        },
+        {
+          "kind": "replace",
+          "offset": 1931,
+          "primary": "正",
+          "secondary": "匹",
+          "before": "以自外入者有主而不执由中出者有",
+          "after": "而不距四时殊气天不赐故岁成五官"
+        },
+        {
+          "kind": "insert",
+          "offset": 1957,
+          "primary": "",
+          "secondary": "殊能",
+          "before": "故岁成五官殊职君不私故国治文武",
+          "after": "大人不赐故德备万物殊理道不私故"
+        },
+        {
+          "kind": "insert",
+          "offset": 2329,
+          "primary": "",
+          "secondary": "测",
+          "before": "知不能以言读其所自化又不能以意",
+          "after": "其所将为斯而析之精至于无伦大至"
+        },
+        {
+          "kind": "replace",
+          "offset": 2394,
+          "primary": "疏",
+          "secondary": "䟽",
+          "before": "无名无实在物之虚可言可意言而愈",
+          "after": "未生不可忌已死不可徂死生非远也"
+        },
+        {
+          "kind": "replace",
+          "offset": 2404,
+          "primary": "徂",
+          "secondary": "阻",
+          "before": "可意言而愈疏未生不可忌已死不可",
+          "after": "死生非远也理不可覩或之使莫之为"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "title": "外物",
+      "path": "content/posts/taoism/zhuangzi/wai-wu.md",
+      "paragraphs": 8,
+      "primary_chars": 1520,
+      "secondary_chars": 1517,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%A4%96%E7%89%A9&oldid=11117714",
+      "wiki_text_sha256": "cf14c26df72fd30043fc287ec097ea3e361d736feda0036ab07e154ae27d7c6f",
+      "wiki_raw_sha256": "a0776f10e765c260f96e5c1b22a52ac40b17a549982e671c6e456d383a7198f7",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_026.txt",
+      "kanripo_sha256": "6a6a9040782ddc11cb002fcb93ce150ed21da7eecb885c985c9d740f22cdb2da",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 136,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "无所逃螴蜳不得成心若县于天地之",
+          "after": "慰暋沈屯利害相摩生火甚多众人焚"
+        },
+        {
+          "kind": "replace",
+          "offset": 173,
+          "primary": "貣",
+          "secondary": "贷",
+          "before": "于是乎有僓然而道尽庄周家贫故往",
+          "after": "粟于监河侯监河侯曰诺我将得邑金"
+        },
+        {
+          "kind": "insert",
+          "offset": 247,
+          "primary": "",
+          "secondary": "升",
+          "before": "为者邪对曰我东海之波臣也君岂有",
+          "after": "斗升之水而活我哉周曰诺我且南游"
+        },
+        {
+          "kind": "delete",
+          "offset": 248,
+          "primary": "升",
+          "secondary": "",
+          "before": "者邪对曰我东海之波臣也君岂有斗",
+          "after": "之水而活我哉周曰诺我且南游吴越"
+        },
+        {
+          "kind": "replace",
+          "offset": 737,
+          "primary": "丈",
+          "secondary": "人",
+          "before": "何哉其载焉终矜尔宋元君夜半而梦",
+          "after": "夫被发闚阿门曰予自宰路之渊予为"
+        },
+        {
+          "kind": "delete",
+          "offset": 738,
+          "primary": "夫",
+          "secondary": "",
+          "before": "哉其载焉终矜尔宋元君夜半而梦丈",
+          "after": "被发闚阿门曰予自宰路之渊予为清"
+        },
+        {
+          "kind": "replace",
+          "offset": 900,
+          "primary": "不",
+          "secondary": "困",
+          "before": "遗䇲不能避刳肠之患如是则知有所",
+          "after": "知而神有所不及也虽有至知万人谋"
+        },
+        {
+          "kind": "delete",
+          "offset": 901,
+          "primary": "知而",
+          "secondary": "",
+          "before": "䇲不能避刳肠之患如是则知有所不",
+          "after": "神有所不及也虽有至知万人谋之鱼"
+        },
+        {
+          "kind": "replace",
+          "offset": 924,
+          "primary": "鹕",
+          "secondary": "𫛷",
+          "before": "虽有至知万人谋之鱼不畏网而畏鹈",
+          "after": "去小知而大知明去善而自善矣婴儿"
+        },
+        {
+          "kind": "replace",
+          "offset": 1237,
+          "primary": "豀",
+          "secondary": "谿",
+          "before": "有重阆心有天游室无空虚则妇姑勃",
+          "after": "心无天游则六凿相攘大林丘山之善"
+        },
+        {
+          "kind": "replace",
+          "offset": 1322,
+          "primary": "𡟬",
+          "secondary": "搣",
+          "before": "者过半而不知其然静然可以补病眦",
+          "after": "可以休老宁可以止遽虽然若是劳者"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "title": "寓言",
+      "path": "content/posts/taoism/zhuangzi/yu-yan.md",
+      "paragraphs": 7,
+      "primary_chars": 932,
+      "secondary_chars": 933,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%AF%93%E8%A8%80&oldid=11117715",
+      "wiki_text_sha256": "04e800669123fd095093f7f954592142c525ee05705e4e0885c6878660bbc928",
+      "wiki_raw_sha256": "0b901779854ffd44367e03529240c07d8539961447289285218e986c6ce5b232",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_027.txt",
+      "kanripo_sha256": "afda5fa037ed61f726df77cfba267879a10d5554f6ee0d6d8388233878e94e03",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 79,
+          "primary": "己",
+          "secondary": "已",
+          "before": "为是之异于己为非之重言十七所以",
+          "after": "言也是为耆艾年先矣而无经纬本末"
+        },
+        {
+          "kind": "insert",
+          "offset": 157,
+          "primary": "",
+          "secondary": "言",
+          "before": "则齐齐与言不齐言与齐不齐也故曰",
+          "after": "无言言无言终身言未尝言终身不言"
+        },
+        {
+          "kind": "insert",
+          "offset": 167,
+          "primary": "",
+          "secondary": "不",
+          "before": "不齐也故曰无言言无言终身言未尝",
+          "after": "言终身不言未尝不言有自也而可有"
+        },
+        {
+          "kind": "delete",
+          "offset": 439,
+          "primary": "而",
+          "secondary": "",
+          "before": "曰吾及亲仕三釜而心乐后仕三千钟",
+          "after": "不洎吾心悲弟子问于仲尼曰若参者"
+        },
+        {
+          "kind": "replace",
+          "offset": 486,
+          "primary": "鹳",
+          "secondary": "观",
+          "before": "县者可以有哀乎彼视三釜三千钟如",
+          "after": "雀蚊虻相过乎前也颜成子游谓东郭"
+        },
+        {
+          "kind": "replace",
+          "offset": 742,
+          "primary": "以",
+          "secondary": "无",
+          "before": "与夜吾代也彼吾所以有待邪而况乎",
+          "after": "有待者乎彼来则我与之来彼往则我"
+        },
+        {
+          "kind": "delete",
+          "offset": 743,
+          "primary": "有",
+          "secondary": "",
+          "before": "夜吾代也彼吾所以有待邪而况乎以",
+          "after": "待者乎彼来则我与之来彼往则我与"
+        },
+        {
+          "kind": "replace",
+          "offset": 786,
+          "primary": "耼",
+          "secondary": "聃",
+          "before": "阳者又何以有问乎阳子居南之沛老",
+          "after": "西游于秦邀于郊至于梁而遇老子老"
+        },
+        {
+          "kind": "replace",
+          "offset": 863,
+          "primary": "某",
+          "secondary": "其",
+          "before": "子夫子行不闲是以不敢今闲矣请问",
+          "after": "过老子曰而睢睢盱盱而谁与居大白"
+        },
+        {
+          "kind": "insert",
+          "offset": 871,
+          "primary": "",
+          "secondary": "而",
+          "before": "不敢今闲矣请问某过老子曰而睢睢",
+          "after": "盱盱而谁与居大白若辱盛德若不足"
+        },
+        {
+          "kind": "replace",
+          "offset": 889,
+          "primary": "蹵",
+          "secondary": "蹴",
+          "before": "谁与居大白若辱盛德若不足阳子居",
+          "after": "然变容曰敬闻命矣其往也舍者迎将"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "title": "让王",
+      "path": "content/posts/taoism/zhuangzi/rang-wang.md",
+      "paragraphs": 18,
+      "primary_chars": 2707,
+      "secondary_chars": 2744,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E8%AE%93%E7%8E%8B&oldid=11117716",
+      "wiki_text_sha256": "5e72d831246dc052e2361d5c8ad52b5e563f4302cbe3954c300be98a1d9f2ac6",
+      "wiki_raw_sha256": "8eb7ee1a62b9b53ac04dd2d6199076b7c37bdf178e51f73e026c52ee004c0c3f",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_028.txt",
+      "kanripo_sha256": "acff0e1ca0e69b67b5392ee01aa0192aaf10ff8c4d697a1facecf71da7feb9a2",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 192,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "食日出而作日入而息逍遥于天地之",
+          "after": "而心意自得吾何以天下为哉悲夫子"
+        },
+        {
+          "kind": "replace",
+          "offset": 818,
+          "primary": "真",
+          "secondary": "非",
+          "before": "审之复来求之则不得已故若颜阖者",
+          "after": "恶富贵也故曰道之真以治身其绪余"
+        },
+        {
+          "kind": "insert",
+          "offset": 823,
+          "primary": "",
+          "secondary": "由重生恶之也",
+          "before": "之则不得已故若颜阖者真恶富贵也",
+          "after": "故曰道之真以治身其绪余以为国家"
+        },
+        {
+          "kind": "insert",
+          "offset": 945,
+          "primary": "",
+          "secondary": "珠",
+          "before": "者重而所要者轻也夫生者岂特随侯",
+          "after": "之重哉子列子穷容貌有饥色客有言"
+        },
+        {
+          "kind": "insert",
+          "offset": 1002,
+          "primary": "",
+          "secondary": "出",
+          "before": "好士乎郑子阳即令官遗之粟子列子",
+          "after": "见使者再拜而辞使者去子列子入其"
+        },
+        {
+          "kind": "replace",
+          "offset": 1394,
+          "primary": "牖",
+          "secondary": "牗",
+          "before": "室茨以生草蓬户不完桑以为枢而瓮",
+          "after": "二室褐以为塞上漏下湿匡坐而弦子"
+        },
+        {
+          "kind": "insert",
+          "offset": 1409,
+          "primary": "",
+          "secondary": "歌",
+          "before": "牖二室褐以为塞上漏下湿匡坐而弦",
+          "after": "子贡乘大马中绀而表素轩车不容巷"
+        },
+        {
+          "kind": "replace",
+          "offset": 1432,
+          "primary": "𫄳",
+          "secondary": "纵",
+          "before": "表素轩车不容巷往见原宪原宪华冠",
+          "after": "履杖藜而应门子贡曰嘻先生何病原"
+        },
+        {
+          "kind": "insert",
+          "offset": 1457,
+          "primary": "",
+          "secondary": "之",
+          "before": "嘻先生何病原宪应之曰宪闻之无财",
+          "after": "谓之贫学而不能行谓之病今宪贫也"
+        },
+        {
+          "kind": "delete",
+          "offset": 1458,
+          "primary": "之",
+          "secondary": "",
+          "before": "先生何病原宪应之曰宪闻之无财谓",
+          "after": "贫学而不能行谓之病今宪贫也非病"
+        },
+        {
+          "kind": "insert",
+          "offset": 1465,
+          "primary": "",
+          "secondary": "之",
+          "before": "之曰宪闻之无财谓之贫学而不能行",
+          "after": "谓之病今宪贫也非病也子贡逡巡而"
+        },
+        {
+          "kind": "delete",
+          "offset": 1466,
+          "primary": "之",
+          "secondary": "",
+          "before": "曰宪闻之无财谓之贫学而不能行谓",
+          "after": "病今宪贫也非病也子贡逡巡而有愧"
+        },
+        {
+          "kind": "replace",
+          "offset": 1520,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "义之慝舆马之饰宪不忍为也曾子居",
+          "after": "缊袍无表颜色肿哙手足胼胝三日不"
+        },
+        {
+          "kind": "replace",
+          "offset": 1647,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "以给𫗞粥郭内之田十亩足以为丝麻",
+          "after": "琴足以自娱所学夫子之道者足以自"
+        },
+        {
+          "kind": "delete",
+          "offset": 1746,
+          "primary": "乎",
+          "secondary": "",
+          "before": "公子牟谓瞻子曰身在江海之上心居",
+          "after": "魏阙之下奈何瞻子曰重生重生则利"
+        },
+        {
+          "kind": "insert",
+          "offset": 1761,
+          "primary": "",
+          "secondary": "轻",
+          "before": "乎魏阙之下奈何瞻子曰重生重生则",
+          "after": "利轻中山公子牟曰虽知之未能自胜"
+        },
+        {
+          "kind": "delete",
+          "offset": 1762,
+          "primary": "轻",
+          "secondary": "",
+          "before": "魏阙之下奈何瞻子曰重生重生则利",
+          "after": "中山公子牟曰虽知之未能自胜也瞻"
+        },
+        {
+          "kind": "replace",
+          "offset": 1850,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "乎道可谓有其意矣孔子穷于陈蔡之",
+          "after": "七日不火食藜羹不糁颜色甚惫而弦"
+        },
+        {
+          "kind": "insert",
+          "offset": 1873,
+          "primary": "",
+          "secondary": "于外",
+          "before": "不糁颜色甚惫而弦歌于室颜回择菜",
+          "after": "子路子贡相与言曰夫子再逐于鲁削"
+        },
+        {
+          "kind": "replace",
+          "offset": 1890,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "子贡相与言曰夫子再逐于鲁削迹于",
+          "after": "伐树于宋穷于商周围于陈蔡杀夫子"
+        },
+        {
+          "kind": "replace",
+          "offset": 1917,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "蔡杀夫子者无罪藉夫子者无禁弦歌",
+          "after": "琴未尝绝音君子之无耻也若此乎颜"
+        },
+        {
+          "kind": "replace",
+          "offset": 2021,
+          "primary": "穷",
+          "secondary": "疚",
+          "before": "遭乱世之患其何穷之为故内省而不",
+          "after": "于道临难而不失其德天寒既至霜雪"
+        },
+        {
+          "kind": "replace",
+          "offset": 2031,
+          "primary": "天",
+          "secondary": "大",
+          "before": "故内省而不穷于道临难而不失其德",
+          "after": "寒既至霜雪既降吾是以知松柏之茂"
+        },
+        {
+          "kind": "insert",
+          "offset": 2048,
+          "primary": "",
+          "secondary": "昔桓公得之莒文公得之曹越王得之会稽",
+          "before": "既至霜雪既降吾是以知松柏之茂也",
+          "after": "陈蔡之隘于丘其幸乎孔子削然反琴"
+        },
+        {
+          "kind": "replace",
+          "offset": 2059,
+          "primary": "削",
+          "secondary": "列",
+          "before": "柏之茂也陈蔡之隘于丘其幸乎孔子",
+          "after": "然反琴而弦歌子路扢然执干而舞子"
+        },
+        {
+          "kind": "replace",
+          "offset": 2106,
+          "primary": "德",
+          "secondary": "得",
+          "before": "道者穷亦乐通亦乐所乐非穷通也道",
+          "after": "于此则穷通为寒暑风雨之序矣故许"
+        },
+        {
+          "kind": "insert",
+          "offset": 2112,
+          "primary": "",
+          "secondary": "一也",
+          "before": "亦乐所乐非穷通也道德于此则穷通",
+          "after": "为寒暑风雨之序矣故许由虞于颍阳"
+        },
+        {
+          "kind": "replace",
+          "offset": 2123,
+          "primary": "虞",
+          "secondary": "娱",
+          "before": "此则穷通为寒暑风雨之序矣故许由",
+          "after": "于颍阳而共伯得乎共首舜以天下让"
+        },
+        {
+          "kind": "replace",
+          "offset": 2132,
+          "primary": "共",
+          "secondary": "丘",
+          "before": "之序矣故许由虞于颍阳而共伯得乎",
+          "after": "首舜以天下让其友北人无择北人无"
+        },
+        {
+          "kind": "replace",
+          "offset": 2250,
+          "primary": "诟",
+          "secondary": "垢",
+          "before": "曰吾不知也汤曰伊尹何如曰强力忍",
+          "after": "吾不知其他也汤遂与伊尹谋伐桀克"
+        },
+        {
+          "kind": "insert",
+          "offset": 2463,
+          "primary": "",
+          "secondary": "则文王已殁矣",
+          "before": "方有人似有道者试往观焉至于岐阳",
+          "after": "武王闻之使叔旦往见之与盟曰加富"
+        },
+        {
+          "kind": "insert",
+          "offset": 2578,
+          "primary": "",
+          "secondary": "与治",
+          "before": "遭时自利也今周见殷之乱而遽为政",
+          "after": "上谋而下行货阻兵而保威割牲而盟"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "title": "盗跖",
+      "path": "content/posts/taoism/zhuangzi/dao-zhi.md",
+      "paragraphs": 11,
+      "primary_chars": 3106,
+      "secondary_chars": 3104,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E7%9B%9C%E8%B7%96&oldid=11117717",
+      "wiki_text_sha256": "203b031e2d5d3f543204075b8f6d9ced7e2fcb7312e6a2c208712c1b8f194c3e",
+      "wiki_raw_sha256": "db8e18cf5f3485cc3c0ae96a223233a92c441ce14e746542f34dbacc24ec33cb",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_029.txt",
+      "kanripo_sha256": "3f41319c60b83f1248c6e8e49166ef9faefee5b6bd0a5d78231c3ddcc367af33",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 365,
+          "primary": "缪",
+          "secondary": "谬",
+          "before": "称文武冠枝木之冠带死牛之胁多辞",
+          "after": "说不耕而食不织而衣摇唇鼔舌擅生"
+        },
+        {
+          "kind": "replace",
+          "offset": 377,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "胁多辞缪说不耕而食不织而衣摇唇",
+          "after": "舌擅生是非以迷天下之主使天下学"
+        },
+        {
+          "kind": "replace",
+          "offset": 480,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "反走再拜盗跖盗跖大怒两展其足案",
+          "after": "瞋目声如乳虎曰丘来前若所言顺吾"
+        },
+        {
+          "kind": "replace",
+          "offset": 543,
+          "primary": "雕",
+          "secondary": "诸",
+          "before": "见而皆悦之此上德也知维天地能辩",
+          "after": "万物此中德也勇悍果敢聚众率兵此"
+        },
+        {
+          "kind": "delete",
+          "offset": 544,
+          "primary": "万",
+          "secondary": "",
+          "before": "而皆悦之此上德也知维天地能辩雕",
+          "after": "物此中德也勇悍果敢聚众率兵此下"
+        },
+        {
+          "kind": "replace",
+          "offset": 638,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "听臣臣请南使吴越北使齐鲁东使宋",
+          "after": "西使晋楚使为将军造大城数百里立"
+        },
+        {
+          "kind": "replace",
+          "offset": 850,
+          "primary": "悉",
+          "secondary": "皆",
+          "before": "吾闻之古者禽兽多而人民少于是民",
+          "after": "巢木上以避之昼日拾杼栗而暮宿其"
+        },
+        {
+          "kind": "replace",
+          "offset": 852,
+          "primary": "木",
+          "secondary": "居",
+          "before": "之古者禽兽多而人民少于是民悉巢",
+          "after": "上以避之昼日拾杼栗而暮宿其上故"
+        },
+        {
+          "kind": "delete",
+          "offset": 853,
+          "primary": "上",
+          "secondary": "",
+          "before": "古者禽兽多而人民少于是民悉巢木",
+          "after": "以避之昼日拾杼栗而暮宿其上故命"
+        },
+        {
+          "kind": "delete",
+          "offset": 858,
+          "primary": "日",
+          "secondary": "",
+          "before": "而人民少于是民悉巢木上以避之昼",
+          "after": "拾杼栗而暮宿其上故命之曰有巢氏"
+        },
+        {
+          "kind": "replace",
+          "offset": 860,
+          "primary": "杼",
+          "secondary": "橡",
+          "before": "民少于是民悉巢木上以避之昼日拾",
+          "after": "栗而暮宿其上故命之曰有巢氏之民"
+        },
+        {
+          "kind": "delete",
+          "offset": 862,
+          "primary": "而",
+          "secondary": "",
+          "before": "于是民悉巢木上以避之昼日拾杼栗",
+          "after": "暮宿其上故命之曰有巢氏之民古者"
+        },
+        {
+          "kind": "replace",
+          "offset": 864,
+          "primary": "宿其",
+          "secondary": "栖木",
+          "before": "民悉巢木上以避之昼日拾杼栗而暮",
+          "after": "上故命之曰有巢氏之民古者民不知"
+        },
+        {
+          "kind": "replace",
+          "offset": 1079,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "路而使从之使子路去其危冠解其长",
+          "after": "而受教于子天下皆曰孔丘能止暴禁"
+        },
+        {
+          "kind": "replace",
+          "offset": 1104,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "孔丘能止暴禁非其卒之也子路欲杀",
+          "after": "君而事不成身菹于衞东门之上是子"
+        },
+        {
+          "kind": "replace",
+          "offset": 1113,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "之也子路欲杀衞君而事不成身菹于",
+          "after": "东门之上是子教之不至也子自谓才"
+        },
+        {
+          "kind": "replace",
+          "offset": 1141,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "自谓才士圣人邪则再逐于鲁削迹于",
+          "after": "穷于齐围于陈蔡不容身于天下子教"
+        },
+        {
+          "kind": "insert",
+          "offset": 1263,
+          "primary": "",
+          "secondary": "莫若",
+          "before": "情性其行乃甚可羞也世之所谓贤士",
+          "after": "伯夷叔齐伯夷叔齐辞孤竹之君而饿"
+        },
+        {
+          "kind": "replace",
+          "offset": 1340,
+          "primary": "抱",
+          "secondary": "拘",
+          "before": "股以食文公文公后背之子推怒而去",
+          "after": "木而燔死尾生与女子期于梁下女子"
+        },
+        {
+          "kind": "replace",
+          "offset": 1368,
+          "primary": "四",
+          "secondary": "六",
+          "before": "下女子不来水至不去抱梁柱而死此",
+          "after": "子者无异于磔犬流豕操瓢而乞者皆"
+        },
+        {
+          "kind": "replace",
+          "offset": 1525,
+          "primary": "瘦",
+          "secondary": "瘐",
+          "before": "人上寿百岁中寿八十下寿六十除病",
+          "after": "死丧忧患其中开口而笑者一月之中"
+        },
+        {
+          "kind": "replace",
+          "offset": 1570,
+          "primary": "间忽",
+          "secondary": "闲勿",
+          "before": "死者有时操有时之具而托于无穷之",
+          "after": "然无异骐骥之驰过隙也不能悦其志"
+        },
+        {
+          "kind": "insert",
+          "offset": 1984,
+          "primary": "",
+          "secondary": "仁",
+          "before": "曰小盗者拘大盗者为诸侯诸侯之门",
+          "after": "义士存焉昔者桓公小白杀兄入嫂而"
+        },
+        {
+          "kind": "delete",
+          "offset": 1985,
+          "primary": "士",
+          "secondary": "",
+          "before": "小盗者拘大盗者为诸侯诸侯之门义",
+          "after": "存焉昔者桓公小白杀兄入嫂而管仲"
+        },
+        {
+          "kind": "replace",
+          "offset": 2033,
+          "primary": "胷",
+          "secondary": "胸",
+          "before": "贱之行则下之则是言行之情悖战于",
+          "after": "中也不亦拂乎故书曰孰恶孰美成者"
+        },
+        {
+          "kind": "replace",
+          "offset": 2065,
+          "primary": "疏",
+          "secondary": "䟽",
+          "before": "首不成者为尾子张曰子不为行即将",
+          "after": "戚无伦贵贱无义长幼无序五纪六位"
+        },
+        {
+          "kind": "replace",
+          "offset": 2099,
+          "primary": "疏",
+          "secondary": "䟽",
+          "before": "为别乎满苟得曰尧杀长子舜流母弟",
+          "after": "戚有伦乎汤放桀武王杀纣贵贱有义"
+        },
+        {
+          "kind": "replace",
+          "offset": 2259,
+          "primary": "徘徊",
+          "secondary": "俳佪",
+          "before": "息若是若非执而圆机独成而意与道",
+          "after": "无转而行无成而义将失而所为无赴"
+        },
+        {
+          "kind": "delete",
+          "offset": 2316,
+          "primary": "不",
+          "secondary": "",
+          "before": "父尾生溺死信之患也鲍子立干申子",
+          "after": "自理廉之害也孔子不见母匡子不见"
+        },
+        {
+          "kind": "replace",
+          "offset": 2318,
+          "primary": "理",
+          "secondary": "埋",
+          "before": "生溺死信之患也鲍子立干申子不自",
+          "after": "廉之害也孔子不见母匡子不见父义"
+        },
+        {
+          "kind": "insert",
+          "offset": 2944,
+          "primary": "",
+          "secondary": "阪",
+          "before": "可谓乱矣侅溺于冯气若负重行而上",
+          "after": "也可谓苦矣贪财而取慰贪权而取竭"
+        },
+        {
+          "kind": "replace",
+          "offset": 3020,
+          "primary": "劫",
+          "secondary": "刦",
+          "before": "心戚醮求益而不止可谓忧矣内则疑",
+          "after": "请之贼外则畏寇盗之害内周楼疏外"
+        },
+        {
+          "kind": "replace",
+          "offset": 3034,
+          "primary": "疏",
+          "secondary": "䟽",
+          "before": "疑劫请之贼外则畏寇盗之害内周楼",
+          "after": "外不敢独行可谓畏矣此六者天下之"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "title": "说剑",
+      "path": "content/posts/taoism/zhuangzi/shuo-jian.md",
+      "paragraphs": 1,
+      "primary_chars": 869,
+      "secondary_chars": 870,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E8%AA%AA%E5%8A%8D&oldid=11117718",
+      "wiki_text_sha256": "f65bd5171a38cf66308ab906771f8742a448a2da58a2458fcbc64b00d2006e80",
+      "wiki_raw_sha256": "e3642eb8259e26f14eae399b5077af7cae9b3f23c51f8ed1f947127d06e32d9d",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_030.txt",
+      "kanripo_sha256": "2d79bff2720f5b8ff49cc36540ed0fa5b8379170c79e72c9ca8a16d19028fd6b",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 5,
+          "primary": "劒劒",
+          "secondary": "剑剑",
+          "before": "昔赵文王喜",
+          "after": "士夹门而客三千余人日夜相击于前"
+        },
+        {
+          "kind": "replace",
+          "offset": 31,
+          "primary": "无",
+          "secondary": "不",
+          "before": "日夜相击于前死伤者岁百余人好之",
+          "after": "厌如是三年国衰诸侯谋之太子悝患"
+        },
+        {
+          "kind": "replace",
+          "offset": 59,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "子悝患之募左右曰孰能说王之意止",
+          "after": "士者赐之千金左右曰庄子当能太子"
+        },
+        {
+          "kind": "replace",
+          "offset": 122,
+          "primary": "者",
+          "secondary": "车",
+          "before": "太子曰闻夫子明圣谨奉千金以币从",
+          "after": "夫子弗受悝尚何敢言庄子曰闻太子"
+        },
+        {
+          "kind": "replace",
+          "offset": 204,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "何求而不得也太子曰然吾王所见唯",
+          "after": "士也庄子曰诺周善为劒太子曰然吾"
+        },
+        {
+          "kind": "replace",
+          "offset": 214,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "吾王所见唯劒士也庄子曰诺周善为",
+          "after": "太子曰然吾王所见劒士皆蓬头突鬓"
+        },
+        {
+          "kind": "replace",
+          "offset": 223,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "子曰诺周善为劒太子曰然吾王所见",
+          "after": "士皆蓬头突鬓垂冠曼胡之缨短后之"
+        },
+        {
+          "kind": "replace",
+          "offset": 267,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "必儒服而见王事必大逆庄子曰请治",
+          "after": "服治劒服三日乃见太子太子乃与见"
+        },
+        {
+          "kind": "replace",
+          "offset": 270,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "而见王事必大逆庄子曰请治劒服治",
+          "after": "服三日乃见太子太子乃与见王王脱"
+        },
+        {
+          "kind": "replace",
+          "offset": 320,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "何以教寡人使太子先曰臣闻大王喜",
+          "after": "故以劒见王王曰子之劒何能禁制曰"
+        },
+        {
+          "kind": "replace",
+          "offset": 323,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "寡人使太子先曰臣闻大王喜劒故以",
+          "after": "见王王曰子之劒何能禁制曰臣之劒"
+        },
+        {
+          "kind": "replace",
+          "offset": 330,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "臣闻大王喜劒故以劒见王王曰子之",
+          "after": "何能禁制曰臣之劒十步一人千里不"
+        },
+        {
+          "kind": "replace",
+          "offset": 338,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "劒见王王曰子之劒何能禁制曰臣之",
+          "after": "十步一人千里不留行王大悦之曰天"
+        },
+        {
+          "kind": "insert",
+          "offset": 341,
+          "primary": "",
+          "secondary": "杀",
+          "before": "王曰子之劒何能禁制曰臣之劒十步",
+          "after": "一人千里不留行王大悦之曰天下无"
+        },
+        {
+          "kind": "replace",
+          "offset": 363,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "王大悦之曰天下无敌矣庄子曰夫为",
+          "after": "者示之以虚开之以利后之以发先之"
+        },
+        {
+          "kind": "replace",
+          "offset": 403,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "子休就舍待命令设戏请夫子王乃校",
+          "after": "士七日死伤者六十余人得五六人使"
+        },
+        {
+          "kind": "replace",
+          "offset": 420,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "七日死伤者六十余人得五六人使奉",
+          "after": "于殿下乃召庄子王曰今日试使士敦"
+        },
+        {
+          "kind": "replace",
+          "offset": 436,
+          "primary": "劔",
+          "secondary": "剑",
+          "before": "于殿下乃召庄子王曰今日试使士敦",
+          "after": "庄子曰望之久矣王曰夫子所御杖长"
+        },
+        {
+          "kind": "replace",
+          "offset": 466,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "长短何如曰臣之所奉皆可然臣有三",
+          "after": "唯王所用请先言而后试王曰愿闻三"
+        },
+        {
+          "kind": "replace",
+          "offset": 482,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "唯王所用请先言而后试王曰愿闻三",
+          "after": "曰有天子劒有诸侯劒有庶人劒王曰"
+        },
+        {
+          "kind": "replace",
+          "offset": 487,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "先言而后试王曰愿闻三劒曰有天子",
+          "after": "有诸侯劒有庶人劒王曰天子之劒何"
+        },
+        {
+          "kind": "replace",
+          "offset": 491,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "试王曰愿闻三劒曰有天子劒有诸侯",
+          "after": "有庶人劒王曰天子之劒何如曰天子"
+        },
+        {
+          "kind": "replace",
+          "offset": 495,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "闻三劒曰有天子劒有诸侯劒有庶人",
+          "after": "王曰天子之劒何如曰天子之劒以燕"
+        },
+        {
+          "kind": "replace",
+          "offset": 501,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "子劒有诸侯劒有庶人劒王曰天子之",
+          "after": "何如曰天子之劒以燕谿石城为锋齐"
+        },
+        {
+          "kind": "replace",
+          "offset": 508,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "庶人劒王曰天子之劒何如曰天子之",
+          "after": "以燕谿石城为锋齐岱为锷晋卫为脊"
+        },
+        {
+          "kind": "replace",
+          "offset": 531,
+          "primary": "夹",
+          "secondary": "铗",
+          "before": "齐岱为锷晋卫为脊周宋为镡韩魏为",
+          "after": "包以四夷裹以四时绕以渤海带以常"
+        },
+        {
+          "kind": "replace",
+          "offset": 569,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "刑德开以阴阳持以春夏行以秋冬此",
+          "after": "直之无前举之无上案之无下运之无"
+        },
+        {
+          "kind": "replace",
+          "offset": 595,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "无下运之无旁上决浮云下绝地纪此",
+          "after": "一用匡诸侯天下服矣此天子之劒也"
+        },
+        {
+          "kind": "replace",
+          "offset": 609,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "此劒一用匡诸侯天下服矣此天子之",
+          "after": "也文王芒然自失曰诸侯之劒何如曰"
+        },
+        {
+          "kind": "replace",
+          "offset": 621,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "天子之劒也文王芒然自失曰诸侯之",
+          "after": "何如曰诸侯之劒以知勇士为锋以清"
+        },
+        {
+          "kind": "replace",
+          "offset": 628,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "芒然自失曰诸侯之劒何如曰诸侯之",
+          "after": "以知勇士为锋以清廉士为锷以贤良"
+        },
+        {
+          "kind": "replace",
+          "offset": 658,
+          "primary": "夹",
+          "secondary": "铗",
+          "before": "良士为脊以忠圣士为镡以豪桀士为",
+          "after": "此劒直之亦无前举之亦无上案之亦"
+        },
+        {
+          "kind": "replace",
+          "offset": 660,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "为脊以忠圣士为镡以豪桀士为夹此",
+          "after": "直之亦无前举之亦无上案之亦无下"
+        },
+        {
+          "kind": "replace",
+          "offset": 698,
+          "primary": "知",
+          "secondary": "和",
+          "before": "圆天以顺三光下法方地以顺四时中",
+          "after": "民意以安四乡此劒一用如雷霆之震"
+        },
+        {
+          "kind": "replace",
+          "offset": 706,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "方地以顺四时中知民意以安四乡此",
+          "after": "一用如雷霆之震也四封之内无不宾"
+        },
+        {
+          "kind": "replace",
+          "offset": 734,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "无不宾服而听从君命者矣此诸侯之",
+          "after": "也王曰庶人之劒何如曰庶人之劒蓬"
+        },
+        {
+          "kind": "replace",
+          "offset": 741,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "君命者矣此诸侯之劒也王曰庶人之",
+          "after": "何如曰庶人之劒蓬头突鬓垂冠曼胡"
+        },
+        {
+          "kind": "replace",
+          "offset": 748,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "之劒也王曰庶人之劒何如曰庶人之",
+          "after": "蓬头突鬓垂冠曼胡之缨短后之衣瞋"
+        },
+        {
+          "kind": "replace",
+          "offset": 784,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "击于前上斩颈领下决肝肺此庶人之",
+          "after": "无异于鬭鸡一旦命已绝矣无所用于"
+        },
+        {
+          "kind": "replace",
+          "offset": 815,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "国事今大王有天子之位而好庶人之",
+          "after": "臣窃为大王薄之王乃牵而上殿宰人"
+        },
+        {
+          "kind": "replace",
+          "offset": 846,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "上食王三环之庄子曰大王安坐定气",
+          "after": "事已毕奏矣于是文王不出宫三月劒"
+        },
+        {
+          "kind": "replace",
+          "offset": 861,
+          "primary": "劒",
+          "secondary": "剑",
+          "before": "劒事已毕奏矣于是文王不出宫三月",
+          "after": "士皆服毙其处也"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "title": "渔父",
+      "path": "content/posts/taoism/zhuangzi/yu-fu.md",
+      "paragraphs": 5,
+      "primary_chars": 1545,
+      "secondary_chars": 1546,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E6%BC%81%E7%88%B6&oldid=11117719",
+      "wiki_text_sha256": "0715f374329bc8f447fe05743a52cd57ae31f8e2fa0908b0bdb55440be0a1915",
+      "wiki_raw_sha256": "91149aaeefdb2c62b2eb5597c05f32a5d34a4c250bd642c86de9b82ac9039240",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_031.txt",
+      "kanripo_sha256": "34d5089ad55babfeb85140c8c4fe1b0561db2ba4c697284065321c6dc6063fb5",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 23,
+          "primary": "鼔",
+          "secondary": "鼓",
+          "before": "休坐乎杏坛之上弟子读书孔子弦歌",
+          "after": "琴奏曲未半有渔父者下船而来须眉"
+        },
+        {
+          "kind": "replace",
+          "offset": 37,
+          "primary": "须",
+          "secondary": "鬓",
+          "before": "歌鼔琴奏曲未半有渔父者下船而来",
+          "after": "眉交白被发揄袂行原以上距陆而止"
+        },
+        {
+          "kind": "replace",
+          "offset": 300,
+          "primary": "欬",
+          "secondary": "咳",
+          "before": "去丘不肖未知所谓窃待于下风幸闻",
+          "after": "唾之音以卒相丘也客曰嘻甚矣子之"
+        },
+        {
+          "kind": "replace",
+          "offset": 417,
+          "primary": "忧",
+          "secondary": "处",
+          "before": "也四者离位而乱莫大焉官治其职人",
+          "after": "其事乃无所陵故田荒室露衣食不足"
+        },
+        {
+          "kind": "insert",
+          "offset": 754,
+          "primary": "",
+          "secondary": "则",
+          "before": "愈甚谓之很人同于己则可不同于己",
+          "after": "虽善不善谓之矜此四患也能去八疵"
+        },
+        {
+          "kind": "replace",
+          "offset": 797,
+          "primary": "衞",
+          "secondary": "卫",
+          "before": "而叹再拜而起曰丘再逐于鲁削迹于",
+          "after": "伐树于宋围于陈蔡丘不知所失而离"
+        },
+        {
+          "kind": "replace",
+          "offset": 830,
+          "primary": "语",
+          "secondary": "悟",
+          "before": "谤者何也客凄然变容曰甚矣子之难",
+          "after": "也人有畏影恶迹而去之走者举足愈"
+        },
+        {
+          "kind": "replace",
+          "offset": 863,
+          "primary": "遟",
+          "secondary": "迟",
+          "before": "迹愈多走愈疾而影不离身自以为尚",
+          "after": "疾走不休绝力而死不知处阴以休影"
+        },
+        {
+          "kind": "replace",
+          "offset": 893,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "影处静以息迹愚亦甚矣子审仁义之",
+          "after": "察同异之际观动静之变适受与之度"
+        },
+        {
+          "kind": "replace",
+          "offset": 929,
+          "primary": "愼",
+          "secondary": "慎",
+          "before": "和喜怒之节而几于不免矣谨修而身",
+          "after": "守其真还以物与人则无所累矣今不"
+        },
+        {
+          "kind": "replace",
+          "offset": 1209,
+          "primary": "过",
+          "secondary": "遇",
+          "before": "大道也孔子又再拜而起曰今者丘得",
+          "after": "也若天幸然先生不羞而比之服役而"
+        },
+        {
+          "kind": "replace",
+          "offset": 1266,
+          "primary": "愼",
+          "secondary": "慎",
+          "before": "与之至于妙道不可与往者不知其道",
+          "after": "勿与之身乃无咎子勉之吾去子矣吾"
+        },
+        {
+          "kind": "replace",
+          "offset": 1293,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "去子矣吾去子矣乃刺船而去延缘苇",
+          "after": "颜渊还车子路授绥孔子不顾待水波"
+        },
+        {
+          "kind": "replace",
+          "offset": 1366,
+          "primary": "傲",
+          "secondary": "敖",
+          "before": "见夫子未尝不分庭伉礼夫子犹有倨",
+          "after": "之容今渔父杖挐逆立而夫子曲要磬"
+        },
+        {
+          "kind": "replace",
+          "offset": 1425,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "而叹曰甚矣由之难化也湛于礼义有",
+          "after": "矣而朴鄙之心至今未去进吾语汝夫"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "title": "列御寇",
+      "path": "content/posts/taoism/zhuangzi/lie-yu-kou.md",
+      "paragraphs": 12,
+      "primary_chars": 1592,
+      "secondary_chars": 1593,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%88%97%E7%A6%A6%E5%AF%87&oldid=11117720",
+      "wiki_text_sha256": "e5be729d2a4d609dc097c3fe6b0a53e83bed10508528b3f96e9d138afdce29d7",
+      "wiki_raw_sha256": "59c67b21b67d15799cdaabab54db4f0651e55cb4982c55527e758927c6861a1e",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_032.txt",
+      "kanripo_sha256": "47cf9ce80adde5fad157845ed5038aea5650fa6af0fdb39097e43418996dc334",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 78,
+          "primary": "䪡",
+          "secondary": "𩐋",
+          "before": "谍成光以外镇人心使人轻乎贵老而",
+          "after": "其所患夫浆人特为食羹之货多余之"
+        },
+        {
+          "kind": "replace",
+          "offset": 186,
+          "primary": "间",
+          "secondary": "闲",
+          "before": "昏瞀人北面而立敦杖蹙之乎颐立有",
+          "after": "不言而出傧者以告列子列子提屦跣"
+        },
+        {
+          "kind": "replace",
+          "offset": 191,
+          "primary": "傧",
+          "secondary": "宾",
+          "before": "而立敦杖蹙之乎颐立有间不言而出",
+          "after": "者以告列子列子提屦跣而走暨乎门"
+        },
+        {
+          "kind": "replace",
+          "offset": 266,
+          "primary": "才",
+          "secondary": "性",
+          "before": "焉用之感豫出异也必且有感摇而本",
+          "after": "又无谓也与汝游者又莫汝告也彼所"
+        },
+        {
+          "kind": "replace",
+          "offset": 574,
+          "primary": "愼",
+          "secondary": "顺",
+          "before": "不必故无兵众人以不必必之故多兵",
+          "after": "于兵故行有求兵恃之则亡小夫之知"
+        },
+        {
+          "kind": "replace",
+          "offset": 748,
+          "primary": "癕",
+          "secondary": "痈",
+          "before": "商之所长也庄子曰秦王有病召医破",
+          "after": "溃痤者得车一乘舐痔者得车五乘所"
+        },
+        {
+          "kind": "replace",
+          "offset": 809,
+          "primary": "岌",
+          "secondary": "圾",
+          "before": "吾以仲尼为贞干国其有瘳乎曰殆哉",
+          "after": "乎仲尼方且饰羽而画从事华辞以支"
+        },
+        {
+          "kind": "replace",
+          "offset": 1410,
+          "primary": "䪡",
+          "secondary": "𩐋",
+          "before": "得车者必遭其睡也使宋王而寤子为",
+          "after": "粉夫或聘于庄子庄子应其使曰子见"
+        },
+        {
+          "kind": "insert",
+          "offset": 1425,
+          "primary": "",
+          "secondary": "不",
+          "before": "䪡粉夫或聘于庄子庄子应其使曰子",
+          "after": "见夫牺牛乎衣以文绣食以刍菽及其"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "title": "天下",
+      "path": "content/posts/taoism/zhuangzi/tian-xia.md",
+      "paragraphs": 13,
+      "primary_chars": 2657,
+      "secondary_chars": 2657,
+      "wiki_url": "https://zh.wikisource.org/w/index.php?title=%E8%8E%8A%E5%AD%90%2F%E5%A4%A9%E4%B8%8B&oldid=11117721",
+      "wiki_text_sha256": "1463a54c83f17d865f55ef76eb049ea9a96bf99dc0ce62b7b43384d098718ebd",
+      "wiki_raw_sha256": "e77e773581d7b739be730f50b49e6ac0e6aed398bd761d3436da128cc14ce2c9",
+      "kanripo_url": "https://raw.githubusercontent.com/kanripo/KR5c0126/abb9cd323dfd9520894b56b3b8ba2ec0ea50554f/KR5c0126_033.txt",
+      "kanripo_sha256": "71e13f3b9914d15cecd41d512dfd109f4b366438257b2eac222c66eda7e41187",
+      "differences": [
+        {
+          "kind": "replace",
+          "offset": 132,
+          "primary": "参",
+          "secondary": "操",
+          "before": "慈仁谓之君子以法为分以名为表以",
+          "after": "为验以稽为决其数一二三四是也百"
+        },
+        {
+          "kind": "replace",
+          "offset": 263,
+          "primary": "道",
+          "secondary": "导",
+          "before": "者邹鲁之士搢绅先生多能明之诗以",
+          "after": "志书以道事礼以道行乐以道和易以"
+        },
+        {
+          "kind": "replace",
+          "offset": 267,
+          "primary": "道",
+          "secondary": "导",
+          "before": "士搢绅先生多能明之诗以道志书以",
+          "after": "事礼以道行乐以道和易以道阴阳春"
+        },
+        {
+          "kind": "replace",
+          "offset": 271,
+          "primary": "道",
+          "secondary": "导",
+          "before": "生多能明之诗以道志书以道事礼以",
+          "after": "行乐以道和易以道阴阳春秋以道名"
+        },
+        {
+          "kind": "replace",
+          "offset": 275,
+          "primary": "道",
+          "secondary": "导",
+          "before": "之诗以道志书以道事礼以道行乐以",
+          "after": "和易以道阴阳春秋以道名分其数散"
+        },
+        {
+          "kind": "replace",
+          "offset": 279,
+          "primary": "道",
+          "secondary": "导",
+          "before": "志书以道事礼以道行乐以道和易以",
+          "after": "阴阳春秋以道名分其数散于天下而"
+        },
+        {
+          "kind": "replace",
+          "offset": 285,
+          "primary": "道",
+          "secondary": "导",
+          "before": "以道行乐以道和易以道阴阳春秋以",
+          "after": "名分其数散于天下而设于中国者百"
+        },
+        {
+          "kind": "replace",
+          "offset": 880,
+          "primary": "己",
+          "secondary": "已",
+          "before": "勤之弟子五侯之徒南方之墨者苦获",
+          "after": "齿邓陵子之属俱诵墨经而倍谲不同"
+        },
+        {
+          "kind": "replace",
+          "offset": 1057,
+          "primary": "钘",
+          "secondary": "鉼",
+          "before": "止以此白心古之道术有在于是者宋",
+          "after": "尹文闻其风而悦之作为华山之冠以"
+        },
+        {
+          "kind": "replace",
+          "offset": 1309,
+          "primary": "愼",
+          "secondary": "慎",
+          "before": "俱往古之道术有在于是者彭蒙田骈",
+          "after": "到闻其风而悦之齐万物以为首曰天"
+        },
+        {
+          "kind": "replace",
+          "offset": 1381,
+          "primary": "愼",
+          "secondary": "慎",
+          "before": "则不徧教则不至道则无遗者矣是故",
+          "after": "到弃知去己而缘不得已泠汰于物以"
+        },
+        {
+          "kind": "replace",
+          "offset": 1557,
+          "primary": "愼",
+          "secondary": "慎",
+          "before": "用贤圣夫块不失道豪桀相与笑之曰",
+          "after": "到之道非生人之行而至死人之理适"
+        },
+        {
+          "kind": "replace",
+          "offset": 1610,
+          "primary": "阈",
+          "secondary": "窢",
+          "before": "道人至于莫之是莫之非而已矣其风",
+          "after": "然恶可而言常反人不聚观而不免于"
+        },
+        {
+          "kind": "replace",
+          "offset": 1647,
+          "primary": "愼",
+          "secondary": "慎",
+          "before": "非道而所言之韪不免于非彭蒙田骈",
+          "after": "到不知道虽然概乎皆常有闻者也以"
+        },
+        {
+          "kind": "replace",
+          "offset": 1657,
+          "primary": "常",
+          "secondary": "尝",
+          "before": "非彭蒙田骈愼到不知道虽然概乎皆",
+          "after": "有闻者也以本为精以物为粗以有积"
+        },
+        {
+          "kind": "replace",
+          "offset": 1695,
+          "primary": "耼",
+          "secondary": "聃",
+          "before": "神明居古之道术有在于是者关尹老",
+          "after": "闻其风而悦之建之以常无有主之以"
+        },
+        {
+          "kind": "replace",
+          "offset": 1777,
+          "primary": "耼",
+          "secondary": "聃",
+          "before": "者和得焉者失未尝先人而常随人老",
+          "after": "曰知其雄守其雌为天下谿知其白守"
+        },
+        {
+          "kind": "replace",
+          "offset": 1812,
+          "primary": "诟",
+          "secondary": "垢",
+          "before": "下谷人皆取先己独取后曰受天下之",
+          "after": "人皆取实己独取虚无藏也故有余岿"
+        },
+        {
+          "kind": "replace",
+          "offset": 1892,
+          "primary": "耼",
+          "secondary": "聃",
+          "before": "宽容于物不削于人可谓至极关尹老",
+          "after": "乎古之博大真人哉芴漠无形变化无"
+        },
+        {
+          "kind": "replace",
+          "offset": 1901,
+          "primary": "芴",
+          "secondary": "寂",
+          "before": "谓至极关尹老耼乎古之博大真人哉",
+          "after": "漠无形变化无常死与生与天地并与"
+        },
+        {
+          "kind": "replace",
+          "offset": 2038,
+          "primary": "抃",
+          "secondary": "犿",
+          "before": "谴是非以与世俗处其书虽瓌玮而连",
+          "after": "无伤也其辞虽参差而諔诡可观彼其"
+        },
+        {
+          "kind": "replace",
+          "offset": 2488,
+          "primary": "畸",
+          "secondary": "倚",
+          "before": "曰天地其壮乎施存雄而无术南方有",
+          "after": "人焉曰黄缭问天地所以不坠不陷风"
+        },
+        {
+          "kind": "replace",
+          "offset": 2584,
+          "primary": "虻",
+          "secondary": "䖟",
+          "before": "由天地之道观惠施之能其犹一蚊一",
+          "after": "之劳者也其于物也何庸夫充一尚可"
+        }
+      ]
+    }
+  ]
+}
