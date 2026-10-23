@@ -1,0 +1,80 @@
+{
+  "title": "莊子注",
+  "author": "晉 郭象 注",
+  "edition": "文淵閣四庫全書系統，Kanripo WYG",
+  "repository": "https://github.com/kanripo/KR5c0138",
+  "commit": "7e74ad4f28ae375493a20c87c75fcd82bbdc7d2d",
+  "provenance": "https://github.com/kanripo/KR5c0138/blob/7e74ad4f28ae375493a20c87c75fcd82bbdc7d2d/Readme.org",
+  "volumes": [
+    {
+      "number": 1,
+      "file": "KR5c0138_001.txt",
+      "url": "https://raw.githubusercontent.com/kanripo/KR5c0138/7e74ad4f28ae375493a20c87c75fcd82bbdc7d2d/KR5c0138_001.txt",
+      "sha256": "f3da300dada745a52a3f8bf35008bdb88a6a929b5bcddabdfd4d91d4022f78c0",
+      "git_blob_sha1": "c6259f1cca6b14bb34443344dba8b9e555132ef9"
+    },
+    {
+      "number": 2,
+      "file": "KR5c0138_002.txt",
+      "url": "https://raw.githubusercontent.com/kanripo/KR5c0138/7e74ad4f28ae375493a20c87c75fcd82bbdc7d2d/KR5c0138_002.txt",
+      "sha256": "8f0e360846e1abdbb1fe3fa469a2f9d2d1b81279b8f98292ead21e476b2df152",
+      "git_blob_sha1": "a5dfef5a476b0a08bb71498b5a91dcb6b8135af1"
+    },
+    {
+      "number": 3,
+      "file": "KR5c0138_003.txt",
+      "url": "https://raw.githubusercontent.com/kanripo/KR5c0138/7e74ad4f28ae375493a20c87c75fcd82bbdc7d2d/KR5c0138_003.txt",
+      "sha256": "b83d62e56243e67cbfba4bed9c6e29a15ad74103395a775a70e4bc384de724c7",
+      "git_blob_sha1": "d9a20c2cb91a44baa301483cb6c94a75b3632558"
+    },
+    {
+      "number": 4,
+      "file": "KR5c0138_004.txt",
+      "url": "https://raw.githubusercontent.com/kanripo/KR5c0138/7e74ad4f28ae375493a20c87c75fcd82bbdc7d2d/KR5c0138_004.txt",
+      "sha256": "00d63ebfbe8cc8ad8f2a5e8c0a46c9e0e900bc9c2b91ca3eae1e5953328b28f4",
+      "git_blob_sha1": "590524eddcb06f72e76f1504df25a26272354778"
+    },
+    {
+      "number": 5,
+      "file": "KR5c0138_005.txt",
+      "url": "https://raw.githubusercontent.com/kanripo/KR5c0138/7e74ad4f28ae375493a20c87c75fcd82bbdc7d2d/KR5c0138_005.txt",
+      "sha256": "99e60838f938a90402e5621e7ef8edf81444559f43c4682cacb9895a4b6d9885",
+      "git_blob_sha1": "40373020270eb19e93d72fd0a4e179e5d93de515"
+    },
+    {
+      "number": 6,
+      "file": "KR5c0138_006.txt",
+      "url": "https://raw.githubusercontent.com/kanripo/KR5c0138/7e74ad4f28ae375493a20c87c75fcd82bbdc7d2d/KR5c0138_006.txt",
+      "sha256": "ad498d6e537f31ce5bbb46f4e0a439ae1cbd4a152d85a3e2af6799f85ec10cb4",
+      "git_blob_sha1": "a8c6d8950e1048b7780a3551095d06d3cb138d06"
+    },
+    {
+      "number": 7,
+      "file": "KR5c0138_007.txt",
+      "url": "https://raw.githubusercontent.com/kanripo/KR5c0138/7e74ad4f28ae375493a20c87c75fcd82bbdc7d2d/KR5c0138_007.txt",
+      "sha256": "9152b221858d588eb94b508d66fed9f06a904418c3853acd7fea3e40022d26fa",
+      "git_blob_sha1": "d09e82532324aa497583803faa9d8b63bdf4a303"
+    },
+    {
+      "number": 8,
+      "file": "KR5c0138_008.txt",
+      "url": "https://raw.githubusercontent.com/kanripo/KR5c0138/7e74ad4f28ae375493a20c87c75fcd82bbdc7d2d/KR5c0138_008.txt",
+      "sha256": "96f10b334ac1a37bfa238318ead3bdcdfc516206fc0d46566c362296b20d724b",
+      "git_blob_sha1": "5aca5d94d30d38c7ccebef0d63fd5bd47474181a"
+    },
+    {
+      "number": 9,
+      "file": "KR5c0138_009.txt",
+      "url": "https://raw.githubusercontent.com/kanripo/KR5c0138/7e74ad4f28ae375493a20c87c75fcd82bbdc7d2d/KR5c0138_009.txt",
+      "sha256": "2e1fda23540ed43eec1503f6e25c3e21f83927e2f0ecd4715d0d56e7ffb46b07",
+      "git_blob_sha1": "21c3424e3166aa7c17295ee1263d38853bc9ae90"
+    },
+    {
+      "number": 10,
+      "file": "KR5c0138_010.txt",
+      "url": "https://raw.githubusercontent.com/kanripo/KR5c0138/7e74ad4f28ae375493a20c87c75fcd82bbdc7d2d/KR5c0138_010.txt",
+      "sha256": "91011b4df95a11da312fdc682357cbfe3017f527c33f2002f54b8111326b8ae7",
+      "git_blob_sha1": "208421dc7a03c944bc0223e4dd6cd1080b4753fb"
+    }
+  ]
+}

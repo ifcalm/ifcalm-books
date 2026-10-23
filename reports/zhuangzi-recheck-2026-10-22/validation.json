@@ -1,0 +1,333 @@
+{
+  "date": "2026-10-22",
+  "new_correction_rules": 26,
+  "changed_chapters_this_round": 17,
+  "changed_paths": [
+    "content/posts/taoism/zhuangzi/xiao-yao-you.md",
+    "content/posts/taoism/zhuangzi/ren-shi-jian.md",
+    "content/posts/taoism/zhuangzi/da-zhong-shi.md",
+    "content/posts/taoism/zhuangzi/qu-qie.md",
+    "content/posts/taoism/zhuangzi/tian-dao.md",
+    "content/posts/taoism/zhuangzi/tian-yun.md",
+    "content/posts/taoism/zhuangzi/qiu-shui.md",
+    "content/posts/taoism/zhuangzi/da-sheng.md",
+    "content/posts/taoism/zhuangzi/tian-zi-fang.md",
+    "content/posts/taoism/zhuangzi/zhi-bei-you.md",
+    "content/posts/taoism/zhuangzi/xu-wu-gui.md",
+    "content/posts/taoism/zhuangzi/rang-wang.md",
+    "content/posts/taoism/zhuangzi/dao-zhi.md",
+    "content/posts/taoism/zhuangzi/shuo-jian.md",
+    "content/posts/taoism/zhuangzi/yu-fu.md",
+    "content/posts/taoism/zhuangzi/lie-yu-kou.md",
+    "content/posts/taoism/zhuangzi/tian-xia.md"
+  ],
+  "normalized_local_characters": 65169,
+  "sources": {
+    "classic": {
+      "chapters": 33,
+      "source_characters_including_glyph_placeholders": 65204,
+      "source_glyph_images": 86,
+      "before_difference_groups": 1627,
+      "after_difference_groups": 1598
+    },
+    "gushiwen": {
+      "chapters": 33,
+      "source_characters_including_glyph_placeholders": 65231,
+      "source_glyph_images": 0,
+      "before_difference_groups": 914,
+      "after_difference_groups": 885
+    },
+    "sixarts": {
+      "chapters": 33,
+      "source_characters_including_glyph_placeholders": 65174,
+      "source_glyph_images": 0,
+      "before_difference_groups": 904,
+      "after_difference_groups": 877
+    }
+  },
+  "checks": {
+    "all_99_new_source_pages_retrieved": true,
+    "same_raw_source_snapshots_before_and_after": true,
+    "all_26_corrections_unique_and_applied": true,
+    "pinned_generator_check": true,
+    "mechanical_findings": [],
+    "quote_nesting": true,
+    "summaries_match_body": true,
+    "rendered_chapter_order": [
+      "庄子-逍遥游",
+      "庄子-齐物论",
+      "庄子-养生主",
+      "庄子-人间世",
+      "庄子-德充符",
+      "庄子-大宗师",
+      "庄子-应帝王",
+      "庄子-骈拇",
+      "庄子-马蹄",
+      "庄子-胠箧",
+      "庄子-在宥",
+      "庄子-天地",
+      "庄子-天道",
+      "庄子-天运",
+      "庄子-刻意",
+      "庄子-缮性",
+      "庄子-秋水",
+      "庄子-至乐",
+      "庄子-达生",
+      "庄子-山木",
+      "庄子-田子方",
+      "庄子-知北游",
+      "庄子-庚桑楚",
+      "庄子-徐无鬼",
+      "庄子-则阳",
+      "庄子-外物",
+      "庄子-寓言",
+      "庄子-让王",
+      "庄子-盗跖",
+      "庄子-说剑",
+      "庄子-渔父",
+      "庄子-列御寇",
+      "庄子-天下"
+    ],
+    "hugo_collection_validator": true,
+    "readme_catalog": true,
+    "hugo_build": {
+      "version": "0.166.0",
+      "pages": 508,
+      "existing_deprecation_warnings": 3
+    },
+    "only_declared_26_edits_verified_by_reversing_to_before_hashes": true
+  },
+  "units": [
+    {
+      "number": 1,
+      "title": "逍遥游",
+      "path": "content/posts/taoism/zhuangzi/xiao-yao-you.md",
+      "sha256": "730f12bee6d9158015baf77867aad08de6e4b29655c3c9c2279f7b8b185fabf3",
+      "normalized_characters": 1464
+    },
+    {
+      "number": 2,
+      "title": "齐物论",
+      "path": "content/posts/taoism/zhuangzi/qi-wu-lun.md",
+      "sha256": "d245342fe87a3c82d4e21f96d3c530a6063cddb8948ffea7c9b210bf34eff53b",
+      "normalized_characters": 2997
+    },
+    {
+      "number": 3,
+      "title": "养生主",
+      "path": "content/posts/taoism/zhuangzi/yang-sheng-zhu.md",
+      "sha256": "a0398ec8fd739f32d3105c54c5d25246fd1f7c02be1bae38ce7d649812bfd3c1",
+      "normalized_characters": 569
+    },
+    {
+      "number": 4,
+      "title": "人间世",
+      "path": "content/posts/taoism/zhuangzi/ren-shi-jian.md",
+      "sha256": "1da4735a9747c08ea4fb669dc24672eebd47b04e1ebf936c7ee82c90f7334bdf",
+      "normalized_characters": 2799
+    },
+    {
+      "number": 5,
+      "title": "德充符",
+      "path": "content/posts/taoism/zhuangzi/de-chong-fu.md",
+      "sha256": "3dfdfb26ca75adde13feeda86b38bc39a3feb02e188b6545d7b1159b4b6cb5a9",
+      "normalized_characters": 1862
+    },
+    {
+      "number": 6,
+      "title": "大宗师",
+      "path": "content/posts/taoism/zhuangzi/da-zhong-shi.md",
+      "sha256": "6891ab36df23c24e946a89d872c426390c83d7966a7b90cd622876138e89a97d",
+      "normalized_characters": 2995
+    },
+    {
+      "number": 7,
+      "title": "应帝王",
+      "path": "content/posts/taoism/zhuangzi/ying-di-wang.md",
+      "sha256": "5e14b006d9bb5e5a1a4c8fea8774a8bf47fba1958767b90a09630205153b5b3b",
+      "normalized_characters": 1089
+    },
+    {
+      "number": 8,
+      "title": "骈拇",
+      "path": "content/posts/taoism/zhuangzi/pian-mu.md",
+      "sha256": "935a60c46aadb055f962aaddbe44fdc0e1c5d4c74089e2115801ab3e6ca6116f",
+      "normalized_characters": 1044
+    },
+    {
+      "number": 9,
+      "title": "马蹄",
+      "path": "content/posts/taoism/zhuangzi/ma-ti.md",
+      "sha256": "ea068144abab25addde0f7b68f85178ff973c3c1990eadf9cbd283dbe5e8595a",
+      "normalized_characters": 559
+    },
+    {
+      "number": 10,
+      "title": "胠箧",
+      "path": "content/posts/taoism/zhuangzi/qu-qie.md",
+      "sha256": "37e02225b9abbca30744b88a3187d95adb3b853967b4759ed474e1882f52d0aa",
+      "normalized_characters": 1280
+    },
+    {
+      "number": 11,
+      "title": "在宥",
+      "path": "content/posts/taoism/zhuangzi/zai-you.md",
+      "sha256": "bb282348656f42e6393640be2621deef0ed7999a0e98f0de968c8ac62b321566",
+      "normalized_characters": 2301
+    },
+    {
+      "number": 12,
+      "title": "天地",
+      "path": "content/posts/taoism/zhuangzi/tian-di.md",
+      "sha256": "346bf021e871232f0e85f24566d61719c51206d26a51b7f72e86ae59a33ed6c1",
+      "normalized_characters": 3149
+    },
+    {
+      "number": 13,
+      "title": "天道",
+      "path": "content/posts/taoism/zhuangzi/tian-dao.md",
+      "sha256": "96ff5137d07125b04b83bf3f894610f434f733964074707397b9bb6e442814b2",
+      "normalized_characters": 2302
+    },
+    {
+      "number": 14,
+      "title": "天运",
+      "path": "content/posts/taoism/zhuangzi/tian-yun.md",
+      "sha256": "6476a1c0f0d71f09df691b6f8313e47c01a176ebdc24e2b63780eb8543d25e2f",
+      "normalized_characters": 2536
+    },
+    {
+      "number": 15,
+      "title": "刻意",
+      "path": "content/posts/taoism/zhuangzi/ke-yi.md",
+      "sha256": "e52ae86a358badf1df42693f9e6b2f2af48638c1b01cce44810ee6965fc50f5f",
+      "normalized_characters": 658
+    },
+    {
+      "number": 16,
+      "title": "缮性",
+      "path": "content/posts/taoism/zhuangzi/shan-xing.md",
+      "sha256": "f56420721e5d44faacc5b945de67029c35de6d65b7bcb11d92261e1c29465b90",
+      "normalized_characters": 639
+    },
+    {
+      "number": 17,
+      "title": "秋水",
+      "path": "content/posts/taoism/zhuangzi/qiu-shui.md",
+      "sha256": "58232809934dc50634461c07238452a232f3d297d76fa6d54e6e79ee95402fc2",
+      "normalized_characters": 2821
+    },
+    {
+      "number": 18,
+      "title": "至乐",
+      "path": "content/posts/taoism/zhuangzi/zhi-le.md",
+      "sha256": "716e1baf39c103e29b7c760c50720a6a2458e7548343c24937884e08394f0765",
+      "normalized_characters": 1419
+    },
+    {
+      "number": 19,
+      "title": "达生",
+      "path": "content/posts/taoism/zhuangzi/da-sheng.md",
+      "sha256": "3b32de041edebaf65d6ad024785e2862adc80aa432a9b0b24c5686b819f6b938",
+      "normalized_characters": 2345
+    },
+    {
+      "number": 20,
+      "title": "山木",
+      "path": "content/posts/taoism/zhuangzi/shan-mu.md",
+      "sha256": "be33afcaf0c61e4bacdb0c01764864025a81369a320b4606610d5f160e09aaf5",
+      "normalized_characters": 2193
+    },
+    {
+      "number": 21,
+      "title": "田子方",
+      "path": "content/posts/taoism/zhuangzi/tian-zi-fang.md",
+      "sha256": "313d7c2184edb102010a3f7208d2736274c2fa50051730f53f290a172f95800d",
+      "normalized_characters": 2181
+    },
+    {
+      "number": 22,
+      "title": "知北游",
+      "path": "content/posts/taoism/zhuangzi/zhi-bei-you.md",
+      "sha256": "0dd9d1e61994a80a44abdf03404eee820c8bc0673a07a7b5e259055e2dfa3c80",
+      "normalized_characters": 2615
+    },
+    {
+      "number": 23,
+      "title": "庚桑楚",
+      "path": "content/posts/taoism/zhuangzi/geng-sang-chu.md",
+      "sha256": "734c2b635e9a8d013dcd27b77f7d3f83b9bcddca290783da1738155de7bc439e",
+      "normalized_characters": 2450
+    },
+    {
+      "number": 24,
+      "title": "徐无鬼",
+      "path": "content/posts/taoism/zhuangzi/xu-wu-gui.md",
+      "sha256": "a4d0ce86a4078a2908215aeac4683f72a27061d0c1a4c574f06af2c303db9eb9",
+      "normalized_characters": 3441
+    },
+    {
+      "number": 25,
+      "title": "则阳",
+      "path": "content/posts/taoism/zhuangzi/ze-yang.md",
+      "sha256": "e35551a82abdbe6859c916e5769b19f411efe5b9d1bce450a0298c3594295a4b",
+      "normalized_characters": 2533
+    },
+    {
+      "number": 26,
+      "title": "外物",
+      "path": "content/posts/taoism/zhuangzi/wai-wu.md",
+      "sha256": "4d23e3eeed107e74b90fbb4780892d0136aa9b67c3b28b75531fbc3c1c7d347b",
+      "normalized_characters": 1520
+    },
+    {
+      "number": 27,
+      "title": "寓言",
+      "path": "content/posts/taoism/zhuangzi/yu-yan.md",
+      "sha256": "23b361b3e5793c126497ab5776e74e6be2ed927615811dc0de94e8d1b408b015",
+      "normalized_characters": 932
+    },
+    {
+      "number": 28,
+      "title": "让王",
+      "path": "content/posts/taoism/zhuangzi/rang-wang.md",
+      "sha256": "c836221b1dd89dd4dd6455f9dee7a99c8e5bbdc011e8e42b4b3ce04f7c236a9f",
+      "normalized_characters": 2707
+    },
+    {
+      "number": 29,
+      "title": "盗跖",
+      "path": "content/posts/taoism/zhuangzi/dao-zhi.md",
+      "sha256": "23191faf30a334c7a5a9f4d6c52366224f302bd2001206c89532071ddb4c90fe",
+      "normalized_characters": 3106
+    },
+    {
+      "number": 30,
+      "title": "说剑",
+      "path": "content/posts/taoism/zhuangzi/shuo-jian.md",
+      "sha256": "47ffb636670f289ffcea1cbb41e4f1747b64331e1040d9d10529302524cea397",
+      "normalized_characters": 869
+    },
+    {
+      "number": 31,
+      "title": "渔父",
+      "path": "content/posts/taoism/zhuangzi/yu-fu.md",
+      "sha256": "f916e03abf450d9c8f980a509180c728eb9ee9a3cf75194e2343a09017bd585f",
+      "normalized_characters": 1545
+    },
+    {
+      "number": 32,
+      "title": "列御寇",
+      "path": "content/posts/taoism/zhuangzi/lie-yu-kou.md",
+      "sha256": "8fb64fbad95ec2a63cc8efc1a1480dd727c619bdf4ef229b91f54648c5e3c055",
+      "normalized_characters": 1592
+    },
+    {
+      "number": 33,
+      "title": "天下",
+      "path": "content/posts/taoism/zhuangzi/tian-xia.md",
+      "sha256": "a7dac7292986ab2b81c03b6269664476c45adf9e00300527c62d0eea9342fa02",
+      "normalized_characters": 2657
+    }
+  ]
+}

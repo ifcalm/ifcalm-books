@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "bookId": "CADAL02092140",
+    "bookName": "莊子集釋",
+    "publicationStmt": {
+      "distributor": ""
+    },
+    "edition": {
+      "edition": "光緒思賢講舍刻本",
+      "editionDynastyName": "清"
+    },
+    "imageSource": "上海古籍出版社",
+    "library": "上海古籍出版社",
+    "totalPage": 1120
+  },
+  "scope": "Complete public chapter responses including running text, annotations and OCR; selected passages checked manually, not automatically separated or aligned as 33 clean chapters.",
+  "volumes": [
+    {
+      "id": "1lb0itejqno6g",
+      "title": "卷首",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0itejqno6g",
+      "sha256": "01d13e4ec4bd7b876be6df2dcc103d04ce965cd5d6c6be5a9b7c8eb71d02a90a",
+      "expected_paragraphs": 11
+    },
+    {
+      "id": "1lb0itgvm26n6",
+      "title": "卷一上",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0itgvm26n6",
+      "sha256": "8497b757c976df3b780de99579471406413e3915c4ca132465f8e57db0f8ff30",
+      "expected_paragraphs": 69
+    },
+    {
+      "id": "1lb0ito3iyfck",
+      "title": "卷一下",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0ito3iyfck",
+      "sha256": "1e2cc7b0dbfaaeef3adb56cac56e70c62d28829e26a009f26d4690da6e6ba7d1",
+      "expected_paragraphs": 135
+    },
+    {
+      "id": "1lb0itr4hrtpw",
+      "title": "卷二上",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0itr4hrtpw",
+      "sha256": "21e87e8b5ba851eb37e4854d4d437a333001a8182c399a55ba14126f0c48f67d",
+      "expected_paragraphs": 12
+    },
+    {
+      "id": "1lb0itu48hybk",
+      "title": "莊子集釋卷二中",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0itu48hybk",
+      "sha256": "bfd723112bf16736de9b743052e5f215d0cdd4c649511cf6ad8db3562133e113",
+      "expected_paragraphs": 42
+    },
+    {
+      "id": "1lb0itytob677",
+      "title": "卷二下",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0itytob677",
+      "sha256": "975d6589066c7e5fba77665b0419ea4c434858f6e8d38afa6e59f63d4f86d4af",
+      "expected_paragraphs": 28
+    },
+    {
+      "id": "1lb0iu3gg4wzz",
+      "title": "卷三上",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0iu3gg4wzz",
+      "sha256": "fb637dceb468831a330b6f2b3bfacfc7c49bcfeaa37c4f30af9f11bdcacfc56e",
+      "expected_paragraphs": 762
+    },
+    {
+      "id": "1lb0iu6z11id0",
+      "title": "卷三下",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0iu6z11id0",
+      "sha256": "c994a6859f6d37fc4f40f459f38ed3577cbd9f8b00559e57820ea593ec1e1715",
+      "expected_paragraphs": 19
+    },
+    {
+      "id": "1lb0iu9abx63n",
+      "title": "卷四上",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0iu9abx63n",
+      "sha256": "4b7766df071f48f779275598185b3377c5daa94646fdf041f7c471d8f8b6fd64",
+      "expected_paragraphs": 15
+    },
+    {
+      "id": "1lb0iubwtvpkk",
+      "title": "卷四中",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0iubwtvpkk",
+      "sha256": "5cf4af9fc093df15b34d0caa4349539d38a37e8c49fd55fd96a2fa679f5c6e52",
+      "expected_paragraphs": 33
+    },
+    {
+      "id": "1lb0iug3eqdcz",
+      "title": "卷四下",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0iug3eqdcz",
+      "sha256": "61cb5788e28fde6e013ff3fbd9cf5b0c2b8d4cedf07fa76c5cff378c0172aacf",
+      "expected_paragraphs": 404
+    },
+    {
+      "id": "1lb0iujh56plb",
+      "title": "卷五上",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0iujh56plb",
+      "sha256": "314bd88189ef5bbb78a642ad22f26524449529c855c25d70db8802ce84e26aca",
+      "expected_paragraphs": 572
+    },
+    {
+      "id": "1lb0iumxg1an7",
+      "title": "卷五中",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0iumxg1an7",
+      "sha256": "9ec99b7f2c8d81623c1fdc884b45d4998e3dd5358811a8bcfc5d3ac49443e335",
+      "expected_paragraphs": 360
+    },
+    {
+      "id": "1lb0iuqnh6yaq",
+      "title": "卷五下",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0iuqnh6yaq",
+      "sha256": "15c5d411dd2da334d223b148ba59221d34724308ef60e8821a0d53170ceba730",
+      "expected_paragraphs": 440
+    },
+    {
+      "id": "1lb0iut28y8mg",
+      "title": "卷六上",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0iut28y8mg",
+      "sha256": "7f4d3a7611a7e3dd83fa1aa3a7ec8271cd801e8c1ca230ea9d874b07c38548a0",
+      "expected_paragraphs": 24
+    },
+    {
+      "id": "1lb0iuxvv8jlg",
+      "title": "卷六下",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0iuxvv8jlg",
+      "sha256": "cd82c0726f63a774378354525c3bfdd6bbd9abb872234bc1d14932bf60824b31",
+      "expected_paragraphs": 771
+    },
+    {
+      "id": "1lb0iv3s7dnp0",
+      "title": "卷七上",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0iv3s7dnp0",
+      "sha256": "66ccc465fe35f75e869590676f35a7c5465cebee527053c8e7c6596a8817303f",
+      "expected_paragraphs": 699
+    },
+    {
+      "id": "1lb0iv8hbrb5g",
+      "title": "卷七下",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0iv8hbrb5g",
+      "sha256": "3af20273de71ec6341a1e5afcdefd80e86a58f38f43cae390bc0b52217016cbe",
+      "expected_paragraphs": 652
+    },
+    {
+      "id": "1lb0ivd2mhb0v",
+      "title": "卷八上",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0ivd2mhb0v",
+      "sha256": "416937fdb2f63fb0adc5e542bc96f2acf784c38461d95800d59e11931145bae8",
+      "expected_paragraphs": 500
+    },
+    {
+      "id": "1lb0ivhh8woir",
+      "title": "卷八中",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0ivhh8woir",
+      "sha256": "e37f07f700dd6d14a1e25984bda1776be768c4f51e882ffb67d23e1f0bac80d9",
+      "expected_paragraphs": 611
+    },
+    {
+      "id": "1lb0ivm0gvcbs",
+      "title": "卷八下",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0ivm0gvcbs",
+      "sha256": "a0916749045233e8c02ed69674d7bd2c4d738ce1124a309972d5f1ad9ab47178",
+      "expected_paragraphs": 462
+    },
+    {
+      "id": "1lb0ivpqjx4iw",
+      "title": "卷九上",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0ivpqjx4iw",
+      "sha256": "93bb17bd7e6f8b63327b4fd0f12b5481d7001e63ddc4762374784a57979ba86d",
+      "expected_paragraphs": 457
+    },
+    {
+      "id": "1lb0ivtnujfoj",
+      "title": "卷九下",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0ivtnujfoj",
+      "sha256": "a82ed5ce543c0a8470af7fb86478b160061473b594e9e9fd302684be4fee44b3",
+      "expected_paragraphs": 588
+    },
+    {
+      "id": "1lb0ivxyop0rs",
+      "title": "卷十上",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0ivxyop0rs",
+      "sha256": "d84d54a841d7251bab229f5573796f45b3030f91fbdbcd14bb3228e32360f4e3",
+      "expected_paragraphs": 524
+    },
+    {
+      "id": "1lb0iw28lmjag",
+      "title": "卷十下",
+      "url": "https://www.shidianguji.com/zh/book/CADAL02092140/chapter/1lb0iw28lmjag",
+      "sha256": "544655223e98e3b164840ba1b75f8e416ef2fa3161f30a9df98d598ab8f77e30",
+      "expected_paragraphs": 535
+    }
+  ]
+}
