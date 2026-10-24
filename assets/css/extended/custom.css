@@ -4,5 +4,28 @@ button,
 input,
 textarea,
 select {
-    font-family: "Microsoft YaHei", "微软雅黑", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-family: "Microsoft YaHei", "微软雅黑", -apple-system, BlinkMacSystemFont, "Segoe UI", "HanaMinA", "HanaMinB", "HanaMinC", sans-serif;
+}
+
+/* 生僻字兜底：花园明朝子集，仅在页面出现扩展区汉字时才加载。
+   重新生成见 static/fonts/README.txt 与 scripts/build_rare_font.py */
+@font-face {
+    font-family: "HanaMinA";
+    src: url("/fonts/HanaMinA-subset.woff2") format("woff2");
+    unicode-range: U+3400-4DBF;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "HanaMinB";
+    src: url("/fonts/HanaMinB-subset.woff2") format("woff2");
+    unicode-range: U+20000-2A6DF;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "HanaMinC";
+    src: url("/fonts/HanaMinC-subset.woff2") format("woff2");
+    unicode-range: U+2A700-2EBEF;
+    font-display: swap;
 }
