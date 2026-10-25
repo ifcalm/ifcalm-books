@@ -22,9 +22,8 @@ enableRobotsTXT = true                     # 生成 robots.txt 供搜索引擎�
   defaultTheme = "light"       # 可选值：light, dark, auto, 默认主题
   disableScrollToTop = false
 
-[taxonomies]                # 分类系统（标签、分类）
+[taxonomies]                # 分类系统（标签）
   tag = "tags"
-  category = "categories"
 
 [pagination]
   pagerSize = 10            # 每页文章数量

@@ -1,5 +1,5 @@
 ---
-title: "墨子-魯問"
+title: "墨子-鲁问"
 date: 2026-06-19
 weight: 41
 tags: ["墨子"]

@@ -1,5 +1,5 @@
 ---
-title: "尚书-湯誓"
+title: "尚书-汤誓"
 date: 2026-05-31
 weight: 10
 tags: ["尚书"]

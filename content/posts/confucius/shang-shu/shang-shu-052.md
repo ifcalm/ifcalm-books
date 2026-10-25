@@ -1,5 +1,5 @@
 ---
-title: "尚书-畢命"
+title: "尚书-毕命"
 date: 2026-05-31
 weight: 52
 tags: ["尚书"]

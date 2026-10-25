@@ -1,5 +1,5 @@
 ---
-title: "尚书-君陳"
+title: "尚书-君陈"
 date: 2026-05-31
 weight: 49
 tags: ["尚书"]

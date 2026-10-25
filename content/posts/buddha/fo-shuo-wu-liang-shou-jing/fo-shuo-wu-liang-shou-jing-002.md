@@ -1,5 +1,5 @@
 ---
-title: "佛说无量寿经 卷第二"
+title: "佛说无量寿经-卷第二"
 date: 2026-05-17
 tags: ["无量寿经"]
 draft: false

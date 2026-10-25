@@ -1,5 +1,5 @@
 ---
-title: "墨子-三辯"
+title: "墨子-三辩"
 date: 2026-06-19
 weight: 7
 tags: ["墨子"]

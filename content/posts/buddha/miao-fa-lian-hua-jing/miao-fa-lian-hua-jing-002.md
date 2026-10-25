@@ -1,5 +1,5 @@
 ---
-title: "妙法莲华经 卷第二"
+title: "妙法莲华经-卷第二"
 date: 2026-05-15
 tags: ["法华经"]
 draft: false

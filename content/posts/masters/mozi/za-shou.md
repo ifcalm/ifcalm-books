@@ -1,5 +1,5 @@
 ---
-title: "墨子-雜守"
+title: "墨子-杂守"
 date: 2026-06-19
 weight: 53
 tags: ["墨子"]

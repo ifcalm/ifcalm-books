@@ -1,5 +1,5 @@
 ---
-title: "墨子-號令"
+title: "墨子-号令"
 date: 2026-06-19
 weight: 52
 tags: ["墨子"]

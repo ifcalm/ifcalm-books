@@ -1,5 +1,5 @@
 ---
-title: "法句经 卷第一"
+title: "法句经-卷第一"
 date: 2026-06-04
 tags: ["法句经"]
 draft: false

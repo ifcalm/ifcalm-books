@@ -42,7 +42,7 @@
 - [庄子](content/posts/taoism/zhuangzi/)（33 个内容单元）
 - [列子](content/posts/taoism/liezi/)（8 个内容单元）
 - [太上感应篇](content/posts/taoism/tai-shang.md)（1 个内容单元）
-- [德道经 (帛书版)](content/posts/taoism/dedaojing-boshuban.md)（1 个内容单元）
+- [德道经（帛书版）](content/posts/taoism/dedaojing-boshuban.md)（1 个内容单元）
 - [道德经](content/posts/taoism/dao-de-jing.md)（1 个内容单元）
 
 ### [子部](content/posts/masters/)

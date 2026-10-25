@@ -1,5 +1,5 @@
 ---
-title: "墨子-旗幟"
+title: "墨子-旗帜"
 date: 2026-06-19
 weight: 51
 tags: ["墨子"]

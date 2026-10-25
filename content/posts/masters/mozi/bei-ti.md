@@ -1,5 +1,5 @@
 ---
-title: "墨子-備梯"
+title: "墨子-备梯"
 date: 2026-06-19
 weight: 45
 tags: ["墨子"]

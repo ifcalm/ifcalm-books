@@ -1,5 +1,5 @@
 ---
-title: "地藏菩萨本愿经 卷第一"
+title: "地藏菩萨本愿经-卷第一"
 date: 2026-05-18
 tags: ["地藏经"]
 draft: false

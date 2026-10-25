@@ -1,5 +1,5 @@
 ---
-title: "易经-雜卦傳"
+title: "易经-杂卦传"
 date: 2026-06-19
 weight: 69
 tags: ["易经"]
@@ -10,7 +10,8 @@ tocOpen: false
 ShowShareButtons: false
 ---
 
-### 一篇
+## 一篇
+
 乾剛坤柔，比樂師憂。
 臨、觀之義，或與或求。
 屯見而不失其居，蒙雜而著。

@@ -1,5 +1,5 @@
 ---
-title: "墨子-備穴"
+title: "墨子-备穴"
 date: 2026-06-19
 weight: 48
 tags: ["墨子"]
