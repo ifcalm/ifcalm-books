@@ -2,7 +2,6 @@
 title: "楞严经-卷第八"
 date: 2026-02-22
 tags: ["楞严经"]
-categories: ["佛学"]
 draft: false
 summary: "纯想即飞，必生天上。"
 showToc: false

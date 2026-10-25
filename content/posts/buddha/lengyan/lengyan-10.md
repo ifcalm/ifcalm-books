@@ -2,7 +2,6 @@
 title: "楞严经-卷第十"
 date: 2026-02-25
 tags: ["楞严经"]
-categories: ["佛学"]
 draft: false
 summary: "理则顿悟，乘悟并销；事非顿除，因次第尽。"
 showToc: false

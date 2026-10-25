@@ -2,7 +2,6 @@
 title: "楞严经-卷第七"
 date: 2026-02-21
 tags: ["楞严经"]
-categories: ["佛学"]
 draft: false
 summary: "妙性圆明，离诸名相，本来无有世界、众生。"
 showToc: false

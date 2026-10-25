@@ -2,7 +2,6 @@
 title: "楞严经-卷第二"
 date: 2026-02-16
 tags: ["楞严经"]
-categories: ["佛学"]
 draft: false
 summary: "见性周遍，非汝而谁？"
 showToc: false

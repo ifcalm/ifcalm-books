@@ -7,6 +7,7 @@ summary: "上士闻道，堇能行之；中士闻道，若存若亡；下士闻�
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+weight: 15
 ---
 
 ## 《德》

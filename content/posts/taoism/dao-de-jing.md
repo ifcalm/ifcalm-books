@@ -7,6 +7,7 @@ summary: "上士闻道，勤而行之；中士闻道，若存若亡；下士闻�
 showToc: false
 tocOpen: false
 ShowShareButtons: false
+weight: 10
 ---
 
 道可道，非常道；名可名，非常名。无名天地之始，有名万物之母。故常无欲，以观其妙；常有欲，以观其徼。此两者同出而异名，同谓之玄，玄之又玄，众妙之门。

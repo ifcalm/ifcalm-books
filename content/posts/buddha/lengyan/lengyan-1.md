@@ -2,7 +2,6 @@
 title: "楞严经-卷第一"
 date: 2026-02-15
 tags: ["楞严经"]
-categories: ["佛学"]
 draft: false
 summary: "一切众生从无始来，生死相续，皆由不知常住真心。"
 showToc: false

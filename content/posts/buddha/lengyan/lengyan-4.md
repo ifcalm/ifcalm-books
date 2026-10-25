@@ -2,7 +2,6 @@
 title: "楞严经-卷第四"
 date: 2026-02-18
 tags: ["楞严经"]
-categories: ["佛学"]
 draft: false
 summary: "狂心自歇，歇即菩提。"
 showToc: false

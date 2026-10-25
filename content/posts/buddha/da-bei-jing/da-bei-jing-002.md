@@ -2,7 +2,6 @@
 title: "大悲经-卷第二"
 date: 2026-05-16
 tags: ["大悲经"]
-categories: ["佛学"]
 draft: false
 summary: "大悲经卷第二"
 showToc: false

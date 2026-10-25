@@ -2,7 +2,6 @@
 title: "楞严经-卷第九"
 date: 2026-02-23
 tags: ["楞严经"]
-categories: ["佛学"]
 draft: false
 summary: "不作圣心，名善境界；若作圣解，即受群邪。"
 showToc: false
