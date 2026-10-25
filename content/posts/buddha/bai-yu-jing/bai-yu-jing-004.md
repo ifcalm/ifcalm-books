@@ -1,5 +1,5 @@
 ---
-title: "百喻经 卷第四"
+title: "百喻经-卷第四"
 date: 2026-06-02
 tags: ["百喻经"]
 draft: false

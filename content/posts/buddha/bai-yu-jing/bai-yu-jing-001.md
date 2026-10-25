@@ -1,5 +1,5 @@
 ---
-title: "百喻经 卷第一"
+title: "百喻经-卷第一"
 date: 2026-06-02
 tags: ["百喻经"]
 draft: false

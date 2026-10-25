@@ -1,5 +1,5 @@
 ---
-title: "尚书-洪範"
+title: "尚书-洪范"
 date: 2026-05-31
 weight: 32
 tags: ["尚书"]

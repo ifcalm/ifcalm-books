@@ -1,5 +1,5 @@
 ---
-title: "尚书-康誥"
+title: "尚书-康诰"
 date: 2026-05-31
 weight: 37
 tags: ["尚书"]

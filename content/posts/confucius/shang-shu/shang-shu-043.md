@@ -1,5 +1,5 @@
 ---
-title: "尚书-無逸"
+title: "尚书-无逸"
 date: 2026-05-31
 weight: 43
 tags: ["尚书"]

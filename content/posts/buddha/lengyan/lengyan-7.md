@@ -1,5 +1,5 @@
 ---
-title: "楞严经 (卷七)"
+title: "楞严经-卷第七"
 date: 2026-02-21
 tags: ["楞严经"]
 categories: ["佛学"]

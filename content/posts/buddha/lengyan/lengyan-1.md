@@ -1,5 +1,5 @@
 ---
-title: "楞严经 (卷一)"
+title: "楞严经-卷第一"
 date: 2026-02-15
 tags: ["楞严经"]
 categories: ["佛学"]

@@ -1,5 +1,5 @@
 ---
-title: "尚书-伊訓"
+title: "尚书-伊训"
 date: 2026-05-31
 weight: 13
 tags: ["尚书"]

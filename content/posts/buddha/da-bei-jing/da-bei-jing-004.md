@@ -1,5 +1,5 @@
 ---
-title: "大悲经 卷第四"
+title: "大悲经-卷第四"
 date: 2026-05-16
 tags: ["大悲经"]
 categories: ["佛学"]

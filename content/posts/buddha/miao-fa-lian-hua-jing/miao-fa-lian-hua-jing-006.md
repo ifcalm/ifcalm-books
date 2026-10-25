@@ -1,5 +1,5 @@
 ---
-title: "妙法莲华经 卷第六"
+title: "妙法莲华经-卷第六"
 date: 2026-05-15
 tags: ["法华经"]
 draft: false

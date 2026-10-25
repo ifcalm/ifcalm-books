@@ -1,5 +1,5 @@
 ---
-title: "尚书-洛誥"
+title: "尚书-洛诰"
 date: 2026-05-31
 weight: 41
 tags: ["尚书"]

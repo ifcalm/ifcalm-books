@@ -1,5 +1,5 @@
 ---
-title: "楞严经 (卷三)"
+title: "楞严经-卷第三"
 date: 2026-02-17
 tags: ["楞严经"]
 categories: ["佛学"]

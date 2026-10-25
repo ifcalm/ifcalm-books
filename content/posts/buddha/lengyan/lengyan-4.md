@@ -1,5 +1,5 @@
 ---
-title: "楞严经 (卷四)"
+title: "楞严经-卷第四"
 date: 2026-02-18
 tags: ["楞严经"]
 categories: ["佛学"]

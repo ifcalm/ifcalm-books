@@ -1,5 +1,5 @@
 ---
-title: "尚书-湯誥"
+title: "尚书-汤诰"
 date: 2026-05-31
 weight: 12
 tags: ["尚书"]

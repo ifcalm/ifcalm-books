@@ -1,5 +1,5 @@
 ---
-title: "楞严经 (卷五)"
+title: "楞严经-卷第五"
 date: 2026-02-19
 tags: ["楞严经"]
 categories: ["佛学"]

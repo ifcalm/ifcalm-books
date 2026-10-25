@@ -1,5 +1,5 @@
 ---
-title: "墨子-親士"
+title: "墨子-亲士"
 date: 2026-06-19
 weight: 1
 tags: ["墨子"]

@@ -1,5 +1,5 @@
 ---
-title: "墨子-經下"
+title: "墨子-经下"
 date: 2026-06-19
 weight: 33
 tags: ["墨子"]

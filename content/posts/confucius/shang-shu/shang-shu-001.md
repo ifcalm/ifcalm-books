@@ -1,5 +1,5 @@
 ---
-title: "尚书-堯典"
+title: "尚书-尧典"
 date: 2026-05-31
 weight: 1
 tags: ["尚书"]

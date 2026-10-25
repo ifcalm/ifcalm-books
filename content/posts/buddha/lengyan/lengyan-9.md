@@ -1,5 +1,5 @@
 ---
-title: "楞严经 (卷九)"
+title: "楞严经-卷第九"
 date: 2026-02-23
 tags: ["楞严经"]
 categories: ["佛学"]

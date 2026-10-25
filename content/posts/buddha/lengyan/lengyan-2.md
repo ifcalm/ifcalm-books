@@ -1,5 +1,5 @@
 ---
-title: "楞严经 (卷二)"
+title: "楞严经-卷第二"
 date: 2026-02-16
 tags: ["楞严经"]
 categories: ["佛学"]

@@ -1,5 +1,5 @@
 ---
-title: "尚书-酒誥"
+title: "尚书-酒诰"
 date: 2026-05-31
 weight: 38
 tags: ["尚书"]

@@ -1,5 +1,5 @@
 ---
-title: "尚书-呂刑"
+title: "尚书-吕刑"
 date: 2026-05-31
 weight: 55
 tags: ["尚书"]

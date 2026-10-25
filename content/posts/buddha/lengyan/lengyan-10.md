@@ -1,5 +1,5 @@
 ---
-title: "楞严经 (卷十)"
+title: "楞严经-卷第十"
 date: 2026-02-25
 tags: ["楞严经"]
 categories: ["佛学"]

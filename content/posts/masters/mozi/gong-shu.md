@@ -1,5 +1,5 @@
 ---
-title: "墨子-公輸"
+title: "墨子-公输"
 date: 2026-06-19
 weight: 42
 tags: ["墨子"]

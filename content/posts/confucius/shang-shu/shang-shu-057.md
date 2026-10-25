@@ -1,5 +1,5 @@
 ---
-title: "尚书-費誓"
+title: "尚书-费誓"
 date: 2026-05-31
 weight: 57
 tags: ["尚书"]

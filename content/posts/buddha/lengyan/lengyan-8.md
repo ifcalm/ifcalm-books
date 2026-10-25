@@ -1,5 +1,5 @@
 ---
-title: "楞严经 (卷八)"
+title: "楞严经-卷第八"
 date: 2026-02-22
 tags: ["楞严经"]
 categories: ["佛学"]

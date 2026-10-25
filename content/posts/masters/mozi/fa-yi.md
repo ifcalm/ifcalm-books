@@ -1,5 +1,5 @@
 ---
-title: "墨子-法儀"
+title: "墨子-法仪"
 date: 2026-06-19
 weight: 4
 tags: ["墨子"]

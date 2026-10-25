@@ -1,5 +1,5 @@
 ---
-title: "尚书-召誥"
+title: "尚书-召诰"
 date: 2026-05-31
 weight: 40
 tags: ["尚书"]

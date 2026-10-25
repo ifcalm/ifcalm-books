@@ -1,5 +1,5 @@
 ---
-title: "楞严经 (卷六)"
+title: "楞严经-卷第六"
 date: 2026-02-20
 tags: ["楞严经"]
 categories: ["佛学"]
